@@ -48,10 +48,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "15:00",
   "summary": "Rangers 3 , Kilmarnock 1 at Full time",
   "attendance": 50501,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cq98zdd3ggj8t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "c0aa3d64f5982fc8@rangers-fixtures": {
   "date": "2026-09-20",
@@ -86,10 +87,11 @@
   "venue": "Celtic Park",
   "home_away": "Away",
   "status": "FT",
+  "kickoff_uk": "12:00",
   "summary": "Celtic 0 , Rangers 1 at Full time",
   "attendance": 59650,
   "source_url": "https://www.bbc.co.uk/sport/football/live/ck790rl4jpz0t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "f1c95956951a1c3f@rangers-fixtures": {
   "date": "2026-09-13",
@@ -134,10 +136,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "12:00",
   "summary": "Rangers 3 , Celtic 0 at Full time",
   "attendance": 51212,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cvj64yrgx778t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "02be44aac8279c12@rangers-fixtures": {
   "date": "2026-09-09",
@@ -172,10 +175,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "19:45",
   "summary": "Rangers 1 , St. Mirren 0 at Full time",
   "attendance": 50336,
   "source_url": "https://www.bbc.co.uk/sport/football/live/c539mxklrv0vt",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "6a27c6cf21dbc242@rangers-fixtures": {
   "date": "2026-09-05",
@@ -210,10 +214,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "15:00",
   "summary": "Rangers 1 , Motherwell 0 at Full time",
   "attendance": 50868,
   "source_url": "https://www.bbc.co.uk/sport/football/live/c3n071wq9edet",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "34d89fe350fccd54@rangers-fixtures": {
   "date": "2026-09-02",
@@ -259,10 +264,11 @@
   "venue": "The Falkirk Stadium",
   "home_away": "Away",
   "status": "FT",
+  "kickoff_uk": "20:00",
   "summary": "Falkirk 1 , Rangers 2 at Full time",
   "attendance": 6847,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cwn74m0mvjr0t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "595f1f14cc1689b9@rangers-fixtures": {
   "date": "2026-08-30",
@@ -297,10 +303,11 @@
   "venue": "Pittodrie Stadium",
   "home_away": "Away",
   "status": "FT",
+  "kickoff_uk": "12:00",
   "summary": "Aberdeen 0 , Rangers 1 at Full time",
   "attendance": 18343,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cjn5dz4dr27kt",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "54ae5f6b6479ce7f@rangers-fixtures": {
   "date": "2026-08-27",
@@ -335,10 +342,11 @@
   "venue": "Stadion Střelnice",
   "home_away": "Away",
   "status": "PENS",
+  "kickoff_uk": "17:00",
   "summary": "Jablonec 1 , Rangers 0 After extra time , Jablonec 1 , Rangers 1 on aggregate , Jablonec win 4 - 3 on penalties , Jablonec win 1 - 1 on aggregate",
   "attendance": 5563,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cr20401829qyt",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "df8b60a2789931ae@rangers-fixtures": {
   "date": "2026-08-20",
@@ -379,10 +387,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "19:45",
   "summary": "Rangers 1 , Jablonec 0 at Full time , Jablonec win 1 - 1 on aggregate",
   "attendance": 34701,
   "source_url": "https://www.bbc.co.uk/sport/football/live/ck5y0062qv6et",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "d30e2bd0a2a60128@rangers-fixtures": {
   "date": "2026-08-16",
@@ -443,10 +452,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "16:00",
   "summary": "Rangers 5 , St. Mirren 1 at Full time",
   "attendance": 34387,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cwp9ev9gk1rkt",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "6c2364a33e8725e8@rangers-fixtures": {
   "date": "2026-08-13",
@@ -487,10 +497,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "19:30",
   "summary": "Rangers 1 , Jagiellonia Białystok 1 at Full time , Jagiellonia Białystok win 3 - 2 on aggregate",
   "attendance": 41636,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cqvg08w8pjp2t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "e517e17b5a6e9a4a@rangers-fixtures": {
   "date": "2026-08-09",
@@ -536,10 +547,11 @@
   "venue": "Ibrox Stadium",
   "home_away": "Home",
   "status": "FT",
+  "kickoff_uk": "16:00",
   "summary": "Rangers 1 , Hibernian 2 at Full time",
   "attendance": 50893,
   "source_url": "https://www.bbc.co.uk/sport/football/live/c64gjp1ne5y2t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "894d64763615c944@rangers-fixtures": {
   "date": "2026-08-06",
@@ -585,10 +597,11 @@
   "venue": "Chorten Arena",
   "home_away": "Away",
   "status": "FT",
+  "kickoff_uk": "17:00",
   "summary": "Jagiellonia Białystok 2 , Rangers 1 at Full time , Jagiellonia Białystok win 3 - 2 on aggregate",
   "attendance": 19931,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cy74pk18p05t",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "d6f4278e6e6dfdfb@rangers-fixtures": {
   "date": "2026-07-31",
@@ -629,10 +642,11 @@
   "venue": "CalForth Construction Arena at Tannadice Park",
   "home_away": "Away",
   "status": "FT",
+  "kickoff_uk": "20:00",
   "summary": "Dundee United 1 , Rangers 1 at Full time",
   "attendance": 13465,
   "source_url": "https://www.bbc.co.uk/sport/football/live/cwym0d9g2nkt",
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "1769afc11d191dc6@rangers-fixtures": {
   "date": "2026-07-26",
@@ -665,7 +679,7 @@
   "attendance": null,
   "source_url": "https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-07?filter=results",
   "score_only": true,
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  },
  "3fcdb613a12669bc@rangers-fixtures": {
   "date": "2026-07-22",
@@ -698,6 +712,6 @@
   "attendance": null,
   "source_url": "https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-07?filter=results",
   "score_only": true,
-  "fetched": "10 Oct 2026 18:17 BST"
+  "fetched": "10 Oct 2026 18:53 BST"
  }
 }

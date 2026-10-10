@@ -45,39 +45,58 @@ def search(q):
     walk(json.loads(m.group(1)))
     return out
 
-def matches(v, r):
-    if v["channel_id"] not in CH: return False
-    t = norm(v["title"])
-    if "highlight" not in t: return False
-    if re.search(r"\b(u ?1[0-9]|u ?2[0-9]|under-?\d+|b team|women|wfc|swpl|legends)\b", t): return False
-    d0 = datetime.date.fromisoformat(r["date"])
-    if any(int(y) != d0.year for y in re.findall(r"\b(19\d\d|20\d\d)\b", t)): return False
-    if not published_ok(v.get("published"), d0): return False
+def team_words(name):
+    ws = [w for w in re.split(r"[^a-z]+", norm(name)) if len(w) > 3 and w not in ("united", "city", "saint", "club")]
+    return ws or [norm(name)]
+def has_team(t, name): return any(w in t for w in team_words(name))
+COMP_WORDS = {"premiership": ("premiership",), "league cup": ("league cup", "premier sports cup"), "scottish cup": ("scottish cup",),
+              "europa": ("europa",), "conference": ("conference",), "champions": ("champions league",)}
+def check(v, r, now=None):
+    """Return (ok, reason). Strict: wrong clip is worse than none."""
+    if v["channel_id"] not in CH: return False, "not an official channel"
+    t = norm(v["title"] + " " + (v.get("description") or ""))
+    if "highlight" not in t: return False, "not a highlights video"
+    if re.search(r"\b(u ?1[0-9]|u ?2[0-9]|under-?\d+|b team|women|wfc|swpl|legends)\b", t): return False, "youth/women/legends video"
     h, a = r["home"], r["away"]
-    opp = a["team"] if r["home_away"] == "Home" else h["team"]
-    words = [w for w in re.split(r"[^a-z]+", norm(opp)) if len(w) > 3 and w not in ("united", "city", "saint")] or [norm(opp)]
-    if not any(w in t for w in words) and norm(opp) not in t: return False
-    hs, as_ = h["score"], a["score"]
-    score = re.search(rf"\b{hs}\s*[-–]\s*{as_}\b", t) or re.search(rf"\b{as_}\s*[-–]\s*{hs}\b", t)
+    if not (has_team(t, h["team"]) and has_team(t, a["team"])): return False, "doesn't name both teams"
     d = datetime.date.fromisoformat(r["date"])
-    date_ok = any(s in t for s in (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower(), d.strftime("%d/%m/%y"), d.strftime("%d.%m.%y")))
-    return bool(score or date_ok)
+    if any(int(y) != d.year for y in re.findall(r"\b(19\d\d|20\d\d)\b", t)): return False, "different year in title"
+    hs, as_ = h["score"], a["score"]
+    hw = "|".join(map(re.escape, team_words(h["team"]))); aw = "|".join(map(re.escape, team_words(a["team"])))
+    if not re.search(rf"(?:{hw})[a-z .]*?\s{hs}\s*[-–]\s*{as_}\s+[a-z .]*?(?:{aw})", t): return False, f"exact score {hs}-{as_} (home first) not in title/description"
+    comp = norm(r["competition"])
+    key = next((k for k in COMP_WORDS if k in comp), None)
+    date_strs = (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower(), d.strftime("%d/%m/%y"), d.strftime("%d.%m.%y"))
+    if key and not any(w in t for w in COMP_WORDS[key]) and not any(s in t for s in date_strs):
+        return False, "competition/date not confirmed"
+    ok, why = published_ok(v.get("published"), r, now)
+    if not ok: return False, why
+    return True, "pass"
+def matches(v, r): return check(v, r)[0]
 
-def published_ok(p, d):
-    """Video must be published from the match day up to ~6 weeks after (approximate for relative times)."""
-    if not p: return True
-    today = datetime.date.today()
-    m = re.match(r"(\d{4}-\d{2}-\d{2})", p)
-    if m: pd = datetime.date.fromisoformat(m.group(1))
-    else:
-        m = re.search(r"(\d+)\s+(second|minute|min|hour|hr|day|week|month|year)", p)
-        if not m: return True
-        n, u = int(m.group(1)), m.group(2)
-        days = {"second": 0, "minute": 0, "min": 0, "hour": 0, "hr": 0, "day": 1, "week": 7, "month": 30, "year": 365}[u] * n
-        slack = {"month": 31, "year": 365, "week": 7}.get(u, 1)
-        pd = today - datetime.timedelta(days=days)
-        return (d - datetime.timedelta(days=slack)) <= pd <= (d + datetime.timedelta(days=42 + slack))
-    return d - datetime.timedelta(days=1) <= pd <= d + datetime.timedelta(days=42)
+def published_ok(p, r, now=None):
+    """Published after FT (kick-off + 105 min) and within 10 days. Accepts ISO time or YouTube relative text."""
+    now = now or datetime.datetime.now(datetime.timezone.utc)
+    ko = r.get("kickoff_uk") or "12:00"
+    from zoneinfo import ZoneInfo
+    ft = datetime.datetime.fromisoformat(f"{r['date']}T{ko}").replace(tzinfo=ZoneInfo("Europe/London")) + datetime.timedelta(minutes=105)
+    latest = ft + datetime.timedelta(days=10)
+    if not p: return False, "publish time unknown"
+    m = re.match(r"\d{4}-\d{2}-\d{2}T", p)
+    if m:
+        pd = datetime.datetime.fromisoformat(p.replace("Z", "+00:00"))
+        if pd < ft: return False, f"published {pd:%d %b %Y %H:%M} UTC, before full time"
+        if pd > latest: return False, "published more than 10 days after match"
+        return True, ""
+    m = re.search(r"(\d+)\s*(seconds?|minutes?|mins?|hours?|hrs?|hr|days?|d|weeks?|wks?|wk|months?|mo|years?|yrs?|y)\b", p.lower())
+    if not m: return False, f"unparseable publish time '{p}'"
+    n, u = int(m.group(1)), m.group(2)
+    unit = (60 if u.startswith(("min",)) else 1 if u.startswith("s") else 3600 if u.startswith("h") else 86400 if u.startswith("d") else 7*86400 if u.startswith("w") else 30*86400 if u.startswith("mo") else 365*86400)
+    # relative age N units means between N and N+1 units ago
+    oldest = now - datetime.timedelta(seconds=(n + 1) * unit); newest = now - datetime.timedelta(seconds=n * unit)
+    if newest < ft: return False, f"published '{p}' - before this match's full time (likely an older fixture)"
+    if oldest > latest: return False, f"published '{p}' - more than 10 days after match"
+    return True, ""
 
 def embeddable(vid):
     try:
@@ -94,6 +113,7 @@ def main():
     now = datetime.datetime.now().astimezone().strftime("%d %b %Y %H:%M %Z")
     for uid, r in res.items():
         if uid in hl and hl[uid].get("video_id") and "--all" not in sys.argv: continue
+        if uid in hl and hl[uid].get("video_id"): hl.pop(uid)
         h, a = r["home"]["team"], r["away"]["team"]
         d = datetime.date.fromisoformat(r["date"])
         cands = list(feed)
@@ -101,6 +121,7 @@ def main():
             try: cands += search(q)
             except Exception as e: print("search failed:", e)
         found = [v for v in cands if matches(v, r)]
+        found = list({v["id"]: v for v in found}.values())
         order = list(CH)  # prefer channels in config order (club first)
         found.sort(key=lambda v: order.index(v["channel_id"]))
         pick = None
@@ -111,7 +132,7 @@ def main():
             pick = pick or v
         if pick:
             hl[uid] = {"date": r["date"], "video_id": pick["id"], "title": pick["title"], "channel": CH[pick["channel_id"]], "channel_id": pick["channel_id"],
-                       "embeddable": pick["embeddable"], "url": f"https://www.youtube.com/watch?v={pick['id']}", "thumb": f"https://i.ytimg.com/vi/{pick['id']}/hqdefault.jpg", "checked": now}
+                       "embeddable": pick["embeddable"], "url": f"https://www.youtube.com/watch?v={pick['id']}", "thumb": f"https://i.ytimg.com/vi/{pick['id']}/hqdefault.jpg", "published": pick.get("published"), "checked": now}
         else:
             hl.setdefault(uid, {"date": r["date"], "video_id": None})["checked"] = now
         print(r["date"], h, "v", a, "->", (pick["channel"] if False else (CH[pick["channel_id"]] + " | " + pick["title"] + (" [embeddable]" if pick["embeddable"] else " [link-out]"))) if pick else "none found")

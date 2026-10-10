@@ -99,7 +99,7 @@ def to_result(e, url):
     h, a = side(home), side(away)
     friendly = "friendl" in (tour + comp).lower()
     return uid, {"date": d, "competition": comp, "friendly": friendly, "home": h, "away": a, "venue": (e.get("venue") or {}).get("name"),
-                 "home_away": "Home" if is_home else "Away", "status": pl, "summary": e.get("accessibleEventSummary"),
+                 "home_away": "Home" if is_home else "Away", "status": pl, "kickoff_uk": (e.get("time") or {}).get("displayTimeUK"), "summary": e.get("accessibleEventSummary"),
                  "attendance": (e.get("attendance") or {}).get("value"), "source_url": url,
                  "fetched": datetime.datetime.now().astimezone().strftime("%d %b %Y %H:%M %Z")}
 
