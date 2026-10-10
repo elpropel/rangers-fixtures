@@ -44,6 +44,7 @@ for f in fx:
 (OUT/"rangers.ics").write_text("\r\n".join(L)+"\r\n")
 # HTML
 page = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png"><link rel="icon" type="image/png" sizes="192x192" href="icon-192.png"><link rel="manifest" href="manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="__APPT__"><meta name="theme-color" content="__THEME__">
 <title>__FULL__ Fixtures __SEASON__</title><style>
 body{margin:0;font-family:system-ui,sans-serif;background:#f2f5fb;color:#0b1b3f}
 header{background:#1b458f;color:#fff;padding:16px;text-align:center}h1{margin:0;font-size:1.4rem}
@@ -87,6 +88,10 @@ function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1
  <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue} · 📺 ${nx.tv}</div><div>▶ ${SN}: ${nx.stream}</div><div class="cd">${t}</div></div>`;}
 tick();setInterval(tick,1000);
 </script></body></html>"""
-page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
+page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
 (OUT/"index.html").write_text(page)
+(OUT/"manifest.webmanifest").write_text(json.dumps({"name": CFG["app_title"], "short_name": CFG["short_name"], "start_url": "./", "scope": "./", "display": "standalone", "background_color": CFG["icon_background"], "theme_color": CFG["theme_color"], "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}, {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}, indent=1))
+try:
+    import subprocess; subprocess.run([sys.executable, str(OUT/"make_icons.py")], check=True)
+except Exception as e: print("icon render skipped:", e)
 print(f"{len(fx)} fixtures -> index.html, rangers.ics")

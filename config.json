@@ -8,5 +8,9 @@
  "ics_name": "rangers.ics",
  "calendar_name": "Rangers Fixtures",
  "csv": "/workspace/rangers_fixtures_2026-27.csv",
- "stream_subscribe_url": "https://rangerspayments.streamamg.com/account/register/step1"
+ "stream_subscribe_url": "https://rangerspayments.streamamg.com/account/register/step1",
+ "icon_background": "#ffffff",
+ "theme_color": "#1b458f",
+ "app_title": "Rangers Fixtures",
+ "short_name": "Rangers"
 }
