@@ -88,7 +88,7 @@ small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.n
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
-</style></head><body><header><h1><img class="hc" src="crest.svg" alt="">__FULL__ Fixtures __SEASON__</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header><nav class="tabs"><a href="./" class="on">Fixtures</a><a href="results.html">Results</a><a href="news.html">News</a></nav>
+</style></head><body><header><h1><img class="hc" src="crest.svg" alt="">Fixtures __SEASON__</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header><nav class="tabs"><a href="./" class="on">Fixtures</a><a href="results.html">Results</a><a href="news.html">News</a></nav>
 <div class="wrap"><div id="next"></div><div id="nexttn" class="next" style="margin-top:-8px;padding-top:4px;border-top-left-radius:0;border-top-right-radius:0"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
 <a class="btn" href="__WEBCAL__">📅 Subscribe (auto-updates)</a> <a class="btn2" href="https://calendar.google.com/calendar/render?cid=__GCID__">Google Calendar</a></div><div class="bar"><a class="btn" href="__SU2__">▶ Watch on __SN2__</a> <a class="btn2" href="__SUB__">Subscribe to __SN2__</a></div><p class="note">Please subscribe rather than import or download the file, or your calendar won&rsquo;t pick up fixture changes.</p><div id="list"></div></div>
 <footer>Source: BBC Sport (bbc.co.uk/sport). Last updated: __UPDATED__. Fixtures subject to change; TBC = not yet confirmed.</footer>
@@ -172,7 +172,7 @@ items = sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True)
 comp_list = "".join(card(u, r) for u, r in items if not r.get("friendly"))
 fr_list = "".join(card(u, r) for u, r in items if r.get("friendly"))
 head = page.split("</style>")[0] + "</style></head>"
-rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + e(CFG["club_full_name"]) + " Results " + e(CFG["season"]) +
+rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + " Results " + e(CFG["season"]) +
     '</h1><div>Newest first · all competitions</div></header><nav class="tabs"><a href="./">Fixtures</a><a href="results.html" class="on">Results</a><a href="news.html">News</a></nav><div class="wrap">' + table_html() +
     (comp_list or "<p>No results yet.</p>") +
     (f'<details style="margin-top:12px"><summary><b>Pre-season friendlies ({sum(1 for _, r in items if r.get("friendly"))})</b></summary>{fr_list}</details>' if fr_list else "") +
@@ -184,7 +184,7 @@ def news_card(n):
     img = f'<img src="{e(n["thumb"])}" alt="" loading="lazy" referrerpolicy="no-referrer">' if n.get("thumb") else ""
     return (f'<div class="card"><a class="nw" href="{e(n["link"])}" target="_blank" rel="noopener">{img}<div><h3>{e(n["title"])}</h3>'
             f'<small>{e(n.get("excerpt",""))}</small><br><small>{e(n.get("published_uk",""))}{" · " + e(n["author"]) if n.get("author") else ""}</small></div></a></div>')
-npage = (head.replace("<title>", "<title>News – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + e(CFG["club_full_name"]) + ' News</h1><div>Latest headlines · times UK</div></header>'
+npage = (head.replace("<title>", "<title>News – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + ' News</h1><div>Latest headlines · times UK</div></header>'
     '<nav class="tabs"><a href="./">Fixtures</a><a href="results.html">Results</a><a href="news.html" class="on">News</a></nav><div class="wrap">' +
     ("".join(news_card(n) for n in NW["items"]) or "<p>No news yet.</p>") +
     f'</div><footer>Source: <a href="{e(CFG["news_site_url"])}" target="_blank" rel="noopener">{e(CFG["news_source_name"])}</a> (RSS feed). Headlines and excerpts are theirs; tap a story to read it on their site. Fetched: {e(NW.get("fetched",""))}.</footer></body></html>')

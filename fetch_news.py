@@ -23,7 +23,7 @@ for it in root.iter("item"):
         dt = email.utils.parsedate_to_datetime(pub).astimezone(ZoneInfo("Europe/London"))
         uk = dt.strftime("%a %d %b %Y, %H:%M ") + dt.tzname()
     link = re.sub(r"\?ref=rss$", "", g("link"))
-    items.append({"title": html.unescape(g("title")), "link": link, "excerpt": desc, "thumb": thumb, "published": pub, "published_uk": uk, "author": g("author") or None})
+    items.append({"title": html.unescape(g("title")), "link": link, "excerpt": desc, "thumb": thumb, "published": pub, "published_uk": uk, "author": (re.sub(r"\S+@\S+\s*\|?\s*", "", g("author")).strip() or None)})
 items.sort(key=lambda n: email.utils.parsedate_to_datetime(n["published"]) if n["published"] else datetime.datetime.min.replace(tzinfo=datetime.timezone.utc), reverse=True)
 items = items[: CFG.get("news_limit", 20)]
 if not items: sys.exit("No items parsed; news.json unchanged")
