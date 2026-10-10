@@ -94,7 +94,7 @@ details.menu{position:relative}details.menu summary{list-style:none;height:36px;
 .chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.75rem;line-height:1.4}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.75rem}
-small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.8rem;font-style:italic;opacity:.85}.tn ol{margin:4px 0;padding-left:20px}.tv,.rtv{display:inline-block;border-radius:5px;padding:2px 6px;font-size:.75rem;line-height:1.4;font-weight:600;text-decoration:none}.tv{background:#e3ebf9;color:#1b458f}.rtv{background:#1b458f;color:#fff}.next .tv{background:#fff;color:#0b2a66}.next .rtv{background:#d0021b;color:#fff}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}.yt{position:relative;margin-top:8px;aspect-ratio:16/9;width:100%;background:#000 center/cover no-repeat;border-radius:8px;cursor:pointer;overflow:hidden}.yt iframe{position:absolute;inset:0;width:100%;height:100%;border:0}.ytp{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:56px;height:40px;border-radius:10px;background:#d0021bdd;color:#fff;font-size:1.2rem;display:flex;align-items:center;justify-content:center}.ytt{position:absolute;left:0;right:0;bottom:0;padding:6px 8px;background:linear-gradient(transparent,#000a);color:#fff;font-size:.75rem;font-weight:600}.hlb{display:inline-block;margin-top:8px;padding:6px 10px;border-radius:8px;background:#d0021b;color:#fff;text-decoration:none;font-size:.8rem;font-weight:600}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.8rem;font-style:italic;opacity:.85}.tn ol{margin:4px 0;padding-left:20px}.tv,.rtv{display:inline-block;border-radius:5px;padding:2px 6px;font-size:.75rem;line-height:1.4;font-weight:600;text-decoration:none}.tv{background:#e3ebf9;color:#1b458f}.rtv{background:#1b458f;color:#fff}.next .tv{background:#fff;color:#0b2a66}.next .rtv{background:#d0021b;color:#fff}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:40px;width:40px;vertical-align:middle;margin-right:8px}header h1{font-size:1.3rem;line-height:44px}header div{line-height:20px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
@@ -139,6 +139,15 @@ RES = json.load(open(OUT/"results.json")) if (OUT/"results.json").exists() else 
 def e(s): return html.escape(str(s)) if s is not None else ""
 def goals_html(side):
     return ", ".join(f"{e(g['player'])} {e(g['minute'])}{' (pen)' if g.get('type')=='pen' else ' (og)' if g.get('type')=='og' else ''}" for g in side["goals"])
+HL = json.load(open(OUT/"highlights.json")) if (OUT/"highlights.json").exists() else {}
+def hl_html(uid):
+    v = HL.get(uid) or {}
+    if not v.get("video_id"): return ""
+    vid = e(v["video_id"])
+    if v.get("embeddable") is False:
+        return f'<a class="hlb" href="{e(v["url"])}" target="_blank" rel="noopener">▶ Watch highlights ({e(v["channel"])})</a>'
+    return (f'<div class="yt" data-id="{vid}" role="button" tabindex="0" aria-label="Play highlights: {e(v["title"])}" style="background-image:url({e(v["thumb"])})">'
+            f'<span class="ytp">▶</span><span class="ytt">Highlights · {e(v["channel"])}</span></div>')
 def card(uid, r):
     h, a = r["home"], r["away"]
     us = h if r["home_away"] == "Home" else a; them = a if us is h else h
@@ -162,7 +171,7 @@ def card(uid, r):
     if r.get("score_only"): meta.append("score only (no BBC match page)")
     return (f'<div class="card"><div style="flex:1"><small>{e(r["competition"])} · {d}</small><br>'
             f'<b class="t">{badge(h["team"])}{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}{badge(a["team"])}</b>'
-            f'<br><small>{" · ".join(extra)}</small>{"".join(lines)}<small>{" · ".join(meta)} · <a href="{e(r["source_url"])}">BBC Sport</a></small></div>'
+            f'<br><small>{" · ".join(extra)}</small>{"".join(lines)}<small>{" · ".join(meta)} · <a href="{e(r["source_url"])}">BBC Sport</a></small>{hl_html(uid)}</div>'
             f'<div><span class="b {"H" if res=="W" else "A" if res=="L" else "N"}">{res}</span></div></div>')
 LAST_LEG = set()
 _seen = set()
@@ -183,11 +192,13 @@ items = sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True)
 comp_list = "".join(card(u, r) for u, r in items if not r.get("friendly"))
 fr_list = "".join(card(u, r) for u, r in items if r.get("friendly"))
 head = page.split("</style>")[0] + "</style></head>"
+YT_JS = '''<script>function playYT(el){if(el.dataset.on)return;el.dataset.on=1;el.innerHTML='<iframe src="https://www.youtube-nocookie.com/embed/'+el.dataset.id+'?autoplay=1&playsinline=1&rel=0" title="Highlights" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';el.removeAttribute("role")}
+document.querySelectorAll(".yt").forEach(el=>{el.addEventListener("click",()=>playYT(el));el.addEventListener("keydown",ev=>{if(ev.key==="Enter"||ev.key===" ")playYT(el)})})</script>'''
 rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + " Results " + e(CFG["season"]) +
     '</h1><div>Newest first · all competitions</div></header><nav class="tabs"><a href="./">Fixtures</a><a href="results.html" class="on">Results</a><a href="news.html">News</a></nav><div class="wrap">' + table_html() +
     (comp_list or "<p>No results yet.</p>") +
     (f'<details style="margin-top:12px"><summary><b>Pre-season friendlies ({sum(1 for _, r in items if r.get("friendly"))})</b></summary>{fr_list}</details>' if fr_list else "") +
-    f'</div><footer>Source: BBC Sport match pages. Last updated: {today.strftime("%d %b %Y")}. Scorers/minutes as listed by BBC; blank where BBC has no data.</footer></body></html>')
+    '</div>' + YT_JS + f'<footer>Highlights: official YouTube channels (SPFL, Rangers FC), played via YouTube&rsquo;s own embedded player. Source: BBC Sport match pages. Last updated: {today.strftime("%d %b %Y")}. Scorers/minutes as listed by BBC; blank where BBC has no data.</footer></body></html>')
 (OUT/"results.html").write_text(with_nav(rpage, "results"))
 # ---------- News page ----------
 NW = json.load(open(OUT/"news.json")) if (OUT/"news.json").exists() else {"items": []}

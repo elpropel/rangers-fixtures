@@ -39,5 +39,14 @@
  "news_feed_url": "https://www.rangersreview.co.uk/news/rss/",
  "news_source_name": "The Rangers Review",
  "news_site_url": "https://www.rangersreview.co.uk/",
- "news_limit": 20
+ "news_limit": 20,
+ "highlight_channels": {
+  "UCVaGyBPoEAZItDjlFPsRcSA": "Rangers FC (Official)",
+  "UCakRszbIjjGYtFrDPeg5Ieg": "SPFL",
+  "UC-VbPK5MEjzgZ35Imop4Rew": "SPFL TV",
+  "UCZ7wY7MRDSygp63HIEfdQZA": "Sky Sports Football",
+  "UCW6-BQWFA70Dyyc7ZpZ9Xlg": "BBC Sport",
+  "UCVvjwf4Gx2r2P8SQvALRwfQ": "BBC Sport Scotland",
+  "UC5KgQoGxsCJ6zVwetWvqEEQ": "Premier Sports"
+ }
 }
