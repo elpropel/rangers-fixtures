@@ -1,0 +1,317 @@
+{
+ "fetched": "10 Oct 2026 20:11 BST",
+ "shows": [
+  {
+   "name": "Heart and Hand",
+   "feed": "https://feeds.megaphone.fm/COMG9286359584",
+   "apple": "https://podcasts.apple.com/gb/podcast/heart-and-hand-the-rangers-podcast/id385998721",
+   "publisher": "Heart and Hand",
+   "artwork": "https://megaphone.imgix.net/podcasts/0eea3758-1c7b-11ed-975b-db8af4cb427e/image/H_H-Badge.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
+  {
+   "name": "Rangers Review Podcast",
+   "feed": "https://feeds.megaphone.fm/COMG2031496775",
+   "apple": "https://podcasts.apple.com/gb/podcast/rangers-review-podcast/id1576102198",
+   "publisher": "The Rangers Review",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
+  {
+   "name": "Four Lads Had A Dream",
+   "feed": "https://feeds.megaphone.fm/COMG2286814492",
+   "apple": "https://podcasts.apple.com/gb/podcast/four-lads-had-a-dream-rangers-podcast/id1709994185",
+   "publisher": "Fourladshadadream",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
+  {
+   "name": "This Is Ibrox",
+   "feed": "https://feeds.megaphone.fm/COMG2126639377",
+   "apple": "https://podcasts.apple.com/gb/podcast/this-is-ibrox-your-rangers-podcast/id1635653126",
+   "publisher": "This Is Ibrox",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
+  {
+   "name": "Club at 22",
+   "feed": "https://feeds.megaphone.fm/COMG7915216094",
+   "apple": "https://podcasts.apple.com/gb/podcast/club-at-22-the-rangers-podcast/id1543474889",
+   "publisher": "Club at 22 - The Rangers Podcast",
+   "artwork": "https://megaphone.imgix.net/podcasts/57661300-47e3-11ee-8aed-fb2807ada5e6/image/8b7fa8f9d5907696273f63993607216c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  }
+ ],
+ "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers 3 vs 1 Kilmarnock | Match Reaction | Scottish Premiership",
+   "published": "2026-10-10T18:23:00+00:00",
+   "published_uk": "Sat 10 Oct 2026, 19:23 BST",
+   "duration": "22 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5135407754.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/a876c734-c4d7-11f1-a73f-335947a005e4/image/68a0398df965aafc5a12134747286d16.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "BACK TO BUSINESS AT IBROX! 🔴⚪🔵 | Kilmarnock Match Preview  | Club at 22-The Rangers Podcast",
+   "published": "2026-10-09T20:06:00+00:00",
+   "published_uk": "Fri 09 Oct 2026, 21:06 BST",
+   "duration": "1h 01m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8216807068.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/db5a0816-c41c-11f1-a783-67d1e1268d71/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday Night LIVE - One More Day!",
+   "published": "2026-10-09T18:41:00+00:00",
+   "published_uk": "Fri 09 Oct 2026, 19:41 BST",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2756476977.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes' International Break Headache | Who Starts Up Top Against Killie?",
+   "published": "2026-10-09T09:46:00+00:00",
+   "published_uk": "Fri 09 Oct 2026, 10:46 BST",
+   "duration": "56 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4073120319.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/3e89a326-c3c6-11f1-9e8a-df0e84783f68/image/b57e12f20eb3bc04ce20a4382fe81ca6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers READY To Go Again?",
+   "published": "2026-10-08T21:18:00+00:00",
+   "published_uk": "Thu 08 Oct 2026, 22:18 BST",
+   "duration": "34 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1308115485.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/dc606774-c35d-11f1-8c17-5f6387ab8299/image/afd4ac38ab45de451da69106ab314ffe.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Break's Over",
+   "published": "2026-10-08T18:00:00+00:00",
+   "published_uk": "Thu 08 Oct 2026, 19:00 BST",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1838954232.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/a953ab7e-c322-11f1-8dc7-5397cf36cb03/image/b7302664ef43c984faa28abcfffa9698.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Shankland Injury Update | Rangers’ Title Credentials on Trial This Weekend",
+   "published": "2026-10-08T09:25:00+00:00",
+   "published_uk": "Thu 08 Oct 2026, 10:25 BST",
+   "duration": "35 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1781013239.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/38caf16e-c2fa-11f1-bb92-9f74ac357c52/image/59d0915ff57c518a585f8d6a44cf6457.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "Ad Free Replay - 4lads Rangers Midweek Podcast Live -  3 more days till Rangers are back!",
+   "published": "2026-10-07T19:40:00+00:00",
+   "published_uk": "Wed 07 Oct 2026, 20:40 BST",
+   "duration": "53 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4494961190.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers vs Kilmarnock Preview with Forever and Ever; The Killie Podcast!",
+   "published": "2026-10-07T15:00:00+00:00",
+   "published_uk": "Wed 07 Oct 2026, 16:00 BST",
+   "duration": "29 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3363495841.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/b9cb5060-c25a-11f1-828e-63a3313c5e86/image/9f731b458c406b9a75d704029b31ae9e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Can Rangers ramp up pressure on Celtic? | Candeias' Ibrox exit regret",
+   "published": "2026-10-07T09:39:00+00:00",
+   "published_uk": "Wed 07 Oct 2026, 10:39 BST",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5823169922.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/08d46016-c233-11f1-9540-bb099b30a87c/image/b6ca660cd0607d33c1d528d48c3d15eb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "🎙️️ BACK WITH A BUMPER SPECIAL! 💥 | Club Deck Corner Crossover",
+   "published": "2026-10-06T20:14:00+00:00",
+   "published_uk": "Tue 06 Oct 2026, 21:14 BST",
+   "duration": "1h 01m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8219322290.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/7fc7eec0-c1c2-11f1-922b-cb4c809e4b63/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History LIVE",
+   "published": "2026-10-06T19:30:00+00:00",
+   "published_uk": "Tue 06 Oct 2026, 20:30 BST",
+   "duration": "1h 10m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5530078512.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Is This Rangers’ Defence a Title-Winning Backline?",
+   "published": "2026-10-06T09:28:00+00:00",
+   "published_uk": "Tue 06 Oct 2026, 10:28 BST",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6879084113.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/55757cc8-c168-11f1-923f-a7f987088775/image/c871f9594c10e022f317bc31141f557c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night podcast LIVE - We are almost there",
+   "published": "2026-10-05T20:13:00+00:00",
+   "published_uk": "Mon 05 Oct 2026, 21:13 BST",
+   "duration": "1h 07m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4714280397.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes’ Big Kilmarnock Dilemma: Keep a Winning Team or Rotate?",
+   "published": "2026-10-05T10:20:00+00:00",
+   "published_uk": "Mon 05 Oct 2026, 11:20 BST",
+   "duration": "50 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1211789213.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/66e9dfa2-c0a6-11f1-8f9e-0f987c5cd6ba/image/30087567aaa040a183944e3c6d027871.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Sunday Show - Just 6 days till Rangers are back!",
+   "published": "2026-10-04T20:51:00+00:00",
+   "published_uk": "Sun 04 Oct 2026, 21:51 BST",
+   "duration": "44 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2001741557.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "What Does A Successful Rangers Season Look Like?",
+   "published": "2026-10-04T20:35:00+00:00",
+   "published_uk": "Sun 04 Oct 2026, 21:35 BST",
+   "duration": "47 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1823413173.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/346abccc-c033-11f1-880e-6f6e78c4706a/image/63aedeeceddc4d2cfd07657db7d072a6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "What Rangers need to prove over the month of October",
+   "published": "2026-10-03T07:55:00+00:00",
+   "published_uk": "Sat 03 Oct 2026, 08:55 BST",
+   "duration": "35 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9304053800.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/dbfe7918-beff-11f1-929f-6fafc0a71c41/image/1a450a31cd75b0103e3ecfc031fe1687.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday night podcast LIVE",
+   "published": "2026-10-02T20:05:00+00:00",
+   "published_uk": "Fri 02 Oct 2026, 21:05 BST",
+   "duration": "51 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7178700489.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers’ Squad Is Now Worth More Than Celtic’s — Here’s Why",
+   "published": "2026-10-02T10:03:00+00:00",
+   "published_uk": "Fri 02 Oct 2026, 11:03 BST",
+   "duration": "1h 02m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641426198.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers Season So Far | This Is Ibrox and Four Lads Had A Dream!",
+   "published": "2026-10-01T19:16:00+00:00",
+   "published_uk": "Thu 01 Oct 2026, 20:16 BST",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9333765328.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/ab3c3fce-bdcc-11f1-8960-9b0ce0b15454/image/23eecd99887333fb1ce6dfdf5409e31d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "“There’s No Connection Like It” - Naderi’s Message to Rangers Fans",
+   "published": "2026-10-01T09:42:00+00:00",
+   "published_uk": "Thu 01 Oct 2026, 10:42 BST",
+   "duration": "42 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7586209618.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/5fdd92bc-bd7c-11f1-ad3a-0fa9382c593f/image/fbea9c76b5ceb6843fae4e1fedd484e4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers midweek podcast LIVE - Half way through the international break",
+   "published": "2026-09-30T19:39:00+00:00",
+   "published_uk": "Wed 30 Sep 2026, 20:39 BST",
+   "duration": "1h 21m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1710415970.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers’ Real Title Test Is About to Begin | Ivor Pandur Impact",
+   "published": "2026-09-30T09:41:00+00:00",
+   "published_uk": "Wed 30 Sep 2026, 10:41 BST",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8256528038.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1391d478-bcb3-11f1-a47c-5f89e1d3d645/image/dc809b8b80e4c9071e3de866c402bd2c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Do Rangers Need More Experience?",
+   "published": "2026-09-29T22:28:00+00:00",
+   "published_uk": "Tue 29 Sep 2026, 23:28 BST",
+   "duration": "38 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6721968056.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  }
+ ]
+}

@@ -48,5 +48,38 @@
   "UCW6-BQWFA70Dyyc7ZpZ9Xlg": "BBC Sport",
   "UCVvjwf4Gx2r2P8SQvALRwfQ": "BBC Sport Scotland",
   "UCTj2CVogkBMbPejYWPh9GmA": "Premier Sports"
- }
+ },
+ "podcasts": [
+  {
+   "name": "Heart and Hand",
+   "feed": "https://feeds.megaphone.fm/COMG9286359584",
+   "apple": "https://podcasts.apple.com/gb/podcast/heart-and-hand-the-rangers-podcast/id385998721",
+   "publisher": "Heart and Hand"
+  },
+  {
+   "name": "Rangers Review Podcast",
+   "feed": "https://feeds.megaphone.fm/COMG2031496775",
+   "apple": "https://podcasts.apple.com/gb/podcast/rangers-review-podcast/id1576102198",
+   "publisher": "The Rangers Review"
+  },
+  {
+   "name": "Four Lads Had A Dream",
+   "feed": "https://feeds.megaphone.fm/COMG2286814492",
+   "apple": "https://podcasts.apple.com/gb/podcast/four-lads-had-a-dream-rangers-podcast/id1709994185",
+   "publisher": "Fourladshadadream"
+  },
+  {
+   "name": "This Is Ibrox",
+   "feed": "https://feeds.megaphone.fm/COMG2126639377",
+   "apple": "https://podcasts.apple.com/gb/podcast/this-is-ibrox-your-rangers-podcast/id1635653126",
+   "publisher": "This Is Ibrox"
+  },
+  {
+   "name": "Club at 22",
+   "feed": "https://feeds.megaphone.fm/COMG7915216094",
+   "apple": "https://podcasts.apple.com/gb/podcast/club-at-22-the-rangers-podcast/id1543474889",
+   "publisher": "Club at 22 - The Rangers Podcast"
+  }
+ ],
+ "podcast_limit": 25
 }
