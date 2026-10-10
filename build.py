@@ -26,12 +26,21 @@ def badge(team):
     if u: return f'<img class="bd" src="{html.escape(u)}" alt="" loading="lazy">'
     ini = "".join(w[0] for w in team.replace(".", "").split()[:2]).upper()
     return f'<span class="bd" aria-hidden="true">{html.escape(ini)}</span>'
+VER = hashlib.sha1((datetime.datetime.now().isoformat()).encode()).hexdigest()[:8]
 TABS = [("fixtures", "./", "📅", "Fixtures"), ("results", "results.html", "🏆", "Results"), ("news", "news.html", "📰", "News")]
 def nav(active):
     return '<nav class="tabs">' + "".join(f'<a href="{h}"{" class=on aria-current=page" if k == active else ""}><span aria-hidden="true">{i}</span>{t}</a>' for k, h, i, t in TABS) + "</nav>"
+HEADS = {"fixtures": ("Fixtures " + CFG["season"], "All kick-offs in UK time"), "results": ("Results " + CFG["season"], "League table · newest results first"), "news": ("News", "Latest headlines · times UK")}
 def with_nav(doc, active):
     doc = re.sub(r'<nav class="tabs">.*?</nav>', "", doc, flags=re.S)
-    return doc.replace("<body>", "<body>" + nav(active), 1)
+    doc = re.sub(r'<header>.*?</header>', "", doc, count=1, flags=re.S)
+    t, s = HEADS[active]
+    hdr = f'<header><h1><img class="hc" src="crest.svg" alt="">{html.escape(t)}</h1><div>{html.escape(s)}</div></header>'
+    doc = doc.replace("<body>", "<body>" + nav(active) + hdr, 1)
+    doc = doc.replace("<head>", '<head><meta http-equiv="Cache-Control" content="no-cache"><meta http-equiv="Pragma" content="no-cache">', 1)
+    doc = re.sub(r'(src|href)="((?:\./|results\.html|news\.html|crest\.svg|badges/[^"?]+|[a-z0-9-]+\.png|manifest\.webmanifest))"', lambda m: f'{m.group(1)}="{m.group(2)}?v={VER}"', doc)
+    doc = doc.replace("url(crest.svg)", f"url(crest.svg?v={VER})")
+    return doc
 def uid_for(f): return hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@" + CLUB.lower().replace(" ","-") + "-fixtures"
 LU = json.load(open(OUT/"lineups.json")) if (OUT/"lineups.json").exists() else {}
 for f in fx:
@@ -76,21 +85,23 @@ html{scrollbar-gutter:stable}body{margin:0;font-family:system-ui,sans-serif;back
 header{background:#1b458f;color:#fff;padding:0 12px;text-align:center;height:84px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:center;overflow:hidden}header h1{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}header div{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.85rem}h1{margin:0;font-size:1.4rem}
 .wrap{max-width:720px;margin:auto;padding:12px}
 .next{background:#0b2a66;color:#fff;border-radius:12px;padding:16px;margin-bottom:12px;border-left:6px solid #d0021b}
-.cd{font-size:1.6rem;font-weight:700;margin-top:6px}
-.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}select,a.btn2{padding:10px;border-radius:8px;border:1px solid #1b458f;color:#1b458f;background:#fff;text-decoration:none}.note{font-size:.8rem;color:#445;margin:-4px 0 12px}
-a.btn{padding:10px;border-radius:8px;border:1px solid #1b458f;font-size:1rem}
-a.btn2{padding:10px;border-radius:8px;border:1px solid #1b458f;color:#1b458f;background:#fff;text-decoration:none}.note{font-size:.8rem;color:#445;margin:-4px 0 12px}
-a.btn{background:#1b458f;color:#fff;text-decoration:none}
-.card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
-.b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
-.H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+.cd{font-size:1.5rem;font-weight:700;margin:6px 0 2px}
+.bar{display:flex;gap:8px;align-items:center;margin:0 0 12px;position:relative;z-index:5}
+.bar select{flex:1;min-width:0;height:36px;padding:0 8px;border-radius:8px;border:1px solid #1b458f;color:#1b458f;background:#fff;font-size:.85rem}
+details.menu{position:relative}details.menu summary{list-style:none;height:36px;display:flex;align-items:center;padding:0 12px;border-radius:8px;background:#1b458f;color:#fff;font-size:.85rem;font-weight:600;cursor:pointer;white-space:nowrap}details.menu summary::-webkit-details-marker{display:none}
+.pop{position:absolute;right:0;top:42px;width:240px;background:#fff;border-radius:10px;box-shadow:0 4px 16px #0004;padding:8px;z-index:20}.pop a{display:block;padding:10px;border-radius:8px;color:#1b458f;text-decoration:none;font-weight:600;font-size:.9rem}.pop a:hover{background:#e3ebf9}.pop p{margin:6px 10px 2px;font-size:.75rem;color:#556}
+.card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002;font-size:.95rem}.card b.t{font-size:.95rem}.card small{font-size:.8rem}
+.chips{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
+.b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.75rem;line-height:1.4}
+.H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.75rem}
+small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv,.rtv{display:inline-block;border-radius:5px;padding:2px 6px;font-size:.75rem;line-height:1.4;font-weight:600;text-decoration:none}.tv{background:#e3ebf9;color:#1b458f}.rtv{background:#1b458f;color:#fff}.next .tv{background:#fff;color:#0b2a66}.next .rtv{background:#d0021b;color:#fff}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
-.hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
+.hc{height:40px;width:40px;vertical-align:middle;margin-right:8px}header h1{font-size:1.3rem;line-height:44px}header div{line-height:20px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
 </style></head><body><header><h1><img class="hc" src="crest.svg" alt="">Fixtures __SEASON__</h1><div>All kick-offs in UK time</div></header><nav class="tabs"><a href="./" class="on">Fixtures</a><a href="results.html">Results</a><a href="news.html">News</a></nav>
-<div class="wrap"><div id="next"></div><div id="nexttn" class="next" style="margin-top:-8px;padding-top:4px;border-top-left-radius:0;border-top-right-radius:0"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
-<a class="btn" href="__WEBCAL__">📅 Subscribe (auto-updates)</a> <a class="btn2" href="https://calendar.google.com/calendar/render?cid=__GCID__">Google Calendar</a></div><div class="bar"><a class="btn" href="__SU2__">▶ Watch on __SN2__</a> <a class="btn2" href="__SUB__">Subscribe to __SN2__</a></div><p class="note">Please subscribe rather than import or download the file, or your calendar won&rsquo;t pick up fixture changes.</p><div id="list"></div></div>
+<div class="wrap"><div id="next"></div><div id="nexttn" class="next" style="margin-top:-8px;padding-top:4px;border-top-left-radius:0;border-top-right-radius:0"></div><div class="bar"><select id="f" aria-label="Competition"><option value="">All competitions</option></select>
+<details class="menu"><summary>📅 Calendar</summary><div class="pop"><a href="__WEBCAL__">iPhone / Apple Calendar</a><a href="https://calendar.google.com/calendar/render?cid=__GCID__" target="_blank" rel="noopener">Google Calendar</a><p>Subscribe (don&rsquo;t import/download) so fixture changes update automatically.</p></div></details>
+<details class="menu"><summary>▶ __SN2__</summary><div class="pop"><a href="__SU2__" target="_blank" rel="noopener">Watch on __SN2__</a><a href="__SUB__" target="_blank" rel="noopener">Subscribe to __SN2__</a></div></details></div><div id="list"></div></div>
 <footer>Source: BBC Sport (bbc.co.uk/sport). Last updated: __UPDATED__. Fixtures subject to change; TBC = not yet confirmed.</footer>
 <script>const FX=__DATA__;
 const tz='Europe/London';
@@ -107,21 +118,22 @@ const pl=p=>`${p.number?'<b>'+esc(p.number)+'</b> ':''}${esc(p.name)}${p.positio
 function tn(f,isNext){const t=f.team;
  if(t&&t.status==='confirmed'){return `<details class="tn"${isNext?' open':''}><summary>Team news: ${CLUB} XI confirmed${t.formation?' ('+esc(t.formation)+')':''}</summary><ol>${(t.starting_xi||[]).map(p=>'<li>'+pl(p)+'</li>').join('')}</ol>${(t.subs||[]).length?'<div><b>Subs:</b> '+t.subs.map(pl).join(', ')+'</div>':''}${(t.absences||[]).length?'<div><b>Absent:</b> '+t.absences.map(esc).join(', ')+'</div>':''}<small>Source: <a href="${esc(t.source_url)}">${esc(t.source_name||t.source_url)}</a>${t.updated?' · updated '+esc(t.updated):''}</small></details>`;}
  if(isNext)return '<div class="tnp">Team news: expected ~1 hour before kick-off</div>';return '';}
-const CB=__CBADGE__;const bdg=(u,n)=>u?`<img class="bd" src="${esc(u)}" alt="" loading="lazy">`:`<span class="bd">${esc(String(n||'?').replace(/[.]/g,'').split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase())}</span>`;
+const CB=__CBADGE__;const bdg=(u,n)=>u?`<img class="bd" src="${esc(u)}?v=__VER__" alt="" loading="lazy">`:`<span class="bd">${esc(String(n||'?').replace(/[.]/g,'').split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase())}</span>`;
 const vs=f=>{const us=bdg(CB,CLUB),th=bdg(f.oppBadge,f.opp);return f.ha==='Away'?th+esc(f.opp)+' v '+us+CLUB:us+CLUB+' v '+th+esc(f.opp);};
 const ko=f=>f.time?f.time:'<span class="tbc">TBC</span>';
 function render(){const c=sel.value;document.getElementById('list').innerHTML=up.filter(f=>!c||f.comp===c).map(f=>
- `<div class="card"><div><b>${vs(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span><br><a class="rtv" href="${SU}">▶ ${SN}: ${f.stream}</a>${tn(f,nx&&f.uid===nx.uid)}</div>
+ `<div class="card"><div><b class="t">${vs(f)}</b><br><small>${esc(f.comp)} · ${esc(f.venue)}</small><div class="chips"><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${esc(f.tv)}</span><a class="rtv" href="${SU}" target="_blank" rel="noopener">▶ ${SN}: ${esc(f.stream)}</a></div>${tn(f,nx&&f.uid===nx.uid)}</div>
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
 const nx=up.find(f=>f.date);
 sel.onchange=render;render();
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  const t=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';
- document.getElementById('next').innerHTML=`<div class="next"><div>NEXT MATCH · ${nx.comp}</div><div style="font-size:1.2rem;font-weight:700">${vs(nx)}</div>
- <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue} · 📺 ${nx.tv}</div><div>▶ ${SN}: ${nx.stream}</div><div class="cd">${t}</div></div>`;}
+ document.getElementById('next').innerHTML=`<div class="next"><div style="font-size:.75rem;letter-spacing:.05em;opacity:.85">NEXT MATCH · ${esc(nx.comp).toUpperCase()}</div><div style="font-size:1.1rem;font-weight:700;margin:4px 0">${vs(nx)}</div>
+ <div style="font-size:.85rem">${nx.dateLabel} · ${nx.time||'TBC'} UK · ${esc(nx.venue)}</div><div class="cd">${t}</div><div class="chips"><span class="tv">📺 ${esc(nx.tv)}</span><span class="rtv">▶ ${SN}: ${esc(nx.stream)}</span></div></div>`;}
+document.querySelectorAll('details.menu').forEach(d=>d.addEventListener('toggle',()=>{if(d.open)document.querySelectorAll('details.menu').forEach(o=>{if(o!==d)o.open=false})}));document.addEventListener('click',ev=>{if(!ev.target.closest('details.menu'))document.querySelectorAll('details.menu').forEach(o=>o.open=false)});
 tick();setInterval(tick,1000);if(nx)document.getElementById('nexttn').innerHTML=tn(nx,true);else document.getElementById('nexttn').remove();
 </script></body></html>"""
-page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__CBADGE__", json.dumps(badge_url(CLUB))).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
+page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__VER__", VER).replace("__CBADGE__", json.dumps(badge_url(CLUB))).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
 (OUT/"index.html").write_text(with_nav(page, "fixtures"))
 # ---------- Results page ----------
 RES = json.load(open(OUT/"results.json")) if (OUT/"results.json").exists() else {}
@@ -150,7 +162,7 @@ def card(uid, r):
     meta = [x for x in [e(r.get("venue")), f"Att {r['attendance']:,}" if r.get("attendance") else ""] if x]
     if r.get("score_only"): meta.append("score only (no BBC match page)")
     return (f'<div class="card"><div style="flex:1"><small>{e(r["competition"])} · {d}</small><br>'
-            f'<b>{badge(h["team"])}{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}{badge(a["team"])}</b>'
+            f'<b class="t">{badge(h["team"])}{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}{badge(a["team"])}</b>'
             f'<br><small>{" · ".join(extra)}</small>{"".join(lines)}<small>{" · ".join(meta)} · <a href="{e(r["source_url"])}">BBC Sport</a></small></div>'
             f'<div><span class="b {"H" if res=="W" else "A" if res=="L" else "N"}">{res}</span></div></div>')
 LAST_LEG = set()
