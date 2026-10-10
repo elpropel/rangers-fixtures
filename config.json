@@ -1,0 +1,12 @@
+{
+ "club_name": "Rangers",
+ "club_full_name": "Rangers FC",
+ "season": "2026/27",
+ "stream_name": "RangersTV",
+ "stream_url": "https://www.rangers.co.uk/tv",
+ "site_url": "https://elpropel.github.io/rangers-fixtures/",
+ "ics_name": "rangers.ics",
+ "calendar_name": "Rangers Fixtures",
+ "csv": "/workspace/rangers_fixtures_2026-27.csv",
+ "stream_subscribe_url": "https://rangerspayments.streamamg.com/account/register/step1"
+}
