@@ -38,7 +38,8 @@ def search(q):
             if "videoRenderer" in o:
                 v = o["videoRenderer"]; run = (v.get("ownerText", {}).get("runs") or [{}])[0]
                 out.append({"id": v["videoId"], "title": "".join(r["text"] for r in v["title"]["runs"]),
-                            "channel_id": run.get("navigationEndpoint", {}).get("browseEndpoint", {}).get("browseId"), "published": v.get("publishedTimeText", {}).get("simpleText")})
+                            "channel_id": run.get("navigationEndpoint", {}).get("browseEndpoint", {}).get("browseId"), "published": v.get("publishedTimeText", {}).get("simpleText"),
+                            "description": " ".join("".join(r.get("text", "") for r in s.get("snippetText", {}).get("runs", [])) for s in (v.get("detailedMetadataSnippets") or []))})
             for x in o.values(): walk(x)
         elif isinstance(o, list):
             for x in o: walk(x)
@@ -51,6 +52,9 @@ def team_words(name):
 def has_team(t, name): return any(w in t for w in team_words(name))
 COMP_WORDS = {"premiership": ("premiership",), "league cup": ("league cup", "premier sports cup"), "scottish cup": ("scottish cup",),
               "europa": ("europa",), "conference": ("conference",), "champions": ("champions league",)}
+def DATES(d):
+    fm = ("%d %b %Y", "%-d %b %Y", "%d %B %Y", "%-d %B %Y", "%d/%m/%Y", "%d/%m/%y", "%d.%m.%Y", "%d.%m.%y", "%-d.%-m.%Y")
+    return tuple(d.strftime(f).lower() for f in fm)
 def check(v, r, now=None):
     """Return (ok, reason). Strict: wrong clip is worse than none."""
     if v["channel_id"] not in CH: return False, "not an official channel"
@@ -68,12 +72,12 @@ def check(v, r, now=None):
     if not score_ok and CH.get(v["channel_id"], "").startswith(CLUB + " FC (Official)"):
         # Club channel exception (approved by Andy): exact match date + both teams in home-v-away order, no score needed.
         tt = norm(v["title"])
-        dates = (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower())
+        dates = DATES(d)
         club_date_ok = any(s in tt for s in dates) and bool(re.search(rf"(?:{hw})[a-z .]*?\sv\s+[a-z .]*?(?:{aw})", tt))
     if not (score_ok or club_date_ok): return False, f"exact score {hs}-{as_} (home first) not in title/description"
     comp = norm(r["competition"])
     key = next((k for k in COMP_WORDS if k in comp), None)
-    date_strs = (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower(), d.strftime("%d/%m/%y"), d.strftime("%d.%m.%y"))
+    date_strs = DATES(d)
     if key and not club_date_ok and not any(w in t for w in COMP_WORDS[key]) and not any(s in t for s in date_strs):
         return False, "competition/date not confirmed"
     ok, why = published_ok(v.get("published"), r, now)
@@ -124,7 +128,7 @@ def main():
         h, a = r["home"]["team"], r["away"]["team"]
         d = datetime.date.fromisoformat(r["date"])
         cands = list(feed)
-        for q in (f"{h} v {a} highlights {d:%B %Y}", f"{h} {r['home']['score']}-{r['away']['score']} {a} highlights"):
+        for q in (f"{h} v {a} highlights {d:%B %Y}", f"{h} {r['home']['score']}-{r['away']['score']} {a} highlights", f"HIGHLIGHTS {h} v {a} {d:%-d %b %Y}"):
             try: cands += search(q)
             except Exception as e: print("search failed:", e)
         found = [v for v in cands if matches(v, r)]
