@@ -127,7 +127,7 @@ function render(){const c=sel.value;document.getElementById('list').innerHTML=up
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
 const nx=up.find(f=>f.date);
 sel.onchange=render;render();
-if(nx)document.getElementById('next').innerHTML=`<div class="next"><div style="font-size:.75rem;letter-spacing:.05em;opacity:.85">NEXT MATCH · ${esc(nx.comp).toUpperCase()}</div><div style="font-size:1.1rem;font-weight:700;margin:4px 0">${vs(nx)}</div><div style="font-size:.85rem">${nx.dateLabel} · ${nx.time||'TBC'} UK · ${esc(nx.venue)}</div><div class="cd" id="cd"></div><div class="chips"><span class="tv">📺 ${esc(nx.tv)}</span><span class="rtv" title="${esc(nx.stream)}">▶ ${SN}: ${esc(sh(nx.stream))}</span></div>${tn(nx,true)}</div>`;
+if(nx)document.getElementById('next').innerHTML=`<div class="next"><div style="font-size:.75rem;letter-spacing:.05em;opacity:.85">NEXT MATCH · ${esc(nx.comp).toUpperCase()}</div><div style="font-size:1.1rem;font-weight:700;margin:4px 0">${vs(nx)}</div><div style="font-size:.85rem">${nx.dateLabel} · ${nx.time||'TBC'} UK · ${esc(nx.venue)}</div><div class="cd" id="cd"></div><div class="chips"><span class="tv">📺 ${esc(nx.tv)}</span><a class="rtv" href="${SU}" target="_blank" rel="noopener" title="${esc(nx.stream)}">▶ ${SN}: ${esc(sh(nx.stream))}</a></div>${tn(nx,true)}</div>`;
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  document.getElementById('cd').textContent=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';}
 tick();setInterval(tick,1000);
