@@ -17,6 +17,16 @@ for r in rows:
     t = r[KO] if r[KO] and r[KO] != "TBC" else None
     fx.append(dict(date=d.isoformat() if d else None, dateLabel=r["Date"], time=t, comp=r["Competition"],
                    opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], tvsrc=r.get("TV Source",""), stream=r.get("Club stream","Club stream TBC") or "Club stream TBC", streamsrc=r.get("Club stream source",""), src=r["Source URL"]))
+def uid_for(f): return hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@" + CLUB.lower().replace(" ","-") + "-fixtures"
+LU = json.load(open(OUT/"lineups.json")) if (OUT/"lineups.json").exists() else {}
+for f in fx:
+    if f["date"]:
+        f["uid"] = uid_for(f); f["team"] = LU.get(f["uid"])
+def lineup_text(t):
+    if not t or t.get("status") != "confirmed": return ""
+    xi = ", ".join((f"{p['number']} " if p.get("number") else "") + p["name"] for p in t.get("starting_xi", []))
+    subs = ", ".join((f"{p['number']} " if p.get("number") else "") + p["name"] for p in t.get("subs", []))
+    return f"Line-up ({t.get('formation') or 'formation n/a'}): {xi}" + (f" | Subs: {subs}" if subs else "") + f" | Source: {t.get('source_url','')}"
 today = datetime.date.today()
 # ICS
 def esc(s): return s.replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
@@ -30,9 +40,9 @@ L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Andy Mac//"+CFG["calendar_name"]
 for f in fx:
     if not f["date"]: continue
     title = (f"{CLUB} v {f['opp']}" if f["ha"] != "Away" else f"{f['opp']} v {CLUB}") + f" ({f['comp']})"
-    uid = hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@" + CLUB.lower().replace(" ","-") + "-fixtures"
+    uid = f["uid"]
     L += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{stamp}", f"SUMMARY:{esc(title + ('' if f['time'] else ' - kick-off TBC'))}", f"LOCATION:{esc(f['venue'])}",
-          f"DESCRIPTION:{esc('TV: '+f['tv']+(' (UK)' if f['tv']!='TV TBC' else '')+chr(10)+CFG['stream_name']+': '+f['stream']+chr(10)+'Watch: '+CFG['stream_url']+' | Subscribe: '+CFG['stream_subscribe_url']+chr(10)+'Source: '+f['src'])}"]
+          f"DESCRIPTION:{esc('TV: '+f['tv']+(' (UK)' if f['tv']!='TV TBC' else '')+chr(10)+CFG['stream_name']+': '+f['stream']+chr(10)+'Watch: '+CFG['stream_url']+' | Subscribe: '+CFG['stream_subscribe_url']+chr(10)+'Source: '+f['src']+((chr(10)+lineup_text(f.get('team'))) if lineup_text(f.get('team')) else ''))}"]
     d = f["date"].replace("-","")
     if f["time"]:
         s = datetime.datetime.strptime(f["date"]+f["time"], "%Y-%m-%d%H:%M"); e = s + datetime.timedelta(hours=2)
@@ -58,12 +68,12 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
 </style></head><body><header><h1><img class="hc" src="crest.svg" alt="">__FULL__ Fixtures __SEASON__</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header>
-<div class="wrap"><div id="next"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
+<div class="wrap"><div id="next"></div><div id="nexttn" class="next" style="margin-top:-8px;padding-top:4px;border-top-left-radius:0;border-top-right-radius:0"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
 <a class="btn" href="__WEBCAL__">📅 Subscribe (auto-updates)</a> <a class="btn2" href="https://calendar.google.com/calendar/render?cid=__GCID__">Google Calendar</a></div><div class="bar"><a class="btn" href="__SU2__">▶ Watch on __SN2__</a> <a class="btn2" href="__SUB__">Subscribe to __SN2__</a></div><p class="note">Please subscribe rather than import or download the file, or your calendar won&rsquo;t pick up fixture changes.</p><div id="list"></div></div>
 <footer>Source: BBC Sport (bbc.co.uk/sport). Last updated: __UPDATED__. Fixtures subject to change; TBC = not yet confirmed.</footer>
 <script>const FX=__DATA__;
@@ -76,17 +86,22 @@ const now=new Date();const up=FX.filter(f=>!f.date||when(f).getTime()+2*3600e3>n
 const sel=document.getElementById('f');[...new Set(up.map(f=>f.comp))].forEach(c=>sel.add(new Option(c,c)));
 const ha=f=>f.ha==='Home'?'H':f.ha==='Away'?'A':'N';
 const CLUB=__CLUB__,SN=__SN__,SU=__SU__;const title=f=>f.ha==='Away'?f.opp+' v '+CLUB:CLUB+' v '+f.opp;
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pl=p=>`${p.number?'<b>'+esc(p.number)+'</b> ':''}${esc(p.name)}${p.position?' <small>('+esc(p.position)+')</small>':''}`;
+function tn(f,isNext){const t=f.team;
+ if(t&&t.status==='confirmed'){return `<details class="tn"${isNext?' open':''}><summary>Team news: ${CLUB} XI confirmed${t.formation?' ('+esc(t.formation)+')':''}</summary><ol>${(t.starting_xi||[]).map(p=>'<li>'+pl(p)+'</li>').join('')}</ol>${(t.subs||[]).length?'<div><b>Subs:</b> '+t.subs.map(pl).join(', ')+'</div>':''}${(t.absences||[]).length?'<div><b>Absent:</b> '+t.absences.map(esc).join(', ')+'</div>':''}<small>Source: <a href="${esc(t.source_url)}">${esc(t.source_name||t.source_url)}</a>${t.updated?' · updated '+esc(t.updated):''}</small></details>`;}
+ if(isNext)return '<div class="tnp">Team news: expected ~1 hour before kick-off</div>';return '';}
 const ko=f=>f.time?f.time:'<span class="tbc">TBC</span>';
 function render(){const c=sel.value;document.getElementById('list').innerHTML=up.filter(f=>!c||f.comp===c).map(f=>
- `<div class="card"><div><b>${title(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span><br><a class="rtv" href="${SU}">▶ ${SN}: ${f.stream}</a></div>
+ `<div class="card"><div><b>${title(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span><br><a class="rtv" href="${SU}">▶ ${SN}: ${f.stream}</a>${tn(f,nx&&f.uid===nx.uid)}</div>
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
-sel.onchange=render;render();
 const nx=up.find(f=>f.date);
+sel.onchange=render;render();
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  const t=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';
  document.getElementById('next').innerHTML=`<div class="next"><div>NEXT MATCH · ${nx.comp}</div><div style="font-size:1.2rem;font-weight:700">${title(nx)}</div>
  <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue} · 📺 ${nx.tv}</div><div>▶ ${SN}: ${nx.stream}</div><div class="cd">${t}</div></div>`;}
-tick();setInterval(tick,1000);
+tick();setInterval(tick,1000);if(nx)document.getElementById('nexttn').innerHTML=tn(nx,true);else document.getElementById('nexttn').remove();
 </script></body></html>"""
 page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
 (OUT/"index.html").write_text(page)
