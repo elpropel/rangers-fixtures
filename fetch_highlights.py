@@ -63,11 +63,18 @@ def check(v, r, now=None):
     if any(int(y) != d.year for y in re.findall(r"\b(19\d\d|20\d\d)\b", t)): return False, "different year in title"
     hs, as_ = h["score"], a["score"]
     hw = "|".join(map(re.escape, team_words(h["team"]))); aw = "|".join(map(re.escape, team_words(a["team"])))
-    if not re.search(rf"(?:{hw})[a-z .]*?\s{hs}\s*[-–]\s*{as_}\s+[a-z .]*?(?:{aw})", t): return False, f"exact score {hs}-{as_} (home first) not in title/description"
+    score_ok = bool(re.search(rf"(?:{hw})[a-z .]*?\s{hs}\s*[-–]\s*{as_}\s+[a-z .]*?(?:{aw})", t))
+    club_date_ok = False
+    if not score_ok and CH.get(v["channel_id"], "").startswith(CLUB + " FC (Official)"):
+        # Club channel exception (approved by Andy): exact match date + both teams in home-v-away order, no score needed.
+        tt = norm(v["title"])
+        dates = (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower())
+        club_date_ok = any(s in tt for s in dates) and bool(re.search(rf"(?:{hw})[a-z .]*?\sv\s+[a-z .]*?(?:{aw})", tt))
+    if not (score_ok or club_date_ok): return False, f"exact score {hs}-{as_} (home first) not in title/description"
     comp = norm(r["competition"])
     key = next((k for k in COMP_WORDS if k in comp), None)
     date_strs = (d.strftime("%d %b %Y").lower(), d.strftime("%-d %b %Y").lower(), d.strftime("%d/%m/%y"), d.strftime("%d.%m.%y"))
-    if key and not any(w in t for w in COMP_WORDS[key]) and not any(s in t for s in date_strs):
+    if key and not club_date_ok and not any(w in t for w in COMP_WORDS[key]) and not any(s in t for s in date_strs):
         return False, "competition/date not confirmed"
     ok, why = published_ok(v.get("published"), r, now)
     if not ok: return False, why
