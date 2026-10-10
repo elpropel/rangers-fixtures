@@ -18,7 +18,7 @@ today = datetime.date.today()
 def esc(s): return s.replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
 stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
 L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Andy Mac//Rangers Fixtures//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",
-     "X-WR-CALNAME:Rangers FC Fixtures 2026/27","X-WR-TIMEZONE:Europe/London","REFRESH-INTERVAL;VALUE=DURATION:PT12H",
+     "X-WR-CALNAME:Rangers Fixtures","X-WR-TIMEZONE:Europe/London","REFRESH-INTERVAL;VALUE=DURATION:PT6H","X-PUBLISHED-TTL:PT6H",
      "BEGIN:VTIMEZONE","TZID:Europe/London",
      "BEGIN:DAYLIGHT","TZOFFSETFROM:+0000","TZOFFSETTO:+0100","TZNAME:BST","DTSTART:19700329T010000","RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU","END:DAYLIGHT",
      "BEGIN:STANDARD","TZOFFSETFROM:+0100","TZOFFSETTO:+0000","TZNAME:GMT","DTSTART:19701025T020000","RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU","END:STANDARD",
@@ -46,7 +46,9 @@ header{background:#1b458f;color:#fff;padding:16px;text-align:center}h1{margin:0;
 .wrap{max-width:720px;margin:auto;padding:12px}
 .next{background:#0b2a66;color:#fff;border-radius:12px;padding:16px;margin-bottom:12px;border-left:6px solid #d0021b}
 .cd{font-size:1.6rem;font-weight:700;margin-top:6px}
-.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}select,a.btn{padding:10px;border-radius:8px;border:1px solid #1b458f;font-size:1rem}
+.bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}select,a.btn2{padding:10px;border-radius:8px;border:1px solid #1b458f;color:#1b458f;background:#fff;text-decoration:none}.note{font-size:.8rem;color:#445;margin:-4px 0 12px}
+a.btn{padding:10px;border-radius:8px;border:1px solid #1b458f;font-size:1rem}
+a.btn2{padding:10px;border-radius:8px;border:1px solid #1b458f;color:#1b458f;background:#fff;text-decoration:none}.note{font-size:.8rem;color:#445;margin:-4px 0 12px}
 a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
@@ -57,7 +59,7 @@ body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
 </style></head><body><header><h1><img class="hc" src="crest.svg" alt="">Rangers FC Fixtures 2026/27</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header>
 <div class="wrap"><div id="next"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
-<a class="btn" href="rangers.ics">📅 Add to calendar</a></div><div id="list"></div></div>
+<a class="btn" href="webcal://elpropel.github.io/rangers-fixtures/rangers.ics">📅 Subscribe (auto-updates)</a> <a class="btn2" href="https://calendar.google.com/calendar/render?cid=webcal%3A%2F%2Felpropel.github.io%2Frangers-fixtures%2Frangers.ics">Google Calendar</a></div><p class="note">Please subscribe rather than import or download the file, or your calendar won&rsquo;t pick up fixture changes.</p><div id="list"></div></div>
 <footer>Source: BBC Sport (bbc.co.uk/sport). Last updated: __UPDATED__. Fixtures subject to change; TBC = not yet confirmed.</footer>
 <script>const FX=__DATA__;
 const tz='Europe/London';
