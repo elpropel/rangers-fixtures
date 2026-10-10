@@ -35,5 +35,9 @@
   "Jablonec": "FK Jablonec",
   "Saint-Étienne": "AS Saint-Étienne",
   "West Ham United": "West Ham United F.C."
- }
+ },
+ "news_feed_url": "https://www.rangersreview.co.uk/news/rss/",
+ "news_source_name": "The Rangers Review",
+ "news_site_url": "https://www.rangersreview.co.uk/",
+ "news_limit": 20
 }
