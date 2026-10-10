@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Regenerate index.html and rangers.ics from the fixtures CSV."""
-import csv, hashlib, html, json, datetime, sys
+import csv, hashlib, html, json, re, datetime, sys
 from pathlib import Path
 OUT = Path(__file__).parent
 CFG = json.load(open(OUT/"config.json"))
@@ -26,6 +26,12 @@ def badge(team):
     if u: return f'<img class="bd" src="{html.escape(u)}" alt="" loading="lazy">'
     ini = "".join(w[0] for w in team.replace(".", "").split()[:2]).upper()
     return f'<span class="bd" aria-hidden="true">{html.escape(ini)}</span>'
+TABS = [("fixtures", "./", "📅", "Fixtures"), ("results", "results.html", "🏆", "Results"), ("news", "news.html", "📰", "News")]
+def nav(active):
+    return '<nav class="tabs">' + "".join(f'<a href="{h}"{" class=on aria-current=page" if k == active else ""}><span aria-hidden="true">{i}</span>{t}</a>' for k, h, i, t in TABS) + "</nav>"
+def with_nav(doc, active):
+    doc = re.sub(r'<nav class="tabs">.*?</nav>', "", doc, flags=re.S)
+    return doc.replace("<body>", "<body>" + nav(active), 1)
 def uid_for(f): return hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@" + CLUB.lower().replace(" ","-") + "-fixtures"
 LU = json.load(open(OUT/"lineups.json")) if (OUT/"lineups.json").exists() else {}
 for f in fx:
@@ -66,8 +72,8 @@ for f in fx:
 page = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png"><link rel="icon" type="image/png" sizes="192x192" href="icon-192.png"><link rel="manifest" href="manifest.webmanifest"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="__APPT__"><meta name="theme-color" content="__THEME__">
 <title>__FULL__ Fixtures __SEASON__</title><style>
-body{margin:0;font-family:system-ui,sans-serif;background:#f2f5fb;color:#0b1b3f}
-header{background:#1b458f;color:#fff;padding:16px;text-align:center}h1{margin:0;font-size:1.4rem}
+html{scrollbar-gutter:stable}body{margin:0;font-family:system-ui,sans-serif;background:#f2f5fb;color:#0b1b3f}nav.tabs{position:sticky;top:0;z-index:10;display:grid;grid-template-columns:repeat(3,1fr);background:#0b2a66;padding-top:env(safe-area-inset-top);box-shadow:0 1px 4px #0004}nav.tabs a{display:flex;align-items:center;justify-content:center;gap:6px;height:48px;color:#cfe0ff;text-decoration:none;font-weight:600;font-size:.95rem;white-space:nowrap;overflow:hidden;border-bottom:3px solid transparent;box-sizing:border-box}nav.tabs a.on{color:#fff;border-bottom-color:#fff;background:#1b458f}
+header{background:#1b458f;color:#fff;padding:0 12px;text-align:center;height:84px;box-sizing:border-box;display:flex;flex-direction:column;justify-content:center;overflow:hidden}header h1{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}header div{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.85rem}h1{margin:0;font-size:1.4rem}
 .wrap{max-width:720px;margin:auto;padding:12px}
 .next{background:#0b2a66;color:#fff;border-radius:12px;padding:16px;margin-bottom:12px;border-left:6px solid #d0021b}
 .cd{font-size:1.6rem;font-weight:700;margin-top:6px}
@@ -78,7 +84,7 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}.nw{display:flex;gap:10px;text-decoration:none;color:inherit}.nw img{width:96px;height:64px;object-fit:cover;border-radius:6px;flex:none}.nw h3{margin:0 0 4px;font-size:.95rem;color:#0b2a66}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
@@ -116,7 +122,7 @@ function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1
 tick();setInterval(tick,1000);if(nx)document.getElementById('nexttn').innerHTML=tn(nx,true);else document.getElementById('nexttn').remove();
 </script></body></html>"""
 page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__CBADGE__", json.dumps(badge_url(CLUB))).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
-(OUT/"index.html").write_text(page)
+(OUT/"index.html").write_text(with_nav(page, "fixtures"))
 # ---------- Results page ----------
 RES = json.load(open(OUT/"results.json")) if (OUT/"results.json").exists() else {}
 def e(s): return html.escape(str(s)) if s is not None else ""
@@ -171,7 +177,7 @@ rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1>
     (comp_list or "<p>No results yet.</p>") +
     (f'<details style="margin-top:12px"><summary><b>Pre-season friendlies ({sum(1 for _, r in items if r.get("friendly"))})</b></summary>{fr_list}</details>' if fr_list else "") +
     f'</div><footer>Source: BBC Sport match pages. Last updated: {today.strftime("%d %b %Y")}. Scorers/minutes as listed by BBC; blank where BBC has no data.</footer></body></html>')
-(OUT/"results.html").write_text(rpage)
+(OUT/"results.html").write_text(with_nav(rpage, "results"))
 # ---------- News page ----------
 NW = json.load(open(OUT/"news.json")) if (OUT/"news.json").exists() else {"items": []}
 def news_card(n):
@@ -182,7 +188,7 @@ npage = (head.replace("<title>", "<title>News – ", 1) + '<body><header><h1><im
     '<nav class="tabs"><a href="./">Fixtures</a><a href="results.html">Results</a><a href="news.html" class="on">News</a></nav><div class="wrap">' +
     ("".join(news_card(n) for n in NW["items"]) or "<p>No news yet.</p>") +
     f'</div><footer>Source: <a href="{e(CFG["news_site_url"])}" target="_blank" rel="noopener">{e(CFG["news_source_name"])}</a> (RSS feed). Headlines and excerpts are theirs; tap a story to read it on their site. Fetched: {e(NW.get("fetched",""))}.</footer></body></html>')
-(OUT/"news.html").write_text(npage)
+(OUT/"news.html").write_text(with_nav(npage, "news"))
 (OUT/"manifest.webmanifest").write_text(json.dumps({"name": CFG["app_title"], "short_name": CFG["short_name"], "start_url": "./", "scope": "./", "display": "standalone", "background_color": CFG["icon_background"], "theme_color": CFG["theme_color"], "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}, {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}, indent=1))
 try:
     import subprocess; subprocess.run([sys.executable, str(OUT/"make_icons.py")], check=True)
