@@ -1,0 +1,703 @@
+{
+ "51b0fe94cb3a6d0b@rangers-fixtures": {
+  "date": "2026-10-10",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "3",
+   "ht": "3",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "15'",
+     "type": ""
+    },
+    {
+     "player": "R. Naderi",
+     "minute": "44'",
+     "type": ""
+    },
+    {
+     "player": "K. Kelsy",
+     "minute": "24'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Kilmarnock",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "N. Cleșcenco",
+     "minute": "90'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 3 , Kilmarnock 1 at Full time",
+  "attendance": 50501,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cq98zdd3ggj8t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "c0aa3d64f5982fc8@rangers-fixtures": {
+  "date": "2026-09-20",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Celtic",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "33'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Celtic Park",
+  "home_away": "Away",
+  "status": "FT",
+  "summary": "Celtic 0 , Rangers 1 at Full time",
+  "attendance": 59650,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/ck790rl4jpz0t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "f1c95956951a1c3f@rangers-fixtures": {
+  "date": "2026-09-13",
+  "competition": "League Cup - Quarter-finals",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "3",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "D. Neil",
+     "minute": "23'",
+     "type": ""
+    },
+    {
+     "player": "D. Neil",
+     "minute": "75'",
+     "type": ""
+    },
+    {
+     "player": "K. Kelsy",
+     "minute": "59'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Celtic",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 3 , Celtic 0 at Full time",
+  "attendance": 51212,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cvj64yrgx778t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "02be44aac8279c12@rangers-fixtures": {
+  "date": "2026-09-09",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "B. Miovski",
+     "minute": "90'+1",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "St. Mirren",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 1 , St. Mirren 0 at Full time",
+  "attendance": 50336,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/c539mxklrv0vt",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "6a27c6cf21dbc242@rangers-fixtures": {
+  "date": "2026-09-05",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "12'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Motherwell",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 1 , Motherwell 0 at Full time",
+  "attendance": 50868,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/c3n071wq9edet",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "34d89fe350fccd54@rangers-fixtures": {
+  "date": "2026-09-02",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Falkirk",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "K. Nedeljković",
+     "minute": "44'",
+     "type": "og"
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "L. Shankland",
+     "minute": "8'",
+     "type": ""
+    },
+    {
+     "player": "L. Shankland",
+     "minute": "79'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "The Falkirk Stadium",
+  "home_away": "Away",
+  "status": "FT",
+  "summary": "Falkirk 1 , Rangers 2 at Full time",
+  "attendance": 6847,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cwn74m0mvjr0t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "595f1f14cc1689b9@rangers-fixtures": {
+  "date": "2026-08-30",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Aberdeen",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "L. Shankland",
+     "minute": "69'",
+     "type": "pen"
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Pittodrie Stadium",
+  "home_away": "Away",
+  "status": "FT",
+  "summary": "Aberdeen 0 , Rangers 1 at Full time",
+  "attendance": 18343,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cjn5dz4dr27kt",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "54ae5f6b6479ce7f@rangers-fixtures": {
+  "date": "2026-08-27",
+  "competition": "UEFA Conference League - Play-offs",
+  "friendly": false,
+  "home": {
+   "team": "Jablonec",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "V. Tchanturishvili",
+     "minute": "73'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": "1",
+   "pens": "4",
+   "agg": "1"
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": "0",
+   "pens": "3",
+   "agg": "1"
+  },
+  "venue": "Stadion Střelnice",
+  "home_away": "Away",
+  "status": "PENS",
+  "summary": "Jablonec 1 , Rangers 0 After extra time , Jablonec 1 , Rangers 1 on aggregate , Jablonec win 4 - 3 on penalties , Jablonec win 1 - 1 on aggregate",
+  "attendance": 5563,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cr20401829qyt",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "df8b60a2789931ae@rangers-fixtures": {
+  "date": "2026-08-20",
+  "competition": "UEFA Conference League - Play-offs",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "50'",
+     "type": ""
+    }
+   ],
+   "reds": [
+    {
+     "player": "C. Devlin",
+     "minute": "74'",
+     "type": "Red Card"
+    }
+   ],
+   "et": null,
+   "pens": null,
+   "agg": "1"
+  },
+  "away": {
+   "team": "Jablonec",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": "1"
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 1 , Jablonec 0 at Full time , Jablonec win 1 - 1 on aggregate",
+  "attendance": 34701,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/ck5y0062qv6et",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "d30e2bd0a2a60128@rangers-fixtures": {
+  "date": "2026-08-16",
+  "competition": "League Cup - 2nd Round",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "5",
+   "ht": "2",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "9'",
+     "type": ""
+    },
+    {
+     "player": "V. Dragojević",
+     "minute": "18'",
+     "type": ""
+    },
+    {
+     "player": "D. Gassama",
+     "minute": "52'",
+     "type": ""
+    },
+    {
+     "player": "J. Penrice",
+     "minute": "54'",
+     "type": ""
+    },
+    {
+     "player": "R. McCausland",
+     "minute": "74'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "St. Mirren",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "C. Mochrie",
+     "minute": "30'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 5 , St. Mirren 1 at Full time",
+  "attendance": 34387,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cwp9ev9gk1rkt",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "6c2364a33e8725e8@rangers-fixtures": {
+  "date": "2026-08-13",
+  "competition": "UEFA Europa League - 3rd Qualifying Round",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "L. Shankland",
+     "minute": "19'",
+     "type": "pen"
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": "2"
+  },
+  "away": {
+   "team": "Jagiellonia Białystok",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "N. Prelec",
+     "minute": "65'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": "3"
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 1 , Jagiellonia Białystok 1 at Full time , Jagiellonia Białystok win 3 - 2 on aggregate",
+  "attendance": 41636,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cqvg08w8pjp2t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "e517e17b5a6e9a4a@rangers-fixtures": {
+  "date": "2026-08-09",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "M. Chaiwa",
+     "minute": "85'",
+     "type": "og"
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Hibernian",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "J. Campbell",
+     "minute": "12'",
+     "type": "pen"
+    },
+    {
+     "player": "C. Wright",
+     "minute": "90'+3",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 1 , Hibernian 2 at Full time",
+  "attendance": 50893,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/c64gjp1ne5y2t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "894d64763615c944@rangers-fixtures": {
+  "date": "2026-08-06",
+  "competition": "UEFA Europa League - 3rd Qualifying Round",
+  "friendly": false,
+  "home": {
+   "team": "Jagiellonia Białystok",
+   "score": "2",
+   "ht": "2",
+   "goals": [
+    {
+     "player": "E. Fernandez",
+     "minute": "13'",
+     "type": "og"
+    },
+    {
+     "player": "K. Szmyt",
+     "minute": "21'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": "3"
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "Guilherme Montóia",
+     "minute": "4'",
+     "type": "og"
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": "2"
+  },
+  "venue": "Chorten Arena",
+  "home_away": "Away",
+  "status": "FT",
+  "summary": "Jagiellonia Białystok 2 , Rangers 1 at Full time , Jagiellonia Białystok win 3 - 2 on aggregate",
+  "attendance": 19931,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cy74pk18p05t",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "d6f4278e6e6dfdfb@rangers-fixtures": {
+  "date": "2026-07-31",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Dundee United",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "L. Rose",
+     "minute": "38'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "T. Aasgaard",
+     "minute": "56'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "CalForth Construction Arena at Tannadice Park",
+  "home_away": "Away",
+  "status": "FT",
+  "summary": "Dundee United 1 , Rangers 1 at Full time",
+  "attendance": 13465,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cwym0d9g2nkt",
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "1769afc11d191dc6@rangers-fixtures": {
+  "date": "2026-07-26",
+  "competition": "Club Friendlies - Club Friendlies 3",
+  "friendly": true,
+  "home": {
+   "team": "Rangers",
+   "score": "0",
+   "ht": null,
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "West Ham United",
+   "score": "0",
+   "ht": null,
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": null,
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 0 , West Ham United 0 at Full time",
+  "attendance": null,
+  "source_url": "https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-07?filter=results",
+  "score_only": true,
+  "fetched": "10 Oct 2026 18:17 BST"
+ },
+ "3fcdb613a12669bc@rangers-fixtures": {
+  "date": "2026-07-22",
+  "competition": "Club Friendlies - Club Friendlies 3",
+  "friendly": true,
+  "home": {
+   "team": "Rangers",
+   "score": "2",
+   "ht": null,
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Saint-Étienne",
+   "score": "1",
+   "ht": null,
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": null,
+  "home_away": "Home",
+  "status": "FT",
+  "summary": "Rangers 2 , Saint-Étienne 1 at Full time",
+  "attendance": null,
+  "source_url": "https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-07?filter=results",
+  "score_only": true,
+  "fetched": "10 Oct 2026 18:17 BST"
+ }
+}

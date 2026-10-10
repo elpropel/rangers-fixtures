@@ -68,11 +68,11 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
-</style></head><body><header><h1><img class="hc" src="crest.svg" alt="">__FULL__ Fixtures __SEASON__</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header>
+</style></head><body><header><h1><img class="hc" src="crest.svg" alt="">__FULL__ Fixtures __SEASON__</h1><div>All times UK (Europe/London) &ndash; same as Isle of Man</div></header><nav class="tabs"><a href="./" class="on">Fixtures</a><a href="results.html">Results</a></nav>
 <div class="wrap"><div id="next"></div><div id="nexttn" class="next" style="margin-top:-8px;padding-top:4px;border-top-left-radius:0;border-top-right-radius:0"></div><div class="bar"><select id="f"><option value="">All competitions</option></select>
 <a class="btn" href="__WEBCAL__">📅 Subscribe (auto-updates)</a> <a class="btn2" href="https://calendar.google.com/calendar/render?cid=__GCID__">Google Calendar</a></div><div class="bar"><a class="btn" href="__SU2__">▶ Watch on __SN2__</a> <a class="btn2" href="__SUB__">Subscribe to __SN2__</a></div><p class="note">Please subscribe rather than import or download the file, or your calendar won&rsquo;t pick up fixture changes.</p><div id="list"></div></div>
 <footer>Source: BBC Sport (bbc.co.uk/sport). Last updated: __UPDATED__. Fixtures subject to change; TBC = not yet confirmed.</footer>
@@ -105,6 +105,52 @@ tick();setInterval(tick,1000);if(nx)document.getElementById('nexttn').innerHTML=
 </script></body></html>"""
 page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
 (OUT/"index.html").write_text(page)
+# ---------- Results page ----------
+RES = json.load(open(OUT/"results.json")) if (OUT/"results.json").exists() else {}
+def e(s): return html.escape(str(s)) if s is not None else ""
+def goals_html(side):
+    return ", ".join(f"{e(g['player'])} {e(g['minute'])}{' (pen)' if g.get('type')=='pen' else ' (og)' if g.get('type')=='og' else ''}" for g in side["goals"])
+def card(uid, r):
+    h, a = r["home"], r["away"]
+    us = h if r["home_away"] == "Home" else a; them = a if us is h else h
+    try: w, l = int(us["score"]), int(them["score"])
+    except (TypeError, ValueError): w = l = 0
+    pw = None
+    if us.get("pens") and them.get("pens"): pw = int(us["pens"]) > int(them["pens"])
+    res = "W" if w > l or (w == l and pw) else "L" if w < l or (w == l and pw is False) else "D"
+    extra = []
+    if h.get("ht") is not None: extra.append(f"HT {e(h['ht'])}-{e(a['ht'])}")
+    if r.get("status") in ("AET", "PENS") or (h.get("et") and r.get("status") != "FT"): extra.append("AET")
+    if h.get("pens"): extra.append(f"Pens {e(h['pens'])}-{e(a['pens'])}")
+    if h.get("agg") and uid in LAST_LEG: extra.append(f"Agg {e(h['agg'])}-{e(a['agg'])}")
+    reds = [f"🟥 {e(x['player'])} {e(x['minute'])} ({e(t['team'])})" for t in (h, a) for x in t["reds"]]
+    d = datetime.date.fromisoformat(r["date"]).strftime("%a %d %b %Y")
+    lines = []
+    if h["goals"]: lines.append(f"<div><small>⚽ {e(h['team'])}: {goals_html(h)}</small></div>")
+    if a["goals"]: lines.append(f"<div><small>⚽ {e(a['team'])}: {goals_html(a)}</small></div>")
+    if reds: lines.append("<div><small>" + "; ".join(reds) + "</small></div>")
+    meta = [x for x in [e(r.get("venue")), f"Att {r['attendance']:,}" if r.get("attendance") else ""] if x]
+    if r.get("score_only"): meta.append("score only (no BBC match page)")
+    return (f'<div class="card"><div style="flex:1"><small>{e(r["competition"])} · {d}</small><br>'
+            f'<b>{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}</b>'
+            f'<br><small>{" · ".join(extra)}</small>{"".join(lines)}<small>{" · ".join(meta)} · <a href="{e(r["source_url"])}">BBC Sport</a></small></div>'
+            f'<div><span class="b {"H" if res=="W" else "A" if res=="L" else "N"}">{res}</span></div></div>')
+LAST_LEG = set()
+_seen = set()
+for _u, _r in sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True):
+    if _r["home"].get("agg") is None: continue
+    key = (_r["competition"].split(" - ")[0], frozenset((_r["home"]["team"], _r["away"]["team"])))
+    if key not in _seen: _seen.add(key); LAST_LEG.add(_u)
+items = sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True)
+comp_list = "".join(card(u, r) for u, r in items if not r.get("friendly"))
+fr_list = "".join(card(u, r) for u, r in items if r.get("friendly"))
+head = page.split("</style>")[0] + "</style></head>"
+rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + e(CFG["club_full_name"]) + " Results " + e(CFG["season"]) +
+    '</h1><div>Newest first · all competitions</div></header><nav class="tabs"><a href="./">Fixtures</a><a href="results.html" class="on">Results</a></nav><div class="wrap">' +
+    (comp_list or "<p>No results yet.</p>") +
+    (f'<details style="margin-top:12px"><summary><b>Pre-season friendlies ({sum(1 for _, r in items if r.get("friendly"))})</b></summary>{fr_list}</details>' if fr_list else "") +
+    f'</div><footer>Source: BBC Sport match pages. Last updated: {today.strftime("%d %b %Y")}. Scorers/minutes as listed by BBC; blank where BBC has no data.</footer></body></html>')
+(OUT/"results.html").write_text(rpage)
 (OUT/"manifest.webmanifest").write_text(json.dumps({"name": CFG["app_title"], "short_name": CFG["short_name"], "start_url": "./", "scope": "./", "display": "standalone", "background_color": CFG["icon_background"], "theme_color": CFG["theme_color"], "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}, {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}]}, indent=1))
 try:
     import subprocess; subprocess.run([sys.executable, str(OUT/"make_icons.py")], check=True)
