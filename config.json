@@ -14,5 +14,26 @@
  "app_title": "Rangers Fixtures",
  "short_name": "Rangers",
  "league_name": "Scottish Premiership",
- "league_table_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table"
+ "league_table_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
+ "badge_articles": {
+  "Rangers": "Rangers F.C.",
+  "Celtic": "Celtic F.C.",
+  "Heart of Midlothian": "Heart of Midlothian F.C.",
+  "Hearts": "Heart of Midlothian F.C.",
+  "Dundee": "Dundee F.C.",
+  "St. Mirren": "St Mirren F.C.",
+  "St Mirren": "St Mirren F.C.",
+  "St. Johnstone": "St Johnstone F.C.",
+  "St Johnstone": "St Johnstone F.C.",
+  "Aberdeen": "Aberdeen F.C.",
+  "Motherwell": "Motherwell F.C.",
+  "Dundee United": "Dundee United F.C.",
+  "Hibernian": "Hibernian F.C.",
+  "Falkirk": "Falkirk F.C.",
+  "Kilmarnock": "Kilmarnock F.C.",
+  "Jagiellonia Białystok": "Jagiellonia Białystok",
+  "Jablonec": "FK Jablonec",
+  "Saint-Étienne": "AS Saint-Étienne",
+  "West Ham United": "West Ham United F.C."
+ }
 }

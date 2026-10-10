@@ -17,11 +17,21 @@ for r in rows:
     t = r[KO] if r[KO] and r[KO] != "TBC" else None
     fx.append(dict(date=d.isoformat() if d else None, dateLabel=r["Date"], time=t, comp=r["Competition"],
                    opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], tvsrc=r.get("TV Source",""), stream=r.get("Club stream","Club stream TBC") or "Club stream TBC", streamsrc=r.get("Club stream source",""), src=r["Source URL"]))
+BADGES = json.load(open(OUT/"badges.json")) if (OUT/"badges.json").exists() else {}
+def badge_url(team):
+    b = BADGES.get(team) or BADGES.get(team.replace("St ", "St. ")) or BADGES.get(team.replace("St. ", "St "))
+    return b["file"] if b and (OUT/b["file"]).exists() else None
+def badge(team):
+    u = badge_url(team)
+    if u: return f'<img class="bd" src="{html.escape(u)}" alt="" loading="lazy">'
+    ini = "".join(w[0] for w in team.replace(".", "").split()[:2]).upper()
+    return f'<span class="bd" aria-hidden="true">{html.escape(ini)}</span>'
 def uid_for(f): return hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@" + CLUB.lower().replace(" ","-") + "-fixtures"
 LU = json.load(open(OUT/"lineups.json")) if (OUT/"lineups.json").exists() else {}
 for f in fx:
     if f["date"]:
         f["uid"] = uid_for(f); f["team"] = LU.get(f["uid"])
+    f["oppBadge"] = badge_url(f["opp"]) if f["opp"] else None
 def lineup_text(t):
     if not t or t.get("status") != "confirmed": return ""
     xi = ", ".join((f"{p['number']} " if p.get("number") else "") + p["name"] for p in t.get("starting_xi", []))
@@ -68,7 +78,7 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}img.bd,span.bd{width:22px;height:22px;object-fit:contain;vertical-align:middle;margin:0 4px}span.bd{display:inline-block;border-radius:50%;background:#c9d6ee;color:#1b458f;font-size:.6rem;line-height:22px;text-align:center;font-weight:700}.next span.bd{background:#fff}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
@@ -91,19 +101,21 @@ const pl=p=>`${p.number?'<b>'+esc(p.number)+'</b> ':''}${esc(p.name)}${p.positio
 function tn(f,isNext){const t=f.team;
  if(t&&t.status==='confirmed'){return `<details class="tn"${isNext?' open':''}><summary>Team news: ${CLUB} XI confirmed${t.formation?' ('+esc(t.formation)+')':''}</summary><ol>${(t.starting_xi||[]).map(p=>'<li>'+pl(p)+'</li>').join('')}</ol>${(t.subs||[]).length?'<div><b>Subs:</b> '+t.subs.map(pl).join(', ')+'</div>':''}${(t.absences||[]).length?'<div><b>Absent:</b> '+t.absences.map(esc).join(', ')+'</div>':''}<small>Source: <a href="${esc(t.source_url)}">${esc(t.source_name||t.source_url)}</a>${t.updated?' · updated '+esc(t.updated):''}</small></details>`;}
  if(isNext)return '<div class="tnp">Team news: expected ~1 hour before kick-off</div>';return '';}
+const CB=__CBADGE__;const bdg=(u,n)=>u?`<img class="bd" src="${esc(u)}" alt="" loading="lazy">`:`<span class="bd">${esc(String(n||'?').replace(/[.]/g,'').split(' ').slice(0,2).map(w=>w[0]||'').join('').toUpperCase())}</span>`;
+const vs=f=>{const us=bdg(CB,CLUB),th=bdg(f.oppBadge,f.opp);return f.ha==='Away'?th+esc(f.opp)+' v '+us+CLUB:us+CLUB+' v '+th+esc(f.opp);};
 const ko=f=>f.time?f.time:'<span class="tbc">TBC</span>';
 function render(){const c=sel.value;document.getElementById('list').innerHTML=up.filter(f=>!c||f.comp===c).map(f=>
- `<div class="card"><div><b>${title(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span><br><a class="rtv" href="${SU}">▶ ${SN}: ${f.stream}</a>${tn(f,nx&&f.uid===nx.uid)}</div>
+ `<div class="card"><div><b>${vs(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span><br><a class="rtv" href="${SU}">▶ ${SN}: ${f.stream}</a>${tn(f,nx&&f.uid===nx.uid)}</div>
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
 const nx=up.find(f=>f.date);
 sel.onchange=render;render();
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  const t=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';
- document.getElementById('next').innerHTML=`<div class="next"><div>NEXT MATCH · ${nx.comp}</div><div style="font-size:1.2rem;font-weight:700">${title(nx)}</div>
+ document.getElementById('next').innerHTML=`<div class="next"><div>NEXT MATCH · ${nx.comp}</div><div style="font-size:1.2rem;font-weight:700">${vs(nx)}</div>
  <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue} · 📺 ${nx.tv}</div><div>▶ ${SN}: ${nx.stream}</div><div class="cd">${t}</div></div>`;}
 tick();setInterval(tick,1000);if(nx)document.getElementById('nexttn').innerHTML=tn(nx,true);else document.getElementById('nexttn').remove();
 </script></body></html>"""
-page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
+page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y")).replace("__FULL__", html.escape(CFG["club_full_name"])).replace("__SEASON__", CFG["season"]).replace("__WEBCAL__", WEBCAL).replace("__GCID__", quote(WEBCAL, safe="")).replace("__CLUB__", json.dumps(CLUB)).replace("__CBADGE__", json.dumps(badge_url(CLUB))).replace("__APPT__", html.escape(CFG["app_title"])).replace("__THEME__", CFG["theme_color"]).replace("__SU2__", CFG["stream_url"]).replace("__SUB__", CFG["stream_subscribe_url"]).replace("__SN2__", html.escape(CFG["stream_name"])).replace("__SN__", json.dumps(CFG["stream_name"])).replace("__SU__", json.dumps(CFG["stream_url"]))
 (OUT/"index.html").write_text(page)
 # ---------- Results page ----------
 RES = json.load(open(OUT/"results.json")) if (OUT/"results.json").exists() else {}
@@ -132,7 +144,7 @@ def card(uid, r):
     meta = [x for x in [e(r.get("venue")), f"Att {r['attendance']:,}" if r.get("attendance") else ""] if x]
     if r.get("score_only"): meta.append("score only (no BBC match page)")
     return (f'<div class="card"><div style="flex:1"><small>{e(r["competition"])} · {d}</small><br>'
-            f'<b>{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}</b>'
+            f'<b>{badge(h["team"])}{e(h["team"])} {e(h["score"])} – {e(a["score"])} {e(a["team"])}{badge(a["team"])}</b>'
             f'<br><small>{" · ".join(extra)}</small>{"".join(lines)}<small>{" · ".join(meta)} · <a href="{e(r["source_url"])}">BBC Sport</a></small></div>'
             f'<div><span class="b {"H" if res=="W" else "A" if res=="L" else "N"}">{res}</span></div></div>')
 LAST_LEG = set()
@@ -145,7 +157,7 @@ TB = json.load(open(OUT/"table.json")) if (OUT/"table.json").exists() else None
 def table_html():
     if not TB: return ""
     hd = '<tr><th>Pos</th><th style="text-align:left">Team</th><th>P</th><th class="hx">W</th><th class="hx">D</th><th class="hx">L</th><th class="hx">GF</th><th class="hx">GA</th><th>GD</th><th>Pts</th><th class="hx">Form</th></tr>'
-    body = "".join(f'<tr class="{"us" if r["team"]==CLUB else ""}"><td>{r["pos"]}</td><td class="tm">{e(r["team"])}</td><td>{r["p"]}</td>'
+    body = "".join(f'<tr class="{"us" if r["team"]==CLUB else ""}"><td>{r["pos"]}</td><td class="tm">{badge(r["team"])}{e(r["team"])}</td><td>{r["p"]}</td>'
         + "".join(f'<td class="hx">{r[k]}</td>' for k in ("w","d","l","gf","ga")) + f'<td>{r["gd"]:+d}</td><td><b>{r["pts"]}</b></td><td class="hx">'
         + "".join(f'<span class="fm f{x}">{x}</span>' for x in r.get("form", [])) + "</td></tr>" for r in TB["rows"])
     return (f'<h2 style="margin:4px 0 8px;color:#1b458f">{e(TB.get("league") or "League table")}</h2><table class="lt">{hd}{body}</table>'

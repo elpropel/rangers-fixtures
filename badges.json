@@ -1,0 +1,78 @@
+{
+ "Motherwell": {
+  "file": "badges/motherwell.svg",
+  "source": "https://commons.wikimedia.org/wiki/File:Motherwell_FC_crest.svg"
+ },
+ "Rangers": {
+  "file": "badges/rangers.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Rangers_FC.svg"
+ },
+ "Celtic": {
+  "file": "badges/celtic.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Celtic_FC_crest.svg"
+ },
+ "Heart of Midlothian": {
+  "file": "badges/heart-of-midlothian.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Heart_of_Midlothian_FC_logo.svg"
+ },
+ "Hearts": {
+  "file": "badges/hearts.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Heart_of_Midlothian_FC_logo.svg"
+ },
+ "Dundee": {
+  "file": "badges/dundee.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Dundee_FC_2025_Crest.svg"
+ },
+ "St. Mirren": {
+  "file": "badges/st-mirren.svg",
+  "source": "https://en.wikipedia.org/wiki/File:St_Mirren_FC_crest.svg"
+ },
+ "St Mirren": {
+  "file": "badges/st-mirren.svg",
+  "source": "https://en.wikipedia.org/wiki/File:St_Mirren_FC_crest.svg"
+ },
+ "St. Johnstone": {
+  "file": "badges/st-johnstone.svg",
+  "source": "https://en.wikipedia.org/wiki/File:St_Johnstone_FC_crest.svg"
+ },
+ "St Johnstone": {
+  "file": "badges/st-johnstone.svg",
+  "source": "https://en.wikipedia.org/wiki/File:St_Johnstone_FC_crest.svg"
+ },
+ "Aberdeen": {
+  "file": "badges/aberdeen.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Aberdeen_FC_stars_crest.svg"
+ },
+ "Dundee United": {
+  "file": "badges/dundee-united.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Dundee_United_FC_crest.svg"
+ },
+ "Hibernian": {
+  "file": "badges/hibernian.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Hibernian_FC_2026_crest.svg"
+ },
+ "Falkirk": {
+  "file": "badges/falkirk.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Falkirk_FC_logo.svg"
+ },
+ "Kilmarnock": {
+  "file": "badges/kilmarnock.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Kilmarnock_FC_crest.svg"
+ },
+ "Jagiellonia Białystok": {
+  "file": "badges/jagiellonia-bia-ystok.svg",
+  "source": "https://en.wikipedia.org/wiki/File:Jagiellonia_Bia%C5%82ystok_logo.svg"
+ },
+ "Jablonec": {
+  "file": "badges/jablonec.svg",
+  "source": "https://en.wikipedia.org/wiki/File:FK_Jablonec,_logo_2026.svg"
+ },
+ "Saint-Étienne": {
+  "file": "badges/saint-tienne.svg",
+  "source": "https://en.wikipedia.org/wiki/File:AS_Saint-%C3%89tienne_logo.svg"
+ },
+ "West Ham United": {
+  "file": "badges/west-ham-united.svg",
+  "source": "https://en.wikipedia.org/wiki/File:West_Ham_United_FC_logo.svg"
+ }
+}
