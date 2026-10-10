@@ -12,7 +12,7 @@ for r in rows:
     except ValueError: d = None
     t = r[KO] if r[KO] and r[KO] != "TBC" else None
     fx.append(dict(date=d.isoformat() if d else None, dateLabel=r["Date"], time=t, comp=r["Competition"],
-                   opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], src=r["Source URL"]))
+                   opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], tvsrc=r.get("TV Source",""), src=r["Source URL"]))
 today = datetime.date.today()
 # ICS
 def esc(s): return s.replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
@@ -28,7 +28,7 @@ for f in fx:
     title = (f"Rangers v {f['opp']}" if f["ha"] != "Away" else f"{f['opp']} v Rangers") + f" ({f['comp']})"
     uid = hashlib.sha1(f"{f['date']}|{f['comp']}|{f['opp']}".encode()).hexdigest()[:16] + "@rangers-fixtures"
     L += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{stamp}", f"SUMMARY:{esc(title + ('' if f['time'] else ' - kick-off TBC'))}", f"LOCATION:{esc(f['venue'])}",
-          f"DESCRIPTION:{esc('TV: '+f['tv']+chr(10)+'Source: '+f['src'])}"]
+          f"DESCRIPTION:{esc('TV: '+f['tv']+(' (UK)' if f['tv']!='TV TBC' else '')+chr(10)+'Source: '+f['src'])}"]
     d = f["date"].replace("-","")
     if f["time"]:
         s = datetime.datetime.strptime(f["date"]+f["time"], "%Y-%m-%d%H:%M"); e = s + datetime.timedelta(hours=2)
@@ -53,7 +53,7 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}
+small{color:#556}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
@@ -73,14 +73,14 @@ const ha=f=>f.ha==='Home'?'H':f.ha==='Away'?'A':'N';
 const title=f=>f.ha==='Away'?f.opp+' v Rangers':'Rangers v '+f.opp;
 const ko=f=>f.time?f.time:'<span class="tbc">TBC</span>';
 function render(){const c=sel.value;document.getElementById('list').innerHTML=up.filter(f=>!c||f.comp===c).map(f=>
- `<div class="card"><div><b>${title(f)}</b><br><small>${f.comp} · ${f.venue}${f.tv&&f.tv!=='TBC'?' · TV: '+f.tv:''}</small></div>
+ `<div class="card"><div><b>${title(f)}</b><br><small>${f.comp} · ${f.venue}</small><br><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${f.tv}</span></div>
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
 sel.onchange=render;render();
 const nx=up.find(f=>f.date);
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  const t=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';
  document.getElementById('next').innerHTML=`<div class="next"><div>NEXT MATCH · ${nx.comp}</div><div style="font-size:1.2rem;font-weight:700">${title(nx)}</div>
- <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue}</div><div class="cd">${t}</div></div>`;}
+ <div>${nx.dateLabel} · ${nx.time||'TBC'} UK · ${nx.venue} · 📺 ${nx.tv}</div><div class="cd">${t}</div></div>`;}
 tick();setInterval(tick,1000);
 </script></body></html>"""
 page = page.replace("__DATA__", json.dumps(fx).replace("</", "<\\/")).replace("__UPDATED__", today.strftime("%d %b %Y"))
