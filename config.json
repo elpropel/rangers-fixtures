@@ -12,5 +12,7 @@
  "icon_background": "#ffffff",
  "theme_color": "#1b458f",
  "app_title": "Rangers Fixtures",
- "short_name": "Rangers"
+ "short_name": "Rangers",
+ "league_name": "Scottish Premiership",
+ "league_table_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table"
 }

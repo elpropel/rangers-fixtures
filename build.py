@@ -68,7 +68,7 @@ a.btn{background:#1b458f;color:#fff;text-decoration:none}
 .card{background:#fff;border-radius:10px;padding:12px;margin-bottom:8px;display:flex;justify-content:space-between;gap:8px;box-shadow:0 1px 3px #0002}
 .b{display:inline-block;min-width:22px;text-align:center;border-radius:5px;padding:2px 6px;font-weight:700;color:#fff;font-size:.8rem}
 .H{background:#1b458f}.A{background:#d0021b}.N{background:#666}.tbc{background:#fbe7a1;color:#5a4500;padding:2px 6px;border-radius:5px;font-size:.8rem}
-small{color:#556}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
+small{color:#556}table.lt{width:100%;border-collapse:collapse;background:#fff;border-radius:10px;overflow:hidden;font-size:.85rem;box-shadow:0 1px 3px #0002}.lt th,.lt td{padding:5px 4px;text-align:center}.lt th{background:#1b458f;color:#fff}.lt td.tm{text-align:left}.lt tr.us td{background:#dbe6fb;font-weight:700}.lt tr:nth-child(even) td{border-top:1px solid #eef}.fm{display:inline-block;width:14px;height:14px;line-height:14px;border-radius:3px;color:#fff;font-size:.65rem;margin:0 1px}.fW{background:#1a8f3a}.fD{background:#888}.fL{background:#d0021b}@media(max-width:480px){.lt .hx{display:none}.lt{font-size:.8rem}}.tabs{display:flex;justify-content:center;gap:4px;background:#0b2a66;padding:6px}.tabs a{color:#cfe0ff;text-decoration:none;padding:6px 16px;border-radius:6px;font-weight:600}.tabs a.on{background:#fff;color:#1b458f}details.tn{margin-top:6px;font-size:.85rem}details.tn summary{cursor:pointer;font-weight:600;color:#1b458f}.next details.tn summary{color:#fff}.tnp{margin-top:6px;font-size:.85rem;font-style:italic}.tn ol{margin:4px 0;padding-left:20px}.tv{display:inline-block;margin-top:4px;background:#e3ebf9;color:#1b458f;border-radius:5px;padding:2px 6px;font-size:.8rem;font-weight:600}.rtv{display:inline-block;margin-top:4px;background:#1b458f;color:#fff;border-radius:5px;padding:3px 8px;font-size:.8rem;font-weight:600;text-decoration:none}.cs{text-decoration:none;border:1px solid #1b458f}.tvt{background:#eee;color:#666;font-weight:400}
 body::before{content:'';position:fixed;inset:0;background:url(crest.svg) center/min(80vw,80vh) no-repeat;opacity:.06;pointer-events:none;z-index:0}
 .wrap,footer{position:relative;z-index:1}
 .hc{height:44px;vertical-align:middle;margin-right:8px}footer{font-size:.85rem;color:#445;text-align:center;padding:16px}
@@ -141,12 +141,21 @@ for _u, _r in sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True):
     if _r["home"].get("agg") is None: continue
     key = (_r["competition"].split(" - ")[0], frozenset((_r["home"]["team"], _r["away"]["team"])))
     if key not in _seen: _seen.add(key); LAST_LEG.add(_u)
+TB = json.load(open(OUT/"table.json")) if (OUT/"table.json").exists() else None
+def table_html():
+    if not TB: return ""
+    hd = '<tr><th>Pos</th><th style="text-align:left">Team</th><th>P</th><th class="hx">W</th><th class="hx">D</th><th class="hx">L</th><th class="hx">GF</th><th class="hx">GA</th><th>GD</th><th>Pts</th><th class="hx">Form</th></tr>'
+    body = "".join(f'<tr class="{"us" if r["team"]==CLUB else ""}"><td>{r["pos"]}</td><td class="tm">{e(r["team"])}</td><td>{r["p"]}</td>'
+        + "".join(f'<td class="hx">{r[k]}</td>' for k in ("w","d","l","gf","ga")) + f'<td>{r["gd"]:+d}</td><td><b>{r["pts"]}</b></td><td class="hx">'
+        + "".join(f'<span class="fm f{x}">{x}</span>' for x in r.get("form", [])) + "</td></tr>" for r in TB["rows"])
+    return (f'<h2 style="margin:4px 0 8px;color:#1b458f">{e(TB.get("league") or "League table")}</h2><table class="lt">{hd}{body}</table>'
+            f'<p><small>Updated: {e(TB.get("bbc_updated") or TB.get("fetched"))} (BBC) · fetched {e(TB.get("fetched"))} · Source: <a href="{e(TB["source_url"])}">BBC Sport</a>. Form: last 6, oldest first.</small></p><h2 style="margin:12px 0 8px;color:#1b458f">Results</h2>')
 items = sorted(RES.items(), key=lambda kv: kv[1]["date"], reverse=True)
 comp_list = "".join(card(u, r) for u, r in items if not r.get("friendly"))
 fr_list = "".join(card(u, r) for u, r in items if r.get("friendly"))
 head = page.split("</style>")[0] + "</style></head>"
 rpage = (head.replace("<title>", "<title>Results – ", 1) + '<body><header><h1><img class="hc" src="crest.svg" alt="">' + e(CFG["club_full_name"]) + " Results " + e(CFG["season"]) +
-    '</h1><div>Newest first · all competitions</div></header><nav class="tabs"><a href="./">Fixtures</a><a href="results.html" class="on">Results</a></nav><div class="wrap">' +
+    '</h1><div>Newest first · all competitions</div></header><nav class="tabs"><a href="./">Fixtures</a><a href="results.html" class="on">Results</a></nav><div class="wrap">' + table_html() +
     (comp_list or "<p>No results yet.</p>") +
     (f'<details style="margin-top:12px"><summary><b>Pre-season friendlies ({sum(1 for _, r in items if r.get("friendly"))})</b></summary>{fr_list}</details>' if fr_list else "") +
     f'</div><footer>Source: BBC Sport match pages. Last updated: {today.strftime("%d %b %Y")}. Scorers/minutes as listed by BBC; blank where BBC has no data.</footer></body></html>')
