@@ -1,11 +1,31 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "11th October 2026 at 02:20",
- "fetched": "11 Oct 2026 11:50 BST",
+ "bbc_updated": "11th October 2026 at 13:44",
+ "fetched": "11 Oct 2026 13:48 BST",
  "rows": [
   {
    "pos": 1,
+   "team": "Celtic",
+   "p": 8,
+   "w": 7,
+   "d": 0,
+   "l": 1,
+   "gf": 16,
+   "ga": 4,
+   "gd": 12,
+   "pts": 21,
+   "form": [
+    "W",
+    "W",
+    "W",
+    "W",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "pos": 2,
    "team": "Rangers",
    "p": 8,
    "w": 6,
@@ -22,26 +42,6 @@
     "W",
     "W",
     "W"
-   ]
-  },
-  {
-   "pos": 2,
-   "team": "Celtic",
-   "p": 7,
-   "w": 6,
-   "d": 0,
-   "l": 1,
-   "gf": 14,
-   "ga": 4,
-   "gd": 10,
-   "pts": 18,
-   "form": [
-    "W",
-    "W",
-    "W",
-    "W",
-    "W",
-    "L"
    ]
   },
   {
@@ -167,13 +167,13 @@
   {
    "pos": 9,
    "team": "Motherwell",
-   "p": 7,
+   "p": 8,
    "w": 2,
    "d": 2,
-   "l": 3,
+   "l": 4,
    "gf": 9,
-   "ga": 11,
-   "gd": -2,
+   "ga": 13,
+   "gd": -4,
    "pts": 8,
    "form": [
     "D",
