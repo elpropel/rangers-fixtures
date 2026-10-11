@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Oct 2026 11:50 BST",
+ "fetched": "11 Oct 2026 13:48 BST",
  "items": [
+  {
+   "title": "Rangers Advisory Board pull curtain back on roundtable and January transfer plan",
+   "link": "https://www.rangersreview.co.uk/news/26626128.rangers-advisory-board-reveal-roundtable-info-jan-transfer-plan/",
+   "excerpt": "The Fan Advisory board met with ownership who laid out their future including transfers, Ibrox and long-term planning.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/19913470/?type=app&htype=310",
+   "published": "Sun, 11 Oct 2026 11:53:57 +0100",
+   "published_uk": "Sun 11 Oct 2026, 11:53 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes' Rangers starting XI vs Kilmarnock revealed",
    "link": "https://www.rangersreview.co.uk/news/26624944.derek-mcinnes-rangers-starting-xi-face-kilmarnock/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21537523/?type=app&htype=59",
    "published": "Mon, 05 Oct 2026 10:46:38 +0100",
    "published_uk": "Mon 05 Oct 2026, 10:46 BST",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Ex-Rangers striker casts verdict on current centre forward options",
-   "link": "https://www.rangersreview.co.uk/news/26606070.ex-rangers-striker-casts-verdict-current-forward-options/",
-   "excerpt": "Ex-Rangers striker casts verdict on current centre forward options",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21536587/?type=app&htype=214",
-   "published": "Mon, 05 Oct 2026 07:13:53 +0100",
-   "published_uk": "Mon 05 Oct 2026, 07:13 BST",
    "author": "Blair Meikle"
   }
  ]
