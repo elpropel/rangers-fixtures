@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "11th October 2026 at 13:44",
- "fetched": "11 Oct 2026 13:48 BST",
+ "bbc_updated": "11th October 2026 at 14:53",
+ "fetched": "11 Oct 2026 15:44 BST",
  "rows": [
   {
    "pos": 1,
@@ -20,8 +20,8 @@
     "W",
     "W",
     "W",
-    "W",
-    "L"
+    "L",
+    "W"
    ]
   },
   {
@@ -86,6 +86,26 @@
   },
   {
    "pos": 5,
+   "team": "St. Johnstone",
+   "p": 8,
+   "w": 3,
+   "d": 2,
+   "l": 3,
+   "gf": 10,
+   "ga": 10,
+   "gd": 0,
+   "pts": 11,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
+    "L",
+    "D"
+   ]
+  },
+  {
+   "pos": 6,
    "team": "Dundee United",
    "p": 8,
    "w": 3,
@@ -105,7 +125,7 @@
    ]
   },
   {
-   "pos": 6,
+   "pos": 7,
    "team": "St. Mirren",
    "p": 8,
    "w": 3,
@@ -125,35 +145,15 @@
    ]
   },
   {
-   "pos": 7,
-   "team": "St. Johnstone",
-   "p": 7,
-   "w": 2,
-   "d": 2,
-   "l": 3,
-   "gf": 9,
-   "ga": 10,
-   "gd": -1,
-   "pts": 8,
-   "form": [
-    "L",
-    "L",
-    "D",
-    "W",
-    "L",
-    "D"
-   ]
-  },
-  {
    "pos": 8,
    "team": "Aberdeen",
-   "p": 7,
+   "p": 8,
    "w": 2,
    "d": 2,
-   "l": 3,
+   "l": 4,
    "gf": 7,
-   "ga": 8,
-   "gd": -1,
+   "ga": 9,
+   "gd": -2,
    "pts": 8,
    "form": [
     "L",
@@ -177,8 +177,8 @@
    "pts": 8,
    "form": [
     "D",
-    "D",
     "W",
+    "L",
     "L",
     "L",
     "L"
