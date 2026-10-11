@@ -1,5 +1,5 @@
 {
- "fetched": "11 Oct 2026 21:45 BST",
+ "fetched": "11 Oct 2026 23:51 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers dodge international break hangover!",
+   "published": "2026-10-11T20:50:00+00:00",
+   "published_uk": "Sun 11 Oct 2026, 21:50 BST",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4419003346.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Post Match LIVE: Rangers hit TOP SPOT in the Premiership with 3-1 win",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7586209618.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/5fdd92bc-bd7c-11f1-ad3a-0fa9382c593f/image/fbea9c76b5ceb6843fae4e1fedd484e4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers midweek podcast LIVE - Half way through the international break",
-   "published": "2026-09-30T19:39:00+00:00",
-   "published_uk": "Wed 30 Sep 2026, 20:39 BST",
-   "duration": "1h 21m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1710415970.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
