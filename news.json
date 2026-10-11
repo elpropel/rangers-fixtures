@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Oct 2026 15:44 BST",
+ "fetched": "11 Oct 2026 17:42 BST",
  "items": [
+  {
+   "title": "The Rangers man willing to 'give up limelight' has pundit grinning",
+   "link": "https://www.rangersreview.co.uk/news/26626447.rangers-man-willing-give-limelight-pundit-grinning/",
+   "excerpt": "Gordon Dalziel praises Rangers striker Ryan Naderi after his Celtic winner and brace against Kilmarnock, saying the Czech international is thriving with confidence.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21565743/?type=app&htype=0",
+   "published": "Sun, 11 Oct 2026 16:36:39 +0100",
+   "published_uk": "Sun 11 Oct 2026, 16:36 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers Advisory Board pull curtain back on roundtable and January transfer plan",
    "link": "https://www.rangersreview.co.uk/news/26626128.rangers-advisory-board-reveal-roundtable-info-jan-transfer-plan/",
@@ -173,15 +182,6 @@
    "published": "Mon, 05 Oct 2026 12:03:56 +0100",
    "published_uk": "Mon 05 Oct 2026, 12:03 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Steven Gerrard lands new role fresh from Rangers chat on Open Goal",
-   "link": "https://www.rangersreview.co.uk/news/26606873.steven-gerrard-lands-new-role-fresh-open-goal-rangers-chat/",
-   "excerpt": "Steven Gerrard lands new role fresh from Rangers chat on Open Goal",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21537523/?type=app&htype=59",
-   "published": "Mon, 05 Oct 2026 10:46:38 +0100",
-   "published_uk": "Mon 05 Oct 2026, 10:46 BST",
-   "author": "Blair Meikle"
   }
  ]
 }
