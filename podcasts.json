@@ -1,5 +1,5 @@
 {
- "fetched": "11 Oct 2026 11:50 BST",
+ "fetched": "11 Oct 2026 13:48 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Post Match LIVE: Rangers hit TOP SPOT in the Premiership with 3-1 win",
+   "published": "2026-10-11T11:16:00+00:00",
+   "published_uk": "Sun 11 Oct 2026, 12:16 BST",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6509160604.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Graeme Souness EXCLUSIVE: Rangers icon speaks to Chris Jack",
+   "published": "2026-10-11T11:12:00+00:00",
+   "published_uk": "Sun 11 Oct 2026, 12:12 BST",
+   "duration": "44 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6227574579.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers 3 vs 1 Kilmarnock | Match Reaction | Scottish Premiership",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1710415970.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers’ Real Title Test Is About to Begin | Ivor Pandur Impact",
-   "published": "2026-09-30T09:41:00+00:00",
-   "published_uk": "Wed 30 Sep 2026, 10:41 BST",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8256528038.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1391d478-bcb3-11f1-a47c-5f89e1d3d645/image/dc809b8b80e4c9071e3de866c402bd2c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Do Rangers Need More Experience?",
-   "published": "2026-09-29T22:28:00+00:00",
-   "published_uk": "Tue 29 Sep 2026, 23:28 BST",
-   "duration": "38 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6721968056.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
