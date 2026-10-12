@@ -1,8 +1,35 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Oct 2026 19:57 BST",
+ "fetched": "12 Oct 2026 21:57 BST",
  "items": [
+  {
+   "title": "Watch ex Rangers kid Robbie Ure score first Sevilla goal",
+   "link": "https://www.rangersreview.co.uk/news/26630232.watch-ex-rangers-kid-robbie-ure-score-first-sevilla-goal/",
+   "excerpt": "This was the moment Robbie Ure scored his first goal for new club Sevilla.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21571460/?type=app&htype=0",
+   "published": "Mon, 12 Oct 2026 20:57:20 +0100",
+   "published_uk": "Mon 12 Oct 2026, 20:57 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "International media 'worry' for Derek McInnes Rangers summer signing",
+   "link": "https://www.rangersreview.co.uk/news/26630226.international-media-worry-derek-mcinnes-rangers-summer-signing/",
+   "excerpt": "Rangers seem to have a settled XI under McInnes and one star has struggled to push into that lineup.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21423640/?type=app&htype=0",
+   "published": "Mon, 12 Oct 2026 20:43:15 +0100",
+   "published_uk": "Mon 12 Oct 2026, 20:43 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Rangers coach departs for Scottish Premiership club's backroom role",
+   "link": "https://www.rangersreview.co.uk/news/26630205.rangers-coach-departs-scottish-premiership-clubs-backroom-role/",
+   "excerpt": "Conor Brennan has left Rangers to take up a role with Kilmarnock in their first-team setup.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21571421/?type=app&htype=0",
+   "published": "Mon, 12 Oct 2026 20:14:36 +0100",
+   "published_uk": "Mon 12 Oct 2026, 20:14 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers land triple TV fixture change and a Christmas cracker vs Hearts",
    "link": "https://www.rangersreview.co.uk/news/26629111.rangers-land-triple-fixture-change-christmas-cracker-vs-hearts/",
@@ -154,33 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=12",
    "published": "Thu, 08 Oct 2026 12:34:00 +0100",
    "published_uk": "Thu 08 Oct 2026, 12:34 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers urged to prolong growing 'trust' between team and supporters",
-   "link": "https://www.rangersreview.co.uk/news/26618576.rangers-urged-prolong-trust-team-supporters/",
-   "excerpt": "Rangers must capitalise on their recent derby victories in the Premiership, according to Rangers Review contributors Derek Clark and Joshua Barrie.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21554070/?type=app&htype=0",
-   "published": "Thu, 08 Oct 2026 12:05:00 +0100",
-   "published_uk": "Thu 08 Oct 2026, 12:05 BST",
-   "author": "The Rangers Review"
-  },
-  {
-   "title": "Rangers land boss and player double as Derek McInnes and Olwethu Makhanya earn awards",
-   "link": "https://www.rangersreview.co.uk/news/26618239.gers-land-boss-player-double-mcinnes-makhanya-land-awards/",
-   "excerpt": "Rangers land boss and player double as Derek McInnes and Olwethu Makhanya land awards",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21553542/?type=app&htype=0",
-   "published": "Thu, 08 Oct 2026 10:59:12 +0100",
-   "published_uk": "Thu 08 Oct 2026, 10:59 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Why Tuur Rommens has Rangers fight on his hands amid injury return",
-   "link": "https://www.rangersreview.co.uk/news/26617099.tuur-rommens-rangers-fight-hands-amid-injury-return/",
-   "excerpt": "The full-back suffered injury earlier this term but is seemingly closing in on a comeback.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20800793/?type=app&htype=0",
-   "published": "Wed, 07 Oct 2026 18:25:48 +0100",
-   "published_uk": "Wed 07 Oct 2026, 18:25 BST",
    "author": "Stewart Wilson"
   }
  ]
