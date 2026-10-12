@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Oct 2026 14:02 BST",
+ "fetched": "12 Oct 2026 16:11 BST",
  "items": [
+  {
+   "title": "Rangers land triple TV fixture change and a Christmas cracker vs Hearts",
+   "link": "https://www.rangersreview.co.uk/news/26629111.rangers-land-triple-fixture-change-christmas-cracker-vs-hearts/",
+   "excerpt": "Rangers have had three key fixtures moved in December as Derek McInnes' men get set for a defining festive run.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21404160/?type=app&htype=149",
+   "published": "Mon, 12 Oct 2026 15:06:39 +0100",
+   "published_uk": "Mon 12 Oct 2026, 15:06 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "How Rangers are getting best out of red-hot Naderi's 'brilliant' goalscoring trait",
+   "link": "https://www.rangersreview.co.uk/news/26628937.rangers-getting-best-red-hot-ryan-naderi/",
+   "excerpt": "Ryan Naderi has recorded nine goal involvements in his last eight appearances for Rangers after striking twice against Kilmarnock.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21569406/?type=app&htype=0",
+   "published": "Mon, 12 Oct 2026 14:39:13 +0100",
+   "published_uk": "Mon 12 Oct 2026, 14:39 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Watch ex-Rangers star provide classy assist as fellow ex-SPFL ace nets in big win",
    "link": "https://www.rangersreview.co.uk/news/26626862.watch-ex-rangers-stars-classy-assist-ex-spfl-ace-nets-big-win/",
@@ -164,24 +182,6 @@
    "published": "Wed, 07 Oct 2026 18:25:48 +0100",
    "published_uk": "Wed 07 Oct 2026, 18:25 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Barry Ferguson addresses Rangers' Tennent's Sixes campaign and makes future vow",
-   "link": "https://www.rangersreview.co.uk/news/26616400.barry-ferguson-addresses-rangers-tennents-sixes-campaign/",
-   "excerpt": "Barry Ferguson has broken cover after Rangers' Tennent's Sixes final appearance and vowed to go again next year.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20715942/?type=app&htype=0",
-   "published": "Wed, 07 Oct 2026 15:49:08 +0100",
-   "published_uk": "Wed 07 Oct 2026, 15:49 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers' 'vitally important' objective underlined after extended break",
-   "link": "https://www.rangersreview.co.uk/news/26614666.rangers-vitally-important-goal-underlined-break/",
-   "excerpt": "Rangers can move top of the Premiership and heap pressure on Celtic by beating Kilmarnock at Ibrox on Saturday.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21548467/?type=app&htype=0",
-   "published": "Wed, 07 Oct 2026 11:16:00 +0100",
-   "published_uk": "Wed 07 Oct 2026, 11:16 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
