@@ -1,5 +1,5 @@
 {
- "fetched": "12 Oct 2026 09:43 BST",
+ "fetched": "12 Oct 2026 11:48 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers’ Winning Run Keeps Rolling: The Kilmarnock Talking Points",
+   "published": "2026-10-12T09:37:00+00:00",
+   "published_uk": "Mon 12 Oct 2026, 10:37 BST",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9067340529.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/88c7b020-c620-11f1-848f-2fc70de3a3ae/image/64a9e69c6d3bf1fc37589d0b26afddae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers dodge international break hangover!",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9333765328.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/ab3c3fce-bdcc-11f1-8960-9b0ce0b15454/image/23eecd99887333fb1ce6dfdf5409e31d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "“There’s No Connection Like It” - Naderi’s Message to Rangers Fans",
-   "published": "2026-10-01T09:42:00+00:00",
-   "published_uk": "Thu 01 Oct 2026, 10:42 BST",
-   "duration": "42 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7586209618.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/5fdd92bc-bd7c-11f1-ad3a-0fa9382c593f/image/fbea9c76b5ceb6843fae4e1fedd484e4.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
