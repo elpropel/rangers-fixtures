@@ -1,5 +1,5 @@
 {
- "fetched": "12 Oct 2026 17:59 BST",
+ "fetched": "12 Oct 2026 19:57 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Flagship - 7 Wins In A Row",
+   "published": "2026-10-12T17:25:00+00:00",
+   "published_uk": "Mon 12 Oct 2026, 18:25 BST",
+   "duration": "49 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7789725878.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/3fa446e0-c65e-11f1-b9f2-9ff5d867bccb/image/faae27adfaed6660f4a69be4eaa7d7af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers’ Winning Run Keeps Rolling: The Kilmarnock Talking Points",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641426198.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Season So Far | This Is Ibrox and Four Lads Had A Dream!",
-   "published": "2026-10-01T19:16:00+00:00",
-   "published_uk": "Thu 01 Oct 2026, 20:16 BST",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9333765328.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/ab3c3fce-bdcc-11f1-8960-9b0ce0b15454/image/23eecd99887333fb1ce6dfdf5409e31d.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
