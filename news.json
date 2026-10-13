@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "13 Oct 2026 15:58 BST",
+ "fetched": "13 Oct 2026 18:01 BST",
  "items": [
+  {
+   "title": "The key to making title rivals 'squirm' as Rangers urged to pile on pressure",
+   "link": "https://www.rangersreview.co.uk/news/26633645.rangers-urged-make-premiership-rivals-squirm/",
+   "excerpt": "Rangers Review contributors, Clark and Malloy, believe Rangers must maintain pressure on their title rivals.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21576394/?type=app&htype=0",
+   "published": "Tue, 13 Oct 2026 16:58:00 +0100",
+   "published_uk": "Tue 13 Oct 2026, 16:58 BST",
+   "author": "The Rangers Review"
+  },
+  {
+   "title": "Rangers learn referee for Dundee clash ahead of Dens Park trip",
+   "link": "https://www.rangersreview.co.uk/news/26633458.rangers-learn-officiating-team-upcoming-dundee-match/",
+   "excerpt": "Nicolson will referee Rangers’ Premiership visit to Dundee at Dens Park on Saturday night.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21406968/?type=app&htype=48",
+   "published": "Tue, 13 Oct 2026 16:30:00 +0100",
+   "published_uk": "Tue 13 Oct 2026, 16:30 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Double Rangers acclaim as Makhanya and £4m understudy soar in key transfer report",
    "link": "https://www.rangersreview.co.uk/news/26631304.rangers-acclaim-makhanya-4m-man-soar-key-transfer-report/",
@@ -164,24 +182,6 @@
    "published": "Fri, 09 Oct 2026 11:42:00 +0100",
    "published_uk": "Fri 09 Oct 2026, 11:42 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "After 'unbelievable' Old Firm highs, ex-Rangers star eyes derby repeat at new club",
-   "link": "https://www.rangersreview.co.uk/news/26621129.ex-rangers-star-hails-unbelievable-old-firm-experiences/",
-   "excerpt": "Former Rangers loanee Moore will look to use his Old Firm derby experience to good use this weekend",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21149120/?type=app&htype=0",
-   "published": "Fri, 09 Oct 2026 08:27:00 +0100",
-   "published_uk": "Fri 09 Oct 2026, 08:27 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers defender reveals his one major regret from four-year Ibrox spell",
-   "link": "https://www.rangersreview.co.uk/news/26619417.ex-rangers-defender-one-major-regret-ibrox-spell/",
-   "excerpt": "Former Rangers defender Davies says poor results stopped him seeing Ibrox at its best.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20882966/?type=app&htype=0",
-   "published": "Thu, 08 Oct 2026 14:19:00 +0100",
-   "published_uk": "Thu 08 Oct 2026, 14:19 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
