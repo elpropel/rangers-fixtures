@@ -1,5 +1,5 @@
 {
- "fetched": "13 Oct 2026 21:43 BST",
+ "fetched": "13 Oct 2026 23:44 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "TII Tuesday - Can Rangers make it 8 wins on the bounce at Dens?",
+   "published": "2026-10-13T22:06:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 23:06 BST",
+   "duration": "34 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6099750241.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/e6a48184-c74f-11f1-b085-53f6830de6db/image/2f1fc9a5a8dd004e363088f173de4f61.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "NADERI NETS AGAIN! | Club Deck Corner",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4714280397.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes’ Big Kilmarnock Dilemma: Keep a Winning Team or Rotate?",
-   "published": "2026-10-05T10:20:00+00:00",
-   "published_uk": "Mon 05 Oct 2026, 11:20 BST",
-   "duration": "50 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1211789213.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/66e9dfa2-c0a6-11f1-8f9e-0f987c5cd6ba/image/30087567aaa040a183944e3c6d027871.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
