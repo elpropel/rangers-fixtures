@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "13 Oct 2026 19:55 BST",
+ "fetched": "13 Oct 2026 21:43 BST",
  "items": [
+  {
+   "title": "Rangers wonderkid 'set' for England call-up as international tug-of-war looms",
+   "link": "https://www.rangersreview.co.uk/news/26634053.rangers-wonderkid-set-england-tournament-call-up/",
+   "excerpt": "A Rangers academy player could be selected to play for England in an upcoming tournament, according to a report.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
+   "published": "Tue, 13 Oct 2026 20:00:00 +0100",
+   "published_uk": "Tue 13 Oct 2026, 20:00 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers prospect lands fresh start after earning English Championship move",
    "link": "https://www.rangersreview.co.uk/news/26634017.ex-rangers-prospect-lands-english-championship-opportunity/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21562536/?type=app&htype=0",
    "published": "Fri, 09 Oct 2026 19:06:44 +0100",
    "published_uk": "Fri 09 Oct 2026, 19:06 BST",
-   "author": "David Irvine"
-  },
-  {
-   "title": "Paraag Marathe makes 'short-term' Rangers planning admission as sole goal outlined",
-   "link": "https://www.rangersreview.co.uk/news/26624685.paraag-marathe-makes-short-term-rangers-planning-admission/",
-   "excerpt": "Paraag Marathe makes 'short-term' Rangers planning admission in Leeds comparison",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21562526/?type=app&htype=0",
-   "published": "Fri, 09 Oct 2026 18:56:56 +0100",
-   "published_uk": "Fri 09 Oct 2026, 18:56 BST",
    "author": "David Irvine"
   }
  ]
