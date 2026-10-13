@@ -1,5 +1,5 @@
 {
- "fetched": "13 Oct 2026 07:44 BST",
+ "fetched": "13 Oct 2026 09:46 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night podcast LIVE - Rangers win again, Chairmans meeting and comp winner!",
+   "published": "2026-10-13T07:37:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 08:37 BST",
+   "duration": "1h 29m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3760501824.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Sunday Show - Back to the real football!",
+   "published": "2026-10-13T07:35:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 08:35 BST",
+   "duration": "57 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2431299703.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Flagship - 7 Wins In A Row",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9304053800.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/dbfe7918-beff-11f1-929f-6fafc0a71c41/image/1a450a31cd75b0103e3ecfc031fe1687.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Friday night podcast LIVE",
-   "published": "2026-10-02T20:05:00+00:00",
-   "published_uk": "Fri 02 Oct 2026, 21:05 BST",
-   "duration": "51 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7178700489.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers’ Squad Is Now Worth More Than Celtic’s — Here’s Why",
-   "published": "2026-10-02T10:03:00+00:00",
-   "published_uk": "Fri 02 Oct 2026, 11:03 BST",
-   "duration": "1h 02m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641426198.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
