@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "13 Oct 2026 18:01 BST",
+ "fetched": "13 Oct 2026 19:55 BST",
  "items": [
+  {
+   "title": "Ex-Rangers prospect lands fresh start after earning English Championship move",
+   "link": "https://www.rangersreview.co.uk/news/26634017.ex-rangers-prospect-lands-english-championship-opportunity/",
+   "excerpt": "Former Rangers academy goalkeeper Halliwell has joined Championship club Derby County on a two-year contract.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21576960/?type=app&htype=0",
+   "published": "Tue, 13 Oct 2026 19:18:00 +0100",
+   "published_uk": "Tue 13 Oct 2026, 19:18 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "The key to making title rivals 'squirm' as Rangers urged to pile on pressure",
    "link": "https://www.rangersreview.co.uk/news/26633645.rangers-urged-make-premiership-rivals-squirm/",
@@ -173,15 +182,6 @@
    "published": "Fri, 09 Oct 2026 18:56:56 +0100",
    "published_uk": "Fri 09 Oct 2026, 18:56 BST",
    "author": "David Irvine"
-  },
-  {
-   "title": "The £4m-rated new Rangers star backed to make a big 'impact' this weekend",
-   "link": "https://www.rangersreview.co.uk/news/26622173.4m-rated-rangers-star-backed-make-big-impact/",
-   "excerpt": "Rangers manager McInnes' concerns over the extended international break were discussed in the Rangers Review morning briefing.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21558794/?type=app&htype=0",
-   "published": "Fri, 09 Oct 2026 11:42:00 +0100",
-   "published_uk": "Fri 09 Oct 2026, 11:42 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
