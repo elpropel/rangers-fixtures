@@ -1,5 +1,5 @@
 {
- "fetched": "13 Oct 2026 19:55 BST",
+ "fetched": "13 Oct 2026 21:43 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "NADERI NETS AGAIN! | Club Deck Corner",
+   "published": "2026-10-13T19:55:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 20:55 BST",
+   "duration": "49 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9019265543.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1e3cf12c-c740-11f1-8788-7b4afd1d2f0a/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-10-13T19:49:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 20:49 BST",
+   "duration": "1h 09m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3168466559.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "“Don’t Expect Much Activity”: Rangers’ January Transfer Plans | Yet More Fixture Changes",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1211789213.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/66e9dfa2-c0a6-11f1-8f9e-0f987c5cd6ba/image/30087567aaa040a183944e3c6d027871.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Sunday Show - Just 6 days till Rangers are back!",
-   "published": "2026-10-04T20:51:00+00:00",
-   "published_uk": "Sun 04 Oct 2026, 21:51 BST",
-   "duration": "44 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2001741557.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "What Does A Successful Rangers Season Look Like?",
-   "published": "2026-10-04T20:35:00+00:00",
-   "published_uk": "Sun 04 Oct 2026, 21:35 BST",
-   "duration": "47 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1823413173.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/346abccc-c033-11f1-880e-6f6e78c4706a/image/63aedeeceddc4d2cfd07657db7d072a6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
