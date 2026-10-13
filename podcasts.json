@@ -1,5 +1,5 @@
 {
- "fetched": "13 Oct 2026 09:46 BST",
+ "fetched": "13 Oct 2026 11:42 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "“Don’t Expect Much Activity”: Rangers’ January Transfer Plans | Yet More Fixture Changes",
+   "published": "2026-10-13T09:49:00+00:00",
+   "published_uk": "Tue 13 Oct 2026, 10:49 BST",
+   "duration": "48 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7643644031.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/64cc0128-c6eb-11f1-ba7a-f7b7bf3e761a/image/83ab2712af061790b73c3f5ee7da4a94.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Monday night podcast LIVE - Rangers win again, Chairmans meeting and comp winner!",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1823413173.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/346abccc-c033-11f1-880e-6f6e78c4706a/image/63aedeeceddc4d2cfd07657db7d072a6.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "What Rangers need to prove over the month of October",
-   "published": "2026-10-03T07:55:00+00:00",
-   "published_uk": "Sat 03 Oct 2026, 08:55 BST",
-   "duration": "35 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9304053800.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/dbfe7918-beff-11f1-929f-6fafc0a71c41/image/1a450a31cd75b0103e3ecfc031fe1687.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
