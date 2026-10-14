@@ -1,5 +1,5 @@
 {
- "fetched": "14 Oct 2026 19:44 BST",
+ "fetched": "14 Oct 2026 21:48 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Midweek podcast LIVE - Gers gear up for Dundee away",
+   "published": "2026-10-14T19:59:00+00:00",
+   "published_uk": "Wed 14 Oct 2026, 20:59 BST",
+   "duration": "1h 03m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6762497739.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Why Rangers finally have tools to overcome low blocks",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5530078512.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Is This Rangers’ Defence a Title-Winning Backline?",
-   "published": "2026-10-06T09:28:00+00:00",
-   "published_uk": "Tue 06 Oct 2026, 10:28 BST",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6879084113.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/55757cc8-c168-11f1-923f-a7f987088775/image/c871f9594c10e022f317bc31141f557c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
