@@ -1,5 +1,5 @@
 {
- "fetched": "14 Oct 2026 09:49 BST",
+ "fetched": "14 Oct 2026 11:45 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Why Rangers finally have tools to overcome low blocks",
+   "published": "2026-10-14T09:58:00+00:00",
+   "published_uk": "Wed 14 Oct 2026, 10:58 BST",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7164136700.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/da4ee26a-c7b5-11f1-a8bf-5fff2bd3789d/image/5e91783355b60b620be4c75fafc64cf9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "TII Tuesday - Can Rangers make it 8 wins on the bounce at Dens?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6879084113.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/55757cc8-c168-11f1-923f-a7f987088775/image/c871f9594c10e022f317bc31141f557c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Monday night podcast LIVE - We are almost there",
-   "published": "2026-10-05T20:13:00+00:00",
-   "published_uk": "Mon 05 Oct 2026, 21:13 BST",
-   "duration": "1h 07m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4714280397.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
