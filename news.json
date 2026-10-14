@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "14 Oct 2026 15:45 BST",
+ "fetched": "14 Oct 2026 17:42 BST",
  "items": [
+  {
+   "title": "The Rangers 'disrupt' factor playing directly into Derek McInnes' hands",
+   "link": "https://www.rangersreview.co.uk/news/26637261.key-disrupt-factor-playing-rangers-hands/",
+   "excerpt": "Barrie believes a change in how Scottish Premiership sides approach matches at Ibrox is playing into McInnes' hands this season.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21581226/?type=app&htype=0",
+   "published": "Wed, 14 Oct 2026 16:21:00 +0100",
+   "published_uk": "Wed 14 Oct 2026, 16:21 BST",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Ex-referees on Neil McCann's Rangers handball shout as he's told 'stop greeting'",
    "link": "https://www.rangersreview.co.uk/news/26634415.ex-refs-rangers-handball-shout-mccann-told-stop-greeting/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20440618/?type=app&htype=0",
    "published": "Sat, 10 Oct 2026 13:10:00 +0100",
    "published_uk": "Sat 10 Oct 2026, 13:10 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "After going from Rangers to the National League in 18 months, this is my regret",
-   "link": "https://www.rangersreview.co.uk/news/26624884.going-rangers-national-league-regret/",
-   "excerpt": "Former Rangers midfielder Charlie McCann has confessed he 'should have just stuck it out' at Ibrox.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21562862/?type=app&htype=0",
-   "published": "Sat, 10 Oct 2026 07:24:00 +0100",
-   "published_uk": "Sat 10 Oct 2026, 07:24 BST",
    "author": "Stewart Wilson"
   }
  ]
