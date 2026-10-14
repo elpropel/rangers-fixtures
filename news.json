@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "14 Oct 2026 07:50 BST",
+ "fetched": "14 Oct 2026 09:49 BST",
  "items": [
+  {
+   "title": "Ex-referees on Neil McCann's Rangers handball shout as he's told 'stop greeting'",
+   "link": "https://www.rangersreview.co.uk/news/26634415.ex-refs-rangers-handball-shout-mccann-told-stop-greeting/",
+   "excerpt": "Ex-referees on Neil McCann's Rangers handball shout as he's told 'stop greeting'",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21577474/?type=app&htype=58",
+   "published": "Wed, 14 Oct 2026 08:54:36 +0100",
+   "published_uk": "Wed 14 Oct 2026, 08:54 BST",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Rangers wonderkid 'set' for England call-up as international tug-of-war looms",
    "link": "https://www.rangersreview.co.uk/news/26634053.rangers-wonderkid-set-england-tournament-call-up/",
@@ -173,15 +182,6 @@
    "published": "Sat, 10 Oct 2026 07:24:00 +0100",
    "published_uk": "Sat 10 Oct 2026, 07:24 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers star accepts suspension after failing doping test",
-   "link": "https://www.rangersreview.co.uk/news/26624692.ex-rangers-star-accepts-suspension-failed-doping-test/",
-   "excerpt": "Ex-Rangers star accepts suspension after failing doping test",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21562536/?type=app&htype=0",
-   "published": "Fri, 09 Oct 2026 19:06:44 +0100",
-   "published_uk": "Fri 09 Oct 2026, 19:06 BST",
-   "author": "David Irvine"
   }
  ]
 }
