@@ -1,5 +1,5 @@
 {
- "fetched": "15 Oct 2026 17:48 BST",
+ "fetched": "15 Oct 2026 19:49 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Inside Rangers’ Chairman Meeting: Transfer Plans, Ibrox Expansion and Dan Purdy Exit",
+   "published": "2026-10-15T18:19:00+00:00",
+   "published_uk": "Thu 15 Oct 2026, 19:19 BST",
+   "duration": "51 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4093985337.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/f8344878-c8c4-11f1-be72-8737cdc25db4/image/34dad91c942dbdac4655b22d31584b17.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Love/Hate at Eight",
+   "published": "2026-10-15T18:00:00+00:00",
+   "published_uk": "Thu 15 Oct 2026, 19:00 BST",
+   "duration": "50 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641682179.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/4334a7e8-c8b4-11f1-878a-a35489ba5abd/image/15f937bea669f7f1bffa1a08c0360921.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Do Rangers Make Dens Park Changes? | Is Connor Barron Being Wasted at Middlesbrough?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3363495841.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/b9cb5060-c25a-11f1-828e-63a3313c5e86/image/9f731b458c406b9a75d704029b31ae9e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Can Rangers ramp up pressure on Celtic? | Candeias' Ibrox exit regret",
-   "published": "2026-10-07T09:39:00+00:00",
-   "published_uk": "Wed 07 Oct 2026, 10:39 BST",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5823169922.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/08d46016-c233-11f1-9540-bb099b30a87c/image/b6ca660cd0607d33c1d528d48c3d15eb.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "🎙️️ BACK WITH A BUMPER SPECIAL! 💥 | Club Deck Corner Crossover",
-   "published": "2026-10-06T20:14:00+00:00",
-   "published_uk": "Tue 06 Oct 2026, 21:14 BST",
-   "duration": "1h 01m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8219322290.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/7fc7eec0-c1c2-11f1-922b-cb4c809e4b63/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
