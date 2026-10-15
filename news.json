@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "15 Oct 2026 15:51 BST",
+ "fetched": "15 Oct 2026 17:48 BST",
  "items": [
+  {
+   "title": "The evaporating Rangers 'anxiety' as Derek McInnes transformation gathers pace",
+   "link": "https://www.rangersreview.co.uk/news/26641316.rangers-evaporating-anxiety-amid-derek-mcinnes-turnaround/",
+   "excerpt": "The Rangers Review morning briefing for October 15",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21587428/?type=app&htype=0",
+   "published": "Thu, 15 Oct 2026 17:06:00 +0100",
+   "published_uk": "Thu 15 Oct 2026, 17:06 BST",
+   "author": "The Rangers Review"
+  },
   {
    "title": "The Rangers 'disrupt' factor playing directly into Derek McInnes' hands",
    "link": "https://www.rangersreview.co.uk/news/26637261.key-disrupt-factor-playing-rangers-hands/",
@@ -173,15 +182,6 @@
    "published": "Sat, 10 Oct 2026 13:15:00 +0100",
    "published_uk": "Sat 10 Oct 2026, 13:15 BST",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "Neil Doncaster provides update on Old Firm away allocations amid current lockout",
-   "link": "https://www.rangersreview.co.uk/news/26625241.neil-doncaster-provides-update-old-firm-away-allocations/",
-   "excerpt": "Away supporters could return to Old Firm matches “as soon as possible”, Neil Doncaster said",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20440618/?type=app&htype=0",
-   "published": "Sat, 10 Oct 2026 13:10:00 +0100",
-   "published_uk": "Sat 10 Oct 2026, 13:10 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
