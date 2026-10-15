@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:ea89acab72086ec3@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Dundee v Rangers (Scottish Premiership)
 LOCATION:Dens Park
 DESCRIPTION:TV: Sky Sports (Main Event / Football) (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-10?filter=fixtures
@@ -35,7 +35,7 @@ DTEND;TZID=Europe/London:20261017T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:ee5ff147b408324f@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v St Johnstone (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-10?filter=fixtures
@@ -44,7 +44,7 @@ DTEND;TZID=Europe/London:20261024T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:29e3cdf1b59f6931@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Hearts v Rangers (Scottish Premiership)
 LOCATION:Tynecastle Park
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-10?filter=fixtures
@@ -53,7 +53,7 @@ DTEND;TZID=Europe/London:20261028T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:06e1b5c577c68d4c@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Aberdeen (Scottish League Cup (Premier Sports Cup) semi-final)
 LOCATION:Hampden Park\, Glasgow
 DESCRIPTION:TV: Premier Sports 1 (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-10?filter=fixtures
@@ -62,7 +62,7 @@ DTEND;TZID=Europe/London:20261031T193000
 END:VEVENT
 BEGIN:VEVENT
 UID:eac0fdae47950f57@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:St Mirren v Rangers (Scottish Premiership)
 LOCATION:SMiSA Stadium
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-11?filter=fixtures
@@ -71,7 +71,7 @@ DTEND;TZID=Europe/London:20261107T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:b4d4c86454d5cd7a@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Motherwell v Rangers (Scottish Premiership)
 LOCATION:Fir Park
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-11?filter=fixtures
@@ -80,7 +80,7 @@ DTEND;TZID=Europe/London:20261121T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:e9db7653348c5aa1@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Aberdeen (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-11?filter=fixtures (BBC: league game on Tue 24 Nov\; 31 Oct is League Cup semi)
@@ -89,7 +89,7 @@ DTEND;TZID=Europe/London:20261124T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:2fe1aba7073bd10c@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Falkirk (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-11?filter=fixtures
@@ -98,7 +98,7 @@ DTEND;TZID=Europe/London:20261128T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:bf03e0182bb9d6d3@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Dundee United (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures
@@ -107,7 +107,7 @@ DTEND;TZID=Europe/London:20261202T214500
 END:VEVENT
 BEGIN:VEVENT
 UID:552339344fa6ead7@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Hibernian v Rangers (Scottish Premiership)
 LOCATION:Easter Road
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures
@@ -116,7 +116,7 @@ DTEND;TZID=Europe/London:20261207T220000
 END:VEVENT
 BEGIN:VEVENT
 UID:2e73e3c612788dca@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:St Johnstone v Rangers (Scottish Premiership)
 LOCATION:McDiarmid Park
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures (subject to change if Rangers reach League Cup final)
@@ -125,7 +125,7 @@ DTEND;TZID=Europe/London:20261213T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:4ba33f4d28ea442b@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Hearts or Hibernian (Scottish League Cup final (if Rangers beat Aberdeen)) - kick-off TBC
 LOCATION:Hampden Park\, Glasgow
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/articles/cm4gk04w592vo (BBC)\; rangers.co.uk Dec TV note: St Johnstone league game on 13 Dec postponed if Rangers reach this final
@@ -134,7 +134,7 @@ DTEND;VALUE=DATE:20261214
 END:VEVENT
 BEGIN:VEVENT
 UID:18aca340c1dc25e7@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Hearts (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: Sky Sports (UK)\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures
@@ -143,7 +143,7 @@ DTEND;TZID=Europe/London:20261220T163000
 END:VEVENT
 BEGIN:VEVENT
 UID:12e6b3ca0471b432@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Kilmarnock v Rangers (Scottish Premiership)
 LOCATION:Rugby Park
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures
@@ -152,7 +152,7 @@ DTEND;TZID=Europe/London:20261226T194500
 END:VEVENT
 BEGIN:VEVENT
 UID:4237a2e0c2f9f3f1@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Dundee (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2026-12?filter=fixtures
@@ -161,7 +161,7 @@ DTEND;TZID=Europe/London:20261230T214500
 END:VEVENT
 BEGIN:VEVENT
 UID:c24d2125b113f1a9@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Celtic (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-01?filter=fixtures
@@ -170,7 +170,7 @@ DTEND;TZID=Europe/London:20270103T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:cb0b498cd1028e7b@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Dundee United v Rangers (Scottish Premiership)
 LOCATION:Tannadice Park
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-01?filter=fixtures
@@ -179,7 +179,7 @@ DTEND;TZID=Europe/London:20270109T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:262c1c82e8c9f494@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v St Johnstone (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-01?filter=fixtures
@@ -188,7 +188,7 @@ DTEND;TZID=Europe/London:20270123T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:e0bb031fd2ac7ef1@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Aberdeen v Rangers (Scottish Premiership)
 LOCATION:Pittodrie Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-01?filter=fixtures
@@ -197,7 +197,7 @@ DTEND;TZID=Europe/London:20270130T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:22e2f922c8a3ac69@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Kilmarnock (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: Live coverage TBC · UK: audio/on-demand may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-02?filter=fixtures
@@ -206,7 +206,7 @@ DTEND;TZID=Europe/London:20270203T214500
 END:VEVENT
 BEGIN:VEVENT
 UID:29ff0147719b8e6a@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Falkirk v Rangers (Scottish Premiership)
 LOCATION:Falkirk Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-02?filter=fixtures
@@ -215,7 +215,7 @@ DTEND;TZID=Europe/London:20270213T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:d38a1a3ee8603242@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v St Mirren (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-02?filter=fixtures
@@ -224,7 +224,7 @@ DTEND;TZID=Europe/London:20270220T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:44b9b25d8a48c0b3@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Celtic v Rangers (Scottish Premiership)
 LOCATION:Celtic Park
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-02?filter=fixtures
@@ -233,7 +233,7 @@ DTEND;TZID=Europe/London:20270227T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:e8df00db219253c4@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Motherwell (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-03?filter=fixtures
@@ -242,7 +242,7 @@ DTEND;TZID=Europe/London:20270313T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:c7099f66db0efc28@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Hearts v Rangers (Scottish Premiership)
 LOCATION:Tynecastle Park
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-03?filter=fixtures
@@ -251,7 +251,7 @@ DTEND;TZID=Europe/London:20270320T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:533343d90f07a94f@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Rangers v Hibernian (Scottish Premiership)
 LOCATION:Ibrox Stadium
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-04?filter=fixtures
@@ -260,7 +260,7 @@ DTEND;TZID=Europe/London:20270403T170000
 END:VEVENT
 BEGIN:VEVENT
 UID:1e1defc310b1eb44@rangers-fixtures
-DTSTAMP:20261015T104825Z
+DTSTAMP:20261015T124951Z
 SUMMARY:Dundee v Rangers (Scottish Premiership)
 LOCATION:Dens Park
 DESCRIPTION:TV: TV TBC\nRangersTV: No UK live video (Sat 3pm blackout) · UK live audio may be available\nWatch: https://video.rangers.co.uk/ | Subscribe: https://rangerspayments.streamamg.com/account/register/step1\nSource: https://www.bbc.co.uk/sport/football/teams/rangers/scores-fixtures/2027-04?filter=fixtures
