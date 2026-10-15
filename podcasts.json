@@ -1,5 +1,5 @@
 {
- "fetched": "15 Oct 2026 09:41 BST",
+ "fetched": "15 Oct 2026 11:48 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Do Rangers Make Dens Park Changes? | Is Connor Barron Being Wasted at Middlesbrough?",
+   "published": "2026-10-15T10:12:00+00:00",
+   "published_uk": "Thu 15 Oct 2026, 11:12 BST",
+   "duration": "47 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5125068758.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Midweek podcast LIVE - Gers gear up for Dundee away",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8219322290.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/7fc7eec0-c1c2-11f1-922b-cb4c809e4b63/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads This Week in History LIVE",
-   "published": "2026-10-06T19:30:00+00:00",
-   "published_uk": "Tue 06 Oct 2026, 20:30 BST",
-   "duration": "1h 10m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5530078512.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
