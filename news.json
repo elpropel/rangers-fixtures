@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "16 Oct 2026 13:43 BST",
+ "fetched": "16 Oct 2026 15:50 BST",
  "items": [
+  {
+   "title": "Derek McInnes previews Rangers' January transfer window and club's needs",
+   "link": "https://www.rangersreview.co.uk/news/26644212.mcinnes-previews-january-transfer-window-rangers-needs/",
+   "excerpt": "Derek McInnes previews Rangers' January transfer window and club's needs",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
+   "published": "Fri, 16 Oct 2026 14:48:05 +0100",
+   "published_uk": "Fri 16 Oct 2026, 14:48 BST",
+   "author": "Blair Meikle"
+  },
   {
    "title": "'Levels above' Rangers star the main reason for transformation in key area",
    "link": "https://www.rangersreview.co.uk/news/26643020.levels-above-rangers-star-main-reason-key-transformation/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21566240/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 07:18:23 +0100",
    "published_uk": "Mon 12 Oct 2026, 07:18 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "The Rangers man willing to 'give up limelight' has pundit grinning",
-   "link": "https://www.rangersreview.co.uk/news/26626447.rangers-man-willing-give-limelight-pundit-grinning/",
-   "excerpt": "Gordon Dalziel praises Rangers striker Ryan Naderi after his Celtic winner and brace against Kilmarnock, saying the Czech international is thriving with confidence.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21565743/?type=app&htype=0",
-   "published": "Sun, 11 Oct 2026 16:36:39 +0100",
-   "published_uk": "Sun 11 Oct 2026, 16:36 BST",
    "author": "Stewart Wilson"
   }
  ]
