@@ -1,5 +1,5 @@
 {
- "fetched": "16 Oct 2026 09:49 BST",
+ "fetched": "16 Oct 2026 11:44 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "This Is Ibrox Meets Graeme Souness!",
+   "published": "2026-10-16T10:06:00+00:00",
+   "published_uk": "Fri 16 Oct 2026, 11:06 BST",
+   "duration": "46 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9246150567.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Fernandez Opens Up on “Shaky” Start — And “Amazing” Makhanya",
+   "published": "2026-10-16T09:56:00+00:00",
+   "published_uk": "Fri 16 Oct 2026, 10:56 BST",
+   "duration": "48 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9382840317.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/e8b8aa78-c947-11f1-909d-2743ded1a967/image/0425ffd72ceb00b2667cf7e64a7de196.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Inside Rangers’ Chairman Meeting: Transfer Plans, Ibrox Expansion and Dan Purdy Exit",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1781013239.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/38caf16e-c2fa-11f1-bb92-9f74ac357c52/image/59d0915ff57c518a585f8d6a44cf6457.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "Ad Free Replay - 4lads Rangers Midweek Podcast Live -  3 more days till Rangers are back!",
-   "published": "2026-10-07T19:40:00+00:00",
-   "published_uk": "Wed 07 Oct 2026, 20:40 BST",
-   "duration": "53 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4494961190.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers vs Kilmarnock Preview with Forever and Ever; The Killie Podcast!",
-   "published": "2026-10-07T15:00:00+00:00",
-   "published_uk": "Wed 07 Oct 2026, 16:00 BST",
-   "duration": "29 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3363495841.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/b9cb5060-c25a-11f1-828e-63a3313c5e86/image/9f731b458c406b9a75d704029b31ae9e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
