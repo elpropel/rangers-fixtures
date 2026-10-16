@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "16 Oct 2026 15:50 BST",
+ "fetched": "16 Oct 2026 17:41 BST",
  "items": [
+  {
+   "title": "Rangers star eyes set-piece breakthrough with ‘more will come’ belief",
+   "link": "https://www.rangersreview.co.uk/news/26645223.rangers-star-eyes-set-piece-goalscoring-breakthrough/",
+   "excerpt": "Fernandez is determined to add goals to his game as Rangers prepare to face Kilmarnock on Saturday night",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20678520/?type=app&htype=0",
+   "published": "Fri, 16 Oct 2026 17:24:00 +0100",
+   "published_uk": "Fri 16 Oct 2026, 17:24 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes previews Rangers' January transfer window and club's needs",
    "link": "https://www.rangersreview.co.uk/news/26644212.mcinnes-previews-january-transfer-window-rangers-needs/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21566249/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 07:28:55 +0100",
    "published_uk": "Mon 12 Oct 2026, 07:28 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Russell Martin 'evidenced' winning at Rangers claims Leicester chief",
-   "link": "https://www.rangersreview.co.uk/news/26626692.leicester-chief-makes-rangers-claim-russell-martin/",
-   "excerpt": "Russell Martin 'evidenced' winning at Rangers claims Leicester chief",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21566240/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 07:18:23 +0100",
-   "published_uk": "Mon 12 Oct 2026, 07:18 BST",
    "author": "Stewart Wilson"
   }
  ]
