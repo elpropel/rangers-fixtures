@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Oct 2026 19:44 BST",
+ "fetched": "17 Oct 2026 21:48 BST",
  "items": [
+  {
+   "title": "Rangers supporters unveil Penny Arcade-inspired tifo before Dundee clash",
+   "link": "https://www.rangersreview.co.uk/news/26646750.rangers-support-reveal-penny-arcade-display-dundee/",
+   "excerpt": "Rangers supporters produced an eye-catching display ahead of their Premiership clash with Dundee at Dens Park.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21597232/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 20:11:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 20:11 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Derek McInnes explains Rangers tactical tweak as ‘patient’ star gets his chance",
+   "link": "https://www.rangersreview.co.uk/news/26646735.badredine-bouanani-rangers-start-explained-derek-mcinnes/",
+   "excerpt": "McInnes has explained his decision to hand Badredine Bouanani a start for Rangers against Dundee.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 19:41:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 19:41 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes names Rangers starting line-up vs Dundee, makes one change",
    "link": "https://www.rangersreview.co.uk/news/26645645.derek-mcinnes-rangers-line-up-vs-dundee-one-change/",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21423640/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 20:43:15 +0100",
    "published_uk": "Mon 12 Oct 2026, 20:43 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers coach departs for Scottish Premiership club's backroom role",
-   "link": "https://www.rangersreview.co.uk/news/26630205.rangers-coach-departs-scottish-premiership-clubs-backroom-role/",
-   "excerpt": "Conor Brennan has left Rangers to take up a role with Kilmarnock in their first-team setup.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21571421/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 20:14:36 +0100",
-   "published_uk": "Mon 12 Oct 2026, 20:14 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers land triple TV fixture change and a Christmas cracker vs Hearts",
-   "link": "https://www.rangersreview.co.uk/news/26629111.rangers-land-triple-fixture-change-christmas-cracker-vs-hearts/",
-   "excerpt": "Rangers have had three key fixtures moved in December as Derek McInnes' men get set for a defining festive run.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21404160/?type=app&htype=149",
-   "published": "Mon, 12 Oct 2026 15:06:39 +0100",
-   "published_uk": "Mon 12 Oct 2026, 15:06 BST",
    "author": "Stewart Wilson"
   }
  ]
