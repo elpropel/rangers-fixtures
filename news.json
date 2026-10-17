@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Oct 2026 21:48 BST",
+ "fetched": "17 Oct 2026 23:44 BST",
  "items": [
+  {
+   "title": "Derek McInnes rues Rangers ‘gift’ after Dundee draw",
+   "link": "https://www.rangersreview.co.uk/news/26646822.derek-mcinnes-rues-rangers-gift-draw-dundee/",
+   "excerpt": "McInnes believes Rangers gifted away the opportunity to claim all three points after being held to a 2-2 draw by Dundee at Dens Park.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21597352/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 22:38:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 22:38 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers supporters unveil Penny Arcade-inspired tifo before Dundee clash",
    "link": "https://www.rangersreview.co.uk/news/26646750.rangers-support-reveal-penny-arcade-display-dundee/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21571460/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 20:57:20 +0100",
    "published_uk": "Mon 12 Oct 2026, 20:57 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "International media 'worry' for Derek McInnes Rangers summer signing",
-   "link": "https://www.rangersreview.co.uk/news/26630226.international-media-worry-derek-mcinnes-rangers-summer-signing/",
-   "excerpt": "Rangers seem to have a settled XI under McInnes and one star has struggled to push into that lineup.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21423640/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 20:43:15 +0100",
-   "published_uk": "Mon 12 Oct 2026, 20:43 BST",
    "author": "Stewart Wilson"
   }
  ]
