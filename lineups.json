@@ -74,8 +74,75 @@
  },
  "ea89acab72086ec3@rangers-fixtures": {
   "fixture": "Sat 17 Oct 2026 20:00 Rangers @ Dundee",
-  "status": "pending",
+  "status": "confirmed",
+  "formation": null,
+  "absences": [],
+  "source_name": "BBC Sport",
   "source_url": "https://www.bbc.co.uk/sport/football/live/c62kev5xw9wgt",
-  "updated": "17 Oct 2026 18:53 BST"
+  "updated": "17 Oct 2026 19:16 BST",
+  "starting_xi": [
+   {
+    "name": "Pandur"
+   },
+   {
+    "name": "Sterling"
+   },
+   {
+    "name": "Fernandez"
+   },
+   {
+    "name": "Makhanya"
+   },
+   {
+    "name": "Penrice"
+   },
+   {
+    "name": "Neil"
+   },
+   {
+    "name": "Raskin"
+   },
+   {
+    "name": "Min-su"
+   },
+   {
+    "name": "Gassama"
+   },
+   {
+    "name": "Bouanani"
+   },
+   {
+    "name": "Naderi"
+   }
+  ],
+  "subs": [
+   {
+    "name": "Kelly"
+   },
+   {
+    "name": "Nedeljkovic"
+   },
+   {
+    "name": "Godfrey"
+   },
+   {
+    "name": "Rommens"
+   },
+   {
+    "name": "Dragojevic"
+   },
+   {
+    "name": "Chukwuani"
+   },
+   {
+    "name": "Curtis"
+   },
+   {
+    "name": "Miovski"
+   },
+   {
+    "name": "Kelsy"
+   }
+  ]
  }
 }
