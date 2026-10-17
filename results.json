@@ -1,4 +1,59 @@
 {
+ "ea89acab72086ec3@rangers-fixtures": {
+  "date": "2026-10-17",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Dundee",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "B. Fink",
+     "minute": "37'",
+     "type": ""
+    },
+    {
+     "player": "C. Jones",
+     "minute": "69'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "B. Bouanani",
+     "minute": "42'",
+     "type": ""
+    },
+    {
+     "player": "N. Raskin",
+     "minute": "60'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Dens Park",
+  "home_away": "Away",
+  "status": "FT",
+  "kickoff_uk": "20:00",
+  "summary": "Dundee 2 , Rangers 2 at Full time",
+  "attendance": 9048,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/c62kev5xw9wgt",
+  "fetched": "17 Oct 2026 22:58 BST"
+ },
  "51b0fe94cb3a6d0b@rangers-fixtures": {
   "date": "2026-10-10",
   "competition": "Scottish Premiership - 1st Phase",
