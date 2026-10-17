@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Oct 2026 15:42 BST",
+ "fetched": "17 Oct 2026 17:43 BST",
  "items": [
+  {
+   "title": "WATCH: Ex-Rangers star welcomed back at training with emotional guard of honour",
+   "link": "https://www.rangersreview.co.uk/news/26646395.ex-rangers-star-connor-goldson-returns-heart-surgery/",
+   "excerpt": "Former Rangers defender Goldson has returned to training after undergoing open-heart surgery.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21596249/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 16:30:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 16:30 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Alan Hutton makes Rangers treble claim as he feels 'real' dressing room sense",
    "link": "https://www.rangersreview.co.uk/news/26645727.rangers-treble-claim-made-amid-real-dressing-room-sense/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21569406/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 14:39:13 +0100",
    "published_uk": "Mon 12 Oct 2026, 14:39 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Watch ex-Rangers star provide classy assist as fellow ex-SPFL ace nets in big win",
-   "link": "https://www.rangersreview.co.uk/news/26626862.watch-ex-rangers-stars-classy-assist-ex-spfl-ace-nets-big-win/",
-   "excerpt": "Former Rangers midfielder Mo Diomande provided a classy assist for Turkish club Corum at the weekend, as another ex-SPFL star found the net.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21566487/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 09:06:03 +0100",
-   "published_uk": "Mon 12 Oct 2026, 09:06 BST",
    "author": "Stewart Wilson"
   }
  ]
