@@ -16,7 +16,7 @@ for r in rows:
     except ValueError: d = None
     t = r[KO] if r[KO] and r[KO] != "TBC" else None
     fx.append(dict(date=d.isoformat() if d else None, dateLabel=r["Date"], time=t, comp=r["Competition"],
-                   opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], tvsrc=r.get("TV Source",""), stream=r.get("Club stream","Club stream TBC") or "Club stream TBC", streamsrc=r.get("Club stream source",""), src=r["Source URL"]))
+                   opp=r["Opponent"], ha=r["Home/Away"], venue=r["Venue"], tv=r["TV"], tvsrc=r.get("TV Source",""), stream=r.get("Club stream","Club stream TBC") or "Club stream TBC", streamsrc=r.get("Club stream source",""), streamok=(r.get("Club stream confirmed","").strip().lower() in ("yes","y","true","1")), src=r["Source URL"]))
 BADGES = json.load(open(OUT/"badges.json")) if (OUT/"badges.json").exists() else {}
 def badge_url(team):
     b = BADGES.get(team) or BADGES.get(team.replace("St ", "St. ")) or BADGES.get(team.replace("St. ", "St "))
@@ -67,7 +67,7 @@ for f in fx:
     title = (f"{CLUB} v {f['opp']}" if f["ha"] != "Away" else f"{f['opp']} v {CLUB}") + f" ({f['comp']})"
     uid = f["uid"]
     L += ["BEGIN:VEVENT", f"UID:{uid}", f"DTSTAMP:{stamp}", f"SUMMARY:{esc(title + ('' if f['time'] else ' - kick-off TBC'))}", f"LOCATION:{esc(f['venue'])}",
-          f"DESCRIPTION:{esc('TV: '+f['tv']+(' (UK)' if f['tv']!='TV TBC' else '')+chr(10)+CFG['stream_name']+': '+f['stream']+chr(10)+'Watch: '+CFG['stream_url']+' | Subscribe: '+CFG['stream_subscribe_url']+chr(10)+'Source: '+f['src']+((chr(10)+lineup_text(f.get('team'))) if lineup_text(f.get('team')) else ''))}"]
+          f"DESCRIPTION:{esc('TV: '+f['tv']+(' (UK)' if f['tv']!='TV TBC' else '')+((chr(10)+CFG['stream_name']+': '+f['stream']+chr(10)+'Watch: '+CFG['stream_url']+' | Subscribe: '+CFG['stream_subscribe_url']) if f.get('streamok') else '')+chr(10)+'Source: '+f['src']+((chr(10)+lineup_text(f.get('team'))) if lineup_text(f.get('team')) else ''))}"]
     d = f["date"].replace("-","")
     if f["time"]:
         s = datetime.datetime.strptime(f["date"]+f["time"], "%Y-%m-%d%H:%M"); e = s + datetime.timedelta(hours=2)
@@ -123,11 +123,11 @@ const vs=f=>{const us=bdg(CB,CLUB),th=bdg(f.oppBadge,f.opp);return f.ha==='Away'
 const sh=s=>/outside UK/i.test(s)?'live outside UK only':/blackout/i.test(s)?'no UK live (3pm)':/TBC/i.test(s)?'TBC':s;
 const ko=f=>f.time?f.time:'<span class="tbc">TBC</span>';
 function render(){const c=sel.value;document.getElementById('list').innerHTML=up.filter(f=>!c||f.comp===c).map(f=>
- `<div class="card"><div><b class="t">${vs(f)}</b><br><small>${esc(f.comp)} · ${esc(f.venue)}</small><div class="chips"><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${esc(f.tv)}</span><a class="rtv" href="${SU}" target="_blank" rel="noopener" title="${esc(f.stream)}">▶ ${SN}: ${esc(sh(f.stream))}</a></div>${tn(f,nx&&f.uid===nx.uid)}</div>
+ `<div class="card"><div><b class="t">${vs(f)}</b><br><small>${esc(f.comp)} · ${esc(f.venue)}</small><div class="chips"><span class="tv ${f.tv==='TV TBC'?'tvt':''}">📺 ${esc(f.tv)}</span>${f.streamok?`<a class="rtv" href="${SU}" target="_blank" rel="noopener" title="${esc(f.stream)}">▶ ${SN}: ${esc(sh(f.stream))}</a>`:''}</div>${tn(f,nx&&f.uid===nx.uid)}</div>
  <div style="text-align:right;white-space:nowrap"><span class="b ${ha(f)}">${ha(f)}</span><br>${f.dateLabel}<br>${ko(f)}</div></div>`).join('');}
 const nx=up.find(f=>f.date);
 sel.onchange=render;render();
-if(nx)document.getElementById('next').innerHTML=`<div class="next"><div style="font-size:.75rem;letter-spacing:.05em;opacity:.85">NEXT MATCH · ${esc(nx.comp).toUpperCase()}</div><div style="font-size:1.1rem;font-weight:700;margin:4px 0">${vs(nx)}</div><div style="font-size:.85rem">${nx.dateLabel} · ${nx.time||'TBC'} UK · ${esc(nx.venue)}</div><div class="cd" id="cd"></div><div class="chips"><span class="tv">📺 ${esc(nx.tv)}</span><a class="rtv" href="${SU}" target="_blank" rel="noopener" title="${esc(nx.stream)}">▶ ${SN}: ${esc(sh(nx.stream))}</a></div>${tn(nx,true)}</div>`;
+if(nx)document.getElementById('next').innerHTML=`<div class="next"><div style="font-size:.75rem;letter-spacing:.05em;opacity:.85">NEXT MATCH · ${esc(nx.comp).toUpperCase()}</div><div style="font-size:1.1rem;font-weight:700;margin:4px 0">${vs(nx)}</div><div style="font-size:.85rem">${nx.dateLabel} · ${nx.time||'TBC'} UK · ${esc(nx.venue)}</div><div class="cd" id="cd"></div><div class="chips"><span class="tv">📺 ${esc(nx.tv)}</span>${nx.streamok?`<a class="rtv" href="${SU}" target="_blank" rel="noopener" title="${esc(nx.stream)}">▶ ${SN}: ${esc(sh(nx.stream))}</a>`:''}</div>${tn(nx,true)}</div>`;
 function tick(){if(!nx)return;const ms=when(nx)-new Date();let s=Math.max(0,ms/1000|0);
  document.getElementById('cd').textContent=nx.time?(ms<=0?'Under way / just played':`${s/86400|0}d ${(s%86400)/3600|0}h ${(s%3600)/60|0}m ${s%60}s`):'Kick-off TBC';}
 tick();setInterval(tick,1000);
