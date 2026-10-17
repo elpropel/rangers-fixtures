@@ -1,5 +1,5 @@
 {
- "fetched": "16 Oct 2026 23:47 BST",
+ "fetched": "17 Oct 2026 07:44 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday night preview and Review show",
+   "published": "2026-10-17T05:03:00+00:00",
+   "published_uk": "Sat 17 Oct 2026, 06:03 BST",
+   "duration": "46 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7193712929.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "CLUB AT 22 LIVE | Keeping the Run Going vs Dundee",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1308115485.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/dc606774-c35d-11f1-8c17-5f6387ab8299/image/afd4ac38ab45de451da69106ab314ffe.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - Break's Over",
-   "published": "2026-10-08T18:00:00+00:00",
-   "published_uk": "Thu 08 Oct 2026, 19:00 BST",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1838954232.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/a953ab7e-c322-11f1-8dc7-5397cf36cb03/image/b7302664ef43c984faa28abcfffa9698.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
