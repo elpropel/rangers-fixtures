@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Oct 2026 17:43 BST",
+ "fetched": "17 Oct 2026 19:44 BST",
  "items": [
+  {
+   "title": "Derek McInnes names Rangers starting line-up vs Dundee, makes one change",
+   "link": "https://www.rangersreview.co.uk/news/26645645.derek-mcinnes-rangers-line-up-vs-dundee-one-change/",
+   "excerpt": "Rangers manager McInnes has named his team to face Dundee at Dens Park tonight.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21402036/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 18:49:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 18:49 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "WATCH: Ex-Rangers star welcomed back at training with emotional guard of honour",
    "link": "https://www.rangersreview.co.uk/news/26646395.ex-rangers-star-connor-goldson-returns-heart-surgery/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21404160/?type=app&htype=149",
    "published": "Mon, 12 Oct 2026 15:06:39 +0100",
    "published_uk": "Mon 12 Oct 2026, 15:06 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "How Rangers are getting best out of red-hot Naderi's 'brilliant' goalscoring trait",
-   "link": "https://www.rangersreview.co.uk/news/26628937.rangers-getting-best-red-hot-ryan-naderi/",
-   "excerpt": "Ryan Naderi has recorded nine goal involvements in his last eight appearances for Rangers after striking twice against Kilmarnock.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21569406/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 14:39:13 +0100",
-   "published_uk": "Mon 12 Oct 2026, 14:39 BST",
    "author": "Stewart Wilson"
   }
  ]
