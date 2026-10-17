@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Oct 2026 07:44 BST",
+ "fetched": "17 Oct 2026 09:42 BST",
  "items": [
+  {
+   "title": "Alan Hutton makes Rangers treble claim as he feels 'real' dressing room sense",
+   "link": "https://www.rangersreview.co.uk/news/26645727.rangers-treble-claim-made-amid-real-dressing-room-sense/",
+   "excerpt": "Former Rangers defender Alan Hutton says there's a 'real sense' his old team can win the treble this season.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21594709/?type=app&htype=0",
+   "published": "Sat, 17 Oct 2026 08:27:00 +0100",
+   "published_uk": "Sat 17 Oct 2026, 08:27 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers star eyes set-piece breakthrough with ‘more will come’ belief",
    "link": "https://www.rangersreview.co.uk/news/26645223.rangers-star-eyes-set-piece-goalscoring-breakthrough/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21566487/?type=app&htype=0",
    "published": "Mon, 12 Oct 2026 09:06:03 +0100",
    "published_uk": "Mon 12 Oct 2026, 09:06 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-ref delivers cast-iron verdict after 'real problem' Rangers vs Kilmarnock decision",
-   "link": "https://www.rangersreview.co.uk/news/26626705.ex-ref-delivers-cast-iron-verdict-rangers-vs-kilmarnock-flashpoint/",
-   "excerpt": "Ex-ref delivers cast-iron verdict after 'real problem' Rangers vs Kilmarnock decision",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21566249/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 07:28:55 +0100",
-   "published_uk": "Mon 12 Oct 2026, 07:28 BST",
    "author": "Stewart Wilson"
   }
  ]
