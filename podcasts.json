@@ -1,5 +1,5 @@
 {
- "fetched": "18 Oct 2026 21:48 BST",
+ "fetched": "18 Oct 2026 23:51 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Sunday Show - Disappointment in Dundee",
+   "published": "2026-10-18T21:31:00+00:00",
+   "published_uk": "Sun 18 Oct 2026, 22:31 BST",
+   "duration": "1h 08m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4796193168.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers Drop Points In Dundee - Match Reaction",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2756476977.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes' International Break Headache | Who Starts Up Top Against Killie?",
-   "published": "2026-10-09T09:46:00+00:00",
-   "published_uk": "Fri 09 Oct 2026, 10:46 BST",
-   "duration": "56 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4073120319.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/3e89a326-c3c6-11f1-9e8a-df0e84783f68/image/b57e12f20eb3bc04ce20a4382fe81ca6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
