@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "18 Oct 2026 07:48 BST",
+ "fetched": "18 Oct 2026 09:42 BST",
  "items": [
+  {
+   "title": "The Rangers moment that 'shocked' pundit in frenetic draw vs Dundee",
+   "link": "https://www.rangersreview.co.uk/news/26646902.rangers-moment-shocked-pundit-draw-vs-dundee/",
+   "excerpt": "Derek Ferguson was left shocked by Dundee's equaliser against Rangers on Saturday evening.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21597458/?type=app&htype=0",
+   "published": "Sun, 18 Oct 2026 08:50:04 +0100",
+   "published_uk": "Sun 18 Oct 2026, 08:50 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes rues Rangers ‘gift’ after Dundee draw",
    "link": "https://www.rangersreview.co.uk/news/26646822.derek-mcinnes-rues-rangers-gift-draw-dundee/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21478327/?type=app&htype=0",
    "published": "Tue, 13 Oct 2026 10:58:13 +0100",
    "published_uk": "Tue 13 Oct 2026, 10:58 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Watch ex Rangers kid Robbie Ure score first Sevilla goal",
-   "link": "https://www.rangersreview.co.uk/news/26630232.watch-ex-rangers-kid-robbie-ure-score-first-sevilla-goal/",
-   "excerpt": "This was the moment Robbie Ure scored his first goal for new club Sevilla.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21571460/?type=app&htype=0",
-   "published": "Mon, 12 Oct 2026 20:57:20 +0100",
-   "published_uk": "Mon 12 Oct 2026, 20:57 BST",
    "author": "Stewart Wilson"
   }
  ]
