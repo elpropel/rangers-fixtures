@@ -1,5 +1,5 @@
 {
- "fetched": "18 Oct 2026 17:47 BST",
+ "fetched": "18 Oct 2026 19:48 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers Drop Points In Dundee - Match Reaction",
+   "published": "2026-10-18T18:35:00+00:00",
+   "published_uk": "Sun 18 Oct 2026, 19:35 BST",
+   "duration": "35 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3546125918.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Friday night preview and Review show",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4073120319.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/3e89a326-c3c6-11f1-9e8a-df0e84783f68/image/b57e12f20eb3bc04ce20a4382fe81ca6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers READY To Go Again?",
-   "published": "2026-10-08T21:18:00+00:00",
-   "published_uk": "Thu 08 Oct 2026, 22:18 BST",
-   "duration": "34 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1308115485.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/dc606774-c35d-11f1-8c17-5f6387ab8299/image/afd4ac38ab45de451da69106ab314ffe.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
