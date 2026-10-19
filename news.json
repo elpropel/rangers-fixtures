@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Oct 2026 17:41 BST",
+ "fetched": "19 Oct 2026 19:45 BST",
  "items": [
+  {
+   "title": "Connor Barron Rangers January recall floated amid Middlesbrough riddle",
+   "link": "https://www.rangersreview.co.uk/news/26651252.connor-barron-rangers-january-recall-floated-amid-middlesbrough-riddle/",
+   "excerpt": "Connor Barron has found himself out in the cold at Middlesbrough - and Barry Ferguson reckons he may have to be recalled by Rangers in January.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20684641/?type=app&htype=0",
+   "published": "Mon, 19 Oct 2026 18:00:15 +0100",
+   "published_uk": "Mon 19 Oct 2026, 18:00 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers star back in the dugout after landing surprise managerial role",
    "link": "https://www.rangersreview.co.uk/news/26649176.former-rangers-striker-duncan-ferguson-named-glentoran-boss/",
@@ -173,15 +182,6 @@
    "published": "Tue, 13 Oct 2026 19:18:00 +0100",
    "published_uk": "Tue 13 Oct 2026, 19:18 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "The key to making title rivals 'squirm' as Rangers urged to pile on pressure",
-   "link": "https://www.rangersreview.co.uk/news/26633645.rangers-urged-make-premiership-rivals-squirm/",
-   "excerpt": "Rangers Review contributors, Clark and Malloy, believe Rangers must maintain pressure on their title rivals.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21576394/?type=app&htype=0",
-   "published": "Tue, 13 Oct 2026 16:58:00 +0100",
-   "published_uk": "Tue 13 Oct 2026, 16:58 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
