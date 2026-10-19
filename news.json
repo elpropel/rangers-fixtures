@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Oct 2026 21:46 BST",
+ "fetched": "19 Oct 2026 23:47 BST",
  "items": [
+  {
+   "title": "Rangers confirm extra ticket allocation for Premier Sports Cup semi-final",
+   "link": "https://www.rangersreview.co.uk/news/26651450.rangers-confirm-extra-ticket-allocation-premier-sports-cup-semi/",
+   "excerpt": "Rangers have confirmed they have been handed an extra ticket allocation for the Premier Sports Cup semi-final.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21604384/?type=app&htype=0",
+   "published": "Mon, 19 Oct 2026 21:37:22 +0100",
+   "published_uk": "Mon 19 Oct 2026, 21:37 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Kris Boyd says Rangers changes 'didn't quite work' in Dundee draw",
    "link": "https://www.rangersreview.co.uk/news/26651368.kris-boyd-says-mcinnes-rangers-changes-failed-dundee/",
@@ -173,15 +182,6 @@
    "published": "Wed, 14 Oct 2026 08:54:36 +0100",
    "published_uk": "Wed 14 Oct 2026, 08:54 BST",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers wonderkid 'set' for England call-up as international tug-of-war looms",
-   "link": "https://www.rangersreview.co.uk/news/26634053.rangers-wonderkid-set-england-tournament-call-up/",
-   "excerpt": "A Rangers academy player could be selected to play for England in an upcoming tournament, according to a report.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
-   "published": "Tue, 13 Oct 2026 20:00:00 +0100",
-   "published_uk": "Tue 13 Oct 2026, 20:00 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
