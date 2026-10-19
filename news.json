@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Oct 2026 19:45 BST",
+ "fetched": "19 Oct 2026 21:46 BST",
  "items": [
+  {
+   "title": "Kris Boyd says Rangers changes 'didn't quite work' in Dundee draw",
+   "link": "https://www.rangersreview.co.uk/news/26651368.kris-boyd-says-mcinnes-rangers-changes-failed-dundee/",
+   "excerpt": "Kris Boyd believes Derek McInnes' Rangers changes against Dundee didn't work as they surrendered points at Dens Park.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20838291/?type=app&htype=0",
+   "published": "Mon, 19 Oct 2026 19:43:22 +0100",
+   "published_uk": "Mon 19 Oct 2026, 19:43 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Connor Barron Rangers January recall floated amid Middlesbrough riddle",
    "link": "https://www.rangersreview.co.uk/news/26651252.connor-barron-rangers-january-recall-floated-amid-middlesbrough-riddle/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
    "published": "Tue, 13 Oct 2026 20:00:00 +0100",
    "published_uk": "Tue 13 Oct 2026, 20:00 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers prospect lands fresh start after earning English Championship move",
-   "link": "https://www.rangersreview.co.uk/news/26634017.ex-rangers-prospect-lands-english-championship-opportunity/",
-   "excerpt": "Former Rangers academy goalkeeper Halliwell has joined Championship club Derby County on a two-year contract.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21576960/?type=app&htype=0",
-   "published": "Tue, 13 Oct 2026 19:18:00 +0100",
-   "published_uk": "Tue 13 Oct 2026, 19:18 BST",
    "author": "Stewart Wilson"
   }
  ]
