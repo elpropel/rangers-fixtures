@@ -1,5 +1,5 @@
 {
- "fetched": "19 Oct 2026 17:41 BST",
+ "fetched": "19 Oct 2026 19:45 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Flagship - Two Points Dropped",
+   "published": "2026-10-19T17:00:00+00:00",
+   "published_uk": "Mon 19 Oct 2026, 18:00 BST",
+   "duration": "34 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9777441097.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/ce0e46b2-cbc0-11f1-b9b7-af2a723e9684/image/68a9c3f7ce437c6627f23d2207e4dc3c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "What went wrong at Dens? Debating the McInnes decisions.",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5135407754.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/a876c734-c4d7-11f1-a73f-335947a005e4/image/68a0398df965aafc5a12134747286d16.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "BACK TO BUSINESS AT IBROX! 🔴⚪🔵 | Kilmarnock Match Preview  | Club at 22-The Rangers Podcast",
-   "published": "2026-10-09T20:06:00+00:00",
-   "published_uk": "Fri 09 Oct 2026, 21:06 BST",
-   "duration": "1h 01m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8216807068.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/db5a0816-c41c-11f1-a783-67d1e1268d71/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
