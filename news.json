@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Oct 2026 11:49 BST",
+ "fetched": "19 Oct 2026 13:41 BST",
  "items": [
+  {
+   "title": "Ex-Rangers star back in the dugout after landing surprise managerial role",
+   "link": "https://www.rangersreview.co.uk/news/26649176.former-rangers-striker-duncan-ferguson-named-glentoran-boss/",
+   "excerpt": "Former Rangers striker Ferguson has returned to management as Glentoran's new boss.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21597523/?type=app&htype=0",
+   "published": "Mon, 19 Oct 2026 12:17:00 +0100",
+   "published_uk": "Mon 19 Oct 2026, 12:17 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Rangers ‘inquest’ deemed unnecessary despite two points thrown away",
+   "link": "https://www.rangersreview.co.uk/news/26649045.rangers-inquest-not-needed-dundee-draw/",
+   "excerpt": "Rangers' failure to secure victory against Dundee was a setback.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21600547/?type=app&htype=0",
+   "published": "Mon, 19 Oct 2026 11:59:00 +0100",
+   "published_uk": "Mon 19 Oct 2026, 11:59 BST",
+   "author": "The Rangers Review"
+  },
   {
    "title": "The Rangers moment that 'shocked' pundit in frenetic draw vs Dundee",
    "link": "https://www.rangersreview.co.uk/news/26646902.rangers-moment-shocked-pundit-draw-vs-dundee/",
@@ -164,24 +182,6 @@
    "published": "Tue, 13 Oct 2026 16:58:00 +0100",
    "published_uk": "Tue 13 Oct 2026, 16:58 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Rangers learn referee for Dundee clash ahead of Dens Park trip",
-   "link": "https://www.rangersreview.co.uk/news/26633458.rangers-learn-officiating-team-upcoming-dundee-match/",
-   "excerpt": "Nicolson will referee Rangers’ Premiership visit to Dundee at Dens Park on Saturday night.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21406968/?type=app&htype=48",
-   "published": "Tue, 13 Oct 2026 16:30:00 +0100",
-   "published_uk": "Tue 13 Oct 2026, 16:30 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Double Rangers acclaim as Makhanya and £4m understudy soar in key transfer report",
-   "link": "https://www.rangersreview.co.uk/news/26631304.rangers-acclaim-makhanya-4m-man-soar-key-transfer-report/",
-   "excerpt": "Rangers stars Olwethu Makhanya and Vanja Dragojevic named among Scottish football’s highest-potential prospects by TransferRoom as midfield spending surges.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21478327/?type=app&htype=0",
-   "published": "Tue, 13 Oct 2026 10:58:13 +0100",
-   "published_uk": "Tue 13 Oct 2026, 10:58 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
