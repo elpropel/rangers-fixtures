@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "20 Oct 2026 13:50 BST",
+ "fetched": "20 Oct 2026 15:49 BST",
  "items": [
+  {
+   "title": "SFA confirm officials as referee gets first Rangers game in over two years",
+   "link": "https://www.rangersreview.co.uk/news/26654103.rangers-vs-st-johnstone-referee-var-officials-confirmed/",
+   "excerpt": "Graham will referee Rangers’ Premiership clash with St Johnstone at Ibrox on Saturday.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21369352/?type=app&htype=0",
+   "published": "Tue, 20 Oct 2026 15:33:00 +0100",
+   "published_uk": "Tue 20 Oct 2026, 15:33 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Alan Hutton reveals the one Rangers regret that still haunts him",
+   "link": "https://www.rangersreview.co.uk/news/26653580.allan-hutton-reveals-rangers-regret-spurs-transfer/",
+   "excerpt": "Hutton has revealed that leaving Rangers for Tottenham Hotspur midway through the season is one of the few \"regrets\" of his career.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21607170/?type=app&htype=0",
+   "published": "Tue, 20 Oct 2026 14:01:00 +0100",
+   "published_uk": "Tue 20 Oct 2026, 14:01 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers told to expect more ‘bumps’ as young stars find their feet",
    "link": "https://www.rangersreview.co.uk/news/26652774.rangers-told-expect-bumps-young-stars/",
@@ -164,24 +182,6 @@
    "published": "Fri, 16 Oct 2026 11:27:34 +0100",
    "published_uk": "Fri 16 Oct 2026, 11:27 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Rangers backed to stand firm against transfer interest in key player",
-   "link": "https://www.rangersreview.co.uk/news/26642393.rangers-backed-stand-firm-transfer-interest-star/",
-   "excerpt": "Rangers backed to stand firm against transfer interest in key player",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21308151/?type=app&htype=105",
-   "published": "Fri, 16 Oct 2026 10:06:38 +0100",
-   "published_uk": "Fri 16 Oct 2026, 10:06 BST",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "The Rangers fixture that would've worried me before and why it doesn't anymore",
-   "link": "https://www.rangersreview.co.uk/news/26641891.rangers-game-worry-doesnt-now/",
-   "excerpt": "The Rangers fixture that would've worried me before and why it doesn't anymore",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21357260/?type=app&htype=287",
-   "published": "Fri, 16 Oct 2026 07:49:06 +0100",
-   "published_uk": "Fri 16 Oct 2026, 07:49 BST",
-   "author": "Blair Meikle"
   }
  ]
 }
