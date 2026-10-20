@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "20 Oct 2026 11:50 BST",
+ "fetched": "20 Oct 2026 13:50 BST",
  "items": [
+  {
+   "title": "Rangers told to expect more ‘bumps’ as young stars find their feet",
+   "link": "https://www.rangersreview.co.uk/news/26652774.rangers-told-expect-bumps-young-stars/",
+   "excerpt": "Jonny believes the reaction to Rangers' draw with Dundee was over the top.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21606167/?type=app&htype=0",
+   "published": "Tue, 20 Oct 2026 11:54:00 +0100",
+   "published_uk": "Tue 20 Oct 2026, 11:54 BST",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Kevin Thomson throws down the gauntlet to ‘exciting’ Rangers duo",
    "link": "https://www.rangersreview.co.uk/news/26651680.ex-rangers-star-challenges-minsu-kim-djeidi-gassama/",
@@ -173,15 +182,6 @@
    "published": "Fri, 16 Oct 2026 07:49:06 +0100",
    "published_uk": "Fri 16 Oct 2026, 07:49 BST",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "The evaporating Rangers 'anxiety' as Derek McInnes transformation gathers pace",
-   "link": "https://www.rangersreview.co.uk/news/26641316.rangers-evaporating-anxiety-amid-derek-mcinnes-turnaround/",
-   "excerpt": "The Rangers Review morning briefing for October 15",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21587428/?type=app&htype=0",
-   "published": "Thu, 15 Oct 2026 17:06:00 +0100",
-   "published_uk": "Thu 15 Oct 2026, 17:06 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
