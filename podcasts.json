@@ -1,5 +1,5 @@
 {
- "fetched": "20 Oct 2026 13:50 BST",
+ "fetched": "20 Oct 2026 15:49 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Too much criticism for Dundee draw?",
+   "published": "2026-10-20T13:01:00+00:00",
+   "published_uk": "Tue 20 Oct 2026, 14:01 BST",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6800601759.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Special - In conversation with Colin Stewart",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4419003346.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Post Match LIVE: Rangers hit TOP SPOT in the Premiership with 3-1 win",
-   "published": "2026-10-11T11:16:00+00:00",
-   "published_uk": "Sun 11 Oct 2026, 12:16 BST",
-   "duration": "40 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6509160604.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
