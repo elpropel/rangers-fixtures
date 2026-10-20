@@ -1,5 +1,5 @@
 {
- "fetched": "20 Oct 2026 19:48 BST",
+ "fetched": "20 Oct 2026 21:45 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "DISAPPOINTED AT DENS | Where It Went Wrong | Club Deck Corner",
+   "published": "2026-10-20T19:52:00+00:00",
+   "published_uk": "Tue 20 Oct 2026, 20:52 BST",
+   "duration": "50 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9972114274.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/d528b798-ccbf-11f1-9a99-5b8e0ddb18da/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-10-20T19:43:00+00:00",
+   "published_uk": "Tue 20 Oct 2026, 20:43 BST",
+   "duration": "1h 12m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6580868705.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Too much criticism for Dundee draw?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7789725878.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/3fa446e0-c65e-11f1-b9f2-9ff5d867bccb/image/faae27adfaed6660f4a69be4eaa7d7af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers’ Winning Run Keeps Rolling: The Kilmarnock Talking Points",
-   "published": "2026-10-12T09:37:00+00:00",
-   "published_uk": "Mon 12 Oct 2026, 10:37 BST",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9067340529.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/88c7b020-c620-11f1-848f-2fc70de3a3ae/image/64a9e69c6d3bf1fc37589d0b26afddae.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers dodge international break hangover!",
-   "published": "2026-10-11T20:50:00+00:00",
-   "published_uk": "Sun 11 Oct 2026, 21:50 BST",
-   "duration": "40 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4419003346.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
