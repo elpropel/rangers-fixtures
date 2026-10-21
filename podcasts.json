@@ -1,5 +1,5 @@
 {
- "fetched": "21 Oct 2026 19:42 BST",
+ "fetched": "21 Oct 2026 21:44 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Midweek Live podcast",
+   "published": "2026-10-21T18:57:00+00:00",
+   "published_uk": "Wed 21 Oct 2026, 19:57 BST",
+   "duration": "52 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3477176042.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McInnes' tactics unpacked | Will Gassama retain his place in the starting XI?",
@@ -298,17 +309,6 @@
    "published_uk": "Tue 13 Oct 2026, 08:37 BST",
    "duration": "1h 29m",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3760501824.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Sunday Show - Back to the real football!",
-   "published": "2026-10-13T07:35:00+00:00",
-   "published_uk": "Tue 13 Oct 2026, 08:35 BST",
-   "duration": "57 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2431299703.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
