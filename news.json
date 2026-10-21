@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "21 Oct 2026 11:42 BST",
+ "fetched": "21 Oct 2026 13:41 BST",
  "items": [
+  {
+   "title": "The 'silly' Rangers mistake that Derek McInnes must not repeat this weekend",
+   "link": "https://www.rangersreview.co.uk/news/26657125.kevin-kelsys-rangers-return-backed-alongside-ryan-naderi/",
+   "excerpt": "Kelsy's absence was a key factor in Rangers' 2-2 draw at Dundee, says Thornton.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21612174/?type=app&htype=0",
+   "published": "Wed, 21 Oct 2026 12:48:00 +0100",
+   "published_uk": "Wed 21 Oct 2026, 12:48 BST",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Derek McInnes runs rule over Rangers squad options in bounce game defeat to Dundee",
    "link": "https://www.rangersreview.co.uk/news/26654623.started-scored-rangers-lose-dundee-bounce-game/",
@@ -173,15 +182,6 @@
    "published": "Fri, 16 Oct 2026 17:24:00 +0100",
    "published_uk": "Fri 16 Oct 2026, 17:24 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes previews Rangers' January transfer window and club's needs",
-   "link": "https://www.rangersreview.co.uk/news/26644212.mcinnes-previews-january-transfer-window-rangers-needs/",
-   "excerpt": "Derek McInnes previews Rangers' January transfer window and club's needs",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
-   "published": "Fri, 16 Oct 2026 14:48:05 +0100",
-   "published_uk": "Fri 16 Oct 2026, 14:48 BST",
-   "author": "Blair Meikle"
   }
  ]
 }
