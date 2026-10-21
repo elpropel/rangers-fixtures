@@ -1,5 +1,5 @@
 {
- "fetched": "21 Oct 2026 11:43 BST",
+ "fetched": "21 Oct 2026 13:41 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes' tactics unpacked | Will Gassama retain his place in the starting XI?",
+   "published": "2026-10-21T10:49:00+00:00",
+   "published_uk": "Wed 21 Oct 2026, 11:49 BST",
+   "duration": "37 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7204932865.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "DISAPPOINTED AT DENS | Where It Went Wrong | Club Deck Corner",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2431299703.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Flagship - 7 Wins In A Row",
-   "published": "2026-10-12T17:25:00+00:00",
-   "published_uk": "Mon 12 Oct 2026, 18:25 BST",
-   "duration": "49 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7789725878.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/3fa446e0-c65e-11f1-b9f2-9ff5d867bccb/image/faae27adfaed6660f4a69be4eaa7d7af.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
