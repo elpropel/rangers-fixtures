@@ -1,5 +1,5 @@
 {
- "fetched": "22 Oct 2026 17:51 BST",
+ "fetched": "22 Oct 2026 19:42 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Thick and Fast",
+   "published": "2026-10-22T18:00:00+00:00",
+   "published_uk": "Thu 22 Oct 2026, 19:00 BST",
+   "duration": "46 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1416417330.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/e8bdbea0-ce38-11f1-8dc3-5382b56feddb/image/1dde4c89a1de9ff5031a0d54f891dafe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McCulloch exclusive | Manny to start?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9019265543.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1e3cf12c-c740-11f1-8788-7b4afd1d2f0a/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads This Week in History - LIVE",
-   "published": "2026-10-13T19:49:00+00:00",
-   "published_uk": "Tue 13 Oct 2026, 20:49 BST",
-   "duration": "1h 09m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3168466559.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
