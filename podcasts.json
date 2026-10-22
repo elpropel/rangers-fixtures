@@ -1,5 +1,5 @@
 {
- "fetched": "22 Oct 2026 11:43 BST",
+ "fetched": "22 Oct 2026 13:42 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McCulloch exclusive | Manny to start?",
+   "published": "2026-10-22T11:36:00+00:00",
+   "published_uk": "Thu 22 Oct 2026, 12:36 BST",
+   "duration": "33 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6422286815.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "How Will Rangers Respond After Dens Disappointment?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3168466559.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "“Don’t Expect Much Activity”: Rangers’ January Transfer Plans | Yet More Fixture Changes",
-   "published": "2026-10-13T09:49:00+00:00",
-   "published_uk": "Tue 13 Oct 2026, 10:49 BST",
-   "duration": "48 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7643644031.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/64cc0128-c6eb-11f1-ba7a-f7b7bf3e761a/image/83ab2712af061790b73c3f5ee7da4a94.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
