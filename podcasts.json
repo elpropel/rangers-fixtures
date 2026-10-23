@@ -1,5 +1,5 @@
 {
- "fetched": "23 Oct 2026 19:43 BST",
+ "fetched": "23 Oct 2026 21:43 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "Will Rangers Return To  Form? | Club Live | Club at 22-The Rangers Podcast",
+   "published": "2026-10-23T20:08:00+00:00",
+   "published_uk": "Fri 23 Oct 2026, 21:08 BST",
+   "duration": "1h 04m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6544769671.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/7c551c46-cf1d-11f1-92b6-f709bc162aed/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday Night Review and Preview Show",
+   "published": "2026-10-23T20:01:00+00:00",
+   "published_uk": "Fri 23 Oct 2026, 21:01 BST",
+   "duration": "1h 00m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7441980585.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers release NEW 4th kit & how will McInnes shape up against St Johnstone?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6762497739.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Why Rangers finally have tools to overcome low blocks",
-   "published": "2026-10-14T09:58:00+00:00",
-   "published_uk": "Wed 14 Oct 2026, 10:58 BST",
-   "duration": "37 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7164136700.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/da4ee26a-c7b5-11f1-a8bf-5fff2bd3789d/image/5e91783355b60b620be4c75fafc64cf9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "TII Tuesday - Can Rangers make it 8 wins on the bounce at Dens?",
-   "published": "2026-10-13T22:06:00+00:00",
-   "published_uk": "Tue 13 Oct 2026, 23:06 BST",
-   "duration": "34 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6099750241.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/e6a48184-c74f-11f1-b085-53f6830de6db/image/2f1fc9a5a8dd004e363088f173de4f61.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
