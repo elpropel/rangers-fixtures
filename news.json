@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "23 Oct 2026 09:45 BST",
+ "fetched": "23 Oct 2026 11:42 BST",
  "items": [
+  {
+   "title": "Old score settled as on-loan Rangers star gets quickfire European revenge",
+   "link": "https://www.rangersreview.co.uk/news/26663314.thelo-aasgaard-gets-revenge-rangers-euro-conquerors/",
+   "excerpt": "On-loan Rangers star Aasgaard admitted he was delighted to finally get his revenge on Jagiellonia Bialystok at the third time of asking.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21222113/?type=app&htype=0",
+   "published": "Fri, 23 Oct 2026 09:53:00 +0100",
+   "published_uk": "Fri 23 Oct 2026, 09:53 BST",
+   "author": "Mark Walker"
+  },
   {
    "title": "Rangers unveil 'bold' new fourth kit as latest Umbro offering goes on sale",
    "link": "https://www.rangersreview.co.uk/news/26662914.rangers-unveil-bold-new-fourth-kit-2026-27-season/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21596249/?type=app&htype=0",
    "published": "Sat, 17 Oct 2026 16:30:00 +0100",
    "published_uk": "Sat 17 Oct 2026, 16:30 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Alan Hutton makes Rangers treble claim as he feels 'real' dressing room sense",
-   "link": "https://www.rangersreview.co.uk/news/26645727.rangers-treble-claim-made-amid-real-dressing-room-sense/",
-   "excerpt": "Former Rangers defender Alan Hutton says there's a 'real sense' his old team can win the treble this season.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21594709/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 08:27:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 08:27 BST",
    "author": "Stewart Wilson"
   }
  ]
