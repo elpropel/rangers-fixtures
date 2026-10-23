@@ -1,5 +1,5 @@
 {
- "fetched": "23 Oct 2026 09:45 BST",
+ "fetched": "23 Oct 2026 11:42 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -39,6 +39,17 @@
  ],
  "episodes": [
   {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers release NEW 4th kit & how will McInnes shape up against St Johnstone?",
+   "published": "2026-10-23T10:00:00+00:00",
+   "published_uk": "Fri 23 Oct 2026, 11:00 BST",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8525535965.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Heart and Hand",
    "title": "Heart and Hand Extra - Thick and Fast",
    "published": "2026-10-22T18:00:00+00:00",
@@ -54,7 +65,7 @@
    "title": "McCulloch exclusive | Manny to start?",
    "published": "2026-10-22T11:36:00+00:00",
    "published_uk": "Thu 22 Oct 2026, 12:36 BST",
-   "duration": "33 min",
+   "duration": "34 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6422286815.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -87,7 +98,7 @@
    "title": "McInnes' tactics unpacked | Will Gassama retain his place in the starting XI?",
    "published": "2026-10-21T10:49:00+00:00",
    "published_uk": "Wed 21 Oct 2026, 11:49 BST",
-   "duration": "37 min",
+   "duration": "39 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7204932865.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -285,7 +296,7 @@
    "title": "Why Rangers finally have tools to overcome low blocks",
    "published": "2026-10-14T09:58:00+00:00",
    "published_uk": "Wed 14 Oct 2026, 10:58 BST",
-   "duration": "36 min",
+   "duration": "37 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7164136700.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/da4ee26a-c7b5-11f1-a8bf-5fff2bd3789d/image/5e91783355b60b620be4c75fafc64cf9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6099750241.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/e6a48184-c74f-11f1-b085-53f6830de6db/image/2f1fc9a5a8dd004e363088f173de4f61.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "NADERI NETS AGAIN! | Club Deck Corner",
-   "published": "2026-10-13T19:55:00+00:00",
-   "published_uk": "Tue 13 Oct 2026, 20:55 BST",
-   "duration": "49 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9019265543.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1e3cf12c-c740-11f1-8788-7b4afd1d2f0a/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
