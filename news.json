@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "23 Oct 2026 15:49 BST",
+ "fetched": "23 Oct 2026 17:44 BST",
  "items": [
   {
    "title": "New Rangers 'gripe' laid bare as Ibrox gets set for league action",
@@ -11,6 +11,15 @@
    "published": "Fri, 23 Oct 2026 15:32:00 +0100",
    "published_uk": "Fri 23 Oct 2026, 15:32 BST",
    "author": "The Rangers Review"
+  },
+  {
+   "title": "Northern Irish Rangers fans issued travel warning ahead of St Johnstone clash",
+   "link": "https://www.rangersreview.co.uk/news/26665532.rangers-fans-issued-travel-warning-ahead-st-johnstone-clash/",
+   "excerpt": "Northern Irish Rangers fans issued travel warning ahead of St Johnstone clash",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21624571/?type=app&htype=5",
+   "published": "Fri, 23 Oct 2026 15:27:16 +0100",
+   "published_uk": "Fri 23 Oct 2026, 15:27 BST",
+   "author": "Blair Meikle"
   },
   {
    "title": "Rangers hit by squad bug as Derek McInnes reveals St Johnstone doubts",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21597352/?type=app&htype=0",
    "published": "Sat, 17 Oct 2026 22:38:00 +0100",
    "published_uk": "Sat 17 Oct 2026, 22:38 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers supporters unveil Penny Arcade-inspired tifo before Dundee clash",
-   "link": "https://www.rangersreview.co.uk/news/26646750.rangers-support-reveal-penny-arcade-display-dundee/",
-   "excerpt": "Rangers supporters produced an eye-catching display ahead of their Premiership clash with Dundee at Dens Park.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21597232/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 20:11:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 20:11 BST",
    "author": "Stewart Wilson"
   }
  ]
