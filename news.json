@@ -1,8 +1,35 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "23 Oct 2026 13:41 BST",
+ "fetched": "23 Oct 2026 15:49 BST",
  "items": [
+  {
+   "title": "New Rangers 'gripe' laid bare as Ibrox gets set for league action",
+   "link": "https://www.rangersreview.co.uk/news/26665510.rangers-fourth-kit-sparks-debate-new-gripe-laid-bare/",
+   "excerpt": "The latest morning briefing centred on reaction to the club’s new fourth kit, the selection debate ahead of St Johnstone and Barron’s difficult loan",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21624518/?type=app&htype=0",
+   "published": "Fri, 23 Oct 2026 15:32:00 +0100",
+   "published_uk": "Fri 23 Oct 2026, 15:32 BST",
+   "author": "The Rangers Review"
+  },
+  {
+   "title": "Rangers hit by squad bug as Derek McInnes reveals St Johnstone doubts",
+   "link": "https://www.rangersreview.co.uk/news/26665154.derek-mcinnes-reveals-rangers-illness-blow-st-johnstone/",
+   "excerpt": "Rangers have been hit by a bug ahead of their clash with St Johnstone, with one or two regulars doubtful for the game.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21349919/?type=app&htype=0",
+   "published": "Fri, 23 Oct 2026 14:36:00 +0100",
+   "published_uk": "Fri 23 Oct 2026, 14:36 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Nico Raskin opens up on Rangers future amid 'new challenge' admission",
+   "link": "https://www.rangersreview.co.uk/news/26664933.nico-raskin-addresses-rangers-future-contract-situation/",
+   "excerpt": "Raskin insists he is happy at Rangers and would like to enjoy more success at Ibrox",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21623656/?type=app&htype=0",
+   "published": "Fri, 23 Oct 2026 14:01:00 +0100",
+   "published_uk": "Fri 23 Oct 2026, 14:01 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Old score settled as on-loan Rangers star gets quickfire European revenge",
    "link": "https://www.rangersreview.co.uk/news/26663314.thelo-aasgaard-gets-revenge-rangers-euro-conquerors/",
@@ -154,33 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21597232/?type=app&htype=0",
    "published": "Sat, 17 Oct 2026 20:11:00 +0100",
    "published_uk": "Sat 17 Oct 2026, 20:11 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes explains Rangers tactical tweak as ‘patient’ star gets his chance",
-   "link": "https://www.rangersreview.co.uk/news/26646735.badredine-bouanani-rangers-start-explained-derek-mcinnes/",
-   "excerpt": "McInnes has explained his decision to hand Badredine Bouanani a start for Rangers against Dundee.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 19:41:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 19:41 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes names Rangers starting line-up vs Dundee, makes one change",
-   "link": "https://www.rangersreview.co.uk/news/26645645.derek-mcinnes-rangers-line-up-vs-dundee-one-change/",
-   "excerpt": "Rangers manager McInnes has named his team to face Dundee at Dens Park tonight.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21402036/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 18:49:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 18:49 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "WATCH: Ex-Rangers star welcomed back at training with emotional guard of honour",
-   "link": "https://www.rangersreview.co.uk/news/26646395.ex-rangers-star-connor-goldson-returns-heart-surgery/",
-   "excerpt": "Former Rangers defender Goldson has returned to training after undergoing open-heart surgery.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21596249/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 16:30:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 16:30 BST",
    "author": "Stewart Wilson"
   }
  ]
