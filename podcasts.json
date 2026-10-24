@@ -1,5 +1,5 @@
 {
- "fetched": "24 Oct 2026 15:44 BST",
+ "fetched": "24 Oct 2026 17:46 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads instant match reaction - Rangers crush Saints 4-0",
+   "published": "2026-10-24T16:41:00+00:00",
+   "published_uk": "Sat 24 Oct 2026, 17:41 BST",
+   "duration": "18 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7270883873.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "Will Rangers Return To  Form? | Club Live | Club at 22-The Rangers Podcast",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5125068758.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/0048b268-c881-11f1-9b1e-e7234ebdd60e/image/e22526217836f52946a36a773defeaed.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Midweek podcast LIVE - Gers gear up for Dundee away",
-   "published": "2026-10-14T19:59:00+00:00",
-   "published_uk": "Wed 14 Oct 2026, 20:59 BST",
-   "duration": "1h 03m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6762497739.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
