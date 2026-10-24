@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "24 Oct 2026 13:50 BST",
+ "fetched": "24 Oct 2026 15:44 BST",
  "items": [
+  {
+   "title": "Derek McInnes explains Rangers calls as he backs new-look frontline",
+   "link": "https://www.rangersreview.co.uk/news/26667228.derek-mcinnes-explains-rangers-team-selection-v-st-johnstone/",
+   "excerpt": "Derek McInnes has explained his Rangers team selection for the clash with St Johnstone, with Kevin Kelsy returning in the only change to his starting XI.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21044424/?type=app&htype=0",
+   "published": "Sat, 24 Oct 2026 14:42:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 14:42 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Derek McInnes makes one change as Rangers starting XI vs St Johnstone revealed",
+   "link": "https://www.rangersreview.co.uk/news/26666765.mcinnes-makes-one-change-rangers-xi-vs-st-johnstone-revealed/",
+   "excerpt": "McInnes has named his Rangers team to face St Johnstone this afternoon.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21567783/?type=app&htype=121",
+   "published": "Sat, 24 Oct 2026 13:52:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 13:52 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers v St Johnstone: LIVE team news, action and reaction from Ibrox",
    "link": "https://www.rangersreview.co.uk/news/26666638.rangers-v-st-johnstone-live-team-news-action-reaction/",
@@ -164,24 +182,6 @@
    "published": "Mon, 19 Oct 2026 18:00:15 +0100",
    "published_uk": "Mon 19 Oct 2026, 18:00 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers star back in the dugout after landing surprise managerial role",
-   "link": "https://www.rangersreview.co.uk/news/26649176.former-rangers-striker-duncan-ferguson-named-glentoran-boss/",
-   "excerpt": "Former Rangers striker Ferguson has returned to management as Glentoran's new boss.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21597523/?type=app&htype=0",
-   "published": "Mon, 19 Oct 2026 12:17:00 +0100",
-   "published_uk": "Mon 19 Oct 2026, 12:17 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers ‘inquest’ deemed unnecessary despite two points thrown away",
-   "link": "https://www.rangersreview.co.uk/news/26649045.rangers-inquest-not-needed-dundee-draw/",
-   "excerpt": "Rangers' failure to secure victory against Dundee was a setback.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21600547/?type=app&htype=0",
-   "published": "Mon, 19 Oct 2026 11:59:00 +0100",
-   "published_uk": "Mon 19 Oct 2026, 11:59 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
