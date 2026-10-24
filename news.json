@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "24 Oct 2026 11:47 BST",
+ "fetched": "24 Oct 2026 13:50 BST",
  "items": [
+  {
+   "title": "Rangers v St Johnstone: LIVE team news, action and reaction from Ibrox",
+   "link": "https://www.rangersreview.co.uk/news/26666638.rangers-v-st-johnstone-live-team-news-action-reaction/",
+   "excerpt": "Join the Rangers Review live from Ibrox as Derek McInnes' side look to get back to winning ways in the Premiership title race.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21626080/?type=app&htype=0",
+   "published": "Sat, 24 Oct 2026 13:00:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 13:00 BST",
+   "author": "Christopher Jack"
+  },
   {
    "title": "Rangers vs St Johnstone: TV channel, live stream & kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26666755.rangers-vs-st-johnstone-tv-can-live-stream/",
@@ -173,15 +182,6 @@
    "published": "Mon, 19 Oct 2026 11:59:00 +0100",
    "published_uk": "Mon 19 Oct 2026, 11:59 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "The Rangers moment that 'shocked' pundit in frenetic draw vs Dundee",
-   "link": "https://www.rangersreview.co.uk/news/26646902.rangers-moment-shocked-pundit-draw-vs-dundee/",
-   "excerpt": "Derek Ferguson was left shocked by Dundee's equaliser against Rangers on Saturday evening.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21597458/?type=app&htype=0",
-   "published": "Sun, 18 Oct 2026 08:50:04 +0100",
-   "published_uk": "Sun 18 Oct 2026, 08:50 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
