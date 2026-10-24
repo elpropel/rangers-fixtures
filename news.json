@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "23 Oct 2026 23:44 BST",
+ "fetched": "24 Oct 2026 07:41 BST",
  "items": [
+  {
+   "title": "Rangers vs St Johnstone: TV channel, live stream & kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26666755.rangers-vs-st-johnstone-tv-can-live-stream/",
+   "excerpt": "Everything you need to know as Rangers host St Johnstone at Ibrox in the Scottish Premiership.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/19933046/?type=app&htype=0",
+   "published": "Sat, 24 Oct 2026 07:27:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 07:27 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "New Rangers 'gripe' laid bare as Ibrox gets set for league action",
    "link": "https://www.rangersreview.co.uk/news/26665510.rangers-fourth-kit-sparks-debate-new-gripe-laid-bare/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21597458/?type=app&htype=0",
    "published": "Sun, 18 Oct 2026 08:50:04 +0100",
    "published_uk": "Sun 18 Oct 2026, 08:50 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes rues Rangers ‘gift’ after Dundee draw",
-   "link": "https://www.rangersreview.co.uk/news/26646822.derek-mcinnes-rues-rangers-gift-draw-dundee/",
-   "excerpt": "McInnes believes Rangers gifted away the opportunity to claim all three points after being held to a 2-2 draw by Dundee at Dens Park.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21597352/?type=app&htype=0",
-   "published": "Sat, 17 Oct 2026 22:38:00 +0100",
-   "published_uk": "Sat 17 Oct 2026, 22:38 BST",
    "author": "Stewart Wilson"
   }
  ]
