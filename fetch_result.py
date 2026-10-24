@@ -20,7 +20,8 @@ BBC = "https://www.bbc.co.uk"
 def get(u): return urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=30).read().decode("utf-8", "replace")
 
 def month_links(ym):
-    h = get(f"{BBC}/sport/football/teams/{SLUG}/scores-fixtures/{ym}?filter=results")
+    # BBC's ?filter=results page can lag behind; also scan the unfiltered month page.
+    h = get(f"{BBC}/sport/football/teams/{SLUG}/scores-fixtures/{ym}?filter=results") + get(f"{BBC}/sport/football/teams/{SLUG}/scores-fixtures/{ym}")
     seen = []
     for l in re.findall(r'href="(/sport/football/live/[a-z0-9]+|/sport/football/[0-9]{6,})"', h):
         if l not in seen: seen.append(l)

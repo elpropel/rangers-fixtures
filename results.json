@@ -1,4 +1,64 @@
 {
+ "ee5ff147b408324f@rangers-fixtures": {
+  "date": "2026-10-24",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "4",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "K. Kelsy",
+     "minute": "29'",
+     "type": ""
+    },
+    {
+     "player": "K. Kelsy",
+     "minute": "66'",
+     "type": ""
+    },
+    {
+     "player": "R. Naderi",
+     "minute": "61'",
+     "type": ""
+    },
+    {
+     "player": "T. Chukwuani",
+     "minute": "87'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "St. Johnstone",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [
+    {
+     "player": "K. Fotheringham",
+     "minute": "74'",
+     "type": "Red Card"
+    }
+   ],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "kickoff_uk": "15:00",
+  "summary": "Rangers 4 , St. Johnstone 0 at Full time",
+  "attendance": 50214,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cmje5dw93jk3t",
+  "fetched": "24 Oct 2026 18:33 BST"
+ },
  "ea89acab72086ec3@rangers-fixtures": {
   "date": "2026-10-17",
   "competition": "Scottish Premiership - 1st Phase",
