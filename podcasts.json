@@ -1,5 +1,5 @@
 {
- "fetched": "24 Oct 2026 17:46 BST",
+ "fetched": "24 Oct 2026 19:42 BST",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers 4 vs 0 St Johnstone | Match Reaction | Scottish Premiership",
+   "published": "2026-10-24T18:22:00+00:00",
+   "published_uk": "Sat 24 Oct 2026, 19:22 BST",
+   "duration": "21 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1298025286.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/e2a30e30-cfd7-11f1-b631-ef7a7c0a7d0f/image/5a5ce348f968411bc2ab2eb9758f57ee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads instant match reaction - Rangers crush Saints 4-0",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641682179.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/4334a7e8-c8b4-11f1-878a-a35489ba5abd/image/15f937bea669f7f1bffa1a08c0360921.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Do Rangers Make Dens Park Changes? | Is Connor Barron Being Wasted at Middlesbrough?",
-   "published": "2026-10-15T11:01:00+00:00",
-   "published_uk": "Thu 15 Oct 2026, 12:01 BST",
-   "duration": "47 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5125068758.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/0048b268-c881-11f1-9b1e-e7234ebdd60e/image/e22526217836f52946a36a773defeaed.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
