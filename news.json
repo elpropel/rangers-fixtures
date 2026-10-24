@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "24 Oct 2026 17:46 BST",
+ "fetched": "24 Oct 2026 19:42 BST",
  "items": [
+  {
+   "title": "Derek McInnes makes Rangers ‘his time will come’ promise to benched summer signing",
+   "link": "https://www.rangersreview.co.uk/news/26667544.vanja-dragojevic-gets-rangers-game-time-message-mcinnes/",
+   "excerpt": "McInnes admits he cannot keep everyone happy at Rangers as competition for game time intensifies at Ibrox.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21512639/?type=app&htype=0",
+   "published": "Sat, 24 Oct 2026 18:27:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 18:27 BST",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "WATCH: Rangers supporters battle Ibrox flooding as club issues warning",
+   "link": "https://www.rangersreview.co.uk/news/26667481.watch-rangers-supporters-face-flooding-outside-ibrox/",
+   "excerpt": "Rangers supporters were warned to take extra care leaving after heavy rain caused flooding around Ibrox following their 4-0 victory versus St Johnstone.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21627204/?type=app&htype=0",
+   "published": "Sat, 24 Oct 2026 17:34:00 +0100",
+   "published_uk": "Sat 24 Oct 2026, 17:34 BST",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes explains Rangers calls as he backs new-look frontline",
    "link": "https://www.rangersreview.co.uk/news/26667228.derek-mcinnes-explains-rangers-team-selection-v-st-johnstone/",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21604384/?type=app&htype=0",
    "published": "Mon, 19 Oct 2026 21:37:22 +0100",
    "published_uk": "Mon 19 Oct 2026, 21:37 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Kris Boyd says Rangers changes 'didn't quite work' in Dundee draw",
-   "link": "https://www.rangersreview.co.uk/news/26651368.kris-boyd-says-mcinnes-rangers-changes-failed-dundee/",
-   "excerpt": "Kris Boyd believes Derek McInnes' Rangers changes against Dundee didn't work as they surrendered points at Dens Park.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20838291/?type=app&htype=0",
-   "published": "Mon, 19 Oct 2026 19:43:22 +0100",
-   "published_uk": "Mon 19 Oct 2026, 19:43 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Connor Barron Rangers January recall floated amid Middlesbrough riddle",
-   "link": "https://www.rangersreview.co.uk/news/26651252.connor-barron-rangers-january-recall-floated-amid-middlesbrough-riddle/",
-   "excerpt": "Connor Barron has found himself out in the cold at Middlesbrough - and Barry Ferguson reckons he may have to be recalled by Rangers in January.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20684641/?type=app&htype=0",
-   "published": "Mon, 19 Oct 2026 18:00:15 +0100",
-   "published_uk": "Mon 19 Oct 2026, 18:00 BST",
    "author": "Stewart Wilson"
   }
  ]
