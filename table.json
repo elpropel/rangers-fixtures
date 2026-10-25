@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "25th October 2026 at 13:39",
- "fetched": "25 Oct 2026 13:42 GMT",
+ "bbc_updated": "25th October 2026 at 15:43",
+ "fetched": "25 Oct 2026 15:45 GMT",
  "rows": [
   {
    "pos": 1,
@@ -18,8 +18,8 @@
    "form": [
     "W",
     "W",
-    "W",
     "L",
+    "W",
     "W",
     "W"
    ]
@@ -47,14 +47,14 @@
   {
    "pos": 3,
    "team": "Heart of Midlothian",
-   "p": 9,
-   "w": 5,
+   "p": 10,
+   "w": 6,
    "d": 1,
    "l": 3,
-   "gf": 20,
+   "gf": 22,
    "ga": 15,
-   "gd": 5,
-   "pts": 16,
+   "gd": 7,
+   "pts": 19,
    "form": [
     "W",
     "W",
@@ -187,13 +187,13 @@
   {
    "pos": 10,
    "team": "Motherwell",
-   "p": 9,
+   "p": 10,
    "w": 2,
    "d": 2,
-   "l": 5,
+   "l": 6,
    "gf": 11,
-   "ga": 16,
-   "gd": -5,
+   "ga": 18,
+   "gd": -7,
    "pts": 8,
    "form": [
     "W",
@@ -238,8 +238,8 @@
    "form": [
     "L",
     "L",
-    "L",
     "D",
+    "L",
     "L",
     "L"
    ]
