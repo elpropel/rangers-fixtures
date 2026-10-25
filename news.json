@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "25 Oct 2026 15:45 GMT",
+ "fetched": "25 Oct 2026 17:44 GMT",
  "items": [
+  {
+   "title": "Rangers loan ace 'spectacular' moment earns international media attention",
+   "link": "https://www.rangersreview.co.uk/news/26668328.rangers-ace-spectacular-moment-earns-international-media-attention/",
+   "excerpt": "Nedim Bajrami has been applauded for a \"spectacular\" strike on loan at Al Taawoun in Saudi's Pro League.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21628656/?type=app&htype=0",
+   "published": "Sun, 25 Oct 2026 15:33:42 +0000",
+   "published_uk": "Sun 25 Oct 2026, 15:33 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes makes Rangers ‘his time will come’ promise to benched summer signing",
    "link": "https://www.rangersreview.co.uk/news/26667544.vanja-dragojevic-gets-rangers-game-time-message-mcinnes/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20578034/?type=app&htype=122",
    "published": "Tue, 20 Oct 2026 08:03:00 +0100",
    "published_uk": "Tue 20 Oct 2026, 08:03 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers confirm extra ticket allocation for Premier Sports Cup semi-final",
-   "link": "https://www.rangersreview.co.uk/news/26651450.rangers-confirm-extra-ticket-allocation-premier-sports-cup-semi/",
-   "excerpt": "Rangers have confirmed they have been handed an extra ticket allocation for the Premier Sports Cup semi-final.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21604384/?type=app&htype=0",
-   "published": "Mon, 19 Oct 2026 21:37:22 +0100",
-   "published_uk": "Mon 19 Oct 2026, 21:37 BST",
    "author": "Stewart Wilson"
   }
  ]
