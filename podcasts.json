@@ -1,5 +1,5 @@
 {
- "fetched": "25 Oct 2026 19:47 GMT",
+ "fetched": "25 Oct 2026 21:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers Storm Past The Saints",
+   "published": "2026-10-25T21:20:00+00:00",
+   "published_uk": "Sun 25 Oct 2026, 21:20 GMT",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3531699249.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/f3369a54-d0b9-11f1-831e-43d70181a28e/image/9b75a24be821f1da99933c97fcedee28.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers put FOUR past St Johnstone | Match Reaction LIVE from Ibrox",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9382840317.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/e8b8aa78-c947-11f1-909d-2743ded1a967/image/0425ffd72ceb00b2667cf7e64a7de196.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Inside Rangers’ Chairman Meeting: Transfer Plans, Ibrox Expansion and Dan Purdy Exit",
-   "published": "2026-10-15T18:19:00+00:00",
-   "published_uk": "Thu 15 Oct 2026, 19:19 BST",
-   "duration": "51 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4093985337.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/f8344878-c8c4-11f1-be72-8737cdc25db4/image/34dad91c942dbdac4655b22d31584b17.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
