@@ -1,5 +1,5 @@
 {
- "fetched": "25 Oct 2026 21:46 GMT",
+ "fetched": "25 Oct 2026 23:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Podcast, Sunday Show Live - Rangers storm to victory over St Johnstone",
+   "published": "2026-10-25T22:25:00+00:00",
+   "published_uk": "Sun 25 Oct 2026, 22:25 GMT",
+   "duration": "1h 10m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6577601067.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers Storm Past The Saints",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9246150567.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Fernandez Opens Up on “Shaky” Start — And “Amazing” Makhanya",
-   "published": "2026-10-16T09:56:00+00:00",
-   "published_uk": "Fri 16 Oct 2026, 10:56 BST",
-   "duration": "48 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9382840317.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/e8b8aa78-c947-11f1-909d-2743ded1a967/image/0425ffd72ceb00b2667cf7e64a7de196.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
