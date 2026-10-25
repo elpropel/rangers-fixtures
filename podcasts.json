@@ -1,5 +1,5 @@
 {
- "fetched": "25 Oct 2026 07:50 GMT",
+ "fetched": "25 Oct 2026 09:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers put FOUR past St Johnstone | Match Reaction LIVE from Ibrox",
+   "published": "2026-10-25T08:54:00+00:00",
+   "published_uk": "Sun 25 Oct 2026, 08:54 GMT",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8830337222.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers 4 vs 0 St Johnstone | Match Reaction | Scottish Premiership",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4093985337.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/f8344878-c8c4-11f1-be72-8737cdc25db4/image/34dad91c942dbdac4655b22d31584b17.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - Love/Hate at Eight",
-   "published": "2026-10-15T18:00:00+00:00",
-   "published_uk": "Thu 15 Oct 2026, 19:00 BST",
-   "duration": "50 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3641682179.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/4334a7e8-c8b4-11f1-878a-a35489ba5abd/image/15f937bea669f7f1bffa1a08c0360921.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
