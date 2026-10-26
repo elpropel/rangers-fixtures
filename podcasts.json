@@ -1,5 +1,5 @@
 {
- "fetched": "26 Oct 2026 09:45 GMT",
+ "fetched": "26 Oct 2026 11:45 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "The big St Johnstone talking points as Rangers gear up for Tynecastle",
+   "published": "2026-10-26T11:02:00+00:00",
+   "published_uk": "Mon 26 Oct 2026, 11:02 GMT",
+   "duration": "59 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2435713243.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/e23c3944-d12b-11f1-aa2e-fb1cb380bc5b/image/a5d58755bce626db2c69791538d809f2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Podcast, Sunday Show Live - Rangers storm to victory over St Johnstone",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9542174317.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/2c9c314c-c99d-11f1-9714-833588be8179/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "This Is Ibrox Meets Graeme Souness!",
-   "published": "2026-10-16T10:06:00+00:00",
-   "published_uk": "Fri 16 Oct 2026, 11:06 BST",
-   "duration": "46 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9246150567.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
