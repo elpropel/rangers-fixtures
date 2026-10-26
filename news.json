@@ -1,8 +1,35 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "26 Oct 2026 11:45 GMT",
+ "fetched": "26 Oct 2026 13:51 GMT",
  "items": [
+  {
+   "title": "The Rangers star who can 'hold his head high' after being questioned",
+   "link": "https://www.rangersreview.co.uk/news/26670481.rangers-star-can-hold-head-high-questioned/",
+   "excerpt": "The Rangers star who can 'hold his head high' after being questioned",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21631659/?type=app&htype=0",
+   "published": "Mon, 26 Oct 2026 13:40:15 +0000",
+   "published_uk": "Mon 26 Oct 2026, 13:40 GMT",
+   "author": "Author Unknown"
+  },
+  {
+   "title": "Referee and VAR picks for Rangers' trip to Hearts as McInnes goes back to Gorgie",
+   "link": "https://www.rangersreview.co.uk/news/26670213.referee-var-picks-rangers-midweek-trip-hearts/",
+   "excerpt": "Referee and VAR picks for Rangers' trip to Hearts as McInnes goes back to Gorgie",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21631235/?type=app&htype=158",
+   "published": "Mon, 26 Oct 2026 12:50:59 +0000",
+   "published_uk": "Mon 26 Oct 2026, 12:50 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "Ref Watch verdict on St Johnstone red card vs Rangers as pundits at odds",
+   "link": "https://www.rangersreview.co.uk/news/26669929.ref-watch-verdict-st-johnston-red-vs-rangers-pundits-split/",
+   "excerpt": "Ref Watch verdict on St Johnstone red card vs Rangers as pundits at odds",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21630854/?type=app&htype=196",
+   "published": "Mon, 26 Oct 2026 12:03:44 +0000",
+   "published_uk": "Mon 26 Oct 2026, 12:03 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Rangers loan ace 'spectacular' moment earns international media attention",
    "link": "https://www.rangersreview.co.uk/news/26668328.rangers-ace-spectacular-moment-earns-international-media-attention/",
@@ -154,33 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21607170/?type=app&htype=0",
    "published": "Tue, 20 Oct 2026 14:01:00 +0100",
    "published_uk": "Tue 20 Oct 2026, 14:01 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers told to expect more ‘bumps’ as young stars find their feet",
-   "link": "https://www.rangersreview.co.uk/news/26652774.rangers-told-expect-bumps-young-stars/",
-   "excerpt": "Jonny believes the reaction to Rangers' draw with Dundee was over the top.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21606167/?type=app&htype=0",
-   "published": "Tue, 20 Oct 2026 11:54:00 +0100",
-   "published_uk": "Tue 20 Oct 2026, 11:54 BST",
-   "author": "The Rangers Review"
-  },
-  {
-   "title": "Kevin Thomson throws down the gauntlet to ‘exciting’ Rangers duo",
-   "link": "https://www.rangersreview.co.uk/news/26651680.ex-rangers-star-challenges-minsu-kim-djeidi-gassama/",
-   "excerpt": "Thomson has challenged Kim and Gassama to add more goals to their game.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20879738/?type=app&htype=36",
-   "published": "Tue, 20 Oct 2026 08:50:00 +0100",
-   "published_uk": "Tue 20 Oct 2026, 08:50 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers urged to find their ‘next hero’ as new stars challenged to deliver",
-   "link": "https://www.rangersreview.co.uk/news/26651606.kevin-thomson-urges-new-rangers-signings-step/",
-   "excerpt": "Former Rangers midfielder Thomson has called for McInnes' attacking players to be more ruthless.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20578034/?type=app&htype=122",
-   "published": "Tue, 20 Oct 2026 08:03:00 +0100",
-   "published_uk": "Tue 20 Oct 2026, 08:03 BST",
    "author": "Stewart Wilson"
   }
  ]
