@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "26 Oct 2026 19:49 GMT",
+ "fetched": "26 Oct 2026 21:46 GMT",
  "items": [
+  {
+   "title": "The Rangers stars who have 'stepped up' under Derek McInnes",
+   "link": "https://www.rangersreview.co.uk/news/26672095.rangers-stars-stepped-up-derek-mcinnes/",
+   "excerpt": "Rangers' current strike partnership of Ryan Naderi and Kevin Kelsy have both \"stepped up\" after becoming the main threat.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21043752/?type=app&htype=0",
+   "published": "Mon, 26 Oct 2026 19:30:25 +0000",
+   "published_uk": "Mon 26 Oct 2026, 19:30 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Derek McInnes 'won't lose sleep' as Rangers boss over 'hostile' Hearts welcome",
    "link": "https://www.rangersreview.co.uk/news/26671621.mcinnes-wont-lose-sleep-rangers-hostile-hearts-welcome/",
@@ -173,15 +182,6 @@
    "published": "Wed, 21 Oct 2026 12:48:00 +0100",
    "published_uk": "Wed 21 Oct 2026, 12:48 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Derek McInnes runs rule over Rangers squad options in bounce game defeat to Dundee",
-   "link": "https://www.rangersreview.co.uk/news/26654623.started-scored-rangers-lose-dundee-bounce-game/",
-   "excerpt": "Derek McInnes saw his Rangers side in action against Dundee for the second time in quick succession after a bounce game on Tuesday afternoon.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21423640/?type=app&htype=0",
-   "published": "Tue, 20 Oct 2026 16:17:06 +0100",
-   "published_uk": "Tue 20 Oct 2026, 16:17 BST",
-   "author": "Christopher Jack"
   }
  ]
 }
