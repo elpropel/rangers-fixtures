@@ -1,5 +1,5 @@
 {
- "fetched": "26 Oct 2026 19:49 GMT",
+ "fetched": "26 Oct 2026 21:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night live - Tribute to Walter, Saints and Hearts",
+   "published": "2026-10-26T20:27:00+00:00",
+   "published_uk": "Mon 26 Oct 2026, 20:27 GMT",
+   "duration": "58 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5364046804.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Flagship - Slaying Saints",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3546125918.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Friday night preview and Review show",
-   "published": "2026-10-17T05:03:00+00:00",
-   "published_uk": "Sat 17 Oct 2026, 06:03 BST",
-   "duration": "46 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7193712929.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
