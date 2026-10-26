@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "26 Oct 2026 15:44 GMT",
+ "fetched": "26 Oct 2026 17:45 GMT",
  "items": [
+  {
+   "title": "Derek McInnes 'won't lose sleep' as Rangers boss over 'hostile' Hearts welcome",
+   "link": "https://www.rangersreview.co.uk/news/26671621.mcinnes-wont-lose-sleep-rangers-hostile-hearts-welcome/",
+   "excerpt": "Derek",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
+   "published": "Mon, 26 Oct 2026 16:33:52 +0000",
+   "published_uk": "Mon 26 Oct 2026, 16:33 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers legend Walter Smith honoured with £50,000 donation to cancer ward",
    "link": "https://www.rangersreview.co.uk/news/26671050.rangers-legend-walter-smith-honoured-50-000-donation/",
@@ -10,7 +19,7 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21632459/?type=app&htype=0",
    "published": "Mon, 26 Oct 2026 15:12:28 +0000",
    "published_uk": "Mon 26 Oct 2026, 15:12 GMT",
-   "author": "Author Unknown"
+   "author": "Stewart Wilson"
   },
   {
    "title": "The Rangers star who can 'hold his head high' after being questioned",
@@ -173,15 +182,6 @@
    "published": "Tue, 20 Oct 2026 16:17:06 +0100",
    "published_uk": "Tue 20 Oct 2026, 16:17 BST",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "SFA confirm officials as referee gets first Rangers game in over two years",
-   "link": "https://www.rangersreview.co.uk/news/26654103.rangers-vs-st-johnstone-referee-var-officials-confirmed/",
-   "excerpt": "Graham will referee Rangers’ Premiership clash with St Johnstone at Ibrox on Saturday.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21369352/?type=app&htype=0",
-   "published": "Tue, 20 Oct 2026 15:33:00 +0100",
-   "published_uk": "Tue 20 Oct 2026, 15:33 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
