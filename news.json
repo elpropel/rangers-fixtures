@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "26 Oct 2026 13:51 GMT",
+ "fetched": "26 Oct 2026 15:44 GMT",
  "items": [
+  {
+   "title": "Rangers legend Walter Smith honoured with £50,000 donation to cancer ward",
+   "link": "https://www.rangersreview.co.uk/news/26671050.rangers-legend-walter-smith-honoured-50-000-donation/",
+   "excerpt": "The widow of former Rangers and Scotland manager Walter Smith has presented a £50,000 donation to the cancer unit at the Vale of Leven Hospital in Alexandria in recognition of the care her late husband received there.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21632459/?type=app&htype=0",
+   "published": "Mon, 26 Oct 2026 15:12:28 +0000",
+   "published_uk": "Mon 26 Oct 2026, 15:12 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "The Rangers star who can 'hold his head high' after being questioned",
    "link": "https://www.rangersreview.co.uk/news/26670481.rangers-star-can-hold-head-high-questioned/",
@@ -10,7 +19,7 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21631659/?type=app&htype=0",
    "published": "Mon, 26 Oct 2026 13:40:15 +0000",
    "published_uk": "Mon 26 Oct 2026, 13:40 GMT",
-   "author": "Author Unknown"
+   "author": "The Rangers Review"
   },
   {
    "title": "Referee and VAR picks for Rangers' trip to Hearts as McInnes goes back to Gorgie",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21369352/?type=app&htype=0",
    "published": "Tue, 20 Oct 2026 15:33:00 +0100",
    "published_uk": "Tue 20 Oct 2026, 15:33 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Alan Hutton reveals the one Rangers regret that still haunts him",
-   "link": "https://www.rangersreview.co.uk/news/26653580.allan-hutton-reveals-rangers-regret-spurs-transfer/",
-   "excerpt": "Hutton has revealed that leaving Rangers for Tottenham Hotspur midway through the season is one of the few \"regrets\" of his career.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21607170/?type=app&htype=0",
-   "published": "Tue, 20 Oct 2026 14:01:00 +0100",
-   "published_uk": "Tue 20 Oct 2026, 14:01 BST",
    "author": "Stewart Wilson"
   }
  ]
