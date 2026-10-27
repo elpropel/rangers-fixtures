@@ -1,5 +1,5 @@
 {
- "fetched": "27 Oct 2026 19:49 GMT",
+ "fetched": "27 Oct 2026 21:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "How Rangers can take victory against Hearts?",
+   "published": "2026-10-27T21:07:00+00:00",
+   "published_uk": "Tue 27 Oct 2026, 21:07 GMT",
+   "duration": "38 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3148259062.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/68fe8ea4-d24a-11f1-8406-57ab344451ba/image/97e10faaaf8b016bde7da66a4e74ca26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "STRIKERS OF THE STORM! |  Club Deck Corner  | Live Tues 27th Oct at 8pm",
+   "published": "2026-10-27T21:01:00+00:00",
+   "published_uk": "Tue 27 Oct 2026, 21:01 GMT",
+   "duration": "56 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4126372460.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/a827bdea-d249-11f1-a8fe-c3d8366b8b6e/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "No Goals, No Problem. How Kim Min-su Is Making Rangers Better",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9777441097.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/ce0e46b2-cbc0-11f1-b9b7-af2a723e9684/image/68a9c3f7ce437c6627f23d2207e4dc3c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "What went wrong at Dens? Debating the McInnes decisions.",
-   "published": "2026-10-19T10:09:00+00:00",
-   "published_uk": "Mon 19 Oct 2026, 11:09 BST",
-   "duration": "48 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9803678824.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Sunday Show - Disappointment in Dundee",
-   "published": "2026-10-18T21:31:00+00:00",
-   "published_uk": "Sun 18 Oct 2026, 22:31 BST",
-   "duration": "1h 08m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4796193168.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
