@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "27 Oct 2026 21:50 GMT",
+ "fetched": "27 Oct 2026 23:48 GMT",
  "items": [
+  {
+   "title": "Hearts vs Rangers: TV channel, live stream & kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26675893.hearts-vs-dundee-united-tv-live-stream-kick-off-time/",
+   "excerpt": "Rangers travel to face Hearts in one of the standout fixtures of the Premiership card.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20308115/?type=app&htype=0",
+   "published": "Tue, 27 Oct 2026 22:59:00 +0000",
+   "published_uk": "Tue 27 Oct 2026, 22:59 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers star now Derek McInnes' best option as stats don't tell full story",
    "link": "https://www.rangersreview.co.uk/news/26673474.rangers-star-now-clubs-best-option-stats-dont-tell-full-story/",
@@ -173,15 +182,6 @@
    "published": "Fri, 23 Oct 2026 15:27:16 +0100",
    "published_uk": "Fri 23 Oct 2026, 15:27 BST",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers hit by squad bug as Derek McInnes reveals St Johnstone doubts",
-   "link": "https://www.rangersreview.co.uk/news/26665154.derek-mcinnes-reveals-rangers-illness-blow-st-johnstone/",
-   "excerpt": "Rangers have been hit by a bug ahead of their clash with St Johnstone, with one or two regulars doubtful for the game.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21349919/?type=app&htype=0",
-   "published": "Fri, 23 Oct 2026 14:36:00 +0100",
-   "published_uk": "Fri 23 Oct 2026, 14:36 BST",
-   "author": "Stewart Wilson"
   }
  ]
 }
