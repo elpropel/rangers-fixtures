@@ -1,8 +1,44 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "27 Oct 2026 09:51 GMT",
+ "fetched": "27 Oct 2026 11:49 GMT",
  "items": [
+  {
+   "title": "Rangers star now Derek McInnes' best option as stats don't tell full story",
+   "link": "https://www.rangersreview.co.uk/news/26673474.rangers-star-now-clubs-best-option-stats-dont-tell-full-story/",
+   "excerpt": "Rangers star now Derek McInnes' best option as stats don't tell full story",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21635886/?type=app&htype=0",
+   "published": "Tue, 27 Oct 2026 11:36:18 +0000",
+   "published_uk": "Tue 27 Oct 2026, 11:36 GMT",
+   "author": "Author Unknown"
+  },
+  {
+   "title": "Maccabi Tel Aviv told they've made a mistake with 'nothing special' James Tavernier",
+   "link": "https://www.rangersreview.co.uk/news/26672622.maccabi-tel-aviv-warned-mistake-nothing-special-tavernier/",
+   "excerpt": "Maccabi Tel Aviv told they've made a mistake with 'nothing special' James Tavernier",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21456277/?type=app&htype=72",
+   "published": "Tue, 27 Oct 2026 09:34:00 +0000",
+   "published_uk": "Tue 27 Oct 2026, 09:34 GMT",
+   "author": "Mark Walker"
+  },
+  {
+   "title": "Referee and VAR for Rangers vs Aberdeen Premier Sports Cup semi-final confirmed",
+   "link": "https://www.rangersreview.co.uk/news/26672302.referee-var-rangers-vs-aberdeen-semi-final-confirmed/",
+   "excerpt": "Referee and VAR for Rangers vs Aberdeen Premier Sports Cup semi-final confirmed",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21607890/?type=app&htype=99",
+   "published": "Tue, 27 Oct 2026 07:54:44 +0000",
+   "published_uk": "Tue 27 Oct 2026, 07:54 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "The message Rangers need to send at Hearts and how I expect them to go about it",
+   "link": "https://www.rangersreview.co.uk/news/26672245.message-rangers-need-send-expect/",
+   "excerpt": "The message Rangers need to send at Hearts and how I expect them to go about it",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21634324/?type=app&htype=223",
+   "published": "Tue, 27 Oct 2026 07:11:23 +0000",
+   "published_uk": "Tue 27 Oct 2026, 07:11 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "The Rangers stars who have 'stepped up' under Derek McInnes",
    "link": "https://www.rangersreview.co.uk/news/26672095.rangers-stars-stepped-up-derek-mcinnes/",
@@ -146,42 +182,6 @@
    "published": "Fri, 23 Oct 2026 14:36:00 +0100",
    "published_uk": "Fri 23 Oct 2026, 14:36 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Nico Raskin opens up on Rangers future amid 'new challenge' admission",
-   "link": "https://www.rangersreview.co.uk/news/26664933.nico-raskin-addresses-rangers-future-contract-situation/",
-   "excerpt": "Raskin insists he is happy at Rangers and would like to enjoy more success at Ibrox",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21623656/?type=app&htype=0",
-   "published": "Fri, 23 Oct 2026 14:01:00 +0100",
-   "published_uk": "Fri 23 Oct 2026, 14:01 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Old score settled as on-loan Rangers star gets quickfire European revenge",
-   "link": "https://www.rangersreview.co.uk/news/26663314.thelo-aasgaard-gets-revenge-rangers-euro-conquerors/",
-   "excerpt": "On-loan Rangers star Aasgaard admitted he was delighted to finally get his revenge on Jagiellonia Bialystok at the third time of asking.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21222113/?type=app&htype=0",
-   "published": "Fri, 23 Oct 2026 09:53:00 +0100",
-   "published_uk": "Fri 23 Oct 2026, 09:53 BST",
-   "author": "Mark Walker"
-  },
-  {
-   "title": "Rangers unveil 'bold' new fourth kit as latest Umbro offering goes on sale",
-   "link": "https://www.rangersreview.co.uk/news/26662914.rangers-unveil-bold-new-fourth-kit-2026-27-season/",
-   "excerpt": "Rangers have unveiled their fourth kit for the 2026/27 season.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21620785/?type=app&htype=0",
-   "published": "Fri, 23 Oct 2026 08:09:00 +0100",
-   "published_uk": "Fri 23 Oct 2026, 08:09 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "The 'silly' Rangers mistake that Derek McInnes must not repeat this weekend",
-   "link": "https://www.rangersreview.co.uk/news/26657125.kevin-kelsys-rangers-return-backed-alongside-ryan-naderi/",
-   "excerpt": "Kelsy's absence was a key factor in Rangers' 2-2 draw at Dundee, says Thornton.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21612870/?type=app&htype=0",
-   "published": "Wed, 21 Oct 2026 12:48:00 +0100",
-   "published_uk": "Wed 21 Oct 2026, 12:48 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
