@@ -150,5 +150,11 @@
   "status": "pending",
   "source_url": "https://www.bbc.co.uk/sport/football/scottish",
   "updated": "24 Oct 2026 14:53 BST"
+ },
+ "29e3cdf1b59f6931@rangers-fixtures": {
+  "fixture": "Wed 28 Oct 2026 20:00 Rangers @ Hearts",
+  "status": "pending",
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cry834yz0dvyt",
+  "updated": "28 Oct 2026 18:26 GMT"
  }
 }
