@@ -1,5 +1,5 @@
 {
- "fetched": "28 Oct 2026 21:50 GMT",
+ "fetched": "28 Oct 2026 23:43 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads instant match reaction - Missed opportunity in below par performance",
+   "published": "2026-10-28T23:11:00+00:00",
+   "published_uk": "Wed 28 Oct 2026, 23:11 GMT",
+   "duration": "51 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8532115978.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Hearts vs Rangers | Match Reaction | Scottish Premiership",
+   "published": "2026-10-28T22:59:00+00:00",
+   "published_uk": "Wed 28 Oct 2026, 22:59 GMT",
+   "duration": "44 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5965246963.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/4831ecaa-d323-11f1-a116-1f5f781b2f33/image/3ea129f07c84e24a210d0936a9db1c21.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McInnes on Tynecastle Return | Sterling Lifts the Lid on Rangers' New Approach",
@@ -287,28 +309,6 @@
    "published_uk": "Tue 20 Oct 2026, 20:43 BST",
    "duration": "1h 12m",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6580868705.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Too much criticism for Dundee draw?",
-   "published": "2026-10-20T13:01:00+00:00",
-   "published_uk": "Tue 20 Oct 2026, 14:01 BST",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6800601759.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Special - In conversation with Colin Stewart",
-   "published": "2026-10-20T11:00:00+00:00",
-   "published_uk": "Tue 20 Oct 2026, 12:00 BST",
-   "duration": "48 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4295494206.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
