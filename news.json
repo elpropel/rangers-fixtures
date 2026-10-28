@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 11:51 GMT",
+ "fetched": "28 Oct 2026 13:46 GMT",
  "items": [
+  {
+   "title": "Ex-Rangers star 'under consideration' by club after weeks as a free agent",
+   "link": "https://www.rangersreview.co.uk/news/26677147.ex-rangers-star-set-for-new-club-weeks-free-agent/",
+   "excerpt": "Ex-Rangers star 'under consideration' by club after weeks as a free agent",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21404125/?type=app&htype=0",
+   "published": "Wed, 28 Oct 2026 11:45:51 +0000",
+   "published_uk": "Wed 28 Oct 2026, 11:45 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "The huge ‘statement’ Rangers must make to prove their title credentials",
    "link": "https://www.rangersreview.co.uk/news/26676826.rangers-title-credentials-face-huge-tynecastle-test/",
@@ -11,6 +20,15 @@
    "published": "Wed, 28 Oct 2026 11:05:00 +0000",
    "published_uk": "Wed 28 Oct 2026, 11:05 GMT",
    "author": "The Rangers Review"
+  },
+  {
+   "title": "Rangers wonderkid on UEFA Youth League and how cooperation loan is benefiting him",
+   "link": "https://www.rangersreview.co.uk/news/26676627.rangers-kid-uefa-youth-league-cooperation-loan-working/",
+   "excerpt": "Rangers wonderkid on UEFA Youth League and how cooperation loan is benefiting him",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21640377/?type=app&htype=137",
+   "published": "Wed, 28 Oct 2026 10:29:49 +0000",
+   "published_uk": "Wed 28 Oct 2026, 10:29 GMT",
+   "author": "Blair Meikle"
   },
   {
    "title": "Ex-Rangers star reveals talks with SPFL club over managerial vacancy",
@@ -164,24 +182,6 @@
    "published": "Sat, 24 Oct 2026 14:42:00 +0100",
    "published_uk": "Sat 24 Oct 2026, 14:42 BST",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes makes one change as Rangers starting XI vs St Johnstone revealed",
-   "link": "https://www.rangersreview.co.uk/news/26666765.mcinnes-makes-one-change-rangers-xi-vs-st-johnstone-revealed/",
-   "excerpt": "McInnes has named his Rangers team to face St Johnstone this afternoon.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21567783/?type=app&htype=121",
-   "published": "Sat, 24 Oct 2026 13:52:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 13:52 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers v St Johnstone: RECAP as McInnes' side ease to Ibrox win",
-   "link": "https://www.rangersreview.co.uk/news/26666638.rangers-v-st-johnstone-recap-mcinnes-side-ease-win/",
-   "excerpt": "Join the Rangers Review live from Ibrox as Derek McInnes' side look to get back to winning ways in the Premiership title race.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21626080/?type=app&htype=0",
-   "published": "Sat, 24 Oct 2026 13:00:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 13:00 BST",
-   "author": "Christopher Jack"
   }
  ]
 }
