@@ -153,8 +153,75 @@
  },
  "29e3cdf1b59f6931@rangers-fixtures": {
   "fixture": "Wed 28 Oct 2026 20:00 Rangers @ Hearts",
-  "status": "pending",
+  "status": "confirmed",
+  "formation": null,
+  "absences": [],
+  "source_name": "BBC Sport",
   "source_url": "https://www.bbc.co.uk/sport/football/live/cry834yz0dvyt",
-  "updated": "28 Oct 2026 18:59 GMT"
+  "updated": "28 Oct 2026 19:14 GMT",
+  "starting_xi": [
+   {
+    "name": "Pandur"
+   },
+   {
+    "name": "Sterling"
+   },
+   {
+    "name": "Fernandez"
+   },
+   {
+    "name": "Makhanya"
+   },
+   {
+    "name": "Penrice"
+   },
+   {
+    "name": "Raskin"
+   },
+   {
+    "name": "Neil"
+   },
+   {
+    "name": "Min-su"
+   },
+   {
+    "name": "Gassama"
+   },
+   {
+    "name": "Kelsy"
+   },
+   {
+    "name": "Naderi"
+   }
+  ],
+  "subs": [
+   {
+    "name": "Kelly"
+   },
+   {
+    "name": "Nedeljkovic"
+   },
+   {
+    "name": "Godfrey"
+   },
+   {
+    "name": "Rommens"
+   },
+   {
+    "name": "Dragojevic"
+   },
+   {
+    "name": "Chukwuani"
+   },
+   {
+    "name": "Curtis"
+   },
+   {
+    "name": "Bouanani"
+   },
+   {
+    "name": "Miovski"
+   }
+  ]
  }
 }
