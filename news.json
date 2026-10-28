@@ -1,16 +1,25 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 07:48 GMT",
+ "fetched": "28 Oct 2026 09:44 GMT",
  "items": [
   {
    "title": "Hearts vs Rangers: TV channel, live stream & kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26675893.hearts-vs-dundee-united-tv-live-stream-kick-off-time/",
    "excerpt": "Rangers travel to face Hearts in one of the standout fixtures of the Premiership card.",
    "thumb": "https://www.rangersreview.co.uk/resources/images/20308115/?type=app&htype=0",
-   "published": "Tue, 27 Oct 2026 22:59:00 +0000",
-   "published_uk": "Tue 27 Oct 2026, 22:59 GMT",
+   "published": "Wed, 28 Oct 2026 09:07:00 +0000",
+   "published_uk": "Wed 28 Oct 2026, 09:07 GMT",
    "author": "Stewart Wilson"
+  },
+  {
+   "title": "As a Rangers fringe player, here is how that spell impacted me mentally",
+   "link": "https://www.rangersreview.co.uk/news/26676106.rangers-fringe-player-impacted-mentally/",
+   "excerpt": "As a Rangers fringe player, here is how that spell impacted me mentally",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21639642/?type=app&htype=137",
+   "published": "Wed, 28 Oct 2026 08:31:56 +0000",
+   "published_uk": "Wed 28 Oct 2026, 08:31 GMT",
+   "author": "Blair Meikle"
   },
   {
    "title": "Rangers star now Derek McInnes' best option as stats don't tell full story",
@@ -173,15 +182,6 @@
    "published": "Fri, 23 Oct 2026 15:32:00 +0100",
    "published_uk": "Fri 23 Oct 2026, 15:32 BST",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Northern Irish Rangers fans issued travel warning ahead of St Johnstone clash",
-   "link": "https://www.rangersreview.co.uk/news/26665532.rangers-fans-issued-travel-warning-ahead-st-johnstone-clash/",
-   "excerpt": "Northern Irish Rangers fans issued travel warning ahead of St Johnstone clash",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21624571/?type=app&htype=5",
-   "published": "Fri, 23 Oct 2026 15:27:16 +0100",
-   "published_uk": "Fri 23 Oct 2026, 15:27 BST",
-   "author": "Blair Meikle"
   }
  ]
 }
