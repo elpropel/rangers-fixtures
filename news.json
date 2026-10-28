@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 19:46 GMT",
+ "fetched": "28 Oct 2026 21:50 GMT",
  "items": [
   {
    "title": "Hearts v Rangers: LIVE team news, action and reaction from Tynecastle",
@@ -74,6 +74,15 @@
    "published": "Wed, 28 Oct 2026 08:31:56 +0000",
    "published_uk": "Wed 28 Oct 2026, 08:31 GMT",
    "author": "Blair Meikle"
+  },
+  {
+   "title": "Derek McInnes names Rangers starting line-up vs Hearts, makes one key change",
+   "link": "https://www.rangersreview.co.uk/news/26675905.rangers-starting-line-up-vs-hearts-one-key-change/",
+   "excerpt": "Rangers are back in Premiership action as they travel to Tynecastle to take on Hearts.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21402036/?type=app&htype=0",
+   "published": "Tue, 27 Oct 2026 23:14:00 +0000",
+   "published_uk": "Tue 27 Oct 2026, 23:14 GMT",
+   "author": "Stewart Wilson"
   },
   {
    "title": "Rangers star now Derek McInnes' best option as stats don't tell full story",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21628656/?type=app&htype=0",
    "published": "Sun, 25 Oct 2026 15:33:42 +0000",
    "published_uk": "Sun 25 Oct 2026, 15:33 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes makes Rangers ‘his time will come’ promise to benched summer signing",
-   "link": "https://www.rangersreview.co.uk/news/26667544.vanja-dragojevic-gets-rangers-game-time-message-mcinnes/",
-   "excerpt": "McInnes admits he cannot keep everyone happy at Rangers as competition for game time intensifies at Ibrox.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21512639/?type=app&htype=0",
-   "published": "Sat, 24 Oct 2026 18:27:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 18:27 BST",
    "author": "Stewart Wilson"
   }
  ]
