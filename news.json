@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 09:44 GMT",
+ "fetched": "28 Oct 2026 11:51 GMT",
  "items": [
+  {
+   "title": "The huge ‘statement’ Rangers must make to prove their title credentials",
+   "link": "https://www.rangersreview.co.uk/news/26676826.rangers-title-credentials-face-huge-tynecastle-test/",
+   "excerpt": "Rangers are set for a crucial test of their title aspirations at Tynecastle.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21640514/?type=app&htype=0",
+   "published": "Wed, 28 Oct 2026 11:05:00 +0000",
+   "published_uk": "Wed 28 Oct 2026, 11:05 GMT",
+   "author": "The Rangers Review"
+  },
+  {
+   "title": "Ex-Rangers star reveals talks with SPFL club over managerial vacancy",
+   "link": "https://www.rangersreview.co.uk/news/26676362.ex-rangers-star-details-talks-spfl-club-manager-role/",
+   "excerpt": "Ex-Rangers star reveals talks with SPFL club over managerial vacancy",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21639933/?type=app&htype=190",
+   "published": "Wed, 28 Oct 2026 09:42:23 +0000",
+   "published_uk": "Wed 28 Oct 2026, 09:42 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Hearts vs Rangers: TV channel, live stream & kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26675893.hearts-vs-dundee-united-tv-live-stream-kick-off-time/",
@@ -164,24 +182,6 @@
    "published": "Sat, 24 Oct 2026 13:00:00 +0100",
    "published_uk": "Sat 24 Oct 2026, 13:00 BST",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "Rangers vs St Johnstone: TV channel, live stream & kick-off time",
-   "link": "https://www.rangersreview.co.uk/news/26666755.rangers-vs-st-johnstone-tv-can-live-stream/",
-   "excerpt": "Everything you need to know as Rangers host St Johnstone at Ibrox in the Scottish Premiership.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/19933046/?type=app&htype=0",
-   "published": "Sat, 24 Oct 2026 07:27:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 07:27 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "New Rangers 'gripe' laid bare as Ibrox gets set for league action",
-   "link": "https://www.rangersreview.co.uk/news/26665510.rangers-fourth-kit-sparks-debate-new-gripe-laid-bare/",
-   "excerpt": "The latest morning briefing centred on reaction to the club’s new fourth kit, the selection debate ahead of St Johnstone and Barron’s difficult loan",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21624518/?type=app&htype=0",
-   "published": "Fri, 23 Oct 2026 15:32:00 +0100",
-   "published_uk": "Fri 23 Oct 2026, 15:32 BST",
-   "author": "The Rangers Review"
   }
  ]
 }
