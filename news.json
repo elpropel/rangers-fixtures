@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 15:47 GMT",
+ "fetched": "28 Oct 2026 17:42 GMT",
  "items": [
+  {
+   "title": "Dynamo Kyiv 3-2 Rangers U19s: Dramatic late goal sets up second-leg decider",
+   "link": "https://www.rangersreview.co.uk/news/26678739.rangers-u19s-grab-late-lifeline-dynamo-kyiv-defeat/",
+   "excerpt": "Rangers Under-19s gave themselves hope of a Youth League comeback after a dramatic stoppage-time goal cut their deficit against Dynamo Kyiv.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
+   "published": "Wed, 28 Oct 2026 16:00:00 +0000",
+   "published_uk": "Wed 28 Oct 2026, 16:00 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers star 'under consideration' by club after weeks as a free agent",
    "link": "https://www.rangersreview.co.uk/news/26677147.ex-rangers-star-set-for-new-club-weeks-free-agent/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21627204/?type=app&htype=0",
    "published": "Sat, 24 Oct 2026 17:34:00 +0100",
    "published_uk": "Sat 24 Oct 2026, 17:34 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes explains Rangers calls as he backs new-look frontline",
-   "link": "https://www.rangersreview.co.uk/news/26667228.derek-mcinnes-explains-rangers-team-selection-v-st-johnstone/",
-   "excerpt": "Derek McInnes has explained his Rangers team selection for the clash with St Johnstone, with Kevin Kelsy returning in the only change to his starting XI.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21044424/?type=app&htype=0",
-   "published": "Sat, 24 Oct 2026 14:42:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 14:42 BST",
    "author": "Stewart Wilson"
   }
  ]
