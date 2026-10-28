@@ -1,20 +1,20 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "28th October 2026 at 15:18",
- "fetched": "28 Oct 2026 17:42 GMT",
+ "bbc_updated": "28th October 2026 at 19:46",
+ "fetched": "28 Oct 2026 19:46 GMT",
  "rows": [
   {
    "pos": 1,
    "team": "Celtic",
-   "p": 10,
+   "p": 11,
    "w": 9,
-   "d": 0,
+   "d": 1,
    "l": 1,
    "gf": 25,
    "ga": 6,
    "gd": 19,
-   "pts": 27,
+   "pts": 28,
    "form": [
     "W",
     "W",
@@ -67,14 +67,14 @@
   {
    "pos": 4,
    "team": "Dundee United",
-   "p": 10,
+   "p": 11,
    "w": 4,
-   "d": 3,
+   "d": 4,
    "l": 3,
    "gf": 14,
    "ga": 14,
    "gd": 0,
-   "pts": 15,
+   "pts": 16,
    "form": [
     "L",
     "D",
@@ -107,14 +107,14 @@
   {
    "pos": 6,
    "team": "St. Mirren",
-   "p": 10,
+   "p": 11,
    "w": 4,
-   "d": 1,
+   "d": 2,
    "l": 5,
    "gf": 11,
    "ga": 18,
    "gd": -7,
-   "pts": 13,
+   "pts": 14,
    "form": [
     "L",
     "L",
@@ -127,14 +127,14 @@
   {
    "pos": 7,
    "team": "Falkirk",
-   "p": 10,
+   "p": 11,
    "w": 3,
-   "d": 3,
+   "d": 4,
    "l": 4,
    "gf": 12,
    "ga": 12,
    "gd": 0,
-   "pts": 12,
+   "pts": 13,
    "form": [
     "D",
     "W",
@@ -147,14 +147,14 @@
   {
    "pos": 8,
    "team": "St. Johnstone",
-   "p": 10,
+   "p": 11,
    "w": 3,
-   "d": 3,
+   "d": 4,
    "l": 4,
    "gf": 11,
    "ga": 15,
    "gd": -4,
-   "pts": 12,
+   "pts": 13,
    "form": [
     "W",
     "L",
@@ -167,14 +167,14 @@
   {
    "pos": 9,
    "team": "Aberdeen",
-   "p": 10,
+   "p": 11,
    "w": 3,
-   "d": 2,
+   "d": 3,
    "l": 5,
    "gf": 12,
    "ga": 13,
    "gd": -1,
-   "pts": 11,
+   "pts": 12,
    "form": [
     "D",
     "W",
@@ -187,14 +187,14 @@
   {
    "pos": 10,
    "team": "Motherwell",
-   "p": 10,
+   "p": 11,
    "w": 2,
-   "d": 2,
+   "d": 3,
    "l": 6,
    "gf": 11,
    "ga": 18,
    "gd": -7,
-   "pts": 8,
+   "pts": 9,
    "form": [
     "L",
     "L",
@@ -206,6 +206,26 @@
   },
   {
    "pos": 11,
+   "team": "Hibernian",
+   "p": 11,
+   "w": 2,
+   "d": 2,
+   "l": 7,
+   "gf": 10,
+   "ga": 16,
+   "gd": -6,
+   "pts": 8,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "L",
+    "L",
+    "L"
+   ]
+  },
+  {
+   "pos": 12,
    "team": "Kilmarnock",
    "p": 10,
    "w": 2,
@@ -221,26 +241,6 @@
     "D",
     "L",
     "W",
-    "L"
-   ]
-  },
-  {
-   "pos": 12,
-   "team": "Hibernian",
-   "p": 10,
-   "w": 2,
-   "d": 1,
-   "l": 7,
-   "gf": 10,
-   "ga": 16,
-   "gd": -6,
-   "pts": 7,
-   "form": [
-    "L",
-    "L",
-    "D",
-    "L",
-    "L",
     "L"
    ]
   }
