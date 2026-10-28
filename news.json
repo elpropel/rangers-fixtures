@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "28 Oct 2026 17:42 GMT",
+ "fetched": "28 Oct 2026 19:46 GMT",
  "items": [
+  {
+   "title": "Hearts v Rangers: LIVE team news, action and reaction from Tynecastle",
+   "link": "https://www.rangersreview.co.uk/news/26676804.hearts-v-rangers-live-team-news-action-reaction/",
+   "excerpt": "Join Chris Jack and Joshua Barrie live from Tynecastle as Rangers face Hearts in the Premiership.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21640478/?type=app&htype=0",
+   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
+   "published_uk": "Wed 28 Oct 2026, 17:00 GMT",
+   "author": "Christopher Jack"
+  },
   {
    "title": "Dynamo Kyiv 3-2 Rangers U19s: Dramatic late goal sets up second-leg decider",
    "link": "https://www.rangersreview.co.uk/news/26678739.rangers-u19s-grab-late-lifeline-dynamo-kyiv-defeat/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21512639/?type=app&htype=0",
    "published": "Sat, 24 Oct 2026 18:27:00 +0100",
    "published_uk": "Sat 24 Oct 2026, 18:27 BST",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "WATCH: Rangers supporters battle Ibrox flooding as club issues warning",
-   "link": "https://www.rangersreview.co.uk/news/26667481.watch-rangers-supporters-face-flooding-outside-ibrox/",
-   "excerpt": "Rangers supporters were warned to take extra care leaving after heavy rain caused flooding around Ibrox following their 4-0 victory versus St Johnstone.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21627204/?type=app&htype=0",
-   "published": "Sat, 24 Oct 2026 17:34:00 +0100",
-   "published_uk": "Sat 24 Oct 2026, 17:34 BST",
    "author": "Stewart Wilson"
   }
  ]
