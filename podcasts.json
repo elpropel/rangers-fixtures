@@ -1,5 +1,5 @@
 {
- "fetched": "27 Oct 2026 23:48 GMT",
+ "fetched": "28 Oct 2026 07:48 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-10-27T23:58:00+00:00",
+   "published_uk": "Tue 27 Oct 2026, 23:58 GMT",
+   "duration": "1h 15m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1472669160.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "How Rangers can take victory against Hearts?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1960363941.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Flagship - Two Points Dropped",
-   "published": "2026-10-19T17:00:00+00:00",
-   "published_uk": "Mon 19 Oct 2026, 18:00 BST",
-   "duration": "34 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9777441097.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/ce0e46b2-cbc0-11f1-b9b7-af2a723e9684/image/68a9c3f7ce437c6627f23d2207e4dc3c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
