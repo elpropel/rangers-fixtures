@@ -1,5 +1,5 @@
 {
- "fetched": "29 Oct 2026 19:50 GMT",
+ "fetched": "29 Oct 2026 21:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Podcast live - Stevie's Corner, Tynecastle and Hampden",
+   "published": "2026-10-29T20:27:00+00:00",
+   "published_uk": "Thu 29 Oct 2026, 20:27 GMT",
+   "duration": "32 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5951760771.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Extra - Hocus Pocus, A Lack Of Focus",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8577924137.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Midweek Live podcast",
-   "published": "2026-10-21T18:57:00+00:00",
-   "published_uk": "Wed 21 Oct 2026, 19:57 BST",
-   "duration": "52 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3477176042.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
