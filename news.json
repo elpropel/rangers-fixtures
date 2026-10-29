@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "29 Oct 2026 07:44 GMT",
+ "fetched": "29 Oct 2026 09:45 GMT",
  "items": [
+  {
+   "title": "Derek McInnes hails 'outstanding' Rangers star after standout performance",
+   "link": "https://www.rangersreview.co.uk/news/26679706.mcinnes-hails-outstanding-rangers-star-standout-performance/",
+   "excerpt": "Derek McInnes hails 'outstanding' Rangers star after standout performance",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21644195/?type=app&htype=90",
+   "published": "Thu, 29 Oct 2026 08:10:56 +0000",
+   "published_uk": "Thu 29 Oct 2026, 08:10 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "How Derek McInnes irked Wouter Vrancken as Hearts boss tells his side of story",
+   "link": "https://www.rangersreview.co.uk/news/26679643.mcinnes-irked-vrancken-hearts-boss-tells-side/",
+   "excerpt": "How Derek McInnes irked Wouter Vrancken as Hearts boss tells his side of story",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21644129/?type=app&htype=32",
+   "published": "Thu, 29 Oct 2026 07:09:17 +0000",
+   "published_uk": "Thu 29 Oct 2026, 07:09 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Hearts v Rangers: Full RECAP as McInnes' side snatch a point at Tynecastle",
    "link": "https://www.rangersreview.co.uk/news/26676804.hearts-v-rangers-full-recap-mcinnes-side-snatch-point/",
@@ -164,24 +182,6 @@
    "published": "Mon, 26 Oct 2026 12:50:59 +0000",
    "published_uk": "Mon 26 Oct 2026, 12:50 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Ref Watch verdict on St Johnstone red card vs Rangers as pundits at odds",
-   "link": "https://www.rangersreview.co.uk/news/26669929.ref-watch-verdict-st-johnston-red-vs-rangers-pundits-split/",
-   "excerpt": "Ref Watch verdict on St Johnstone red card vs Rangers as pundits at odds",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21630854/?type=app&htype=196",
-   "published": "Mon, 26 Oct 2026 12:03:44 +0000",
-   "published_uk": "Mon 26 Oct 2026, 12:03 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers loan ace 'spectacular' moment earns international media attention",
-   "link": "https://www.rangersreview.co.uk/news/26668328.rangers-ace-spectacular-moment-earns-international-media-attention/",
-   "excerpt": "Nedim Bajrami has been applauded for a \"spectacular\" strike on loan at Al Taawoun in Saudi's Pro League.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21628656/?type=app&htype=0",
-   "published": "Sun, 25 Oct 2026 15:33:42 +0000",
-   "published_uk": "Sun 25 Oct 2026, 15:33 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
