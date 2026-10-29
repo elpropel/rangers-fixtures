@@ -1,5 +1,5 @@
 {
- "fetched": "29 Oct 2026 11:48 GMT",
+ "fetched": "29 Oct 2026 13:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Time for Fernandez to be dropped? Reaction to more Rangers dropped points",
+   "published": "2026-10-29T13:28:00+00:00",
+   "published_uk": "Thu 29 Oct 2026, 13:28 GMT",
+   "duration": "37 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9587045302.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/fda130b2-d398-11f1-b7a5-a77db63ca6ff/image/58a4b164d734ca39242a7e509ae56281.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers steal a point but drop two at Tynecastle",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7204932865.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "DISAPPOINTED AT DENS | Where It Went Wrong | Club Deck Corner",
-   "published": "2026-10-20T19:52:00+00:00",
-   "published_uk": "Tue 20 Oct 2026, 20:52 BST",
-   "duration": "50 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9972114274.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/d528b798-ccbf-11f1-9a99-5b8e0ddb18da/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
