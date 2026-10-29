@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "29 Oct 2026 09:45 GMT",
+ "fetched": "29 Oct 2026 11:48 GMT",
  "items": [
+  {
+   "title": "Kenny Miller addresses Maccabi Tel Aviv future after being linked to job in England",
+   "link": "https://www.rangersreview.co.uk/news/26680176.kenny-miller-addresses-future-linked-jobs-england/",
+   "excerpt": "Kenny Miller addresses Maccabi Tel Aviv future after being linked to job in England",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21644650/?type=app&htype=122",
+   "published": "Thu, 29 Oct 2026 10:07:39 +0000",
+   "published_uk": "Thu 29 Oct 2026, 10:07 GMT",
+   "author": "Mark Walker"
+  },
   {
    "title": "Derek McInnes hails 'outstanding' Rangers star after standout performance",
    "link": "https://www.rangersreview.co.uk/news/26679706.mcinnes-hails-outstanding-rangers-star-standout-performance/",
@@ -173,15 +182,6 @@
    "published": "Mon, 26 Oct 2026 13:40:15 +0000",
    "published_uk": "Mon 26 Oct 2026, 13:40 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Referee and VAR picks for Rangers' trip to Hearts as McInnes goes back to Gorgie",
-   "link": "https://www.rangersreview.co.uk/news/26670213.referee-var-picks-rangers-midweek-trip-hearts/",
-   "excerpt": "Referee and VAR picks for Rangers' trip to Hearts as McInnes goes back to Gorgie",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21631235/?type=app&htype=158",
-   "published": "Mon, 26 Oct 2026 12:50:59 +0000",
-   "published_uk": "Mon 26 Oct 2026, 12:50 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
