@@ -1,5 +1,5 @@
 {
- "fetched": "28 Oct 2026 23:43 GMT",
+ "fetched": "29 Oct 2026 07:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers steal a point but drop two at Tynecastle",
+   "published": "2026-10-29T00:04:00+00:00",
+   "published_uk": "Thu 29 Oct 2026, 00:04 GMT",
+   "duration": "13 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7677808049.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6378fb80-d32c-11f1-88e2-8b5ced988989/image/2aa495d5d65466a6c002208e3b1acd8a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads instant match reaction - Missed opportunity in below par performance",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9972114274.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/d528b798-ccbf-11f1-9a99-5b8e0ddb18da/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads This Week in History - LIVE",
-   "published": "2026-10-20T19:43:00+00:00",
-   "published_uk": "Tue 20 Oct 2026, 20:43 BST",
-   "duration": "1h 12m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6580868705.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
