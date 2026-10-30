@@ -1,5 +1,5 @@
 {
- "fetched": "30 Oct 2026 09:47 GMT",
+ "fetched": "30 Oct 2026 11:48 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes fires back at Fernandez critics | Who starts against Aberdeen?",
+   "published": "2026-10-30T10:46:00+00:00",
+   "published_uk": "Fri 30 Oct 2026, 10:46 GMT",
+   "duration": "42 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8899949236.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1882d172-d44f-11f1-9d34-1f3e05c07c39/image/85484e9dbc3423f8ec2fa70c22ada7d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "More Frustration - But Was It A Good Point Or Concerning For Rangers?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1416417330.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/e8bdbea0-ce38-11f1-8dc3-5382b56feddb/image/1dde4c89a1de9ff5031a0d54f891dafe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McCulloch exclusive | Manny to start?",
-   "published": "2026-10-22T11:36:00+00:00",
-   "published_uk": "Thu 22 Oct 2026, 12:36 BST",
-   "duration": "34 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6422286815.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
