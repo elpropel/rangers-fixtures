@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "29 Oct 2026 21:47 GMT",
+ "fetched": "30 Oct 2026 07:45 GMT",
  "items": [
+  {
+   "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
+   "excerpt": "Rangers and Aberdeen meet with a place in the Premier Sports Cup final at stake.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
+   "published": "Thu, 29 Oct 2026 22:24:00 +0000",
+   "published_uk": "Thu 29 Oct 2026, 22:24 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers star emerges as fresh doubt for Aberdeen Premier Sports Cup semi-final",
    "link": "https://www.rangersreview.co.uk/news/26681758.rangers-star-emerges-fresh-doubt-aberdeen-semi-final/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
    "published": "Mon, 26 Oct 2026 16:33:52 +0000",
    "published_uk": "Mon 26 Oct 2026, 16:33 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers legend Walter Smith honoured with £50,000 donation to cancer ward",
-   "link": "https://www.rangersreview.co.uk/news/26671050.rangers-legend-walter-smith-honoured-50-000-donation/",
-   "excerpt": "The widow of former Rangers and Scotland manager Walter Smith has presented a £50,000 donation to the cancer unit at the Vale of Leven Hospital in Alexandria in recognition of the care her late husband received there.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21632459/?type=app&htype=0",
-   "published": "Mon, 26 Oct 2026 15:12:28 +0000",
-   "published_uk": "Mon 26 Oct 2026, 15:12 GMT",
    "author": "Stewart Wilson"
   }
  ]
