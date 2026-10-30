@@ -1,5 +1,5 @@
 {
- "fetched": "30 Oct 2026 21:42 GMT",
+ "fetched": "30 Oct 2026 23:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Friday night Review and Preview LIVE",
+   "published": "2026-10-30T22:31:00+00:00",
+   "published_uk": "Fri 30 Oct 2026, 22:31 GMT",
+   "duration": "1h 04m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6088556204.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "TRICK OR TREAT AT HAMPDEN 🎃 | Club Live",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7441980585.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers release NEW 4th kit & how will McInnes shape up against St Johnstone?",
-   "published": "2026-10-23T10:00:00+00:00",
-   "published_uk": "Fri 23 Oct 2026, 11:00 BST",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8525535965.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
