@@ -1,5 +1,5 @@
 {
- "fetched": "29 Oct 2026 21:47 GMT",
+ "fetched": "30 Oct 2026 07:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "More Frustration - But Was It A Good Point Or Concerning For Rangers?",
+   "published": "2026-10-30T00:14:00+00:00",
+   "published_uk": "Fri 30 Oct 2026, 00:14 GMT",
+   "duration": "41 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4714794275.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/d1703656-d3f6-11f1-ac15-67153a5eb1e0/image/0a0698f8bbbb9976eb084fac0d048879.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Podcast live - Stevie's Corner, Tynecastle and Hampden",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6422286815.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "How Will Rangers Respond After Dens Disappointment?",
-   "published": "2026-10-21T21:33:00+00:00",
-   "published_uk": "Wed 21 Oct 2026, 22:33 BST",
-   "duration": "31 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8577924137.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
