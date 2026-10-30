@@ -1,5 +1,5 @@
 {
- "fetched": "30 Oct 2026 19:46 GMT",
+ "fetched": "30 Oct 2026 21:42 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "TRICK OR TREAT AT HAMPDEN 🎃 | Club Live",
+   "published": "2026-10-30T20:58:00+00:00",
+   "published_uk": "Fri 30 Oct 2026, 20:58 GMT",
+   "duration": "53 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5366556148.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/bd8fedda-d4a4-11f1-948a-4b454d68962e/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McInnes fires back at Fernandez critics | Who starts against Aberdeen?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8525535965.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - Thick and Fast",
-   "published": "2026-10-22T18:00:00+00:00",
-   "published_uk": "Thu 22 Oct 2026, 19:00 BST",
-   "duration": "46 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1416417330.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/e8bdbea0-ce38-11f1-8dc3-5382b56feddb/image/1dde4c89a1de9ff5031a0d54f891dafe.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
