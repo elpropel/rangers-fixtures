@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "30 Oct 2026 09:46 GMT",
+ "fetched": "30 Oct 2026 11:48 GMT",
  "items": [
+  {
+   "title": "Ex-Rangers boss Michael Beale handed vote of confidence after four straight defeats",
+   "link": "https://www.rangersreview.co.uk/news/26683619.ex-rangers-boss-gets-vote-confidence-four-straight-defeats/",
+   "excerpt": "Ex-Rangers boss Michael Beale handed vote of confidence after four straight defeats",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21649715/?type=app&htype=141",
+   "published": "Fri, 30 Oct 2026 09:45:13 +0000",
+   "published_uk": "Fri 30 Oct 2026, 09:45 GMT",
+   "author": "Mark Walker"
+  },
   {
    "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21043752/?type=app&htype=0",
    "published": "Mon, 26 Oct 2026 19:30:25 +0000",
    "published_uk": "Mon 26 Oct 2026, 19:30 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes 'won't lose sleep' as Rangers boss over 'hostile' Hearts welcome",
-   "link": "https://www.rangersreview.co.uk/news/26671621.mcinnes-wont-lose-sleep-rangers-hostile-hearts-welcome/",
-   "excerpt": "Derek",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
-   "published": "Mon, 26 Oct 2026 16:33:52 +0000",
-   "published_uk": "Mon 26 Oct 2026, 16:33 GMT",
    "author": "Stewart Wilson"
   }
  ]
