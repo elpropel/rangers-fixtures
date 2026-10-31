@@ -1,5 +1,5 @@
 {
- "fetched": "31 Oct 2026 19:49 GMT",
+ "fetched": "31 Oct 2026 21:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers reach league cup final after another big Naderi moment",
+   "published": "2026-10-31T20:22:00+00:00",
+   "published_uk": "Sat 31 Oct 2026, 20:22 GMT",
+   "duration": "33 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4894698634.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/c4462b70-d568-11f1-94e2-b33745c78a20/image/a325dd79faa71421257a557bc5c6e0bc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Friday night Review and Preview LIVE",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6544769671.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/7c551c46-cf1d-11f1-92b6-f709bc162aed/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Friday Night Review and Preview Show",
-   "published": "2026-10-23T20:01:00+00:00",
-   "published_uk": "Fri 23 Oct 2026, 21:01 BST",
-   "duration": "1h 00m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7441980585.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
