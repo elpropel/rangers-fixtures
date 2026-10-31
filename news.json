@@ -1,8 +1,35 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "31 Oct 2026 15:46 GMT",
+ "fetched": "31 Oct 2026 17:45 GMT",
  "items": [
+  {
+   "title": "Derek McInnes explains his thinking behind surprising Rangers team selection",
+   "link": "https://www.rangersreview.co.uk/news/26687373.rangers-team-selection-explained-derek-mcinnes-hampden/",
+   "excerpt": "McInnes has explained his Rangers selection shake-up for the Premier Sports Cup semi-final against Aberdeen.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
+   "published": "Sat, 31 Oct 2026 16:44:00 +0000",
+   "published_uk": "Sat 31 Oct 2026, 16:44 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Derek McInnes names Rangers starting line-up vs Aberdeen, makes two changes",
+   "link": "https://www.rangersreview.co.uk/news/26686655.rangers-starting-line-up-vs-aberdeen-two-changes-made/",
+   "excerpt": "Rangers return to Premier Sports Cup action as they take on Aberdeen in a huge semi-final showdown at Hampden.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20484552/?type=app&htype=52",
+   "published": "Sat, 31 Oct 2026 16:20:00 +0000",
+   "published_uk": "Sat 31 Oct 2026, 16:20 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Rangers v Aberdeen: LIVE team news, action and analysis from Hampden",
+   "link": "https://www.rangersreview.co.uk/news/26686827.rangers-v-aberdeen-live-team-news-action-analysis/",
+   "excerpt": "Join the Rangers Review LIVE from Hampden as Derek McInnes looks to lead his side into the final of the Premier Sports Cup.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21654274/?type=app&htype=0",
+   "published": "Sat, 31 Oct 2026 15:00:00 +0000",
+   "published_uk": "Sat 31 Oct 2026, 15:00 GMT",
+   "author": "Christopher Jack"
+  },
   {
    "title": "How former Rangers striker Duncan Ferguson fared on Glentoran dugout debut",
    "link": "https://www.rangersreview.co.uk/news/26686960.ex-rangers-striker-duncan-ferguson-fared-glentoran-dugout-debut/",
@@ -155,33 +182,6 @@
    "published": "Tue, 27 Oct 2026 11:36:18 +0000",
    "published_uk": "Tue 27 Oct 2026, 11:36 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Maccabi Tel Aviv told they've made a mistake with 'nothing special' James Tavernier",
-   "link": "https://www.rangersreview.co.uk/news/26672622.maccabi-tel-aviv-warned-mistake-nothing-special-tavernier/",
-   "excerpt": "Maccabi Tel Aviv told they've made a mistake with 'nothing special' James Tavernier",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21456277/?type=app&htype=72",
-   "published": "Tue, 27 Oct 2026 09:34:00 +0000",
-   "published_uk": "Tue 27 Oct 2026, 09:34 GMT",
-   "author": "Mark Walker"
-  },
-  {
-   "title": "Referee and VAR for Rangers vs Aberdeen Premier Sports Cup semi-final confirmed",
-   "link": "https://www.rangersreview.co.uk/news/26672302.referee-var-rangers-vs-aberdeen-semi-final-confirmed/",
-   "excerpt": "Referee and VAR for Rangers vs Aberdeen Premier Sports Cup semi-final confirmed",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21607890/?type=app&htype=99",
-   "published": "Tue, 27 Oct 2026 07:54:44 +0000",
-   "published_uk": "Tue 27 Oct 2026, 07:54 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "The message Rangers need to send at Hearts and how I expect them to go about it",
-   "link": "https://www.rangersreview.co.uk/news/26672245.message-rangers-need-send-expect/",
-   "excerpt": "The message Rangers need to send at Hearts and how I expect them to go about it",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21634324/?type=app&htype=223",
-   "published": "Tue, 27 Oct 2026 07:11:23 +0000",
-   "published_uk": "Tue 27 Oct 2026, 07:11 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
