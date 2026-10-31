@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "31 Oct 2026 09:46 GMT",
+ "fetched": "31 Oct 2026 11:45 GMT",
  "items": [
+  {
+   "title": "How former Rangers striker Duncan Ferguson fared on Glentoran dugout debut",
+   "link": "https://www.rangersreview.co.uk/news/26686960.ex-rangers-striker-duncan-ferguson-fared-glentoran-dugout-debut/",
+   "excerpt": "Former Rangers striker Duncan Ferguson's spell in charge of Glentoran began with a 1-1 draw against Coleraine on Friday evening.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21654457/?type=app&htype=0",
+   "published": "Sat, 31 Oct 2026 10:38:18 +0000",
+   "published_uk": "Sat 31 Oct 2026, 10:38 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
@@ -173,15 +182,6 @@
    "published": "Tue, 27 Oct 2026 07:11:23 +0000",
    "published_uk": "Tue 27 Oct 2026, 07:11 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "The Rangers stars who have 'stepped up' under Derek McInnes",
-   "link": "https://www.rangersreview.co.uk/news/26672095.rangers-stars-stepped-up-derek-mcinnes/",
-   "excerpt": "Rangers' current strike partnership of Ryan Naderi and Kevin Kelsy have both \"stepped up\" after becoming the main threat.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21043752/?type=app&htype=0",
-   "published": "Mon, 26 Oct 2026 19:30:25 +0000",
-   "published_uk": "Mon 26 Oct 2026, 19:30 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
