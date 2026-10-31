@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "31 Oct 2026 07:45 GMT",
+ "fetched": "31 Oct 2026 09:46 GMT",
  "items": [
+  {
+   "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
+   "excerpt": "Rangers and Aberdeen meet with a place in the Premier Sports Cup final at stake.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
+   "published": "Sat, 31 Oct 2026 07:03:00 +0000",
+   "published_uk": "Sat 31 Oct 2026, 07:03 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers boss Michael Beale handed vote of confidence after four straight defeats",
    "link": "https://www.rangersreview.co.uk/news/26683619.ex-rangers-boss-gets-vote-confidence-four-straight-defeats/",
@@ -11,15 +20,6 @@
    "published": "Fri, 30 Oct 2026 09:45:13 +0000",
    "published_uk": "Fri 30 Oct 2026, 09:45 GMT",
    "author": "Mark Walker"
-  },
-  {
-   "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
-   "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
-   "excerpt": "Rangers and Aberdeen meet with a place in the Premier Sports Cup final at stake.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
-   "published": "Fri, 30 Oct 2026 07:43:00 +0000",
-   "published_uk": "Fri 30 Oct 2026, 07:43 GMT",
-   "author": "Stewart Wilson"
   },
   {
    "title": "Rangers star emerges as fresh doubt for Aberdeen Premier Sports Cup semi-final",
