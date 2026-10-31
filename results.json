@@ -1,4 +1,43 @@
 {
+ "06e1b5c577c68d4c@rangers-fixtures": {
+  "date": "2026-10-31",
+  "competition": "League Cup - Semi-finals",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "1",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "83'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Aberdeen",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Barclays Hampden",
+  "home_away": "Home",
+  "status": "FT",
+  "kickoff_uk": "17:30",
+  "summary": "Rangers 1 , Aberdeen 0 at Full time",
+  "attendance": 43567,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cmx23ln75zk0t",
+  "fetched": "31 Oct 2026 19:28 GMT"
+ },
  "29e3cdf1b59f6931@rangers-fixtures": {
   "date": "2026-10-28",
   "competition": "Scottish Premiership - 1st Phase",
