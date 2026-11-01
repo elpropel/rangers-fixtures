@@ -1,5 +1,5 @@
 {
- "fetched": "01 Nov 2026 15:50 GMT",
+ "fetched": "01 Nov 2026 17:41 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Why Ryan Naderi epitomises this Rangers team",
+   "published": "2026-11-01T17:11:00+00:00",
+   "published_uk": "Sun 01 Nov 2026, 17:11 GMT",
+   "duration": "18 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6073133232.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers reach league cup final after another big Naderi moment",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7270883873.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "Will Rangers Return To  Form? | Club Live | Club at 22-The Rangers Podcast",
-   "published": "2026-10-23T20:08:00+00:00",
-   "published_uk": "Fri 23 Oct 2026, 21:08 BST",
-   "duration": "1h 04m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6544769671.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/7c551c46-cf1d-11f1-92b6-f709bc162aed/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
