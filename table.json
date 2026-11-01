@@ -1,19 +1,19 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "1st November 2026 at 01:25",
- "fetched": "01 Nov 2026 11:51 GMT",
+ "bbc_updated": "1st November 2026 at 13:38",
+ "fetched": "01 Nov 2026 13:47 GMT",
  "rows": [
   {
    "pos": 1,
    "team": "Celtic",
-   "p": 11,
+   "p": 12,
    "w": 9,
    "d": 1,
-   "l": 1,
+   "l": 2,
    "gf": 27,
-   "ga": 8,
-   "gd": 19,
+   "ga": 10,
+   "gd": 17,
    "pts": 28,
    "form": [
     "W",
@@ -66,6 +66,26 @@
   },
   {
    "pos": 4,
+   "team": "Falkirk",
+   "p": 12,
+   "w": 5,
+   "d": 3,
+   "l": 4,
+   "gf": 15,
+   "ga": 12,
+   "gd": 3,
+   "pts": 18,
+   "form": [
+    "W",
+    "D",
+    "L",
+    "W",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "pos": 5,
    "team": "Dundee",
    "p": 11,
    "w": 5,
@@ -85,7 +105,7 @@
    ]
   },
   {
-   "pos": 5,
+   "pos": 6,
    "team": "Dundee United",
    "p": 11,
    "w": 4,
@@ -102,26 +122,6 @@
     "D",
     "W",
     "D"
-   ]
-  },
-  {
-   "pos": 6,
-   "team": "Falkirk",
-   "p": 11,
-   "w": 4,
-   "d": 3,
-   "l": 4,
-   "gf": 13,
-   "ga": 12,
-   "gd": 1,
-   "pts": 15,
-   "form": [
-    "W",
-    "D",
-    "L",
-    "W",
-    "W",
-    "W"
    ]
   },
   {
