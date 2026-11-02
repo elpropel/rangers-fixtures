@@ -1,5 +1,5 @@
 {
- "fetched": "02 Nov 2026 15:46 GMT",
+ "fetched": "02 Nov 2026 17:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Flagship - Happy Hampden Halloween",
+   "published": "2026-11-02T17:30:00+00:00",
+   "published_uk": "Mon 02 Nov 2026, 17:30 GMT",
+   "duration": "45 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2315192285.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/dd0a099e-d6dd-11f1-bc38-2ba8e7a92da6/image/0d4c312110dde7f48e2b7d6340089fd5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "The big talking points as Rangers book Hibs League Cup final showdown",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6577601067.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Storm Past The Saints",
-   "published": "2026-10-25T21:20:00+00:00",
-   "published_uk": "Sun 25 Oct 2026, 21:20 GMT",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3531699249.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/f3369a54-d0b9-11f1-831e-43d70181a28e/image/9b75a24be821f1da99933c97fcedee28.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
