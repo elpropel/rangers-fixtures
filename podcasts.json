@@ -1,5 +1,5 @@
 {
- "fetched": "01 Nov 2026 23:50 GMT",
+ "fetched": "02 Nov 2026 07:42 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Don & Dusted",
+   "published": "2026-11-02T07:00:00+00:00",
+   "published_uk": "Mon 02 Nov 2026, 07:00 GMT",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3496119851.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/ffeff2b6-d651-11f1-b206-c76be7e21f2a/image/920fc2d85a037fa03446316414ef4f05.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Podcast - Sunday Show Live - Rangers into the final!",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8830337222.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers 4 vs 0 St Johnstone | Match Reaction | Scottish Premiership",
-   "published": "2026-10-24T18:22:00+00:00",
-   "published_uk": "Sat 24 Oct 2026, 19:22 BST",
-   "duration": "21 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1298025286.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/e2a30e30-cfd7-11f1-b631-ef7a7c0a7d0f/image/5a5ce348f968411bc2ab2eb9758f57ee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
