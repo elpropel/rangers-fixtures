@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "02 Nov 2026 09:50 GMT",
+ "fetched": "02 Nov 2026 11:49 GMT",
  "items": [
+  {
+   "title": "Ally McCoist in public Rangers transfer plea to star man - don't go anywhere yet",
+   "link": "https://www.rangersreview.co.uk/news/26689004.ally-mccoist-public-rangers-transfer-plea-star-man/",
+   "excerpt": "Ally McCoist believes Olwethu Makhanya should stay at Rangers, despite his impressive start attracting interest from elsewhere.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20758693/?type=app&htype=0",
+   "published": "Mon, 02 Nov 2026 09:50:35 +0000",
+   "published_uk": "Mon 02 Nov 2026, 09:50 GMT",
+   "author": "Graeme Young"
+  },
   {
    "title": "Thelo Aasgaard receives glowing 'DNA' praise on Rangers loan exit",
    "link": "https://www.rangersreview.co.uk/news/26688141.thelo-aasgaard-receives-glowing-dna-praise-rangers-loan-exit/",
@@ -173,15 +182,6 @@
    "published": "Wed, 28 Oct 2026 11:05:00 +0000",
    "published_uk": "Wed 28 Oct 2026, 11:05 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Rangers wonderkid on UEFA Youth League and how cooperation loan is benefiting him",
-   "link": "https://www.rangersreview.co.uk/news/26676627.rangers-kid-uefa-youth-league-cooperation-loan-working/",
-   "excerpt": "Rangers wonderkid on UEFA Youth League and how cooperation loan is benefiting him",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21640377/?type=app&htype=137",
-   "published": "Wed, 28 Oct 2026 10:29:49 +0000",
-   "published_uk": "Wed 28 Oct 2026, 10:29 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
