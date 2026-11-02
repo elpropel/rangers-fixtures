@@ -1,5 +1,5 @@
 {
- "fetched": "02 Nov 2026 09:50 GMT",
+ "fetched": "02 Nov 2026 11:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "The big talking points as Rangers book Hibs League Cup final showdown",
+   "published": "2026-11-02T10:41:00+00:00",
+   "published_uk": "Mon 02 Nov 2026, 10:41 GMT",
+   "duration": "42 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2007491003.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/fea741d6-d6a9-11f1-99f4-532d900e4a2e/image/f7eb2a128ccea6ed07763333657d1bb6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Don & Dusted",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3531699249.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/f3369a54-d0b9-11f1-831e-43d70181a28e/image/9b75a24be821f1da99933c97fcedee28.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers put FOUR past St Johnstone | Match Reaction LIVE from Ibrox",
-   "published": "2026-10-25T08:54:00+00:00",
-   "published_uk": "Sun 25 Oct 2026, 08:54 GMT",
-   "duration": "36 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8830337222.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
