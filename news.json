@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 11:51 GMT",
+ "fetched": "03 Nov 2026 13:45 GMT",
  "items": [
+  {
+   "title": "Russell Martin ‘spoken highly of’ at Manchester United before Rangers stint",
+   "link": "https://www.rangersreview.co.uk/news/26694073.manchester-united-rated-russell-martin-rangers-move/",
+   "excerpt": "Former Rangers boss Russell Martin was “spoken highly of” by Manchester United technical director Jason Wilcox",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20667009/?type=app&htype=0",
+   "published": "Tue, 03 Nov 2026 11:23:00 +0000",
+   "published_uk": "Tue 03 Nov 2026, 11:23 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Pedro Caixinha back in Europe after joining 13th club of managerial career",
    "link": "https://www.rangersreview.co.uk/news/26693600.ex-rangers-boss-pedro-caixinha-takes-cercle-brugge/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21644195/?type=app&htype=90",
    "published": "Thu, 29 Oct 2026 08:10:56 +0000",
    "published_uk": "Thu 29 Oct 2026, 08:10 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "How Derek McInnes irked Wouter Vrancken as Hearts boss tells his side of story",
-   "link": "https://www.rangersreview.co.uk/news/26679643.mcinnes-irked-vrancken-hearts-boss-tells-side/",
-   "excerpt": "How Derek McInnes irked Wouter Vrancken as Hearts boss tells his side of story",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21644129/?type=app&htype=32",
-   "published": "Thu, 29 Oct 2026 07:09:17 +0000",
-   "published_uk": "Thu 29 Oct 2026, 07:09 GMT",
    "author": "Blair Meikle"
   }
  ]
