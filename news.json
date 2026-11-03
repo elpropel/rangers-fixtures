@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 15:44 GMT",
+ "fetched": "03 Nov 2026 17:45 GMT",
  "items": [
+  {
+   "title": "Why Sebastien Pocognoli picked James Penrice as he talks up Rangers star's quality",
+   "link": "https://www.rangersreview.co.uk/news/26695812.pocognoli-picked-penrice-talks-rangers-stars-quality/",
+   "excerpt": "Why Sebastien Pocognoli picked James Penrice as he talks up Rangers star's quality",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21655434/?type=app&htype=96",
+   "published": "Tue, 03 Nov 2026 15:41:50 +0000",
+   "published_uk": "Tue 03 Nov 2026, 15:41 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "Rangers game rescheduled as a result of Premier Sports Cup final participation",
+   "link": "https://www.rangersreview.co.uk/news/26695573.rangers-league-game-rescheduled-due-premier-sports-cup-final/",
+   "excerpt": "Rangers game rescheduled as a result of Premier Sports Cup final participation",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21666038/?type=app&htype=217",
+   "published": "Tue, 03 Nov 2026 15:10:28 +0000",
+   "published_uk": "Tue 03 Nov 2026, 15:10 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "WATCH: Nico Raskin turns interviewer after Rangers teammate's Scotland joy",
    "link": "https://www.rangersreview.co.uk/news/26695181.rangers-nico-raskin-interviews-james-penrice-call-up/",
@@ -164,24 +182,6 @@
    "published": "Sat, 31 Oct 2026 07:03:00 +0000",
    "published_uk": "Sat 31 Oct 2026, 07:03 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers boss Michael Beale handed vote of confidence after four straight defeats",
-   "link": "https://www.rangersreview.co.uk/news/26683619.ex-rangers-boss-gets-vote-confidence-four-straight-defeats/",
-   "excerpt": "Ex-Rangers boss Michael Beale handed vote of confidence after four straight defeats",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21649715/?type=app&htype=141",
-   "published": "Fri, 30 Oct 2026 09:45:13 +0000",
-   "published_uk": "Fri 30 Oct 2026, 09:45 GMT",
-   "author": "Mark Walker"
-  },
-  {
-   "title": "Rangers star emerges as fresh doubt for Aberdeen Premier Sports Cup semi-final",
-   "link": "https://www.rangersreview.co.uk/news/26681758.rangers-star-emerges-fresh-doubt-aberdeen-semi-final/",
-   "excerpt": "Rangers star emerges as fresh doubt for Aberdeen Premier Sports Cup semi-final",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21306773/?type=app&htype=83",
-   "published": "Thu, 29 Oct 2026 14:21:38 +0000",
-   "published_uk": "Thu 29 Oct 2026, 14:21 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
