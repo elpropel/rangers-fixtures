@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 13:45 GMT",
+ "fetched": "03 Nov 2026 15:44 GMT",
  "items": [
+  {
+   "title": "WATCH: Nico Raskin turns interviewer after Rangers teammate's Scotland joy",
+   "link": "https://www.rangersreview.co.uk/news/26695181.rangers-nico-raskin-interviews-james-penrice-call-up/",
+   "excerpt": "Penrice was welcomed into the Scotland fold with a cheeky message from Rangers team-mate Raskin after earning his first senior international call-up.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21665548/?type=app&htype=0",
+   "published": "Tue, 03 Nov 2026 14:19:00 +0000",
+   "published_uk": "Tue 03 Nov 2026, 14:19 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Rangers youth prospect reveals personal ‘privilege’ of working with boyhood hero",
+   "link": "https://www.rangersreview.co.uk/news/26695038.rydnn-mcguire-reveals-allan-mcgregor-impact-rangers/",
+   "excerpt": "Rangers youngster McGuire has opened up on the “privilege” of working alongside his former goalkeeping hero McGregor at Ibrox.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21061444/?type=app&htype=0",
+   "published": "Tue, 03 Nov 2026 13:49:00 +0000",
+   "published_uk": "Tue 03 Nov 2026, 13:49 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Russell Martin ‘spoken highly of’ at Manchester United before Rangers stint",
    "link": "https://www.rangersreview.co.uk/news/26694073.manchester-united-rated-russell-martin-rangers-move/",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21306773/?type=app&htype=83",
    "published": "Thu, 29 Oct 2026 14:21:38 +0000",
    "published_uk": "Thu 29 Oct 2026, 14:21 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Kenny Miller addresses Maccabi Tel Aviv future after being linked to job in England",
-   "link": "https://www.rangersreview.co.uk/news/26680176.kenny-miller-addresses-future-linked-jobs-england/",
-   "excerpt": "Kenny Miller addresses Maccabi Tel Aviv future after being linked to job in England",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21644650/?type=app&htype=122",
-   "published": "Thu, 29 Oct 2026 10:07:39 +0000",
-   "published_uk": "Thu 29 Oct 2026, 10:07 GMT",
-   "author": "Mark Walker"
-  },
-  {
-   "title": "Derek McInnes hails 'outstanding' Rangers star after standout performance",
-   "link": "https://www.rangersreview.co.uk/news/26679706.mcinnes-hails-outstanding-rangers-star-standout-performance/",
-   "excerpt": "Derek McInnes hails 'outstanding' Rangers star after standout performance",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21644195/?type=app&htype=90",
-   "published": "Thu, 29 Oct 2026 08:10:56 +0000",
-   "published_uk": "Thu 29 Oct 2026, 08:10 GMT",
    "author": "Blair Meikle"
   }
  ]
