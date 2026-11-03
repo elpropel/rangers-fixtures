@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 09:45 GMT",
+ "fetched": "03 Nov 2026 11:51 GMT",
  "items": [
+  {
+   "title": "Pedro Caixinha back in Europe after joining 13th club of managerial career",
+   "link": "https://www.rangersreview.co.uk/news/26693600.ex-rangers-boss-pedro-caixinha-takes-cercle-brugge/",
+   "excerpt": "Former Rangers manager Caixinha has been appointed head coach of Cercle Brugge.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21663353/?type=app&htype=0",
+   "published": "Tue, 03 Nov 2026 10:27:00 +0000",
+   "published_uk": "Tue 03 Nov 2026, 10:27 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers star calls time on playing career after 17 years",
    "link": "https://www.rangersreview.co.uk/news/26692997.ex-rangers-star-alejandro-bedoya-calls-time-career/",
@@ -20,6 +29,24 @@
    "published": "Mon, 02 Nov 2026 09:50:35 +0000",
    "published_uk": "Mon 02 Nov 2026, 09:50 GMT",
    "author": "Graeme Young"
+  },
+  {
+   "title": "Ally McCoist reveals vital Rangers transfer advice for star man Olwethu Makhanya",
+   "link": "https://www.rangersreview.co.uk/news/26688962.mccoist-reveals-vital-rangers-transfer-advice-star-man-makhanya/",
+   "excerpt": "Ally McCoist reckons Olwethu Makhanya should have no thoughts of leaving Rangers any time soon despite attracting attention with his outstanding start to life at Ibrox.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20348182/?type=app&htype=0",
+   "published": "Mon, 02 Nov 2026 09:41:35 +0000",
+   "published_uk": "Mon 02 Nov 2026, 09:41 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Ally McCoist left in stitches as Derek McInnes makes Rangers admission on-air",
+   "link": "https://www.rangersreview.co.uk/news/26688918.ally-mccoist-left-stitches-derek-mcinnes-rangers-admission/",
+   "excerpt": "Ally McCoist left in stitches as Derek McInnes makes Rangers admission on-air",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21657894/?type=app&htype=0",
+   "published": "Mon, 02 Nov 2026 09:32:18 +0000",
+   "published_uk": "Mon 02 Nov 2026, 09:32 GMT",
+   "author": "Stewart Wilson"
   },
   {
    "title": "Thelo Aasgaard receives glowing 'DNA' praise on Rangers loan exit",
@@ -154,33 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21644129/?type=app&htype=32",
    "published": "Thu, 29 Oct 2026 07:09:17 +0000",
    "published_uk": "Thu 29 Oct 2026, 07:09 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Hearts v Rangers: Full RECAP as McInnes' side snatch a point at Tynecastle",
-   "link": "https://www.rangersreview.co.uk/news/26676804.hearts-v-rangers-full-recap-mcinnes-side-snatch-point/",
-   "excerpt": "Join Chris Jack and Joshua Barrie live from Tynecastle as Rangers face Hearts in the Premiership.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21640478/?type=app&htype=0",
-   "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-   "published_uk": "Wed 28 Oct 2026, 17:00 GMT",
-   "author": "Christopher Jack"
-  },
-  {
-   "title": "Dynamo Kyiv 3-2 Rangers U19s: Dramatic late goal sets up second-leg decider",
-   "link": "https://www.rangersreview.co.uk/news/26678739.rangers-u19s-grab-late-lifeline-dynamo-kyiv-defeat/",
-   "excerpt": "Rangers Under-19s gave themselves hope of a Youth League comeback after a dramatic stoppage-time goal cut their deficit against Dynamo Kyiv.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
-   "published": "Wed, 28 Oct 2026 16:00:00 +0000",
-   "published_uk": "Wed 28 Oct 2026, 16:00 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers star 'under consideration' by club after weeks as a free agent",
-   "link": "https://www.rangersreview.co.uk/news/26677147.ex-rangers-star-set-for-new-club-weeks-free-agent/",
-   "excerpt": "Ex-Rangers star 'under consideration' by club after weeks as a free agent",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21404125/?type=app&htype=0",
-   "published": "Wed, 28 Oct 2026 11:45:51 +0000",
-   "published_uk": "Wed 28 Oct 2026, 11:45 GMT",
    "author": "Blair Meikle"
   }
  ]
