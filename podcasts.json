@@ -1,5 +1,5 @@
 {
- "fetched": "03 Nov 2026 19:47 GMT",
+ "fetched": "03 Nov 2026 21:45 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-11-03T21:15:00+00:00",
+   "published_uk": "Tue 03 Nov 2026, 21:15 GMT",
+   "duration": "1h 16m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4607172811.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "DON TO THE FINAL! | Ryan Naderi Sends Rangers To The Final | Club Deck Corner",
+   "published": "2026-11-03T20:44:00+00:00",
+   "published_uk": "Tue 03 Nov 2026, 20:44 GMT",
+   "duration": "42 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7495405688.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/4eeb18a2-d7c7-11f1-8685-6f3710c79a50/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "The Rangers midfield debate: Penrice, Neil -  what's needed?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9972446799.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/4a0e835c-d1f8-11f1-a797-4b2521bfc796/image/b0b6c7406f6747b799398ebb65c0e261.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Monday night live - Tribute to Walter, Saints and Hearts",
-   "published": "2026-10-26T20:27:00+00:00",
-   "published_uk": "Mon 26 Oct 2026, 20:27 GMT",
-   "duration": "58 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5364046804.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Flagship - Slaying Saints",
-   "published": "2026-10-26T18:23:00+00:00",
-   "published_uk": "Mon 26 Oct 2026, 18:23 GMT",
-   "duration": "41 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3609487942.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/d297d254-d154-11f1-b6ce-63a97f828c5d/image/517b19af8a4a54651a4be2e473e8e139.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
