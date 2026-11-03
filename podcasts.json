@@ -1,5 +1,5 @@
 {
- "fetched": "03 Nov 2026 09:45 GMT",
+ "fetched": "03 Nov 2026 11:51 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "The Rangers midfield debate: Penrice, Neil -  what's needed?",
+   "published": "2026-11-03T11:25:00+00:00",
+   "published_uk": "Tue 03 Nov 2026, 11:25 GMT",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1297402190.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/3cbf4052-d779-11f1-be83-1f0c868fb29b/image/7862966830efafba4d7418fdf6f9ad61.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Podcast Monday Night LIVE - Firsts and Finals",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3609487942.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/d297d254-d154-11f1-b6ce-63a97f828c5d/image/517b19af8a4a54651a4be2e473e8e139.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "The big St Johnstone talking points as Rangers gear up for Tynecastle",
-   "published": "2026-10-26T11:02:00+00:00",
-   "published_uk": "Mon 26 Oct 2026, 11:02 GMT",
-   "duration": "59 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2435713243.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/e23c3944-d12b-11f1-aa2e-fb1cb380bc5b/image/a5d58755bce626db2c69791538d809f2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
