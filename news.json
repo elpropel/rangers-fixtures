@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 07:42 GMT",
+ "fetched": "03 Nov 2026 09:45 GMT",
  "items": [
+  {
+   "title": "Ex-Rangers star calls time on playing career after 17 years",
+   "link": "https://www.rangersreview.co.uk/news/26692997.ex-rangers-star-alejandro-bedoya-calls-time-career/",
+   "excerpt": "An ex-Rangers midfielder who spent one season at Ibrox has announced he will retire at the end of the 2026 MLS campaign.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21662577/?type=app&htype=0",
+   "published": "Tue, 03 Nov 2026 08:17:00 +0000",
+   "published_uk": "Tue 03 Nov 2026, 08:17 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ally McCoist in public Rangers transfer plea to star man - don't go anywhere yet",
    "link": "https://www.rangersreview.co.uk/news/26689004.ally-mccoist-public-rangers-transfer-plea-star-man/",
@@ -173,15 +182,6 @@
    "published": "Wed, 28 Oct 2026 11:45:51 +0000",
    "published_uk": "Wed 28 Oct 2026, 11:45 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "The huge ‘statement’ Rangers must make to prove their title credentials",
-   "link": "https://www.rangersreview.co.uk/news/26676826.rangers-title-credentials-face-huge-tynecastle-test/",
-   "excerpt": "Rangers are set for a crucial test of their title aspirations at Tynecastle.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21640514/?type=app&htype=0",
-   "published": "Wed, 28 Oct 2026 11:05:00 +0000",
-   "published_uk": "Wed 28 Oct 2026, 11:05 GMT",
-   "author": "The Rangers Review"
   }
  ]
 }
