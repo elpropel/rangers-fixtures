@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "03 Nov 2026 17:45 GMT",
+ "fetched": "03 Nov 2026 19:46 GMT",
  "items": [
+  {
+   "title": "Rangers hero 'set' for new role at EFL side after leaving last club over summer",
+   "link": "https://www.rangersreview.co.uk/news/26696452.rangers-hero-set-new-role-struggling-efl-side/",
+   "excerpt": "Former Rangers striker Jermain Defoe is reportedly set for a new role at an English club after his Woking departure.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21667329/?type=app&htype=75",
+   "published": "Tue, 03 Nov 2026 17:25:17 +0000",
+   "published_uk": "Tue 03 Nov 2026, 17:25 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Why Sebastien Pocognoli picked James Penrice as he talks up Rangers star's quality",
    "link": "https://www.rangersreview.co.uk/news/26695812.pocognoli-picked-penrice-talks-rangers-stars-quality/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21654457/?type=app&htype=0",
    "published": "Sat, 31 Oct 2026 10:38:18 +0000",
    "published_uk": "Sat 31 Oct 2026, 10:38 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers vs Aberdeen: TV channel, live stream & kick-off time",
-   "link": "https://www.rangersreview.co.uk/news/26683196.rangers-vs-aberdeen-tv-live-stream-kick-off-time/",
-   "excerpt": "Rangers and Aberdeen meet with a place in the Premier Sports Cup final at stake.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 07:03:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 07:03 GMT",
    "author": "Stewart Wilson"
   }
  ]
