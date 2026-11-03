@@ -4,7 +4,7 @@ import csv, hashlib, html, json, re, datetime, sys
 from pathlib import Path
 OUT = Path(__file__).parent
 CFG = json.load(open(OUT/"config.json"))
-CSV = Path(sys.argv[1] if len(sys.argv) > 1 else CFG["csv"])
+CSV = Path(sys.argv[1]) if len(sys.argv) > 1 else OUT/CFG["csv"]
 CLUB = CFG["club_name"]
 WEBCAL = "webcal://" + CFG["site_url"].split("://",1)[1] + CFG["ics_name"]
 from urllib.parse import quote
@@ -56,7 +56,7 @@ today = datetime.date.today()
 # ICS
 def esc(s): return s.replace("\\","\\\\").replace(",","\\,").replace(";","\\;").replace("\n","\\n")
 stamp = datetime.datetime.now(datetime.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Andy Mac//"+CFG["calendar_name"]+"//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",
+L = ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//"+CFG["calendar_name"]+"//EN","CALSCALE:GREGORIAN","METHOD:PUBLISH",
      "X-WR-CALNAME:"+CFG["calendar_name"],"X-WR-TIMEZONE:Europe/London","REFRESH-INTERVAL;VALUE=DURATION:PT6H","X-PUBLISHED-TTL:PT6H",
      "BEGIN:VTIMEZONE","TZID:Europe/London",
      "BEGIN:DAYLIGHT","TZOFFSETFROM:+0000","TZOFFSETTO:+0100","TZNAME:BST","DTSTART:19700329T010000","RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU","END:DAYLIGHT",

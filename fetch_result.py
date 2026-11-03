@@ -63,7 +63,7 @@ def month_summaries(ym):
 
 def csv_lookup(date, opp_names):
     import csv
-    for r in csv.DictReader(open(CFG["csv"])):
+    for r in csv.DictReader(open(D/CFG["csv"])):
         try: d = datetime.datetime.strptime(r["Date"], "%a %d %b %Y").date().isoformat()
         except ValueError: continue
         if d == date and any(r["Opponent"].split()[0].lower() in n.lower() for n in opp_names if n):

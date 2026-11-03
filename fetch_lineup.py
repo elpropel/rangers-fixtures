@@ -28,7 +28,7 @@ def text(h):
     return html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " \n ", h)))
 
 def find_fixture(date):
-    for r in csv.DictReader(open(CFG["csv"])):
+    for r in csv.DictReader(open(D/CFG["csv"])):
         try: d = datetime.datetime.strptime(r["Date"], "%a %d %b %Y").date()
         except ValueError: continue
         if d.isoformat() == date: return r, d
