@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "04 Nov 2026 15:47 GMT",
+ "fetched": "04 Nov 2026 17:49 GMT",
  "items": [
+  {
+   "title": "Rangers Charity Foundation chief Connal Cochrane to step down after 22 years",
+   "link": "https://www.rangersreview.co.uk/news/26699084.connal-cochrane-leave-rangers-charity-foundation/",
+   "excerpt": "Connal Cochrane will step down as chief executive of the Rangers Charity Foundation at the end of the 2026/27 campaign.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21459483/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 16:00:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 16:00 GMT",
+   "author": "Christopher Jack"
+  },
   {
    "title": "Rangers handed quadruple injury boost as comeback dates revealed",
    "link": "https://www.rangersreview.co.uk/news/26698703.derek-mcinnes-injury-update-four-rangers-stars/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21655523/?type=app&htype=0",
    "published": "Sat, 31 Oct 2026 20:15:00 +0000",
    "published_uk": "Sat 31 Oct 2026, 20:15 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Nico Raskin's ‘full force’ warning as he talks up Rangers' attacking power",
-   "link": "https://www.rangersreview.co.uk/news/26687600.nico-raskin-makes-full-force-rangers-attacking-claim/",
-   "excerpt": "Raskin reckons Rangers can go “full force” once Lawrence Shankland and Youssef Chermiti return to bolster their attacking ranks.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655503/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 20:01:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 20:01 GMT",
    "author": "Stewart Wilson"
   }
  ]
