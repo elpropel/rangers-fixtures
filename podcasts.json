@@ -1,5 +1,5 @@
 {
- "fetched": "03 Nov 2026 23:50 GMT",
+ "fetched": "04 Nov 2026 07:43 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "More To Come From Rangers?",
+   "published": "2026-11-04T06:45:00+00:00",
+   "published_uk": "Wed 04 Nov 2026, 06:45 GMT",
+   "duration": "34 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9188478119.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/ecad2ff8-d7d1-11f1-a6ec-4bea1ea149a7/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads This Week in History - LIVE",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4126372460.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/a827bdea-d249-11f1-a8fe-c3d8366b8b6e/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "No Goals, No Problem. How Kim Min-su Is Making Rangers Better",
-   "published": "2026-10-27T11:19:00+00:00",
-   "published_uk": "Tue 27 Oct 2026, 11:19 GMT",
-   "duration": "45 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9972446799.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/4a0e835c-d1f8-11f1-a797-4b2521bfc796/image/b0b6c7406f6747b799398ebb65c0e261.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
