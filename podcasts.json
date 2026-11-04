@@ -1,5 +1,5 @@
 {
- "fetched": "04 Nov 2026 19:43 GMT",
+ "fetched": "04 Nov 2026 21:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers midweek LIVE - Pressers, Penrice Curtis and Saints",
+   "published": "2026-11-04T21:04:00+00:00",
+   "published_uk": "Wed 04 Nov 2026, 21:04 GMT",
+   "duration": "1h 03m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3081622497.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Penrice, Curtis & Kelly in Scotland squad! Your questions answered",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1472669160.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "How Rangers can take victory against Hearts?",
-   "published": "2026-10-27T21:07:00+00:00",
-   "published_uk": "Tue 27 Oct 2026, 21:07 GMT",
-   "duration": "38 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3148259062.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/68fe8ea4-d24a-11f1-8406-57ab344451ba/image/97e10faaaf8b016bde7da66a4e74ca26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
