@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "04 Nov 2026 09:44 GMT",
+ "fetched": "04 Nov 2026 11:41 GMT",
  "items": [
+  {
+   "title": "The new Rangers star whose 'recognition' is thoroughly deserved",
+   "link": "https://www.rangersreview.co.uk/news/26697742.james-penrices-deserved-scotland-call-amid-rangers-form/",
+   "excerpt": "Penrice and Curtis have earned praise after both were included in Pocognoli’s latest Scotland squad.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21668883/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 10:59:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 10:59 GMT",
+   "author": "The Rangers Review"
+  },
+  {
+   "title": "45-cap Rangers star left out for Scotland clash as national boss reveals reason",
+   "link": "https://www.rangersreview.co.uk/news/26697425.bojan-miovski-dropped-national-team-amid-rangers-woes/",
+   "excerpt": "Miovski has been ditched by North Macedonia for their Nations League game in Scotland",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21668472/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 10:16:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 10:16 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers learn match officials for Saturday night Premiership clash vs St Mirren",
    "link": "https://www.rangersreview.co.uk/news/26696973.rangers-match-officials-confirmed-st-mirren-league-clash/",
@@ -164,24 +182,6 @@
    "published": "Sat, 31 Oct 2026 16:44:00 +0000",
    "published_uk": "Sat 31 Oct 2026, 16:44 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes names Rangers starting line-up vs Aberdeen, makes two changes",
-   "link": "https://www.rangersreview.co.uk/news/26686655.rangers-starting-line-up-vs-aberdeen-two-changes-made/",
-   "excerpt": "Rangers return to Premier Sports Cup action as they take on Aberdeen in a huge semi-final showdown at Hampden.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20484552/?type=app&htype=52",
-   "published": "Sat, 31 Oct 2026 16:20:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 16:20 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers v Aberdeen: Full RECAP as Naderi books Hampden final berth",
-   "link": "https://www.rangersreview.co.uk/news/26686827.rangers-v-aberdeen-full-recap-naderi-nets-hampden-winner/",
-   "excerpt": "Join the Rangers Review LIVE from Hampden as Derek McInnes looks to lead his side into the final of the Premier Sports Cup.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655345/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 15:00:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 15:00 GMT",
-   "author": "Christopher Jack"
   }
  ]
 }
