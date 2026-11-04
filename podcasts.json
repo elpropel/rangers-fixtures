@@ -1,5 +1,5 @@
 {
- "fetched": "04 Nov 2026 09:45 GMT",
+ "fetched": "04 Nov 2026 11:41 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Penrice, Curtis & Kelly in Scotland squad! Your questions answered",
+   "published": "2026-11-04T10:15:00+00:00",
+   "published_uk": "Wed 04 Nov 2026, 10:15 GMT",
+   "duration": "34 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7448196390.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "More To Come From Rangers?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3148259062.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/68fe8ea4-d24a-11f1-8406-57ab344451ba/image/97e10faaaf8b016bde7da66a4e74ca26.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "STRIKERS OF THE STORM! |  Club Deck Corner  | Live Tues 27th Oct at 8pm",
-   "published": "2026-10-27T21:01:00+00:00",
-   "published_uk": "Tue 27 Oct 2026, 21:01 GMT",
-   "duration": "56 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4126372460.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/a827bdea-d249-11f1-a8fe-c3d8366b8b6e/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
