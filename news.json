@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "04 Nov 2026 07:43 GMT",
+ "fetched": "04 Nov 2026 09:44 GMT",
  "items": [
+  {
+   "title": "Rangers learn match officials for Saturday night Premiership clash vs St Mirren",
+   "link": "https://www.rangersreview.co.uk/news/26696973.rangers-match-officials-confirmed-st-mirren-league-clash/",
+   "excerpt": "The match officials have been confirmed for Rangers’ trip to St Mirren.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20381952/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 08:47:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 08:47 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers hero 'set' for new role at EFL side after leaving last club over summer",
    "link": "https://www.rangersreview.co.uk/news/26696452.rangers-hero-set-new-role-struggling-efl-side/",
@@ -173,15 +182,6 @@
    "published": "Sat, 31 Oct 2026 15:00:00 +0000",
    "published_uk": "Sat 31 Oct 2026, 15:00 GMT",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "How former Rangers striker Duncan Ferguson fared on Glentoran dugout debut",
-   "link": "https://www.rangersreview.co.uk/news/26686960.ex-rangers-striker-duncan-ferguson-fared-glentoran-dugout-debut/",
-   "excerpt": "Former Rangers striker Duncan Ferguson's spell in charge of Glentoran began with a 1-1 draw against Coleraine on Friday evening.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21654457/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 10:38:18 +0000",
-   "published_uk": "Sat 31 Oct 2026, 10:38 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
