@@ -1,5 +1,5 @@
 {
- "fetched": "04 Nov 2026 21:47 GMT",
+ "fetched": "04 Nov 2026 23:42 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -39,6 +39,17 @@
  ],
  "episodes": [
   {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers U19s dominate Dynamo Kyiv to progress in Youth League",
+   "published": "2026-11-04T22:17:00+00:00",
+   "published_uk": "Wed 04 Nov 2026, 22:17 GMT",
+   "duration": "12 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6391555482.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/87375794-d89d-11f1-a23d-bbed8707a307/image/86a36713d12a5671d1286c00787ce60a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers midweek LIVE - Pressers, Penrice Curtis and Saints",
    "published": "2026-11-04T21:04:00+00:00",
@@ -54,7 +65,7 @@
    "title": "Penrice, Curtis & Kelly in Scotland squad! Your questions answered",
    "published": "2026-11-04T10:15:00+00:00",
    "published_uk": "Wed 04 Nov 2026, 10:15 GMT",
-   "duration": "34 min",
+   "duration": "35 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7448196390.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2782801652.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/0dce0570-d2bb-11f1-b6fe-4b43d104f8e9/image/70d430652bfb0024b7bc123cc814d69d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads This Week in History - LIVE",
-   "published": "2026-10-27T23:58:00+00:00",
-   "published_uk": "Tue 27 Oct 2026, 23:58 GMT",
-   "duration": "1h 15m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1472669160.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
