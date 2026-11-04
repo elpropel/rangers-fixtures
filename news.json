@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "04 Nov 2026 11:41 GMT",
+ "fetched": "04 Nov 2026 13:50 GMT",
  "items": [
+  {
+   "title": "Rangers handed quadruple injury boost as comeback dates revealed",
+   "link": "https://www.rangersreview.co.uk/news/26698703.derek-mcinnes-injury-update-four-rangers-stars/",
+   "excerpt": "McInnes has provided a fresh Rangers injury update, with Daisuke Yokota closing in on a return to action.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21411582/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 13:23:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 13:23 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Lewis Ferguson insists Rangers move 'will happen' in big transfer declaration",
+   "link": "https://www.rangersreview.co.uk/news/26698219.lewis-ferguson-says-rangers-transfer-will-happen/",
+   "excerpt": "Ferguson has revealed he expects to play for Rangers one day as the Scotland star opened up on his future.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21128867/?type=app&htype=0",
+   "published": "Wed, 04 Nov 2026 12:13:00 +0000",
+   "published_uk": "Wed 04 Nov 2026, 12:13 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "The new Rangers star whose 'recognition' is thoroughly deserved",
    "link": "https://www.rangersreview.co.uk/news/26697742.james-penrices-deserved-scotland-call-amid-rangers-form/",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21655503/?type=app&htype=0",
    "published": "Sat, 31 Oct 2026 20:01:00 +0000",
    "published_uk": "Sat 31 Oct 2026, 20:01 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ryan Naderi gives ‘question of time’ Rangers verdict after Hampden heroics",
-   "link": "https://www.rangersreview.co.uk/news/26687591.ryan-naderi-sends-rangers-late-aberdeen-winner/",
-   "excerpt": "Naderi insisted it was only a matter of time before Rangers found the breakthrough after his late Hampden heroics.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655502/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 19:53:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 19:53 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes explains his thinking behind surprising Rangers team selection",
-   "link": "https://www.rangersreview.co.uk/news/26687373.rangers-team-selection-explained-derek-mcinnes-hampden/",
-   "excerpt": "McInnes has explained his Rangers selection shake-up for the Premier Sports Cup semi-final against Aberdeen.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21436537/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 16:44:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 16:44 GMT",
    "author": "Stewart Wilson"
   }
  ]
