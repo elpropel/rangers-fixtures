@@ -1,5 +1,5 @@
 {
- "fetched": "05 Nov 2026 17:44 GMT",
+ "fetched": "05 Nov 2026 19:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Step By Step To Saints",
+   "published": "2026-11-05T19:00:00+00:00",
+   "published_uk": "Thu 05 Nov 2026, 19:00 GMT",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9392845186.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/fd71eb20-d93f-11f1-8a57-4b22bb9afc82/image/d48ecbde46d0a9e8e12d24a1ba1e7a1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers podcast Special - Meeting Phil Campion",
+   "published": "2026-11-05T19:00:00+00:00",
+   "published_uk": "Thu 05 Nov 2026, 19:00 GMT",
+   "duration": "58 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5315495982.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers Need To Win In Paisley | Match Preview!",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9587045302.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/fda130b2-d398-11f1-b7a5-a77db63ca6ff/image/58a4b164d734ca39242a7e509ae56281.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers steal a point but drop two at Tynecastle",
-   "published": "2026-10-29T00:04:00+00:00",
-   "published_uk": "Thu 29 Oct 2026, 00:04 GMT",
-   "duration": "13 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7677808049.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6378fb80-d32c-11f1-88e2-8b5ced988989/image/2aa495d5d65466a6c002208e3b1acd8a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads instant match reaction - Missed opportunity in below par performance",
-   "published": "2026-10-28T23:11:00+00:00",
-   "published_uk": "Wed 28 Oct 2026, 23:11 GMT",
-   "duration": "51 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8532115978.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
