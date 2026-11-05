@@ -1,5 +1,5 @@
 {
- "fetched": "05 Nov 2026 11:49 GMT",
+ "fetched": "05 Nov 2026 13:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers Need To Win In Paisley | Match Preview!",
+   "published": "2026-11-05T13:48:00+00:00",
+   "published_uk": "Thu 05 Nov 2026, 13:48 GMT",
+   "duration": "30 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7018269347.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/8dc9314a-d91f-11f1-832a-afff8e23825d/image/0dd873f1b544682fa88e60573c5553d4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McInnes Wants Penrice Permanent | Bouanani and Curtis futures",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8532115978.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Hearts vs Rangers | Match Reaction | Scottish Premiership",
-   "published": "2026-10-28T22:59:00+00:00",
-   "published_uk": "Wed 28 Oct 2026, 22:59 GMT",
-   "duration": "44 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5965246963.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/4831ecaa-d323-11f1-a116-1f5f781b2f33/image/3ea129f07c84e24a210d0936a9db1c21.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
