@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "05 Nov 2026 11:49 GMT",
+ "fetched": "05 Nov 2026 13:50 GMT",
  "items": [
+  {
+   "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
+   "excerpt": "Rangers return to Premiership action on Saturday night with a trip to face St Mirren.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21627247/?type=app&htype=0",
+   "published": "Thu, 05 Nov 2026 12:11:00 +0000",
+   "published_uk": "Thu 05 Nov 2026, 12:11 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "The 'always ready' Rangers star backed to seize his chance",
+   "link": "https://www.rangersreview.co.uk/news/26701876.finlay-curtis-backed-make-rangers-impact-amid-competition/",
+   "excerpt": "Curtis has been backed to make an impact at Rangers despite facing a major battle for regular starts under McInnes.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21674140/?type=app&htype=0",
+   "published": "Thu, 05 Nov 2026 12:04:00 +0000",
+   "published_uk": "Thu 05 Nov 2026, 12:04 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Rangers Charity Foundation chief Connal Cochrane to step down after 22 years",
    "link": "https://www.rangersreview.co.uk/news/26699084.connal-cochrane-leave-rangers-charity-foundation/",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21402155/?type=app&htype=0",
    "published": "Sun, 01 Nov 2026 13:55:48 +0000",
    "published_uk": "Sun 01 Nov 2026, 13:55 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "James Penrice's ‘turned a corner’ claim as Badredine Bouanani hails ‘crazy’ support",
-   "link": "https://www.rangersreview.co.uk/news/26687616.james-penrice-badredine-bouanani-rangers-hampden-win/",
-   "excerpt": "Penrice reckons Rangers have “turned a corner” but insists there is still plenty more to come after they booked their place in the Premier Sports Cup final.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655544/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 20:37:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 20:37 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Derek McInnes' ‘inexperience’ Rangers admission despite Hampden triumph",
-   "link": "https://www.rangersreview.co.uk/news/26687605.derek-mcinnes-rangers-attack-booking-cup-final-spot/",
-   "excerpt": "McInnes admits Rangers’ big-money young attack still needs to develop a ruthless streak after booking a place in the Premier Sports Cup final.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655523/?type=app&htype=0",
-   "published": "Sat, 31 Oct 2026 20:15:00 +0000",
-   "published_uk": "Sat 31 Oct 2026, 20:15 GMT",
    "author": "Stewart Wilson"
   }
  ]
