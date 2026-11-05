@@ -1,5 +1,5 @@
 {
- "fetched": "05 Nov 2026 09:46 GMT",
+ "fetched": "05 Nov 2026 11:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes Wants Penrice Permanent | Bouanani and Curtis futures",
+   "published": "2026-11-05T11:45:00+00:00",
+   "published_uk": "Thu 05 Nov 2026, 11:45 GMT",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2880145464.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/63f74b56-d90e-11f1-a489-239291d5831a/image/c8355462f2291fa69897f922696e012e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Rangers U19s dominate Dynamo Kyiv to progress in Youth League",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5965246963.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/4831ecaa-d323-11f1-a116-1f5f781b2f33/image/3ea129f07c84e24a210d0936a9db1c21.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes on Tynecastle Return | Sterling Lifts the Lid on Rangers' New Approach",
-   "published": "2026-10-28T10:34:00+00:00",
-   "published_uk": "Wed 28 Oct 2026, 10:34 GMT",
-   "duration": "45 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2782801652.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/0dce0570-d2bb-11f1-b6fe-4b43d104f8e9/image/70d430652bfb0024b7bc123cc814d69d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
