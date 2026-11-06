@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "06 Nov 2026 13:42 GMT",
+ "fetched": "06 Nov 2026 15:46 GMT",
  "items": [
+  {
+   "title": "Derek McInnes news, interviews and updates on the Rangers manager",
+   "link": "https://www.rangersreview.co.uk/news/26706900.derek-mcinnes-news-interviews-updates-manager/",
+   "excerpt": "Derek McInnes news, interviews and updates on the Rangers manager",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21680977/?type=app&htype=0",
+   "published": "Fri, 06 Nov 2026 15:07:19 +0000",
+   "published_uk": "Fri 06 Nov 2026, 15:07 GMT",
+   "author": "David Irvine"
+  },
   {
    "title": "Rangers transfer target retires aged 33 one year after Ibrox interest",
    "link": "https://www.rangersreview.co.uk/news/26705635.rangers-target-retires-one-year-ibrox-interest/",
@@ -173,15 +182,6 @@
    "published": "Mon, 02 Nov 2026 09:50:35 +0000",
    "published_uk": "Mon 02 Nov 2026, 09:50 GMT",
    "author": "Graeme Young"
-  },
-  {
-   "title": "Ally McCoist reveals vital Rangers transfer advice for star man Olwethu Makhanya",
-   "link": "https://www.rangersreview.co.uk/news/26688962.mccoist-reveals-vital-rangers-transfer-advice-star-man-makhanya/",
-   "excerpt": "Ally McCoist reckons Olwethu Makhanya should have no thoughts of leaving Rangers any time soon despite attracting attention with his outstanding start to life at Ibrox.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20348182/?type=app&htype=0",
-   "published": "Mon, 02 Nov 2026 09:41:35 +0000",
-   "published_uk": "Mon 02 Nov 2026, 09:41 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
