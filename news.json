@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "06 Nov 2026 11:43 GMT",
+ "fetched": "06 Nov 2026 13:42 GMT",
  "items": [
+  {
+   "title": "Rangers transfer target retires aged 33 one year after Ibrox interest",
+   "link": "https://www.rangersreview.co.uk/news/26705635.rangers-target-retires-one-year-ibrox-interest/",
+   "excerpt": "Rangers transfer target retires aged 33 one year after Ibrox interest",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21679188/?type=app&htype=0",
+   "published": "Fri, 06 Nov 2026 11:38:53 +0000",
+   "published_uk": "Fri 06 Nov 2026, 11:38 GMT",
+   "author": "David Irvine"
+  },
   {
    "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20348182/?type=app&htype=0",
    "published": "Mon, 02 Nov 2026 09:41:35 +0000",
    "published_uk": "Mon 02 Nov 2026, 09:41 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ally McCoist left in stitches as Derek McInnes makes Rangers admission on-air",
-   "link": "https://www.rangersreview.co.uk/news/26688918.ally-mccoist-left-stitches-derek-mcinnes-rangers-admission/",
-   "excerpt": "Ally McCoist left in stitches as Derek McInnes makes Rangers admission on-air",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21657894/?type=app&htype=0",
-   "published": "Mon, 02 Nov 2026 09:32:18 +0000",
-   "published_uk": "Mon 02 Nov 2026, 09:32 GMT",
    "author": "Stewart Wilson"
   }
  ]
