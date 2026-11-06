@@ -1,5 +1,5 @@
 {
- "fetched": "06 Nov 2026 21:41 GMT",
+ "fetched": "06 Nov 2026 23:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday night  LIVE - Preview and review show",
+   "published": "2026-11-06T21:48:00+00:00",
+   "published_uk": "Fri 06 Nov 2026, 21:48 GMT",
+   "duration": "1h 01m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9426471290.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Who starts against St Mirren? | Curtis addresses contract situation",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5951760771.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - Hocus Pocus, A Lack Of Focus",
-   "published": "2026-10-29T19:00:00+00:00",
-   "published_uk": "Thu 29 Oct 2026, 19:00 GMT",
-   "duration": "54 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4540580481.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/413fb574-d3c0-11f1-adf8-c7f63a20911d/image/6471c6df2f8f1d1d9dfd2dfd1f08fe09.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
