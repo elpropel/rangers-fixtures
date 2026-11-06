@@ -1,5 +1,5 @@
 {
- "fetched": "06 Nov 2026 09:42 GMT",
+ "fetched": "06 Nov 2026 11:43 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Who starts against St Mirren? | Curtis addresses contract situation",
+   "published": "2026-11-06T10:54:00+00:00",
+   "published_uk": "Fri 06 Nov 2026, 10:54 GMT",
+   "duration": "1h 00m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4338438595.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/640589ba-d9d0-11f1-949b-53f8083f61f9/image/4a8f95498f4eae4fd8fa3a852c727996.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Extra - Step By Step To Saints",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4540580481.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/413fb574-d3c0-11f1-adf8-c7f63a20911d/image/6471c6df2f8f1d1d9dfd2dfd1f08fe09.jpeg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Time for Fernandez to be dropped? Reaction to more Rangers dropped points",
-   "published": "2026-10-29T13:28:00+00:00",
-   "published_uk": "Thu 29 Oct 2026, 13:28 GMT",
-   "duration": "37 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9587045302.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/fda130b2-d398-11f1-b7a5-a77db63ca6ff/image/58a4b164d734ca39242a7e509ae56281.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
