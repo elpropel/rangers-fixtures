@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "06 Nov 2026 21:41 GMT",
+ "fetched": "06 Nov 2026 23:49 GMT",
  "items": [
+  {
+   "title": "Ex-Rangers star signs for new club in second tier after weeks as free agent",
+   "link": "https://www.rangersreview.co.uk/news/26707966.ex-rangers-star-signs-new-club-weeks-free-agent/",
+   "excerpt": "Ex-Rangers star signs for new club in second tier after weeks as free agent",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21682395/?type=app&htype=251",
+   "published": "Fri, 06 Nov 2026 18:12:52 +0000",
+   "published_uk": "Fri 06 Nov 2026, 18:12 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Derek McInnes news, interviews and updates on the Rangers manager",
    "link": "https://www.rangersreview.co.uk/news/26706900.derek-mcinnes-news-interviews-updates-manager/",
@@ -173,15 +182,6 @@
    "published": "Tue, 03 Nov 2026 08:17:00 +0000",
    "published_uk": "Tue 03 Nov 2026, 08:17 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ally McCoist in public Rangers transfer plea to star man - don't go anywhere yet",
-   "link": "https://www.rangersreview.co.uk/news/26689004.ally-mccoist-public-rangers-transfer-plea-star-man/",
-   "excerpt": "Ally McCoist believes Olwethu Makhanya should stay at Rangers, despite his impressive start attracting interest from elsewhere.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20758693/?type=app&htype=0",
-   "published": "Mon, 02 Nov 2026 09:50:35 +0000",
-   "published_uk": "Mon 02 Nov 2026, 09:50 GMT",
-   "author": "Graeme Young"
   }
  ]
 }
