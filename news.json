@@ -1,15 +1,24 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "06 Nov 2026 07:44 GMT",
+ "fetched": "06 Nov 2026 09:42 GMT",
  "items": [
   {
    "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
    "excerpt": "Rangers return to Premiership action on Saturday night with a trip to face St Mirren.",
    "thumb": "https://www.rangersreview.co.uk/resources/images/21627247/?type=app&htype=0",
-   "published": "Thu, 05 Nov 2026 12:11:00 +0000",
-   "published_uk": "Thu 05 Nov 2026, 12:11 GMT",
+   "published": "Fri, 06 Nov 2026 08:10:00 +0000",
+   "published_uk": "Fri 06 Nov 2026, 08:10 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Rangers star wanted for permanent transfer as current boss makes feelings clear",
+   "link": "https://www.rangersreview.co.uk/news/26704358.jim-goodwin-eyes-rangers-transfer-deal-lyall-cameron/",
+   "excerpt": "Goodwin admits Dundee United would jump at the chance to sign Cameron permanently from Rangers.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21677924/?type=app&htype=0",
+   "published": "Fri, 06 Nov 2026 08:02:00 +0000",
+   "published_uk": "Fri 06 Nov 2026, 08:02 GMT",
    "author": "Stewart Wilson"
   },
   {
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21657894/?type=app&htype=0",
    "published": "Mon, 02 Nov 2026 09:32:18 +0000",
    "published_uk": "Mon 02 Nov 2026, 09:32 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Thelo Aasgaard receives glowing 'DNA' praise on Rangers loan exit",
-   "link": "https://www.rangersreview.co.uk/news/26688141.thelo-aasgaard-receives-glowing-dna-praise-rangers-loan-exit/",
-   "excerpt": "Thelo",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21402155/?type=app&htype=0",
-   "published": "Sun, 01 Nov 2026 13:55:48 +0000",
-   "published_uk": "Sun 01 Nov 2026, 13:55 GMT",
    "author": "Stewart Wilson"
   }
  ]
