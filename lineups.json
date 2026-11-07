@@ -229,5 +229,11 @@
   "status": "pending",
   "source_url": "https://www.bbc.co.uk/sport/football/live/cmx23ln75zk0t",
   "updated": "31 Oct 2026 17:12 GMT"
+ },
+ "eac0fdae47950f57@rangers-fixtures": {
+  "fixture": "Sat 07 Nov 2026 20:00 Rangers @ St Mirren",
+  "status": "pending",
+  "source_url": "https://www.bbc.co.uk/sport/football/scottish",
+  "updated": "07 Nov 2026 18:38 GMT"
  }
 }
