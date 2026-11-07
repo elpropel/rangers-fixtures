@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "07 Nov 2026 15:49 GMT",
+ "fetched": "07 Nov 2026 17:46 GMT",
  "items": [
+  {
+   "title": "St Mirren vs Rangers LIVE build-up, team news and reaction from Paisley",
+   "link": "https://www.rangersreview.co.uk/news/26708968.st-mirren-vs-rangers-live-build-up-team-news-reaction/",
+   "excerpt": "The Rangers Review brings you live coverage from the SMISA Stadium as Derek McInnes' Rangers side look to round off this latest batch of pre-international break fixtures with three points against St Mirren.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21683779/?type=app&htype=0",
+   "published": "Sat, 07 Nov 2026 17:39:12 +0000",
+   "published_uk": "Sat 07 Nov 2026, 17:39 GMT",
+   "author": "Joshua Barrie"
+  },
   {
    "title": "Ex-Manchester United star delivers ‘unbelievable’ Rangers transfer verdict",
    "link": "https://www.rangersreview.co.uk/news/26708507.olwethu-makhanya-rangers-move-hailed-quinton-fortune/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20667009/?type=app&htype=0",
    "published": "Tue, 03 Nov 2026 11:23:00 +0000",
    "published_uk": "Tue 03 Nov 2026, 11:23 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Pedro Caixinha back in Europe after joining 13th club of managerial career",
-   "link": "https://www.rangersreview.co.uk/news/26693600.ex-rangers-boss-pedro-caixinha-takes-cercle-brugge/",
-   "excerpt": "Former Rangers manager Caixinha has been appointed head coach of Cercle Brugge.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21663353/?type=app&htype=0",
-   "published": "Tue, 03 Nov 2026 10:27:00 +0000",
-   "published_uk": "Tue 03 Nov 2026, 10:27 GMT",
    "author": "Stewart Wilson"
   }
  ]
