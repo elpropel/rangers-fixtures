@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "07 Nov 2026 09:43 GMT",
+ "fetched": "07 Nov 2026 11:45 GMT",
  "items": [
+  {
+   "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
+   "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
+   "excerpt": "Rangers return to Premiership action on Saturday night with a trip to face St Mirren.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21627247/?type=app&htype=0",
+   "published": "Sat, 07 Nov 2026 11:29:00 +0000",
+   "published_uk": "Sat 07 Nov 2026, 11:29 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ex-Rangers star signs for new club in second tier after weeks as free agent",
    "link": "https://www.rangersreview.co.uk/news/26707966.ex-rangers-star-signs-new-club-weeks-free-agent/",
@@ -29,15 +38,6 @@
    "published": "Fri, 06 Nov 2026 11:38:53 +0000",
    "published_uk": "Fri 06 Nov 2026, 11:38 GMT",
    "author": "David Irvine"
-  },
-  {
-   "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
-   "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
-   "excerpt": "Rangers return to Premiership action on Saturday night with a trip to face St Mirren.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21627247/?type=app&htype=0",
-   "published": "Fri, 06 Nov 2026 08:10:00 +0000",
-   "published_uk": "Fri 06 Nov 2026, 08:10 GMT",
-   "author": "Stewart Wilson"
   },
   {
    "title": "Rangers star wanted for permanent transfer as current boss makes feelings clear",
