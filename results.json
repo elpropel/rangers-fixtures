@@ -1,4 +1,48 @@
 {
+ "eac0fdae47950f57@rangers-fixtures": {
+  "date": "2026-11-07",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "St. Mirren",
+   "score": "0",
+   "ht": "0",
+   "goals": [],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "18'",
+     "type": "pen"
+    },
+    {
+     "player": "D. Neil",
+     "minute": "61'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "The Marbill Coaches Stadium",
+  "home_away": "Away",
+  "status": "FT",
+  "kickoff_uk": "20:00",
+  "summary": "St. Mirren 0 , Rangers 2 at Full time",
+  "attendance": 6795,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cq4g165r4ym3t",
+  "fetched": "07 Nov 2026 21:54 GMT"
+ },
  "06e1b5c577c68d4c@rangers-fixtures": {
   "date": "2026-10-31",
   "competition": "League Cup - Semi-finals",
