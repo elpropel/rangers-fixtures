@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "7th November 2026 at 16:53",
- "fetched": "07 Nov 2026 17:47 GMT",
+ "bbc_updated": "7th November 2026 at 19:36",
+ "fetched": "07 Nov 2026 19:42 GMT",
  "rows": [
   {
    "pos": 1,
@@ -186,26 +186,46 @@
   },
   {
    "pos": 10,
-   "team": "Aberdeen",
-   "p": 11,
+   "team": "Hibernian",
+   "p": 12,
    "w": 3,
    "d": 2,
-   "l": 6,
-   "gf": 12,
-   "ga": 14,
+   "l": 7,
+   "gf": 15,
+   "ga": 17,
    "gd": -2,
    "pts": 11,
    "form": [
-    "W",
+    "D",
+    "L",
+    "L",
+    "L",
+    "D",
+    "W"
+   ]
+  },
+  {
+   "pos": 11,
+   "team": "Aberdeen",
+   "p": 12,
+   "w": 3,
+   "d": 2,
+   "l": 7,
+   "gf": 12,
+   "ga": 18,
+   "gd": -6,
+   "pts": 11,
+   "form": [
     "D",
     "L",
     "W",
+    "L",
     "L",
     "L"
    ]
   },
   {
-   "pos": 11,
+   "pos": 12,
    "team": "Kilmarnock",
    "p": 12,
    "w": 2,
@@ -219,26 +239,6 @@
     "D",
     "L",
     "W",
-    "L",
-    "L",
-    "D"
-   ]
-  },
-  {
-   "pos": 12,
-   "team": "Hibernian",
-   "p": 11,
-   "w": 2,
-   "d": 2,
-   "l": 7,
-   "gf": 11,
-   "ga": 17,
-   "gd": -6,
-   "pts": 8,
-   "form": [
-    "L",
-    "D",
-    "L",
     "L",
     "L",
     "D"
