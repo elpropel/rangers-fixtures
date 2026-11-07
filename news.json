@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "07 Nov 2026 11:45 GMT",
+ "fetched": "07 Nov 2026 13:50 GMT",
  "items": [
+  {
+   "title": "Ex-Manchester United star delivers ‘unbelievable’ Rangers transfer verdict",
+   "link": "https://www.rangersreview.co.uk/news/26708507.olwethu-makhanya-rangers-move-hailed-quinton-fortune/",
+   "excerpt": "Former Manchester United star Fortune reckons his South African countryman Makhanya's move to Rangers has been a huge success.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21354283/?type=app&htype=0",
+   "published": "Sat, 07 Nov 2026 11:37:00 +0000",
+   "published_uk": "Sat 07 Nov 2026, 11:37 GMT",
+   "author": "Mark Walker"
+  },
   {
    "title": "St Mirren vs Rangers: TV channel, live stream and kick-off time",
    "link": "https://www.rangersreview.co.uk/news/26701946.st-mirren-vs-rangers-tv-live-stream-kick-off-time/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21663353/?type=app&htype=0",
    "published": "Tue, 03 Nov 2026 10:27:00 +0000",
    "published_uk": "Tue 03 Nov 2026, 10:27 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers star calls time on playing career after 17 years",
-   "link": "https://www.rangersreview.co.uk/news/26692997.ex-rangers-star-alejandro-bedoya-calls-time-career/",
-   "excerpt": "An ex-Rangers midfielder who spent one season at Ibrox has announced he will retire at the end of the 2026 MLS campaign.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21662577/?type=app&htype=0",
-   "published": "Tue, 03 Nov 2026 08:17:00 +0000",
-   "published_uk": "Tue 03 Nov 2026, 08:17 GMT",
    "author": "Stewart Wilson"
   }
  ]
