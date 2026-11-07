@@ -1,5 +1,5 @@
 {
- "fetched": "07 Nov 2026 21:50 GMT",
+ "fetched": "07 Nov 2026 23:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads instant match reaction - Gers grab the points in Paisley",
+   "published": "2026-11-07T23:19:00+00:00",
+   "published_uk": "Sat 07 Nov 2026, 23:19 GMT",
+   "duration": "38 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5462811795.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "St Mirren vs Rangers | Match Reaction | Scottish Premiership",
+   "published": "2026-11-07T22:47:00+00:00",
+   "published_uk": "Sat 07 Nov 2026, 22:47 GMT",
+   "duration": "43 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3908391237.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/35824852-dafd-11f1-8784-a3c293b4a93a/image/d76e9ec5373bb3db3017a45e723d33e3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Friday night  LIVE - Preview and review show",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8899949236.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1882d172-d44f-11f1-9d34-1f3e05c07c39/image/85484e9dbc3423f8ec2fa70c22ada7d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "More Frustration - But Was It A Good Point Or Concerning For Rangers?",
-   "published": "2026-10-30T00:14:00+00:00",
-   "published_uk": "Fri 30 Oct 2026, 00:14 GMT",
-   "duration": "41 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4714794275.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/d1703656-d3f6-11f1-ac15-67153a5eb1e0/image/0a0698f8bbbb9976eb084fac0d048879.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Podcast live - Stevie's Corner, Tynecastle and Hampden",
-   "published": "2026-10-29T20:27:00+00:00",
-   "published_uk": "Thu 29 Oct 2026, 20:27 GMT",
-   "duration": "32 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5951760771.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
