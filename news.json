@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "07 Nov 2026 17:46 GMT",
+ "fetched": "07 Nov 2026 19:42 GMT",
  "items": [
+  {
+   "title": "Derek McInnes names Rangers starting line-up vs St Mirren, makes one change",
+   "link": "https://www.rangersreview.co.uk/news/26706628.rangers-team-vs-st-mirren-confirmed-premiership-clash/",
+   "excerpt": "McInnes has named his Rangers starting XI for tonight’s Premiership clash against St Mirren in Paisley.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21597352/?type=app&htype=0",
+   "published": "Sat, 07 Nov 2026 18:48:00 +0000",
+   "published_uk": "Sat 07 Nov 2026, 18:48 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "St Mirren vs Rangers LIVE build-up, team news and reaction from Paisley",
    "link": "https://www.rangersreview.co.uk/news/26708968.st-mirren-vs-rangers-live-build-up-team-news-reaction/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21061444/?type=app&htype=0",
    "published": "Tue, 03 Nov 2026 13:49:00 +0000",
    "published_uk": "Tue 03 Nov 2026, 13:49 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Russell Martin ‘spoken highly of’ at Manchester United before Rangers stint",
-   "link": "https://www.rangersreview.co.uk/news/26694073.manchester-united-rated-russell-martin-rangers-move/",
-   "excerpt": "Former Rangers boss Russell Martin was “spoken highly of” by Manchester United technical director Jason Wilcox",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20667009/?type=app&htype=0",
-   "published": "Tue, 03 Nov 2026 11:23:00 +0000",
-   "published_uk": "Tue 03 Nov 2026, 11:23 GMT",
    "author": "Stewart Wilson"
   }
  ]
