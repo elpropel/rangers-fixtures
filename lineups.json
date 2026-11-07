@@ -232,8 +232,78 @@
  },
  "eac0fdae47950f57@rangers-fixtures": {
   "fixture": "Sat 07 Nov 2026 20:00 Rangers @ St Mirren",
-  "status": "pending",
+  "status": "confirmed",
+  "formation": "4-2-3-1",
+  "absences": [],
+  "source_name": "BBC Sport",
   "source_url": "https://www.bbc.co.uk/sport/football/live/cq4g165r4ym3t",
-  "updated": "07 Nov 2026 19:28 GMT"
+  "updated": "07 Nov 2026 19:28 GMT",
+  "starting_xi": [
+   {
+    "name": "Pandur"
+   },
+   {
+    "name": "Sterling"
+   },
+   {
+    "name": "Fernandez"
+   },
+   {
+    "name": "Makhanya"
+   },
+   {
+    "name": "Penrice"
+   },
+   {
+    "name": "Raskin"
+   },
+   {
+    "name": "Neil"
+   },
+   {
+    "name": "Bouanani"
+   },
+   {
+    "name": "Naderi"
+   },
+   {
+    "name": "Kim Min-Su"
+   },
+   {
+    "name": "Kelsy"
+   }
+  ],
+  "subs": [
+   {
+    "name": "T. Chukwuani"
+   },
+   {
+    "name": "F. Curtis"
+   },
+   {
+    "name": "V. Dragojević"
+   },
+   {
+    "name": "K. Glasgow"
+   },
+   {
+    "name": "D. Gassama"
+   },
+   {
+    "name": "B. Godfrey"
+   },
+   {
+    "name": "L. Kelly"
+   },
+   {
+    "name": "B. Miovski"
+   },
+   {
+    "name": "K. Nedeljković"
+   },
+   {
+    "name": "T. Rommens"
+   }
+  ]
  }
 }

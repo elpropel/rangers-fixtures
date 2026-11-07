@@ -90,13 +90,13 @@ def parse_structured(raw):
     """Parse BBC's Match Lineups blocks (home/away team, Club ... Number N, Name, Role)."""
     t2 = pipe_text(raw)
     m = re.search(
-        rf"(?:away|home)\|team,{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,(?!{re.escape(CLUB)}\b)|\Z)",
+        rf"(?:away|home)\|team,\|{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,\|(?!{re.escape(CLUB)}\b)|\Z)",
         t2,
         re.S,
     )
     if not m:
         m = re.search(
-            rf"team,{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,(?!{re.escape(CLUB)}\b)|\Z)",
+            rf"team,\|{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,\|(?!{re.escape(CLUB)}\b)|\Z)",
             t2,
             re.S,
         )
