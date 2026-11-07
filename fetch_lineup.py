@@ -5,8 +5,8 @@ Usage:  python3 fetch_lineup.py YYYY-MM-DD [--publish]
         (picks the fixture on that date from the CSV in config.json)
 Procedure:
   1. Open BBC Sport's monthly team fixtures page and find the match's link (/sport/football/live/<id>).
-  2. Fetch that match page; BBC posts a "LINE-UPS" entry (~1 hour before kick-off) of the form
-     "<Club>: A, B, C ... Substitutes: X, Y, Z." We parse the club's entry only.
+  2. Fetch that match page; BBC posts line-ups (~1 hour before kick-off). Prefer the structured
+     Match Lineups blocks; fall back to the older "<Club>: A, B, C ... Substitutes: X, Y, Z." text.
   3. If nothing is found, the fixture stays/gets status "pending". Players are never invented.
   4. Rebuild (build.py); with --publish also git commit + push.
 Fallbacks (manual): rangers.co.uk team news article / @RangersFC "TEAM NEWS" post.
@@ -34,22 +34,118 @@ def find_fixture(date):
         if d.isoformat() == date: return r, d
     sys.exit(f"No fixture on {date} in CSV")
 
+def opp_tokens(opp):
+    """BBC often writes 'St. Mirren' while the CSV has 'St Mirren'."""
+    toks = []
+    for t in re.split(r"\s+", opp.strip()):
+        t = t.strip(".,")
+        if t and t.lower() not in {"fc", "afc"}:
+            toks.append(t)
+    return toks
+
 def bbc_match_url(d, opp):
     month = get(f"https://www.bbc.co.uk/sport/football/teams/{TEAM_SLUG}/scores-fixtures/{d:%Y-%m}")
-    for seg in month.split('<li')[1:]:
-        seg = seg[:6000]
-        if opp.split()[0] in seg and CLUB in seg:
-            m = re.search(r'href="(/sport/football/(?:live/)?[a-z0-9]+)"', seg)
-            if m: return "https://www.bbc.co.uk" + m.group(1)
+    toks = opp_tokens(opp)
+    # Prefer live match URLs; require a distinctive opponent token (not just "St")
+    distinctive = [t for t in toks if len(t) >= 3]
+    candidates = []
+    for seg in month.split("<li")[1:]:
+        seg = seg[:8000]
+        if CLUB not in seg:
+            continue
+        if distinctive and not any(t in seg or t.replace(".", "") in seg.replace(".", "") for t in distinctive):
+            # also allow dotted form e.g. St. Mirren
+            flat_seg = seg.replace(".", "")
+            if not any(t.replace(".", "") in flat_seg for t in distinctive):
+                continue
+        for m in re.finditer(r'href="(/sport/football/live/[a-z0-9]+)"', seg):
+            candidates.append("https://www.bbc.co.uk" + m.group(1))
+    if candidates:
+        return candidates[0]
+    # Last resort: any live URL on the month page that sits near the opponent name in plain text
+    flat = month.replace(".", "")
+    for t in distinctive:
+        key = t.replace(".", "")
+        idx = flat.find(key)
+        while idx != -1:
+            chunk = month[max(0, idx - 1500): idx + 1500]
+            m = re.search(r'href="(/sport/football/live/[a-z0-9]+)"', chunk)
+            if m:
+                return "https://www.bbc.co.uk" + m.group(1)
+            idx = flat.find(key, idx + 1)
     return None
 
-def parse(t):
+def parse_legacy(t):
     names = lambda s: [n.strip(" .") for n in s.split(",") if n.strip(" .")]
     m = re.search(rf"{re.escape(CLUB)}\s*:\s*([^:]{{20,400}}?)\.\s*Substitutes\s*:\s*([^:]{{3,400}}?)\.", t)
     if not m: return None
     xi = names(m.group(1))
-    if len(xi) != 11: return None          # sanity check: refuse anything that isn't 11 players
+    if len(xi) != 11: return None
     return {"starting_xi": [{"name": n} for n in xi], "subs": [{"name": n} for n in names(m.group(2))]}
+
+def parse_structured(raw):
+    """Parse BBC's Match Lineups blocks (home/away team, Club ... Number N, Name, Role)."""
+    t = html.unescape(re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw, flags=re.S))
+    t2 = re.sub(r"<[^>]+>", "|", t)
+    t2 = re.sub(r"\|+", "|", t2)
+    # Prefer the away/home labelled block for our club
+    patterns = [
+        rf"(?:away|home)\|\s*team,\|\s*{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|\s*team,|\Z)",
+        rf"team,\|\s*{re.escape(CLUB)}\|Manager:.*?(?=team,\|\s*|\Z)",
+    ]
+    block = None
+    for pat in patterns:
+        m = re.search(pat, t2, re.S)
+        if m:
+            block = m.group(0)
+            break
+    if not block:
+        return None
+    # Formation if present
+    formation = None
+    fm = re.search(r"Formation:\|\s*([0-9]+(?:\s*-\s*[0-9]+)+)", block)
+    if fm:
+        formation = fm.group(1).replace(" ", "")
+    # Starting XI: lines like "Number|1|1, Pandur, Goalkeeper|Pandur"
+    # Take the short surname that follows the role when present; else the name after the number.
+    xi = []
+    for m in re.finditer(
+        r"Number\|\d+\|\d+,\s*([^|]+?),\s*(Goalkeeper|Defender|Defensive Midfielder|Midfielder|Attacking Midfielder|Striker|Forward)\|([^|]+)",
+        block,
+    ):
+        short = m.group(3).strip()
+        long = m.group(1).strip()
+        name = short if short and short.lower() != "captain" else long
+        if name and name not in {"(c)", "Captain"}:
+            xi.append(name)
+        if len(xi) == 11:
+            break
+    if len(xi) != 11:
+        return None
+    # Subs after first "Substitute" markers in this club block
+    subs = []
+    # Cut at second team block if duplicated
+    sub_part = block
+    sm = re.search(r"(?:Substitutes\|(?:away|home)\|\s*team,\|\s*" + re.escape(CLUB) + r"|Number\|\d+\|\d+,\s*[^|]+,\s*Substitute)", block)
+    if sm:
+        sub_part = block[sm.start():]
+    for m in re.finditer(r"Number\|\d+\|\d+,\s*([^|]+?),\s*Substitute\|([^|]+)", sub_part):
+        short = m.group(2).strip()
+        long = m.group(1).strip()
+        name = short or long
+        if name:
+            subs.append(name)
+    return {
+        "starting_xi": [{"name": n} for n in xi],
+        "subs": [{"name": n} for n in subs],
+        "formation": formation,
+    }
+
+def parse(raw):
+    res = parse_structured(raw)
+    if res:
+        return res
+    return parse_legacy(html.unescape(raw)) or parse_legacy(text(raw))
 
 def main():
     date = sys.argv[1]; publish = "--publish" in sys.argv
@@ -64,9 +160,18 @@ def main():
     entry = None
     if url:
         raw = get(url)
-        res = parse(html.unescape(raw)) or parse(text(raw))
+        res = parse(raw)
         if res:
-            entry = {"status": "confirmed", "formation": None, "absences": [], "source_name": "BBC Sport", "source_url": url, "updated": now, **res}
+            formation = res.pop("formation", None)
+            entry = {
+                "status": "confirmed",
+                "formation": formation,
+                "absences": [],
+                "source_name": "BBC Sport",
+                "source_url": url,
+                "updated": now,
+                **res,
+            }
     if entry is None:
         old = lu.get(uid, {})
         if old.get("status") == "confirmed":
