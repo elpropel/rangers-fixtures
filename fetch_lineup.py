@@ -46,23 +46,19 @@ def opp_tokens(opp):
 def bbc_match_url(d, opp):
     month = get(f"https://www.bbc.co.uk/sport/football/teams/{TEAM_SLUG}/scores-fixtures/{d:%Y-%m}")
     toks = opp_tokens(opp)
-    # Prefer live match URLs; require a distinctive opponent token (not just "St")
     distinctive = [t for t in toks if len(t) >= 3]
     candidates = []
     for seg in month.split("<li")[1:]:
         seg = seg[:8000]
         if CLUB not in seg:
             continue
-        if distinctive and not any(t in seg or t.replace(".", "") in seg.replace(".", "") for t in distinctive):
-            # also allow dotted form e.g. St. Mirren
-            flat_seg = seg.replace(".", "")
-            if not any(t.replace(".", "") in flat_seg for t in distinctive):
-                continue
+        flat_seg = seg.replace(".", "")
+        if distinctive and not any(t.replace(".", "") in flat_seg for t in distinctive):
+            continue
         for m in re.finditer(r'href="(/sport/football/live/[a-z0-9]+)"', seg):
             candidates.append("https://www.bbc.co.uk" + m.group(1))
     if candidates:
         return candidates[0]
-    # Last resort: any live URL on the month page that sits near the opponent name in plain text
     flat = month.replace(".", "")
     for t in distinctive:
         key = t.replace(".", "")
@@ -81,57 +77,55 @@ def parse_legacy(t):
     if not m: return None
     xi = names(m.group(1))
     if len(xi) != 11: return None
-    return {"starting_xi": [{"name": n} for n in xi], "subs": [{"name": n} for n in names(m.group(2))]}
+    return {"starting_xi": [{"name": n} for n in xi], "subs": [{"name": n} for n in names(m.group(2))], "formation": None}
+
+def pipe_text(raw):
+    t = html.unescape(re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw, flags=re.S))
+    t2 = re.sub(r"<[^>]+>", "|", t)
+    # Collapse pipes and whitespace so "team,| |Rangers" becomes "team,|Rangers"
+    t2 = re.sub(r"(?:\s*\|\s*)+", "|", t2)
+    return t2
 
 def parse_structured(raw):
     """Parse BBC's Match Lineups blocks (home/away team, Club ... Number N, Name, Role)."""
-    t = html.unescape(re.sub(r"<script.*?</script>|<style.*?</style>", " ", raw, flags=re.S))
-    t2 = re.sub(r"<[^>]+>", "|", t)
-    t2 = re.sub(r"\|+", "|", t2)
-    # Prefer the away/home labelled block for our club
-    patterns = [
-        rf"(?:away|home)\|\s*team,\|\s*{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|\s*team,|\Z)",
-        rf"team,\|\s*{re.escape(CLUB)}\|Manager:.*?(?=team,\|\s*|\Z)",
-    ]
-    block = None
-    for pat in patterns:
-        m = re.search(pat, t2, re.S)
-        if m:
-            block = m.group(0)
-            break
-    if not block:
+    t2 = pipe_text(raw)
+    m = re.search(
+        rf"(?:away|home)\|team,{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,(?!{re.escape(CLUB)}\b)|\Z)",
+        t2,
+        re.S,
+    )
+    if not m:
+        m = re.search(
+            rf"team,{re.escape(CLUB)}\|Manager:.*?(?=(?:away|home)\|team,(?!{re.escape(CLUB)}\b)|\Z)",
+            t2,
+            re.S,
+        )
+    if not m:
         return None
-    # Formation if present
+    block = m.group(0)
     formation = None
-    fm = re.search(r"Formation:\|\s*([0-9]+(?:\s*-\s*[0-9]+)+)", block)
+    fm = re.search(r"Formation:\|([0-9]+(?:\s*-\s*[0-9]+)+)", block)
     if fm:
-        formation = fm.group(1).replace(" ", "")
-    # Starting XI: lines like "Number|1|1, Pandur, Goalkeeper|Pandur"
-    # Take the short surname that follows the role when present; else the name after the number.
+        formation = re.sub(r"\s+", "", fm.group(1))
     xi = []
-    for m in re.finditer(
+    for mm in re.finditer(
         r"Number\|\d+\|\d+,\s*([^|]+?),\s*(Goalkeeper|Defender|Defensive Midfielder|Midfielder|Attacking Midfielder|Striker|Forward)\|([^|]+)",
         block,
     ):
-        short = m.group(3).strip()
-        long = m.group(1).strip()
-        name = short if short and short.lower() != "captain" else long
+        short = mm.group(3).strip()
+        long = mm.group(1).strip()
+        name = short if short and short not in {"(c)", "Captain"} else long
         if name and name not in {"(c)", "Captain"}:
             xi.append(name)
         if len(xi) == 11:
             break
     if len(xi) != 11:
         return None
-    # Subs after first "Substitute" markers in this club block
+    # Prefer names from the pitch diagram (first 11) over the duplicated "Starting lineup" list
     subs = []
-    # Cut at second team block if duplicated
-    sub_part = block
-    sm = re.search(r"(?:Substitutes\|(?:away|home)\|\s*team,\|\s*" + re.escape(CLUB) + r"|Number\|\d+\|\d+,\s*[^|]+,\s*Substitute)", block)
-    if sm:
-        sub_part = block[sm.start():]
-    for m in re.finditer(r"Number\|\d+\|\d+,\s*([^|]+?),\s*Substitute\|([^|]+)", sub_part):
-        short = m.group(2).strip()
-        long = m.group(1).strip()
+    for mm in re.finditer(r"Number\|\d+\|\d+,\s*([^|]+?),\s*Substitute\|([^|]+)", block):
+        short = mm.group(2).strip()
+        long = mm.group(1).strip()
         name = short or long
         if name:
             subs.append(name)
