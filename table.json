@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "8th November 2026 at 10:03",
- "fetched": "08 Nov 2026 13:45 GMT",
+ "bbc_updated": "8th November 2026 at 15:35",
+ "fetched": "08 Nov 2026 15:44 GMT",
  "rows": [
   {
    "pos": 1,
@@ -46,14 +46,34 @@
   },
   {
    "pos": 3,
+   "team": "Falkirk",
+   "p": 13,
+   "w": 6,
+   "d": 3,
+   "l": 4,
+   "gf": 18,
+   "ga": 12,
+   "gd": 6,
+   "pts": 21,
+   "form": [
+    "D",
+    "L",
+    "W",
+    "W",
+    "W",
+    "W"
+   ]
+  },
+  {
+   "pos": 4,
    "team": "Heart of Midlothian",
-   "p": 11,
+   "p": 12,
    "w": 6,
    "d": 2,
-   "l": 3,
+   "l": 4,
    "gf": 24,
-   "ga": 17,
-   "gd": 7,
+   "ga": 20,
+   "gd": 4,
    "pts": 20,
    "form": [
     "L",
@@ -62,26 +82,6 @@
     "L",
     "W",
     "D"
-   ]
-  },
-  {
-   "pos": 4,
-   "team": "Falkirk",
-   "p": 12,
-   "w": 5,
-   "d": 3,
-   "l": 4,
-   "gf": 15,
-   "ga": 12,
-   "gd": 3,
-   "pts": 18,
-   "form": [
-    "D",
-    "L",
-    "W",
-    "W",
-    "W",
-    "W"
    ]
   },
   {
