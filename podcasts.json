@@ -1,5 +1,5 @@
 {
- "fetched": "07 Nov 2026 23:49 GMT",
+ "fetched": "08 Nov 2026 07:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "'Moving in the right direction' - St Mirren 0-2 Rangers reaction",
+   "published": "2026-11-08T01:12:00+00:00",
+   "published_uk": "Sun 08 Nov 2026, 01:12 GMT",
+   "duration": "15 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2437247135.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/76ff7020-db11-11f1-ae09-db085b39d7a7/image/0676e48dd0cc9a20260ba6bf6e2cd721.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads instant match reaction - Gers grab the points in Paisley",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5366556148.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/bd8fedda-d4a4-11f1-948a-4b454d68962e/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes fires back at Fernandez critics | Who starts against Aberdeen?",
-   "published": "2026-10-30T10:46:00+00:00",
-   "published_uk": "Fri 30 Oct 2026, 10:46 GMT",
-   "duration": "42 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8899949236.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1882d172-d44f-11f1-9d34-1f3e05c07c39/image/85484e9dbc3423f8ec2fa70c22ada7d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
