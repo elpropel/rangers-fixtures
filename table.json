@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "8th November 2026 at 17:38",
- "fetched": "08 Nov 2026 17:47 GMT",
+ "bbc_updated": "8th November 2026 at 17:51",
+ "fetched": "08 Nov 2026 19:48 GMT",
  "rows": [
   {
    "pos": 1,
@@ -16,12 +16,12 @@
    "gd": 18,
    "pts": 31,
    "form": [
-    "L",
     "W",
     "W",
     "W",
     "D",
-    "L"
+    "L",
+    "W"
    ]
   },
   {
@@ -236,12 +236,12 @@
    "gd": -16,
    "pts": 9,
    "form": [
-    "D",
     "L",
     "W",
     "L",
     "L",
-    "D"
+    "D",
+    "L"
    ]
   }
  ]
