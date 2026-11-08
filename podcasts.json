@@ -1,5 +1,5 @@
 {
- "fetched": "08 Nov 2026 19:48 GMT",
+ "fetched": "08 Nov 2026 21:51 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Podcast - Sunday Show Live, Rangers win in Paisley",
+   "published": "2026-11-08T21:25:00+00:00",
+   "published_uk": "Sun 08 Nov 2026, 21:25 GMT",
+   "duration": "1h 07m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5036231236.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "'Moving in the right direction' - St Mirren 0-2 Rangers reaction",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6088556204.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "TRICK OR TREAT AT HAMPDEN 🎃 | Club Live",
-   "published": "2026-10-30T20:58:00+00:00",
-   "published_uk": "Fri 30 Oct 2026, 20:58 GMT",
-   "duration": "53 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5366556148.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/bd8fedda-d4a4-11f1-948a-4b454d68962e/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
