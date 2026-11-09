@@ -1,5 +1,5 @@
 {
- "fetched": "09 Nov 2026 09:48 GMT",
+ "fetched": "09 Nov 2026 11:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
+   "published": "2026-11-09T10:47:00+00:00",
+   "published_uk": "Mon 09 Nov 2026, 10:47 GMT",
+   "duration": "46 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7639191875.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/ffe2f118-dc2a-11f1-ae51-57cf9f724485/image/a43bdc41bfc4454120b6b2c537b32e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers Run Continues, But For How Long?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6073133232.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers reach league cup final after another big Naderi moment",
-   "published": "2026-10-31T20:22:00+00:00",
-   "published_uk": "Sat 31 Oct 2026, 20:22 GMT",
-   "duration": "33 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4894698634.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/c4462b70-d568-11f1-94e2-b33745c78a20/image/a325dd79faa71421257a557bc5c6e0bc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
