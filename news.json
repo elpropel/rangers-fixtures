@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 21:44 GMT",
+ "fetched": "09 Nov 2026 23:49 GMT",
  "items": [
+  {
+   "title": "Rangers icon Scott Arfield turns to Michael Beale after landing East Fife job",
+   "link": "https://www.rangersreview.co.uk/news/26713400.scott-arfield-turns-ex-rangers-manager-taking-east-fife-job/",
+   "excerpt": "Rangers icon Scott Arfield has revealed why he turned to ex-Ibrox manager Michael Beale after being appointed East Fife player-manager.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21692359/?type=app&htype=0",
+   "published": "Mon, 09 Nov 2026 22:38:00 +0000",
+   "published_uk": "Mon 09 Nov 2026, 22:38 GMT",
+   "author": "Matthew Lindsay"
+  },
   {
    "title": "What the 'next evolution' of Rangers looks like this season",
    "link": "https://www.rangersreview.co.uk/news/26713901.next-evolution-rangers-looks-like-season/",
@@ -173,15 +182,6 @@
    "published": "Wed, 04 Nov 2026 16:00:00 +0000",
    "published_uk": "Wed 04 Nov 2026, 16:00 GMT",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "Rangers handed quadruple injury boost as comeback dates revealed",
-   "link": "https://www.rangersreview.co.uk/news/26698703.derek-mcinnes-injury-update-four-rangers-stars/",
-   "excerpt": "McInnes has provided a fresh Rangers injury update, with Daisuke Yokota closing in on a return to action.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21670451/?type=app&htype=0",
-   "published": "Wed, 04 Nov 2026 13:23:00 +0000",
-   "published_uk": "Wed 04 Nov 2026, 13:23 GMT",
-   "author": "Rangers Review Staff"
   }
  ]
 }
