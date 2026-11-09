@@ -1,5 +1,5 @@
 {
- "fetched": "09 Nov 2026 17:47 GMT",
+ "fetched": "09 Nov 2026 19:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand - Successful at Saints",
+   "published": "2026-11-09T19:00:00+00:00",
+   "published_uk": "Mon 09 Nov 2026, 19:00 GMT",
+   "duration": "55 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1955339620.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/49c0779c-dc67-11f1-a854-ebe8fea5e4ef/image/5722754969d6b068ba1a4dcbfdfc9df8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1491665055.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Why Ryan Naderi epitomises this Rangers team",
-   "published": "2026-11-01T17:11:00+00:00",
-   "published_uk": "Sun 01 Nov 2026, 17:11 GMT",
-   "duration": "18 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6073133232.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
