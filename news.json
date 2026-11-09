@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 09:48 GMT",
+ "fetched": "09 Nov 2026 11:46 GMT",
  "items": [
+  {
+   "title": "New Rangers star hailed as 'massive' amid 12-game unbeaten run",
+   "link": "https://www.rangersreview.co.uk/news/26711129.rangers-ivor-pandur-hailed-massive-unbeaten-run/",
+   "excerpt": "Rangers’ 2-0 win over St Mirren was described as “DelBall in full effect” as McInnes’ side extended their unbeaten run to 12 matches.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21688592/?type=app&htype=0",
+   "published": "Mon, 09 Nov 2026 11:04:00 +0000",
+   "published_uk": "Mon 09 Nov 2026, 11:04 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
    "link": "https://www.rangersreview.co.uk/news/26710211.premiership-star-bemoans-unlucky-red-card-rangers/",
@@ -173,15 +182,6 @@
    "published": "Tue, 03 Nov 2026 15:10:28 +0000",
    "published_uk": "Tue 03 Nov 2026, 15:10 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "WATCH: Nico Raskin turns interviewer after Rangers teammate's Scotland joy",
-   "link": "https://www.rangersreview.co.uk/news/26695181.rangers-nico-raskin-interviews-james-penrice-call-up/",
-   "excerpt": "Penrice was welcomed into the Scotland fold with a cheeky message from Rangers team-mate Raskin after earning his first senior international call-up.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21665548/?type=app&htype=0",
-   "published": "Tue, 03 Nov 2026 14:19:00 +0000",
-   "published_uk": "Tue 03 Nov 2026, 14:19 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
