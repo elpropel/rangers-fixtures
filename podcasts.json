@@ -1,5 +1,5 @@
 {
- "fetched": "08 Nov 2026 23:45 GMT",
+ "fetched": "09 Nov 2026 07:51 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers Run Continues, But For How Long?",
+   "published": "2026-11-09T07:00:00+00:00",
+   "published_uk": "Mon 09 Nov 2026, 07:00 GMT",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2307833959.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/b6c58ccc-dbba-11f1-a0aa-0bf4ce429a79/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Podcast - Sunday Show Live, Rangers win in Paisley",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4894698634.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/c4462b70-d568-11f1-94e2-b33745c78a20/image/a325dd79faa71421257a557bc5c6e0bc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Friday night Review and Preview LIVE",
-   "published": "2026-10-30T22:31:00+00:00",
-   "published_uk": "Fri 30 Oct 2026, 22:31 GMT",
-   "duration": "1h 04m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6088556204.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
