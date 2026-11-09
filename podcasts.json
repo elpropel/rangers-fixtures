@@ -1,5 +1,5 @@
 {
- "fetched": "09 Nov 2026 19:47 GMT",
+ "fetched": "09 Nov 2026 21:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night LIVE - Saints, Refs and Kris Boyd",
+   "published": "2026-11-09T20:38:00+00:00",
+   "published_uk": "Mon 09 Nov 2026, 20:38 GMT",
+   "duration": "1h 07m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3746109330.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand - Successful at Saints",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3496119851.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/ffeff2b6-d651-11f1-b206-c76be7e21f2a/image/920fc2d85a037fa03446316414ef4f05.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Podcast - Sunday Show Live - Rangers into the final!",
-   "published": "2026-11-01T21:13:00+00:00",
-   "published_uk": "Sun 01 Nov 2026, 21:13 GMT",
-   "duration": "1h 01m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1491665055.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
