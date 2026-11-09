@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 11:46 GMT",
+ "fetched": "09 Nov 2026 13:50 GMT",
  "items": [
+  {
+   "title": "Steven Gerrard’s brilliant three-word reaction to Rangers hero’s new job",
+   "link": "https://www.rangersreview.co.uk/news/26712148.steven-gerrard-sends-message-rangers-hero-scott-arfield/",
+   "excerpt": "Gerrard has sent a message of support to former Rangers midfielder Arfield after he was appointed player-manager of East Fife.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20739418/?type=app&htype=0",
+   "published": "Mon, 09 Nov 2026 13:33:57 +0000",
+   "published_uk": "Mon 09 Nov 2026, 13:33 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "New Rangers star hailed as 'massive' amid 12-game unbeaten run",
    "link": "https://www.rangersreview.co.uk/news/26711129.rangers-ivor-pandur-hailed-massive-unbeaten-run/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21655434/?type=app&htype=96",
    "published": "Tue, 03 Nov 2026 15:41:50 +0000",
    "published_uk": "Tue 03 Nov 2026, 15:41 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers game rescheduled as a result of Premier Sports Cup final participation",
-   "link": "https://www.rangersreview.co.uk/news/26695573.rangers-league-game-rescheduled-due-premier-sports-cup-final/",
-   "excerpt": "Rangers game rescheduled as a result of Premier Sports Cup final participation",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21666038/?type=app&htype=217",
-   "published": "Tue, 03 Nov 2026 15:10:28 +0000",
-   "published_uk": "Tue 03 Nov 2026, 15:10 GMT",
    "author": "Blair Meikle"
   }
  ]
