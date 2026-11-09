@@ -1,16 +1,25 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 13:50 GMT",
+ "fetched": "09 Nov 2026 15:49 GMT",
  "items": [
+  {
+   "title": "Kris Boyd hits back at Rangers penalty moans and groans with blunt verdict",
+   "link": "https://www.rangersreview.co.uk/news/26712641.kris-boyd-backs-rangers-penalty-call-st-mirren/",
+   "excerpt": "Boyd insists Rangers were correctly awarded their penalty against St Mirren and has backed referee Walsh amid the controversy surrounding the decision.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20838291/?type=app&htype=0",
+   "published": "Mon, 09 Nov 2026 15:08:00 +0000",
+   "published_uk": "Mon 09 Nov 2026, 15:08 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Steven Gerrard’s brilliant three-word reaction to Rangers hero’s new job",
    "link": "https://www.rangersreview.co.uk/news/26712148.steven-gerrard-sends-message-rangers-hero-scott-arfield/",
    "excerpt": "Gerrard has sent a message of support to former Rangers midfielder Arfield after he was appointed player-manager of East Fife.",
    "thumb": "https://www.rangersreview.co.uk/resources/images/20739418/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 13:33:57 +0000",
-   "published_uk": "Mon 09 Nov 2026, 13:33 GMT",
-   "author": "Author Unknown"
+   "published": "Mon, 09 Nov 2026 13:42:00 +0000",
+   "published_uk": "Mon 09 Nov 2026, 13:42 GMT",
+   "author": "Stewart Wilson"
   },
   {
    "title": "New Rangers star hailed as 'massive' amid 12-game unbeaten run",
@@ -20,6 +29,24 @@
    "published": "Mon, 09 Nov 2026 11:04:00 +0000",
    "published_uk": "Mon 09 Nov 2026, 11:04 GMT",
    "author": "The Rangers Review"
+  },
+  {
+   "title": "Ex-Rangers star handed bumper new contract despite being injured for 10 months",
+   "link": "https://www.rangersreview.co.uk/news/26710796.ex-rangers-star-gets-bumper-new-deal-despite-10-month-injury/",
+   "excerpt": "Ex-Rangers star handed bumper new contract despite being injured for 10 months",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21687821/?type=app&htype=103",
+   "published": "Mon, 09 Nov 2026 10:15:46 +0000",
+   "published_uk": "Mon 09 Nov 2026, 10:15 GMT",
+   "author": "Mark Walker"
+  },
+  {
+   "title": "Rangers player becomes third Ibrox star to be snubbed by national team",
+   "link": "https://www.rangersreview.co.uk/news/26710764.third-rangers-star-snubbed-national-team/",
+   "excerpt": "Rangers player becomes third Ibrox star to be snubbed by national team",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21415622/?type=app&htype=173",
+   "published": "Mon, 09 Nov 2026 10:10:56 +0000",
+   "published_uk": "Mon 09 Nov 2026, 10:10 GMT",
+   "author": "Mark Walker"
   },
   {
    "title": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
@@ -155,33 +182,6 @@
    "published": "Wed, 04 Nov 2026 10:16:00 +0000",
    "published_uk": "Wed 04 Nov 2026, 10:16 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers learn match officials for Saturday night Premiership clash vs St Mirren",
-   "link": "https://www.rangersreview.co.uk/news/26696973.rangers-match-officials-confirmed-st-mirren-league-clash/",
-   "excerpt": "The match officials have been confirmed for Rangers’ trip to St Mirren.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20381952/?type=app&htype=0",
-   "published": "Wed, 04 Nov 2026 08:47:00 +0000",
-   "published_uk": "Wed 04 Nov 2026, 08:47 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers hero 'set' for new role at EFL side after leaving last club over summer",
-   "link": "https://www.rangersreview.co.uk/news/26696452.rangers-hero-set-new-role-struggling-efl-side/",
-   "excerpt": "Former Rangers striker Jermain Defoe is reportedly set for a new role at an English club after his Woking departure.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21667329/?type=app&htype=75",
-   "published": "Tue, 03 Nov 2026 17:25:17 +0000",
-   "published_uk": "Tue 03 Nov 2026, 17:25 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Why Sebastien Pocognoli picked James Penrice as he talks up Rangers star's quality",
-   "link": "https://www.rangersreview.co.uk/news/26695812.pocognoli-picked-penrice-talks-rangers-stars-quality/",
-   "excerpt": "Why Sebastien Pocognoli picked James Penrice as he talks up Rangers star's quality",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21655434/?type=app&htype=96",
-   "published": "Tue, 03 Nov 2026 15:41:50 +0000",
-   "published_uk": "Tue 03 Nov 2026, 15:41 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
