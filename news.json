@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 07:50 GMT",
+ "fetched": "09 Nov 2026 09:48 GMT",
  "items": [
+  {
+   "title": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
+   "link": "https://www.rangersreview.co.uk/news/26710211.premiership-star-bemoans-unlucky-red-card-rangers/",
+   "excerpt": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21686881/?type=app&htype=185",
+   "published": "Mon, 09 Nov 2026 07:29:26 +0000",
+   "published_uk": "Mon 09 Nov 2026, 07:29 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Derek McInnes names Rangers starting line-up vs St Mirren, makes one change",
    "link": "https://www.rangersreview.co.uk/news/26706628.rangers-team-vs-st-mirren-confirmed-premiership-clash/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21665548/?type=app&htype=0",
    "published": "Tue, 03 Nov 2026 14:19:00 +0000",
    "published_uk": "Tue 03 Nov 2026, 14:19 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers youth prospect reveals personal ‘privilege’ of working with boyhood hero",
-   "link": "https://www.rangersreview.co.uk/news/26695038.rydnn-mcguire-reveals-allan-mcgregor-impact-rangers/",
-   "excerpt": "Rangers youngster McGuire has opened up on the “privilege” of working alongside his former goalkeeping hero McGregor at Ibrox.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21061444/?type=app&htype=0",
-   "published": "Tue, 03 Nov 2026 13:49:00 +0000",
-   "published_uk": "Tue 03 Nov 2026, 13:49 GMT",
    "author": "Stewart Wilson"
   }
  ]
