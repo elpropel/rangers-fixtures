@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "09 Nov 2026 15:49 GMT",
+ "fetched": "09 Nov 2026 17:47 GMT",
  "items": [
+  {
+   "title": "Steven Gerrard recalls his Rangers ‘50 cameras’ warning Alfredo Morelos ignored",
+   "link": "https://www.rangersreview.co.uk/news/26713081.steven-gerrard-recalls-alfredo-morelos-rangers-warning/",
+   "excerpt": "Gerrard has revealed how he used to warn Morelos that “50 cameras” were watching his every move during their time together at Rangers.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20739492/?type=app&htype=0",
+   "published": "Mon, 09 Nov 2026 16:04:00 +0000",
+   "published_uk": "Mon 09 Nov 2026, 16:04 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Kris Boyd hits back at Rangers penalty moans and groans with blunt verdict",
    "link": "https://www.rangersreview.co.uk/news/26712641.kris-boyd-backs-rangers-penalty-call-st-mirren/",
@@ -173,15 +182,6 @@
    "published": "Wed, 04 Nov 2026 10:59:00 +0000",
    "published_uk": "Wed 04 Nov 2026, 10:59 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "45-cap Rangers star left out for Scotland clash as national boss reveals reason",
-   "link": "https://www.rangersreview.co.uk/news/26697425.bojan-miovski-dropped-national-team-amid-rangers-woes/",
-   "excerpt": "Miovski has been ditched by North Macedonia for their Nations League game in Scotland",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21668472/?type=app&htype=0",
-   "published": "Wed, 04 Nov 2026 10:16:00 +0000",
-   "published_uk": "Wed 04 Nov 2026, 10:16 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
