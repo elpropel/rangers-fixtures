@@ -1,5 +1,5 @@
 {
- "fetched": "10 Nov 2026 09:42 GMT",
+ "fetched": "10 Nov 2026 11:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -39,6 +39,28 @@
  ],
  "episodes": [
   {
+   "show": "Rangers Review Podcast",
+   "title": "Boyd wants 'ruthless' striker at Ibrox & Key Rangers executive departs: What does it mean?",
+   "published": "2026-11-10T10:44:00+00:00",
+   "published_uk": "Tue 10 Nov 2026, 10:44 GMT",
+   "duration": "35 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970504072.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - November 10th - 16th",
+   "published": "2026-11-10T10:00:00+00:00",
+   "published_uk": "Tue 10 Nov 2026, 10:00 GMT",
+   "duration": "1h 19m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4534288316.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Monday night LIVE - Saints, Refs and Kris Boyd",
    "published": "2026-11-09T20:38:00+00:00",
@@ -65,7 +87,7 @@
    "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
    "published": "2026-11-09T10:47:00+00:00",
    "published_uk": "Mon 09 Nov 2026, 10:47 GMT",
-   "duration": "46 min",
+   "duration": "47 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7639191875.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/ffe2f118-dc2a-11f1-ae51-57cf9f724485/image/a43bdc41bfc4454120b6b2c537b32e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2315192285.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/dd0a099e-d6dd-11f1-bc38-2ba8e7a92da6/image/0d4c312110dde7f48e2b7d6340089fd5.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "The big talking points as Rangers book Hibs League Cup final showdown",
-   "published": "2026-11-02T10:41:00+00:00",
-   "published_uk": "Mon 02 Nov 2026, 10:41 GMT",
-   "duration": "42 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2007491003.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/fea741d6-d6a9-11f1-99f4-532d900e4a2e/image/f7eb2a128ccea6ed07763333657d1bb6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Don & Dusted",
-   "published": "2026-11-02T07:00:00+00:00",
-   "published_uk": "Mon 02 Nov 2026, 07:00 GMT",
-   "duration": "54 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3496119851.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/ffeff2b6-d651-11f1-b206-c76be7e21f2a/image/920fc2d85a037fa03446316414ef4f05.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
