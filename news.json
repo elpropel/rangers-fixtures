@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "10 Nov 2026 17:41 GMT",
+ "fetched": "10 Nov 2026 19:49 GMT",
  "items": [
+  {
+   "title": "Rangers handed ‘momentum over Celtic’ verdict as title door swings open",
+   "link": "https://www.rangersreview.co.uk/news/26717841.alan-hutton-backs-rangers-overtake-celtic-title-race/",
+   "excerpt": "Hutton believes Rangers now have the momentum over Celtic in the title race and insists the opportunity is there for them to take advantage of their struggles.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
+   "published": "Tue, 10 Nov 2026 18:37:00 +0000",
+   "published_uk": "Tue 10 Nov 2026, 18:37 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers star duo told ‘we need to see more’ as pressure to deliver builds",
    "link": "https://www.rangersreview.co.uk/news/26717040.rangers-attackers-challenged-goals-assists-output/",
@@ -173,15 +182,6 @@
    "published": "Fri, 06 Nov 2026 18:12:52 +0000",
    "published_uk": "Fri 06 Nov 2026, 18:12 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Derek McInnes news, interviews and updates on the Rangers manager",
-   "link": "https://www.rangersreview.co.uk/news/26706900.derek-mcinnes-news-interviews-updates-manager/",
-   "excerpt": "Derek McInnes news, interviews and updates on the Rangers manager",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21680977/?type=app&htype=0",
-   "published": "Fri, 06 Nov 2026 15:07:19 +0000",
-   "published_uk": "Fri 06 Nov 2026, 15:07 GMT",
-   "author": "David Irvine"
   }
  ]
 }
