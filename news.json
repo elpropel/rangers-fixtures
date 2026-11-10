@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "10 Nov 2026 15:45 GMT",
+ "fetched": "10 Nov 2026 17:41 GMT",
  "items": [
+  {
+   "title": "Rangers star duo told ‘we need to see more’ as pressure to deliver builds",
+   "link": "https://www.rangersreview.co.uk/news/26717040.rangers-attackers-challenged-goals-assists-output/",
+   "excerpt": "Rangers’ attacking players have been challenged to add more goals to their game as McInnes’ side attempt to maintain their impressive run of form.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21698162/?type=app&htype=0",
+   "published": "Tue, 10 Nov 2026 16:07:00 +0000",
+   "published_uk": "Tue 10 Nov 2026, 16:07 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Ex-Rangers star reveals Ryan Naderi pep talk as striker 'hits the right strides'",
    "link": "https://www.rangersreview.co.uk/news/26716075.ex-rangers-stars-ryan-naderi-pep-talk-hits-right-strides/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21680977/?type=app&htype=0",
    "published": "Fri, 06 Nov 2026 15:07:19 +0000",
    "published_uk": "Fri 06 Nov 2026, 15:07 GMT",
-   "author": "David Irvine"
-  },
-  {
-   "title": "Rangers transfer target retires aged 33 one year after Ibrox interest",
-   "link": "https://www.rangersreview.co.uk/news/26705635.rangers-target-retires-one-year-ibrox-interest/",
-   "excerpt": "Rangers transfer target retires aged 33 one year after Ibrox interest",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21679188/?type=app&htype=0",
-   "published": "Fri, 06 Nov 2026 11:38:53 +0000",
-   "published_uk": "Fri 06 Nov 2026, 11:38 GMT",
    "author": "David Irvine"
   }
  ]
