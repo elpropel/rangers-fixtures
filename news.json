@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 11:44 GMT",
+ "fetched": "11 Nov 2026 13:49 GMT",
  "items": [
+  {
+   "title": "Club 1872 unveil new name and brand as part of Rangers relations and Ibrox upgrades",
+   "link": "https://www.rangersreview.co.uk/news/26719745.club-1872-unveil-new-name-brand-part-ibrox-upgrades-projects/",
+   "excerpt": "Rangers shareholders Club 1872 have unveiled a new name and brand as they seek member approval for further investment in Ibrox heritage projects.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21702905/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 13:30:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 13:30 GMT",
+   "author": "Christopher Jack"
+  },
+  {
+   "title": "Ex-Rangers star lands first Scotland call-up since 2019 as injury replacement",
+   "link": "https://www.rangersreview.co.uk/news/26719871.ex-rangers-star-gets-first-scotland-call-since-2019-replacement/",
+   "excerpt": "Ex-Rangers star lands first Scotland call-up since 2019 as injury replacement",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21702889/?type=app&htype=175",
+   "published": "Wed, 11 Nov 2026 13:26:42 +0000",
+   "published_uk": "Wed 11 Nov 2026, 13:26 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "Clement in 'wrong time' admission over Rangers spell and drops hint over US owners",
    "link": "https://www.rangersreview.co.uk/news/26718761.clements-admission-rangers-spell-hint-us-owners/",
@@ -164,24 +182,6 @@
    "published": "Mon, 09 Nov 2026 10:10:56 +0000",
    "published_uk": "Mon 09 Nov 2026, 10:10 GMT",
    "author": "Mark Walker"
-  },
-  {
-   "title": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
-   "link": "https://www.rangersreview.co.uk/news/26710211.premiership-star-bemoans-unlucky-red-card-rangers/",
-   "excerpt": "Premiership star bemoans 'unlucky' red card picked up against Rangers",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21686881/?type=app&htype=185",
-   "published": "Mon, 09 Nov 2026 07:29:26 +0000",
-   "published_uk": "Mon 09 Nov 2026, 07:29 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Derek McInnes names Rangers starting line-up vs St Mirren, makes one change",
-   "link": "https://www.rangersreview.co.uk/news/26706628.rangers-team-vs-st-mirren-confirmed-premiership-clash/",
-   "excerpt": "McInnes has named his Rangers starting XI for tonight’s Premiership clash against St Mirren in Paisley.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21597352/?type=app&htype=0",
-   "published": "Sat, 07 Nov 2026 18:48:00 +0000",
-   "published_uk": "Sat 07 Nov 2026, 18:48 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
