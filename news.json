@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 19:43 GMT",
+ "fetched": "11 Nov 2026 21:42 GMT",
  "items": [
+  {
+   "title": "Rangers hero reveals X-rated Dick Advocaat dig that still makes him laugh",
+   "link": "https://www.rangersreview.co.uk/news/26721734.ronald-de-boer-reveals-dick-advocaats-x-rated-rangers-dig/",
+   "excerpt": "De Boer has revealed the hilarious way former Rangers boss Advocaat still reminds him of his dramatic Ibrox transformation under McLeish.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20672789/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 20:55:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 20:55 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Former Rangers favourite seals fresh start with Scottish club",
    "link": "https://www.rangersreview.co.uk/news/26721665.former-rangers-winger-barrie-mckay-seals-hamilton-move/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20838291/?type=app&htype=0",
    "published": "Mon, 09 Nov 2026 15:08:00 +0000",
    "published_uk": "Mon 09 Nov 2026, 15:08 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Steven Gerrard’s brilliant three-word reaction to Rangers hero’s new job",
-   "link": "https://www.rangersreview.co.uk/news/26712148.steven-gerrard-sends-message-rangers-hero-scott-arfield/",
-   "excerpt": "Gerrard has sent a message of support to former Rangers midfielder Arfield after he was appointed player-manager of East Fife.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20739418/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 13:42:00 +0000",
-   "published_uk": "Mon 09 Nov 2026, 13:42 GMT",
    "author": "Stewart Wilson"
   }
  ]
