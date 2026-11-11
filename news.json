@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 07:48 GMT",
+ "fetched": "11 Nov 2026 09:44 GMT",
  "items": [
+  {
+   "title": "Mikey Moore on how close Rangers stay came and chances of return in future",
+   "link": "https://www.rangersreview.co.uk/news/26718106.moore-close-rangers-stay-came-chances-future-return/",
+   "excerpt": "Mikey Moore on how close Rangers stay came and chances of return in future",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21414425/?type=app&htype=239",
+   "published": "Wed, 11 Nov 2026 07:36:06 +0000",
+   "published_uk": "Wed 11 Nov 2026, 07:36 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers handed ‘momentum over Celtic’ verdict as title door swings open",
    "link": "https://www.rangersreview.co.uk/news/26717841.alan-hutton-backs-rangers-overtake-celtic-title-race/",
@@ -173,15 +182,6 @@
    "published": "Sat, 07 Nov 2026 11:29:00 +0000",
    "published_uk": "Sat 07 Nov 2026, 11:29 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers star signs for new club in second tier after weeks as free agent",
-   "link": "https://www.rangersreview.co.uk/news/26707966.ex-rangers-star-signs-new-club-weeks-free-agent/",
-   "excerpt": "Ex-Rangers star signs for new club in second tier after weeks as free agent",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21682395/?type=app&htype=251",
-   "published": "Fri, 06 Nov 2026 18:12:52 +0000",
-   "published_uk": "Fri 06 Nov 2026, 18:12 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
