@@ -1,5 +1,5 @@
 {
- "fetched": "11 Nov 2026 09:44 GMT",
+ "fetched": "11 Nov 2026 11:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Hateley reveals Naderi chat, Kim injury news & which on loan star is impressing at their new club?",
+   "published": "2026-11-11T10:55:00+00:00",
+   "published_uk": "Wed 11 Nov 2026, 10:55 GMT",
+   "duration": "46 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1802544187.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "SAILED BY SAINTS! | Club Deck Corner",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1297402190.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/3cbf4052-d779-11f1-be83-1f0c868fb29b/image/7862966830efafba4d7418fdf6f9ad61.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Podcast Monday Night LIVE - Firsts and Finals",
-   "published": "2026-11-02T21:15:00+00:00",
-   "published_uk": "Mon 02 Nov 2026, 21:15 GMT",
-   "duration": "1h 10m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1914301865.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
