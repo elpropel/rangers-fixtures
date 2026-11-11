@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 21:42 GMT",
+ "fetched": "11 Nov 2026 23:42 GMT",
  "items": [
+  {
+   "title": "Philippe Clement's heartfelt Rangers message as he backs Derek McInnes",
+   "link": "https://www.rangersreview.co.uk/news/26721768.philippe-clement-delivers-rangers-verdict-derek-mcinnes/",
+   "excerpt": "Former Rangers boss Clement has backed McInnes to bring silverware back to Ibrox as he declared himself a supporter of the club for life.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20409656/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 23:03:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 23:03 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers hero reveals X-rated Dick Advocaat dig that still makes him laugh",
    "link": "https://www.rangersreview.co.uk/news/26721734.ronald-de-boer-reveals-dick-advocaats-x-rated-rangers-dig/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20739492/?type=app&htype=0",
    "published": "Mon, 09 Nov 2026 16:04:00 +0000",
    "published_uk": "Mon 09 Nov 2026, 16:04 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Kris Boyd hits back at Rangers penalty moans and groans with blunt verdict",
-   "link": "https://www.rangersreview.co.uk/news/26712641.kris-boyd-backs-rangers-penalty-call-st-mirren/",
-   "excerpt": "Boyd insists Rangers were correctly awarded their penalty against St Mirren and has backed referee Walsh amid the controversy surrounding the decision.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20838291/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 15:08:00 +0000",
-   "published_uk": "Mon 09 Nov 2026, 15:08 GMT",
    "author": "Stewart Wilson"
   }
  ]
