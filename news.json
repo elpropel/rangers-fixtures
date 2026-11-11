@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 15:46 GMT",
+ "fetched": "11 Nov 2026 17:45 GMT",
  "items": [
+  {
+   "title": "Rangers handed Minsu Kim injury update as return timeline emerges",
+   "link": "https://www.rangersreview.co.uk/news/26720739.minsu-kims-rangers-return-timeline-emerges-amid-injury-fear/",
+   "excerpt": "Rangers have been handed a welcome injury boost over Minsu after fears emerged over the winger's fitness during the international break.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21704370/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 15:52:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 15:52 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Club 1872 unveil new name and brand as part of Rangers relations and Ibrox upgrades",
    "link": "https://www.rangersreview.co.uk/news/26719745.club-1872-unveil-new-name-brand-part-ibrox-upgrades-projects/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21687821/?type=app&htype=103",
    "published": "Mon, 09 Nov 2026 10:15:46 +0000",
    "published_uk": "Mon 09 Nov 2026, 10:15 GMT",
-   "author": "Mark Walker"
-  },
-  {
-   "title": "Rangers player becomes third Ibrox star to be snubbed by national team",
-   "link": "https://www.rangersreview.co.uk/news/26710764.third-rangers-star-snubbed-national-team/",
-   "excerpt": "Rangers player becomes third Ibrox star to be snubbed by national team",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21415622/?type=app&htype=173",
-   "published": "Mon, 09 Nov 2026 10:10:56 +0000",
-   "published_uk": "Mon 09 Nov 2026, 10:10 GMT",
    "author": "Mark Walker"
   }
  ]
