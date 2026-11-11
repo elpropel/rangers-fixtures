@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "11 Nov 2026 17:45 GMT",
+ "fetched": "11 Nov 2026 19:43 GMT",
  "items": [
+  {
+   "title": "Former Rangers favourite seals fresh start with Scottish club",
+   "link": "https://www.rangersreview.co.uk/news/26721665.former-rangers-winger-barrie-mckay-seals-hamilton-move/",
+   "excerpt": "Former Rangers winger McKay has secured a fresh start in Scottish football after agreeing a short-term deal, subject to SFA approval, with Hamilton Academical.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20540247/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 19:09:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 19:09 GMT",
+   "author": "Stewart Wilson"
+  },
+  {
+   "title": "Ex-Rangers boss Michael Beale 'resigns' as Zulte Waregem head coach",
+   "link": "https://www.rangersreview.co.uk/news/26721483.former-rangers-boss-michael-beale-resigns-role/",
+   "excerpt": "Former Rangers boss Beale has quit Belgian side Zulte Waregem following a reported fallout with the club's hierarchy.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21705562/?type=app&htype=0",
+   "published": "Wed, 11 Nov 2026 17:41:00 +0000",
+   "published_uk": "Wed 11 Nov 2026, 17:41 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers handed Minsu Kim injury update as return timeline emerges",
    "link": "https://www.rangersreview.co.uk/news/26720739.minsu-kims-rangers-return-timeline-emerges-amid-injury-fear/",
@@ -164,24 +182,6 @@
    "published": "Mon, 09 Nov 2026 13:42:00 +0000",
    "published_uk": "Mon 09 Nov 2026, 13:42 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "New Rangers star hailed as 'massive' amid 12-game unbeaten run",
-   "link": "https://www.rangersreview.co.uk/news/26711129.rangers-ivor-pandur-hailed-massive-unbeaten-run/",
-   "excerpt": "Rangers’ 2-0 win over St Mirren was described as “DelBall in full effect” as McInnes’ side extended their unbeaten run to 12 matches.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21688592/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 11:04:00 +0000",
-   "published_uk": "Mon 09 Nov 2026, 11:04 GMT",
-   "author": "The Rangers Review"
-  },
-  {
-   "title": "Ex-Rangers star handed bumper new contract despite being injured for 10 months",
-   "link": "https://www.rangersreview.co.uk/news/26710796.ex-rangers-star-gets-bumper-new-deal-despite-10-month-injury/",
-   "excerpt": "Ex-Rangers star handed bumper new contract despite being injured for 10 months",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21687821/?type=app&htype=103",
-   "published": "Mon, 09 Nov 2026 10:15:46 +0000",
-   "published_uk": "Mon 09 Nov 2026, 10:15 GMT",
-   "author": "Mark Walker"
   }
  ]
 }
