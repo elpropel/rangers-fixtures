@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Nov 2026 19:41 GMT",
+ "fetched": "12 Nov 2026 21:41 GMT",
  "items": [
+  {
+   "title": "Rangers confirm Hampden ticketing plans for Premier Sports Cup final",
+   "link": "https://www.rangersreview.co.uk/news/26725521.rangers-vs-hibs-cup-final-ticketing-details-confirmed/",
+   "excerpt": "Rangers have confirmed they will receive an allocation of 20,725 tickets for next month's Premier Sports Cup final against Hibs at Hampden.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
+   "published": "Thu, 12 Nov 2026 19:59:00 +0000",
+   "published_uk": "Thu 12 Nov 2026, 19:59 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "The two key Rangers signings required to 'get over the line' in title race",
    "link": "https://www.rangersreview.co.uk/news/26724555.two-rangers-january-signings-tipped-boost-title-bid/",
@@ -173,15 +182,6 @@
    "published": "Tue, 10 Nov 2026 10:36:26 +0000",
    "published_uk": "Tue 10 Nov 2026, 10:36 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers icon Scott Arfield turns to Michael Beale after landing East Fife job",
-   "link": "https://www.rangersreview.co.uk/news/26713400.scott-arfield-turns-ex-rangers-manager-taking-east-fife-job/",
-   "excerpt": "Rangers icon Scott Arfield has revealed why he turned to ex-Ibrox manager Michael Beale after being appointed East Fife player-manager.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21692359/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 22:38:00 +0000",
-   "published_uk": "Mon 09 Nov 2026, 22:38 GMT",
-   "author": "Matthew Lindsay"
   }
  ]
 }
