@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Nov 2026 09:48 GMT",
+ "fetched": "12 Nov 2026 11:45 GMT",
  "items": [
   {
    "title": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
@@ -11,6 +11,15 @@
    "published": "Thu, 12 Nov 2026 07:22:28 +0000",
    "published_uk": "Thu 12 Nov 2026, 07:22 GMT",
    "author": "Blair Meikle"
+  },
+  {
+   "title": "From career fears to Rangers and Scotland: Inside James Penrice's remarkable rise",
+   "link": "https://www.rangersreview.co.uk/news/26721580.career-fears-rangers-scotland-inside-james-penrices-rise/",
+   "excerpt": "James Penrice revealed this week that he considered giving up full-time football in 2020 - so how did he become a Rangers and Scotland player?",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21705800/?type=app&htype=0",
+   "published": "Thu, 12 Nov 2026 07:09:00 +0000",
+   "published_uk": "Thu 12 Nov 2026, 07:09 GMT",
+   "author": "Matthew Lindsay"
   },
   {
    "title": "Philippe Clement's heartfelt Rangers message as he backs Derek McInnes",
@@ -173,15 +182,6 @@
    "published": "Mon, 09 Nov 2026 20:11:41 +0000",
    "published_uk": "Mon 09 Nov 2026, 20:11 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers executive leaves position amid Ibrox reshuffle",
-   "link": "https://www.rangersreview.co.uk/news/26713769.rangers-communications-chief-greig-mailer-steps-ibrox-role/",
-   "excerpt": "Greig Mailer has left his position as chief operations and communications officer at Rangers.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20578034/?type=app&htype=122",
-   "published": "Mon, 09 Nov 2026 18:10:37 +0000",
-   "published_uk": "Mon 09 Nov 2026, 18:10 GMT",
-   "author": "Christopher Jack"
   }
  ]
 }
