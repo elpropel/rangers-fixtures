@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Nov 2026 13:46 GMT",
+ "fetched": "12 Nov 2026 15:50 GMT",
  "items": [
+  {
+   "title": "The two key Rangers signings required to 'get over the line' in title race",
+   "link": "https://www.rangersreview.co.uk/news/26724555.two-rangers-january-signings-tipped-boost-title-bid/",
+   "excerpt": "Rangers have been urged to add two experienced players to their squad in January to help McInnes get his side over the line in the title race.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21710432/?type=app&htype=0",
+   "published": "Thu, 12 Nov 2026 15:31:00 +0000",
+   "published_uk": "Thu 12 Nov 2026, 15:31 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
    "link": "https://www.rangersreview.co.uk/news/26721874.rangers-youngster-forced-pull-u21s-squad-due-injury/",
@@ -173,15 +182,6 @@
    "published": "Mon, 09 Nov 2026 22:38:00 +0000",
    "published_uk": "Mon 09 Nov 2026, 22:38 GMT",
    "author": "Matthew Lindsay"
-  },
-  {
-   "title": "What the 'next evolution' of Rangers looks like this season",
-   "link": "https://www.rangersreview.co.uk/news/26713901.next-evolution-rangers-looks-like-season/",
-   "excerpt": "Alan Hutton reckons the next \"evolution\" of Rangers is the squad starts taking their chances and finishing games off quicker.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21693172/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 20:11:41 +0000",
-   "published_uk": "Mon 09 Nov 2026, 20:11 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
