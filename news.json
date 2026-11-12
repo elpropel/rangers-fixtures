@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "12 Nov 2026 07:49 GMT",
+ "fetched": "12 Nov 2026 09:48 GMT",
  "items": [
+  {
+   "title": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
+   "link": "https://www.rangersreview.co.uk/news/26721874.rangers-youngster-forced-pull-u21s-squad-due-injury/",
+   "excerpt": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21706379/?type=app&htype=64",
+   "published": "Thu, 12 Nov 2026 07:22:28 +0000",
+   "published_uk": "Thu 12 Nov 2026, 07:22 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Philippe Clement's heartfelt Rangers message as he backs Derek McInnes",
    "link": "https://www.rangersreview.co.uk/news/26721768.philippe-clement-delivers-rangers-verdict-derek-mcinnes/",
@@ -173,15 +182,6 @@
    "published": "Mon, 09 Nov 2026 18:10:37 +0000",
    "published_uk": "Mon 09 Nov 2026, 18:10 GMT",
    "author": "Christopher Jack"
-  },
-  {
-   "title": "Steven Gerrard recalls his Rangers ‘50 cameras’ warning Alfredo Morelos ignored",
-   "link": "https://www.rangersreview.co.uk/news/26713081.steven-gerrard-recalls-alfredo-morelos-rangers-warning/",
-   "excerpt": "Gerrard has revealed how he used to warn Morelos that “50 cameras” were watching his every move during their time together at Rangers.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20739492/?type=app&htype=0",
-   "published": "Mon, 09 Nov 2026 16:04:00 +0000",
-   "published_uk": "Mon 09 Nov 2026, 16:04 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
