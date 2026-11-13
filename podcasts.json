@@ -1,5 +1,5 @@
 {
- "fetched": "13 Nov 2026 17:49 GMT",
+ "fetched": "13 Nov 2026 19:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - CEO Questions",
+   "published": "2026-11-13T19:00:00+00:00",
+   "published_uk": "Fri 13 Nov 2026, 19:00 GMT",
+   "duration": "1h 32m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7116515873.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/8bcc81c0-df83-11f1-9563-f381396f8131/image/9d00b5fd4e7349150f17d6641e95165e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Assessing Rangers' season so far: 10 burning questions assessed",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3081622497.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Penrice, Curtis & Kelly in Scotland squad! Your questions answered",
-   "published": "2026-11-04T10:15:00+00:00",
-   "published_uk": "Wed 04 Nov 2026, 10:15 GMT",
-   "duration": "35 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7448196390.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
