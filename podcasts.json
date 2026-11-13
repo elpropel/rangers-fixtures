@@ -1,5 +1,5 @@
 {
- "fetched": "13 Nov 2026 11:46 GMT",
+ "fetched": "13 Nov 2026 13:51 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Assessing Rangers' season so far: 10 burning questions assessed",
+   "published": "2026-11-13T12:39:00+00:00",
+   "published_uk": "Fri 13 Nov 2026, 12:39 GMT",
+   "duration": "55 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5268433505.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "McInnes' key strength, Club 1872 get a rebrand & will James Penrice get Scotland nod?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7448196390.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "More To Come From Rangers?",
-   "published": "2026-11-04T06:45:00+00:00",
-   "published_uk": "Wed 04 Nov 2026, 06:45 GMT",
-   "duration": "34 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9188478119.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/ecad2ff8-d7d1-11f1-a6ec-4bea1ea149a7/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
