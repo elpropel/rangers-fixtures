@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "13 Nov 2026 09:48 GMT",
+ "fetched": "13 Nov 2026 11:46 GMT",
  "items": [
   {
    "title": "After what I saw from Rangers star, maybe the critics will lay off him",
@@ -10,6 +10,15 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21646953/?type=app&htype=113",
    "published": "Fri, 13 Nov 2026 08:20:45 +0000",
    "published_uk": "Fri 13 Nov 2026, 08:20 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "What Vanja Dragojevic has said about Rangers transfer decision amid lack of game time",
+   "link": "https://www.rangersreview.co.uk/news/26725669.dragojevic-said-rangers-move-amid-low-playing-time/",
+   "excerpt": "What Vanja Dragojevic has said about Rangers transfer decision amid lack of game time",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21712435/?type=app&htype=149",
+   "published": "Fri, 13 Nov 2026 07:06:35 +0000",
+   "published_uk": "Fri 13 Nov 2026, 07:06 GMT",
    "author": "Blair Meikle"
   },
   {
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21655551/?type=app&htype=1",
    "published": "Tue, 10 Nov 2026 13:49:20 +0000",
    "published_uk": "Tue 10 Nov 2026, 13:49 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Minsu Kim Rangers injury fears as Ibrox star pulls out of international duty",
-   "link": "https://www.rangersreview.co.uk/news/26715520.rangers-star-pulls-international-squad-sparking-injury-fears/",
-   "excerpt": "Minsu Kim Rangers injury fears as Ibrox star pulls out of international duty",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21695533/?type=app&htype=22",
-   "published": "Tue, 10 Nov 2026 12:20:39 +0000",
-   "published_uk": "Tue 10 Nov 2026, 12:20 GMT",
    "author": "Blair Meikle"
   }
  ]
