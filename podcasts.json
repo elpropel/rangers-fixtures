@@ -1,5 +1,5 @@
 {
- "fetched": "13 Nov 2026 21:50 GMT",
+ "fetched": "13 Nov 2026 23:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Podcast - Friday Night Live, Der ball v Del Ball",
+   "published": "2026-11-13T21:57:00+00:00",
+   "published_uk": "Fri 13 Nov 2026, 21:57 GMT",
+   "duration": "38 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7118610592.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Extra - CEO Questions",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6391555482.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/87375794-d89d-11f1-a23d-bbed8707a307/image/86a36713d12a5671d1286c00787ce60a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers midweek LIVE - Pressers, Penrice Curtis and Saints",
-   "published": "2026-11-04T21:04:00+00:00",
-   "published_uk": "Wed 04 Nov 2026, 21:04 GMT",
-   "duration": "1h 03m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3081622497.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
