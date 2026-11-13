@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "13 Nov 2026 07:50 GMT",
+ "fetched": "13 Nov 2026 09:48 GMT",
  "items": [
+  {
+   "title": "After what I saw from Rangers star, maybe the critics will lay off him",
+   "link": "https://www.rangersreview.co.uk/news/26725763.saw-rangers-star-maybe-critics-will-lay-off/",
+   "excerpt": "After what I saw from Rangers star, maybe the critics will lay off him",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21646953/?type=app&htype=113",
+   "published": "Fri, 13 Nov 2026 08:20:45 +0000",
+   "published_uk": "Fri 13 Nov 2026, 08:20 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Rangers confirm Hampden ticketing plans for Premier Sports Cup final",
    "link": "https://www.rangersreview.co.uk/news/26725521.rangers-vs-hibs-cup-final-ticketing-details-confirmed/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21695533/?type=app&htype=22",
    "published": "Tue, 10 Nov 2026 12:20:39 +0000",
    "published_uk": "Tue 10 Nov 2026, 12:20 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "I thought my career was done now I'm living Rangers dream and looking for more",
-   "link": "https://www.rangersreview.co.uk/news/26714817.career-looked-done-now-living-rangers-dream-come/",
-   "excerpt": "I thought my career was done now I'm living Rangers dream and looking for more",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21694551/?type=app&htype=0",
-   "published": "Tue, 10 Nov 2026 10:36:26 +0000",
-   "published_uk": "Tue 10 Nov 2026, 10:36 GMT",
    "author": "Blair Meikle"
   }
  ]
