@@ -1,5 +1,5 @@
 {
- "fetched": "14 Nov 2026 09:48 GMT",
+ "fetched": "14 Nov 2026 11:51 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "Heart and Health - On Grief and Grieving, with Cammy Bell",
+   "published": "2026-11-14T10:00:00+00:00",
+   "published_uk": "Sat 14 Nov 2026, 10:00 GMT",
+   "duration": "1h 30m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1155878766.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Podcast - Friday Night Live, Der ball v Del Ball",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2880145464.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/63f74b56-d90e-11f1-a489-239291d5831a/image/c8355462f2291fa69897f922696e012e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers U19s dominate Dynamo Kyiv to progress in Youth League",
-   "published": "2026-11-04T22:17:00+00:00",
-   "published_uk": "Wed 04 Nov 2026, 22:17 GMT",
-   "duration": "12 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6391555482.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/87375794-d89d-11f1-a23d-bbed8707a307/image/86a36713d12a5671d1286c00787ce60a.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
