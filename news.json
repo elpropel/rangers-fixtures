@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "14 Nov 2026 07:44 GMT",
+ "fetched": "14 Nov 2026 09:47 GMT",
  "items": [
+  {
+   "title": "Meet Calliste Brookshire, the Bostonian loving life at Rangers women",
+   "link": "https://www.rangersreview.co.uk/news/26729067.meet-calliste-brookshire-bostonian-loving-life-rangers-women/",
+   "excerpt": "Meet Calliste Brookshire, the Bostonian loving life at Rangers women",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21717875/?type=app&htype=0",
+   "published": "Sat, 14 Nov 2026 07:00:00 +0000",
+   "published_uk": "Sat 14 Nov 2026, 07:00 GMT",
+   "author": "Martin McMillan"
+  },
   {
    "title": "National team urged to give 'top notch' Rangers star a chance to shine",
    "link": "https://www.rangersreview.co.uk/news/26727213.national-team-urged-allow-top-notch-rangers-star-shine/",
@@ -173,15 +182,6 @@
    "published": "Tue, 10 Nov 2026 18:37:00 +0000",
    "published_uk": "Tue 10 Nov 2026, 18:37 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers star duo told ‘we need to see more’ as pressure to deliver builds",
-   "link": "https://www.rangersreview.co.uk/news/26717040.rangers-attackers-challenged-goals-assists-output/",
-   "excerpt": "Rangers’ attacking players have been challenged to add more goals to their game as McInnes’ side attempt to maintain their impressive run of form.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21698162/?type=app&htype=0",
-   "published": "Tue, 10 Nov 2026 16:07:00 +0000",
-   "published_uk": "Tue 10 Nov 2026, 16:07 GMT",
-   "author": "The Rangers Review"
   }
  ]
 }
