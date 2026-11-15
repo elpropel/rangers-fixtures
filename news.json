@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "15 Nov 2026 13:42 GMT",
+ "fetched": "15 Nov 2026 15:47 GMT",
  "items": [
+  {
+   "title": "Mikey Moore reveals early Rangers critics toughened him up for Spurs return",
+   "link": "https://www.rangersreview.co.uk/news/26730582.mikey-moore-reveals-early-rangers-critics-toughened/",
+   "excerpt": "Mikey Moore reckons the criticism he faced early on in his Rangers loan spell helped toughen him up mentally ahead of his return to Tottenham Hotspur.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/20313454/?type=app&htype=0",
+   "published": "Sun, 15 Nov 2026 14:50:23 +0000",
+   "published_uk": "Sun 15 Nov 2026, 14:50 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Ally McCoist refuses to rule out return to manager's dugout after Rangers stint",
    "link": "https://www.rangersreview.co.uk/news/26730425.rangers-icon-ally-mccoist-refuses-rule-management-return/",
@@ -173,15 +182,6 @@
    "published": "Wed, 11 Nov 2026 08:37:15 +0000",
    "published_uk": "Wed 11 Nov 2026, 08:37 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Mikey Moore on how close Rangers stay came and chances of return in future",
-   "link": "https://www.rangersreview.co.uk/news/26718106.moore-close-rangers-stay-came-chances-future-return/",
-   "excerpt": "Mikey Moore on how close Rangers stay came and chances of return in future",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21414425/?type=app&htype=239",
-   "published": "Wed, 11 Nov 2026 07:36:06 +0000",
-   "published_uk": "Wed 11 Nov 2026, 07:36 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
