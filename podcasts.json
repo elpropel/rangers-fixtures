@@ -1,5 +1,5 @@
 {
- "fetched": "15 Nov 2026 19:51 GMT",
+ "fetched": "15 Nov 2026 21:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Sunday Show - Player and Goal of the Season..... So far!",
+   "published": "2026-11-15T21:22:00+00:00",
+   "published_uk": "Sun 15 Nov 2026, 21:22 GMT",
+   "duration": "52 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7984254707.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Do We Trust This Rangers Team?",
+   "published": "2026-11-15T20:03:00+00:00",
+   "published_uk": "Sun 15 Nov 2026, 20:03 GMT",
+   "duration": "27 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9556523002.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/92701e6c-e12f-11f1-a0fc-27db3e5a99b9/image/b976ac6afef6f9009d11c779edde9a98.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "Heart and Health - On Grief and Grieving, with Cammy Bell",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5315495982.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Need To Win In Paisley | Match Preview!",
-   "published": "2026-11-05T13:48:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 13:48 GMT",
-   "duration": "31 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7018269347.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/8dc9314a-d91f-11f1-832a-afff8e23825d/image/0dd873f1b544682fa88e60573c5553d4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes Wants Penrice Permanent | Bouanani and Curtis futures",
-   "published": "2026-11-05T11:45:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 11:45 GMT",
-   "duration": "40 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2880145464.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/63f74b56-d90e-11f1-a489-239291d5831a/image/c8355462f2291fa69897f922696e012e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
