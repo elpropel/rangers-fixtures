@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "15 Nov 2026 11:42 GMT",
+ "fetched": "15 Nov 2026 13:42 GMT",
  "items": [
+  {
+   "title": "Ally McCoist refuses to rule out return to manager's dugout after Rangers stint",
+   "link": "https://www.rangersreview.co.uk/news/26730425.rangers-icon-ally-mccoist-refuses-rule-management-return/",
+   "excerpt": "Ally McCoist has refused to close the door on management despite enjoying his time in punditry.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21719816/?type=app&htype=0",
+   "published": "Sun, 15 Nov 2026 12:51:55 +0000",
+   "published_uk": "Sun 15 Nov 2026, 12:51 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Meet Calliste Brookshire, the Bostonian loving life at Rangers women",
    "link": "https://www.rangersreview.co.uk/news/26729067.meet-calliste-brookshire-bostonian-loving-life-rangers-women/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21414425/?type=app&htype=239",
    "published": "Wed, 11 Nov 2026 07:36:06 +0000",
    "published_uk": "Wed 11 Nov 2026, 07:36 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers handed ‘momentum over Celtic’ verdict as title door swings open",
-   "link": "https://www.rangersreview.co.uk/news/26717841.alan-hutton-backs-rangers-overtake-celtic-title-race/",
-   "excerpt": "Hutton believes Rangers now have the momentum over Celtic in the title race and insists the opportunity is there for them to take advantage of their struggles.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20351654/?type=app&htype=0",
-   "published": "Tue, 10 Nov 2026 18:37:00 +0000",
-   "published_uk": "Tue 10 Nov 2026, 18:37 GMT",
    "author": "Stewart Wilson"
   }
  ]
