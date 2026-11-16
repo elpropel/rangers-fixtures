@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "16 Nov 2026 17:45 GMT",
+ "fetched": "16 Nov 2026 19:46 GMT",
  "items": [
+  {
+   "title": "Why Graeme Souness plumped for Frank Lampard in Rangers manager hunt",
+   "link": "https://www.rangersreview.co.uk/news/26735051.graeme-souness-plumped-frank-lampard-rangers-boss-hunt/",
+   "excerpt": "Graeme Souness has revealed the reasons why he plumped for Frank Lampard as Rangers manager back before the club hired Philippe Clement.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21726117/?type=app&htype=0",
+   "published": "Mon, 16 Nov 2026 18:30:33 +0000",
+   "published_uk": "Mon 16 Nov 2026, 18:30 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Mauricio Pochettino targets ex-Rangers star for Manchester United switch",
    "link": "https://www.rangersreview.co.uk/news/26734464.mauricio-pochettino-targets-ex-rangers-star-manchester-united/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21702889/?type=app&htype=175",
    "published": "Wed, 11 Nov 2026 13:26:42 +0000",
    "published_uk": "Wed 11 Nov 2026, 13:26 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Clement in 'wrong time' admission over Rangers spell and drops hint over US owners",
-   "link": "https://www.rangersreview.co.uk/news/26718761.clements-admission-rangers-spell-hint-us-owners/",
-   "excerpt": "Clement in 'wrong time' admission over Rangers spell and drops hint over US owners",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21700927/?type=app&htype=42",
-   "published": "Wed, 11 Nov 2026 10:22:36 +0000",
-   "published_uk": "Wed 11 Nov 2026, 10:22 GMT",
    "author": "Blair Meikle"
   }
  ]
