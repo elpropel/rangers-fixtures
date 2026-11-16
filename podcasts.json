@@ -1,5 +1,5 @@
 {
- "fetched": "16 Nov 2026 19:46 GMT",
+ "fetched": "16 Nov 2026 21:49 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "Members Special: Your Questions Answered | Club at 22",
+   "published": "2026-11-16T20:10:00+00:00",
+   "published_uk": "Mon 16 Nov 2026, 20:10 GMT",
+   "duration": "1h 04m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3107902233.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/d1401e60-e1f9-11f1-a838-5bb0d9ed3650/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night podcast LIVE",
+   "published": "2026-11-16T19:54:00+00:00",
+   "published_uk": "Mon 16 Nov 2026, 19:54 GMT",
+   "duration": "48 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7460325126.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Which Rangers Fringe Players Should Get a Chance?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9426471290.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Who starts against St Mirren? | Curtis addresses contract situation",
-   "published": "2026-11-06T10:54:00+00:00",
-   "published_uk": "Fri 06 Nov 2026, 10:54 GMT",
-   "duration": "1h 00m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4338438595.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/640589ba-d9d0-11f1-949b-53f8083f61f9/image/4a8f95498f4eae4fd8fa3a852c727996.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - Step By Step To Saints",
-   "published": "2026-11-05T19:00:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 19:00 GMT",
-   "duration": "54 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9392845186.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/fd71eb20-d93f-11f1-8a57-4b22bb9afc82/image/d48ecbde46d0a9e8e12d24a1ba1e7a1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
