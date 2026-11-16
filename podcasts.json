@@ -1,5 +1,5 @@
 {
- "fetched": "16 Nov 2026 09:44 GMT",
+ "fetched": "16 Nov 2026 11:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Which Rangers Fringe Players Should Get a Chance?",
+   "published": "2026-11-16T10:39:00+00:00",
+   "published_uk": "Mon 16 Nov 2026, 10:39 GMT",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3884064292.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/0348e1c6-e1aa-11f1-a877-fb81050b2dcf/image/1957a87c931233f1609f428c4cbc5d28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Sunday Show - Player and Goal of the Season..... So far!",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9392845186.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/fd71eb20-d93f-11f1-8a57-4b22bb9afc82/image/d48ecbde46d0a9e8e12d24a1ba1e7a1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers podcast Special - Meeting Phil Campion",
-   "published": "2026-11-05T19:00:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 19:00 GMT",
-   "duration": "58 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5315495982.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
