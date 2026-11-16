@@ -1,6 +1,13 @@
 {
- "fetched": "16 Nov 2026 15:47 GMT",
+ "fetched": "16 Nov 2026 17:45 GMT",
  "shows": [
+  {
+   "name": "Heart and Hand",
+   "feed": "https://feeds.megaphone.fm/COMG9286359584",
+   "apple": "https://podcasts.apple.com/gb/podcast/heart-and-hand-the-rangers-podcast/id385998721",
+   "publisher": "Heart and Hand",
+   "artwork": "https://megaphone.imgix.net/podcasts/0eea3758-1c7b-11ed-975b-db8af4cb427e/image/H_H-Badge.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
   {
    "name": "Rangers Review Podcast",
    "feed": "https://feeds.megaphone.fm/COMG2031496775",
@@ -84,6 +91,17 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7118610592.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - CEO Questions",
+   "published": "2026-11-13T19:00:00+00:00",
+   "published_uk": "Fri 13 Nov 2026, 19:00 GMT",
+   "duration": "1h 32m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7116515873.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/8bcc81c0-df83-11f1-9563-f381396f8131/image/9d00b5fd4e7349150f17d6641e95165e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -186,6 +204,17 @@
    "link": null
   },
   {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand - Successful at Saints",
+   "published": "2026-11-09T19:00:00+00:00",
+   "published_uk": "Mon 09 Nov 2026, 19:00 GMT",
+   "duration": "55 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1955339620.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/49c0779c-dc67-11f1-a854-ebe8fea5e4ef/image/5722754969d6b068ba1a4dcbfdfc9df8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Rangers Review Podcast",
    "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
    "published": "2026-11-09T10:47:00+00:00",
@@ -274,36 +303,14 @@
    "link": null
   },
   {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers podcast Special - Meeting Phil Campion",
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Step By Step To Saints",
    "published": "2026-11-05T19:00:00+00:00",
    "published_uk": "Thu 05 Nov 2026, 19:00 GMT",
-   "duration": "58 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5315495982.mp3",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9392845186.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Need To Win In Paisley | Match Preview!",
-   "published": "2026-11-05T13:48:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 13:48 GMT",
-   "duration": "31 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7018269347.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/8dc9314a-d91f-11f1-832a-afff8e23825d/image/0dd873f1b544682fa88e60573c5553d4.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes Wants Penrice Permanent | Bouanani and Curtis futures",
-   "published": "2026-11-05T11:45:00+00:00",
-   "published_uk": "Thu 05 Nov 2026, 11:45 GMT",
-   "duration": "40 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2880145464.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/63f74b56-d90e-11f1-a489-239291d5831a/image/c8355462f2291fa69897f922696e012e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone.imgix.net/podcasts/fd71eb20-d93f-11f1-8a57-4b22bb9afc82/image/d48ecbde46d0a9e8e12d24a1ba1e7a1d.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
