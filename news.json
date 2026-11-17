@@ -1,8 +1,26 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Nov 2026 19:48 GMT",
+ "fetched": "17 Nov 2026 21:48 GMT",
  "items": [
+  {
+   "title": "Rangers Hall of Famer Ralph Brand passes away aged 89",
+   "link": "https://www.rangersreview.co.uk/news/26739154.rangers-hall-famer-incredible-scoring-record-passes-away/",
+   "excerpt": "Rangers Hall of Famer Ralph Brand passes away aged 89",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21731692/?type=app&htype=0",
+   "published": "Tue, 17 Nov 2026 20:24:46 +0000",
+   "published_uk": "Tue 17 Nov 2026, 20:24 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "Rangers' Vanja Dragojevic picks up second red card of international break",
+   "link": "https://www.rangersreview.co.uk/news/26739135.rangers-star-picks-second-red-card-international-break/",
+   "excerpt": "Rangers' Vanja Dragojevic picks up second red card of international break",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21731649/?type=app&htype=182",
+   "published": "Tue, 17 Nov 2026 20:02:38 +0000",
+   "published_uk": "Tue 17 Nov 2026, 20:02 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Derek McInnes’ Rangers blueprint takes shape as key tactical trade-off emerges",
    "link": "https://www.rangersreview.co.uk/news/26737994.mcinnes-rangers-blueprint-key-tactical-trade-off-emerges/",
@@ -164,24 +182,6 @@
    "published": "Wed, 11 Nov 2026 19:09:00 +0000",
    "published_uk": "Wed 11 Nov 2026, 19:09 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ex-Rangers boss Michael Beale 'resigns' as Zulte Waregem head coach",
-   "link": "https://www.rangersreview.co.uk/news/26721483.former-rangers-boss-michael-beale-resigns-role/",
-   "excerpt": "Former Rangers boss Beale has quit Belgian side Zulte Waregem following a reported fallout with the club's hierarchy.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21705562/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 17:41:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 17:41 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers handed Minsu Kim injury update as return timeline emerges",
-   "link": "https://www.rangersreview.co.uk/news/26720739.minsu-kims-rangers-return-timeline-emerges-amid-injury-fear/",
-   "excerpt": "Rangers have been handed a welcome injury boost over Minsu after fears emerged over the winger's fitness during the international break.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21704370/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 15:52:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 15:52 GMT",
-   "author": "The Rangers Review"
   }
  ]
 }
