@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "17 Nov 2026 15:46 GMT",
+ "fetched": "17 Nov 2026 17:44 GMT",
  "items": [
   {
    "title": "Derek McInnes’ Rangers blueprint takes shape as key tactical trade-off emerges",
@@ -10,7 +10,16 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21730147/?type=app&htype=0",
    "published": "Tue, 17 Nov 2026 15:19:01 +0000",
    "published_uk": "Tue 17 Nov 2026, 15:19 GMT",
-   "author": "Author Unknown"
+   "author": "The Rangers Review"
+  },
+  {
+   "title": "Get a year of the Rangers Review for only £12 with our Black Friday deal",
+   "link": "https://www.rangersreview.co.uk/news/26731725.black-friday-rangers-review-year-subscription-cut-12/",
+   "excerpt": "Get a full year of Rangers Review for £12 in our Black Friday offer, with exclusive Rangers news, analysis and interviews.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21721374/?type=app&htype=0",
+   "published": "Tue, 17 Nov 2026 06:00:00 +0000",
+   "published_uk": "Tue 17 Nov 2026, 06:00 GMT",
+   "author": "Joshua Barrie"
   },
   {
    "title": "Why Graeme Souness plumped for Frank Lampard in Rangers manager hunt",
@@ -173,15 +182,6 @@
    "published": "Wed, 11 Nov 2026 15:52:00 +0000",
    "published_uk": "Wed 11 Nov 2026, 15:52 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Club 1872 unveil new name and brand as part of Rangers relations and Ibrox upgrades",
-   "link": "https://www.rangersreview.co.uk/news/26719745.club-1872-unveil-new-name-brand-part-ibrox-upgrades-projects/",
-   "excerpt": "Rangers shareholders Club 1872 have unveiled a new name and brand as they seek member approval for further investment in Ibrox heritage projects.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21702905/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 13:30:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 13:30 GMT",
-   "author": "Christopher Jack"
   }
  ]
 }
