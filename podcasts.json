@@ -1,5 +1,5 @@
 {
- "fetched": "17 Nov 2026 19:48 GMT",
+ "fetched": "17 Nov 2026 21:48 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
+   "published": "2026-11-17T21:31:00+00:00",
+   "published_uk": "Tue 17 Nov 2026, 21:31 GMT",
+   "duration": "27 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8864664335.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-11-17T20:55:00+00:00",
+   "published_uk": "Tue 17 Nov 2026, 20:55 GMT",
+   "duration": "1h 23m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5946541767.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "The McInnes Rangers DNA — But Is This 4-4-2 Built to Win the League?",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2437247135.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/76ff7020-db11-11f1-ae09-db085b39d7a7/image/0676e48dd0cc9a20260ba6bf6e2cd721.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads instant match reaction - Gers grab the points in Paisley",
-   "published": "2026-11-07T23:19:00+00:00",
-   "published_uk": "Sat 07 Nov 2026, 23:19 GMT",
-   "duration": "38 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5462811795.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "St Mirren vs Rangers | Match Reaction | Scottish Premiership",
-   "published": "2026-11-07T22:47:00+00:00",
-   "published_uk": "Sat 07 Nov 2026, 22:47 GMT",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3908391237.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/35824852-dafd-11f1-8784-a3c293b4a93a/image/d76e9ec5373bb3db3017a45e723d33e3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
