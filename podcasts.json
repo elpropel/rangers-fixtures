@@ -1,5 +1,5 @@
 {
- "fetched": "17 Nov 2026 09:50 GMT",
+ "fetched": "17 Nov 2026 11:43 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "The McInnes Rangers DNA — But Is This 4-4-2 Built to Win the League?",
+   "published": "2026-11-17T10:24:00+00:00",
+   "published_uk": "Tue 17 Nov 2026, 10:24 GMT",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9317425324.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1b529ace-e271-11f1-9f82-87ac44d31b21/image/dc56006a9e43b88b115df11e9b63ac1b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "Members Special: Your Questions Answered | Club at 22",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3908391237.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/35824852-dafd-11f1-8784-a3c293b4a93a/image/d76e9ec5373bb3db3017a45e723d33e3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Friday night  LIVE - Preview and review show",
-   "published": "2026-11-06T21:48:00+00:00",
-   "published_uk": "Fri 06 Nov 2026, 21:48 GMT",
-   "duration": "1h 01m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9426471290.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
