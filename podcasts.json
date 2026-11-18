@@ -1,5 +1,5 @@
 {
- "fetched": "18 Nov 2026 15:48 GMT",
+ "fetched": "18 Nov 2026 17:52 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -39,6 +39,17 @@
  ],
  "episodes": [
   {
+   "show": "This Is Ibrox",
+   "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
+   "published": "2026-11-18T16:08:00+00:00",
+   "published_uk": "Wed 18 Nov 2026, 16:08 GMT",
+   "duration": "37 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8864664335.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Rangers Review Podcast",
    "title": "Rangers Face January Dilemma: Who Could Leave? | Ibrox Legend Passes Away",
    "published": "2026-11-18T10:54:00+00:00",
@@ -47,17 +58,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3369413800.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
-   "published": "2026-11-17T21:31:00+00:00",
-   "published_uk": "Tue 17 Nov 2026, 21:31 GMT",
-   "duration": "27 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8864664335.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
