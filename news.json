@@ -1,7 +1,7 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "18 Nov 2026 17:52 GMT",
+ "fetched": "18 Nov 2026 19:51 GMT",
  "items": [
   {
    "title": "Rangers flop Russell Martin touted for return to former club as vacancy opens up",
@@ -10,6 +10,15 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21735660/?type=app&htype=0",
    "published": "Wed, 18 Nov 2026 16:19:30 +0000",
    "published_uk": "Wed 18 Nov 2026, 16:19 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "What Tottenham plan to do with Mikey Moore after slow start at FC Koln",
+   "link": "https://www.rangersreview.co.uk/news/26742023.tottenhams-plan-mikey-moore-slow-start-fc-koln/",
+   "excerpt": "What Tottenham plan to do with Mikey Moore after slow start at FC Koln",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21114360/?type=app&htype=99",
+   "published": "Wed, 18 Nov 2026 15:42:50 +0000",
+   "published_uk": "Wed 18 Nov 2026, 15:42 GMT",
    "author": "Blair Meikle"
   },
   {
@@ -173,15 +182,6 @@
    "published": "Thu, 12 Nov 2026 07:22:28 +0000",
    "published_uk": "Thu 12 Nov 2026, 07:22 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "From career fears to Rangers and Scotland: Inside James Penrice's remarkable rise",
-   "link": "https://www.rangersreview.co.uk/news/26721580.career-fears-rangers-scotland-inside-james-penrices-rise/",
-   "excerpt": "James Penrice revealed this week that he considered giving up full-time football in 2020 - so how did he become a Rangers and Scotland player?",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21705800/?type=app&htype=0",
-   "published": "Thu, 12 Nov 2026 07:09:00 +0000",
-   "published_uk": "Thu 12 Nov 2026, 07:09 GMT",
-   "author": "Matthew Lindsay"
   }
  ]
 }
