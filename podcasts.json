@@ -1,5 +1,5 @@
 {
- "fetched": "18 Nov 2026 09:46 GMT",
+ "fetched": "18 Nov 2026 11:48 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers Face January Dilemma: Who Could Leave? | Ibrox Legend Passes Away",
+   "published": "2026-11-18T10:54:00+00:00",
+   "published_uk": "Wed 18 Nov 2026, 10:54 GMT",
+   "duration": "1h 00m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3369413800.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5036231236.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "'Moving in the right direction' - St Mirren 0-2 Rangers reaction",
-   "published": "2026-11-08T01:12:00+00:00",
-   "published_uk": "Sun 08 Nov 2026, 01:12 GMT",
-   "duration": "15 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2437247135.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/76ff7020-db11-11f1-ae09-db085b39d7a7/image/0676e48dd0cc9a20260ba6bf6e2cd721.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
