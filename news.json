@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "18 Nov 2026 15:47 GMT",
+ "fetched": "18 Nov 2026 17:52 GMT",
  "items": [
+  {
+   "title": "Rangers flop Russell Martin touted for return to former club as vacancy opens up",
+   "link": "https://www.rangersreview.co.uk/news/26742298.rangers-flop-russell-martin-touted-return-former-club/",
+   "excerpt": "Rangers flop Russell Martin has been listed among the runners and riders for the Swansea job.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21735660/?type=app&htype=0",
+   "published": "Wed, 18 Nov 2026 16:19:30 +0000",
+   "published_uk": "Wed 18 Nov 2026, 16:19 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Oscar Cortes Rangers comeback intrigue as January transfer dilemma arrives",
    "link": "https://www.rangersreview.co.uk/news/26741018.cortes-rangers-comeback-intrigue-january-transfer-dilemma-arrives/",
@@ -173,15 +182,6 @@
    "published": "Thu, 12 Nov 2026 07:09:00 +0000",
    "published_uk": "Thu 12 Nov 2026, 07:09 GMT",
    "author": "Matthew Lindsay"
-  },
-  {
-   "title": "Philippe Clement's heartfelt Rangers message as he backs Derek McInnes",
-   "link": "https://www.rangersreview.co.uk/news/26721768.philippe-clement-delivers-rangers-verdict-derek-mcinnes/",
-   "excerpt": "Former Rangers boss Clement has backed McInnes to bring silverware back to Ibrox as he declared himself a supporter of the club for life.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20409656/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 23:03:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 23:03 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
