@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "18 Nov 2026 09:46 GMT",
+ "fetched": "18 Nov 2026 11:48 GMT",
  "items": [
+  {
+   "title": "John ‘Bomber’ Brown lands key role with Rangers Fans Heritage Trust",
+   "link": "https://www.rangersreview.co.uk/news/26740477.john-bomber-brown-lands-key-role-rangers-fans-heritage-trust/",
+   "excerpt": "Rangers 9-in-a-Row hero John ‘Bomber’ Brown has joined the board of the newly rebranded Rangers Fans Heritage Trust.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21733236/?type=app&htype=0",
+   "published": "Wed, 18 Nov 2026 11:31:38 +0000",
+   "published_uk": "Wed 18 Nov 2026, 11:31 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Rangers Hall of Famer Ralph Brand passes away aged 89",
    "link": "https://www.rangersreview.co.uk/news/26739154.rangers-hall-famer-incredible-scoring-record-passes-away/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20672789/?type=app&htype=0",
    "published": "Wed, 11 Nov 2026 20:55:00 +0000",
    "published_uk": "Wed 11 Nov 2026, 20:55 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Former Rangers favourite seals fresh start with Scottish club",
-   "link": "https://www.rangersreview.co.uk/news/26721665.former-rangers-winger-barrie-mckay-seals-hamilton-move/",
-   "excerpt": "Former Rangers winger McKay has secured a fresh start in Scottish football after agreeing a short-term deal, subject to SFA approval, with Hamilton Academical.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20540247/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 19:09:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 19:09 GMT",
    "author": "Stewart Wilson"
   }
  ]
