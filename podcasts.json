@@ -1,5 +1,5 @@
 {
- "fetched": "18 Nov 2026 19:51 GMT",
+ "fetched": "18 Nov 2026 21:45 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers midweek podcast LIVE",
+   "published": "2026-11-18T19:58:00+00:00",
+   "published_uk": "Wed 18 Nov 2026, 19:58 GMT",
+   "duration": "53 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6810657933.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2307833959.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/b6c58ccc-dbba-11f1-a0aa-0bf4ce429a79/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Podcast - Sunday Show Live, Rangers win in Paisley",
-   "published": "2026-11-08T21:25:00+00:00",
-   "published_uk": "Sun 08 Nov 2026, 21:25 GMT",
-   "duration": "1h 07m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5036231236.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
