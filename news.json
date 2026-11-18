@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "18 Nov 2026 11:48 GMT",
+ "fetched": "18 Nov 2026 13:42 GMT",
  "items": [
+  {
+   "title": "Oscar Cortes Rangers comeback intrigue as January transfer dilemma arrives",
+   "link": "https://www.rangersreview.co.uk/news/26741018.cortes-rangers-comeback-intrigue-january-transfer-dilemma-arrives/",
+   "excerpt": "January is beginning to loom large for Rangers as Derek McInnes prepares to make some potentially difficult calls over his Ibrox squad.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21734018/?type=app&htype=0",
+   "published": "Wed, 18 Nov 2026 13:03:17 +0000",
+   "published_uk": "Wed 18 Nov 2026, 13:03 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "John ‘Bomber’ Brown lands key role with Rangers Fans Heritage Trust",
    "link": "https://www.rangersreview.co.uk/news/26740477.john-bomber-brown-lands-key-role-rangers-fans-heritage-trust/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20409656/?type=app&htype=0",
    "published": "Wed, 11 Nov 2026 23:03:00 +0000",
    "published_uk": "Wed 11 Nov 2026, 23:03 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers hero reveals X-rated Dick Advocaat dig that still makes him laugh",
-   "link": "https://www.rangersreview.co.uk/news/26721734.ronald-de-boer-reveals-dick-advocaats-x-rated-rangers-dig/",
-   "excerpt": "De Boer has revealed the hilarious way former Rangers boss Advocaat still reminds him of his dramatic Ibrox transformation under McLeish.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20672789/?type=app&htype=0",
-   "published": "Wed, 11 Nov 2026 20:55:00 +0000",
-   "published_uk": "Wed 11 Nov 2026, 20:55 GMT",
    "author": "Stewart Wilson"
   }
  ]
