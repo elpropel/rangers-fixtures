@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Nov 2026 11:44 GMT",
+ "fetched": "19 Nov 2026 13:44 GMT",
  "items": [
+  {
+   "title": "Vanja Dragojevic's double red drama and Rangers' new best XI named",
+   "link": "https://www.rangersreview.co.uk/news/26744946.vanja-dragojevics-double-red-drama-rangers-new-best-xi-named/",
+   "excerpt": "Vanja Dragojevic suffered a nightmare international break after being sent off twice in successive games for Serbia.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21739175/?type=app&htype=0",
+   "published": "Thu, 19 Nov 2026 13:20:33 +0000",
+   "published_uk": "Thu 19 Nov 2026, 13:20 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "Cyriel Dessers reveals the Rangers regret that still burns as title dream lives on",
    "link": "https://www.rangersreview.co.uk/news/26744144.dessers-reveals-rangers-regret-burns-title-dream-lives/",
@@ -173,15 +182,6 @@
    "published": "Fri, 13 Nov 2026 07:06:35 +0000",
    "published_uk": "Fri 13 Nov 2026, 07:06 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Rangers confirm Hampden ticketing plans for Premier Sports Cup final",
-   "link": "https://www.rangersreview.co.uk/news/26725521.rangers-vs-hibs-cup-final-ticketing-details-confirmed/",
-   "excerpt": "Rangers have confirmed they will receive an allocation of 20,725 tickets for next month's Premier Sports Cup final against Hibs at Hampden.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20705366/?type=app&htype=0",
-   "published": "Thu, 12 Nov 2026 19:59:00 +0000",
-   "published_uk": "Thu 12 Nov 2026, 19:59 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
