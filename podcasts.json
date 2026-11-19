@@ -1,5 +1,5 @@
 {
- "fetched": "19 Nov 2026 09:44 GMT",
+ "fetched": "19 Nov 2026 11:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers International Report Card | The One Change McInnes Might Make at Motherwell",
+   "published": "2026-11-19T10:22:00+00:00",
+   "published_uk": "Thu 19 Nov 2026, 10:22 GMT",
+   "duration": "37 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7076975722.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone.imgix.net/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers midweek podcast LIVE",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7639191875.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/ffe2f118-dc2a-11f1-ae51-57cf9f724485/image/a43bdc41bfc4454120b6b2c537b32e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Run Continues, But For How Long?",
-   "published": "2026-11-09T07:00:00+00:00",
-   "published_uk": "Mon 09 Nov 2026, 07:00 GMT",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2307833959.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/b6c58ccc-dbba-11f1-a0aa-0bf4ce429a79/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
