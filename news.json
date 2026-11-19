@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "19 Nov 2026 07:43 GMT",
+ "fetched": "19 Nov 2026 09:44 GMT",
  "items": [
+  {
+   "title": "Michael Beale sends emotional message as ex-Rangers boss breaks silence",
+   "link": "https://www.rangersreview.co.uk/news/26743420.beale-sends-emotional-message-ex-rangers-boss-breaks-silence/",
+   "excerpt": "Former Rangers boss Michael Beale has delivered a powerful farewell message after bringing the curtain down on his time at Zulte Waregem.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21649715/?type=app&htype=141",
+   "published": "Thu, 19 Nov 2026 09:38:22 +0000",
+   "published_uk": "Thu 19 Nov 2026, 09:38 GMT",
+   "author": "Author Unknown"
+  },
   {
    "title": "Rangers flop Russell Martin touted for return to former club as vacancy opens up",
    "link": "https://www.rangersreview.co.uk/news/26742298.rangers-flop-russell-martin-touted-return-former-club/",
@@ -173,15 +182,6 @@
    "published": "Thu, 12 Nov 2026 15:31:00 +0000",
    "published_uk": "Thu 12 Nov 2026, 15:31 GMT",
    "author": "The Rangers Review"
-  },
-  {
-   "title": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
-   "link": "https://www.rangersreview.co.uk/news/26721874.rangers-youngster-forced-pull-u21s-squad-due-injury/",
-   "excerpt": "Rangers youngster forced to pull out of Scotland U21s squad due to injury",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21706379/?type=app&htype=64",
-   "published": "Thu, 12 Nov 2026 07:22:28 +0000",
-   "published_uk": "Thu 12 Nov 2026, 07:22 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
