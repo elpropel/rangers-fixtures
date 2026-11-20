@@ -1,5 +1,5 @@
 {
- "fetched": "20 Nov 2026 13:41 GMT",
+ "fetched": "20 Nov 2026 15:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,17 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "“Rangers is in my DNA” - David Sneddon on Fame Academy, Songwriting for the Stars, and Ibrox Love",
+   "published": "2026-11-20T15:00:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 15:00 GMT",
+   "duration": "1h 16m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1423768712.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/d348e2e2-e419-11f1-99d8-1347f8e59215/image/4d80f8ee3a3f33fc05ff4287c500f2c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "PART 2: Can Rangers Go On A Winning Run?",
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3308224240.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/00153464-dd4a-11f1-9fc0-175a3eba1537/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Boyd wants 'ruthless' striker at Ibrox & Key Rangers executive departs: What does it mean?",
-   "published": "2026-11-10T10:44:00+00:00",
-   "published_uk": "Tue 10 Nov 2026, 10:44 GMT",
-   "duration": "35 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970504072.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
