@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "20 Nov 2026 21:41 GMT",
+ "fetched": "20 Nov 2026 23:51 GMT",
  "items": [
+  {
+   "title": "Ex-Rangers defender retires from football and already lands coaching gig",
+   "link": "https://www.rangersreview.co.uk/news/26750285.ex-rangers-defender-retires-quickly-lands-coaching-gig/",
+   "excerpt": "Ex-Rangers defender retires from football and already lands coaching gig",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21746802/?type=app&htype=186",
+   "published": "Fri, 20 Nov 2026 22:03:57 +0000",
+   "published_uk": "Fri 20 Nov 2026, 22:03 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
    "link": "https://www.rangersreview.co.uk/news/26750251.watch-moore-opens-koln-account-style-goal-bayern/",
@@ -11,6 +20,15 @@
    "published": "Fri, 20 Nov 2026 20:12:55 +0000",
    "published_uk": "Fri 20 Nov 2026, 20:12 GMT",
    "author": "Blair Meikle"
+  },
+  {
+   "title": "Moment Chermiti knew Rangers injury was serious as striker provides rehab update",
+   "link": "https://www.rangersreview.co.uk/news/26750071.moment-chermiti-knew-injury-serious-provides-update/",
+   "excerpt": "Moment Chermiti knew Rangers injury was serious as striker provides rehab update",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21746452/?type=app&htype=48",
+   "published": "Fri, 20 Nov 2026 17:31:54 +0000",
+   "published_uk": "Fri 20 Nov 2026, 17:31 GMT",
+   "author": "Stewart Wilson"
   },
   {
    "title": "Rangers 'winner' question sparks passionate Derek McInnes tactics debate",
@@ -164,24 +182,6 @@
    "published": "Sun, 15 Nov 2026 12:51:55 +0000",
    "published_uk": "Sun 15 Nov 2026, 12:51 GMT",
    "author": "Stewart Wilson"
-  },
-  {
-   "title": "Meet Calliste Brookshire, the Bostonian loving life at Rangers women",
-   "link": "https://www.rangersreview.co.uk/news/26729067.meet-calliste-brookshire-bostonian-loving-life-rangers-women/",
-   "excerpt": "Meet Calliste Brookshire, the Bostonian loving life at Rangers women",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21717875/?type=app&htype=0",
-   "published": "Sat, 14 Nov 2026 07:00:00 +0000",
-   "published_uk": "Sat 14 Nov 2026, 07:00 GMT",
-   "author": "Martin McMillan"
-  },
-  {
-   "title": "National team urged to give 'top notch' Rangers star a chance to shine",
-   "link": "https://www.rangersreview.co.uk/news/26727213.national-team-urged-allow-top-notch-rangers-star-shine/",
-   "excerpt": "National team urged to give 'top notch' Rangers star a chance to shine",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21714882/?type=app&htype=150",
-   "published": "Fri, 13 Nov 2026 13:18:22 +0000",
-   "published_uk": "Fri 13 Nov 2026, 13:18 GMT",
-   "author": "Mark Walker"
   }
  ]
 }
