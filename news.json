@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "20 Nov 2026 13:41 GMT",
+ "fetched": "20 Nov 2026 15:50 GMT",
  "items": [
+  {
+   "title": "Rangers 'winner' question sparks passionate Derek McInnes tactics debate",
+   "link": "https://www.rangersreview.co.uk/news/26748607.rangers-winner-question-sparks-passionate-mcinnes-tactics-debate/",
+   "excerpt": "A lively Rangers squad debate broke out as Jonny McFarlane argued Derek McInnes still needs more proven winners to strengthen his title challenge.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21744190/?type=app&htype=0",
+   "published": "Fri, 20 Nov 2026 13:43:30 +0000",
+   "published_uk": "Fri 20 Nov 2026, 13:43 GMT",
+   "author": "The Rangers Review"
+  },
   {
    "title": "Vanja Dragojevic's double red drama and Rangers' new best XI named",
    "link": "https://www.rangersreview.co.uk/news/26744946.vanja-dragojevics-double-red-drama-rangers-new-best-xi-named/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21646953/?type=app&htype=113",
    "published": "Fri, 13 Nov 2026 08:20:45 +0000",
    "published_uk": "Fri 13 Nov 2026, 08:20 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "What Vanja Dragojevic has said about Rangers transfer decision amid lack of game time",
-   "link": "https://www.rangersreview.co.uk/news/26725669.dragojevic-said-rangers-move-amid-low-playing-time/",
-   "excerpt": "What Vanja Dragojevic has said about Rangers transfer decision amid lack of game time",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21712435/?type=app&htype=149",
-   "published": "Fri, 13 Nov 2026 07:06:35 +0000",
-   "published_uk": "Fri 13 Nov 2026, 07:06 GMT",
    "author": "Blair Meikle"
   }
  ]
