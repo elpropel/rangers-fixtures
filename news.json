@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "20 Nov 2026 19:48 GMT",
+ "fetched": "20 Nov 2026 21:41 GMT",
  "items": [
+  {
+   "title": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
+   "link": "https://www.rangersreview.co.uk/news/26750251.watch-moore-opens-koln-account-style-goal-bayern/",
+   "excerpt": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21746721/?type=app&htype=106",
+   "published": "Fri, 20 Nov 2026 20:12:55 +0000",
+   "published_uk": "Fri 20 Nov 2026, 20:12 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Rangers 'winner' question sparks passionate Derek McInnes tactics debate",
    "link": "https://www.rangersreview.co.uk/news/26748607.rangers-winner-question-sparks-passionate-mcinnes-tactics-debate/",
@@ -173,15 +182,6 @@
    "published": "Fri, 13 Nov 2026 13:18:22 +0000",
    "published_uk": "Fri 13 Nov 2026, 13:18 GMT",
    "author": "Mark Walker"
-  },
-  {
-   "title": "After what I saw from Rangers star, maybe the critics will lay off him",
-   "link": "https://www.rangersreview.co.uk/news/26725763.saw-rangers-star-maybe-critics-will-lay-off/",
-   "excerpt": "After what I saw from Rangers star, maybe the critics will lay off him",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21646953/?type=app&htype=113",
-   "published": "Fri, 13 Nov 2026 08:20:45 +0000",
-   "published_uk": "Fri 13 Nov 2026, 08:20 GMT",
-   "author": "Blair Meikle"
   }
  ]
 }
