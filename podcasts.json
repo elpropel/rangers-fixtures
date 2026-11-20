@@ -1,5 +1,5 @@
 {
- "fetched": "20 Nov 2026 19:48 GMT",
+ "fetched": "20 Nov 2026 21:41 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -34,10 +34,32 @@
    "feed": "https://feeds.megaphone.fm/COMG7915216094",
    "apple": "https://podcasts.apple.com/gb/podcast/club-at-22-the-rangers-podcast/id1543474889",
    "publisher": "Club at 22 - The Rangers Podcast",
-   "artwork": "https://megaphone.imgix.net/podcasts/57661300-47e3-11ee-8aed-fb2807ada5e6/image/8b7fa8f9d5907696273f63993607216c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/57661300-47e3-11ee-8aed-fb2807ada5e6/image/8b7fa8f9d5907696273f63993607216c.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
   }
  ],
  "episodes": [
+  {
+   "show": "Club at 22",
+   "title": "MCINNES Q&A | AWAY TO WELL  | Club Live",
+   "published": "2026-11-20T21:07:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 21:07 GMT",
+   "duration": "58 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4070712579.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/56b8b848-e526-11f1-a7ec-6f88acf7bae7/image/424e1e118e5a32e9875a5a4d0ccd6a4f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers  Friday night LIVE - The real football is back, Motherwell away",
+   "published": "2026-11-20T20:24:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 20:24 GMT",
+   "duration": "1h 07m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5866248810.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Heart and Hand",
    "title": "Heart and Hand Extra - Stay the Course",
@@ -178,7 +200,7 @@
    "duration": "1h 04m",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3107902233.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/d1401e60-e1f9-11f1-a838-5bb0d9ed3650/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/d1401e60-e1f9-11f1-a838-5bb0d9ed3650/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5368325965.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Midweek podcast LIVE",
-   "published": "2026-11-11T19:58:00+00:00",
-   "published_uk": "Wed 11 Nov 2026, 19:58 GMT",
-   "duration": "51 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1234658927.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Hateley reveals Naderi chat, Kim injury news & which on loan star is impressing at their new club?",
-   "published": "2026-11-11T10:55:00+00:00",
-   "published_uk": "Wed 11 Nov 2026, 10:55 GMT",
-   "duration": "46 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1802544187.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
