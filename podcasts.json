@@ -1,5 +1,5 @@
 {
- "fetched": "20 Nov 2026 09:41 GMT",
+ "fetched": "20 Nov 2026 11:48 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -13,7 +13,7 @@
    "feed": "https://feeds.megaphone.fm/COMG2031496775",
    "apple": "https://podcasts.apple.com/gb/podcast/rangers-review-podcast/id1576102198",
    "publisher": "The Rangers Review",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
   },
   {
    "name": "Four Lads Had A Dream",
@@ -40,13 +40,24 @@
  "episodes": [
   {
    "show": "Rangers Review Podcast",
+   "title": "Do Rangers Need More Winners? The Heated Experience Debate",
+   "published": "2026-11-20T11:38:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 11:38 GMT",
+   "duration": "56 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5713540877.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/dd269472-e4d6-11f1-a8dc-afec4c8e977d/image/e90ab235a9aca76120fda68f62ec8c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
    "title": "Rangers International Report Card | The One Change McInnes Might Make at Motherwell",
    "published": "2026-11-19T10:22:00+00:00",
    "published_uk": "Thu 19 Nov 2026, 10:22 GMT",
    "duration": "37 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7076975722.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -79,7 +90,7 @@
    "duration": "1h 00m",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3369413800.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -101,7 +112,7 @@
    "duration": "36 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9317425324.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/1b529ace-e271-11f1-9f82-87ac44d31b21/image/dc56006a9e43b88b115df11e9b63ac1b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1b529ace-e271-11f1-9f82-87ac44d31b21/image/dc56006a9e43b88b115df11e9b63ac1b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -134,7 +145,7 @@
    "duration": "40 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3884064292.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/0348e1c6-e1aa-11f1-a877-fb81050b2dcf/image/1957a87c931233f1609f428c4cbc5d28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/0348e1c6-e1aa-11f1-a877-fb81050b2dcf/image/1957a87c931233f1609f428c4cbc5d28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -200,7 +211,7 @@
    "duration": "55 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5268433505.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -211,7 +222,7 @@
    "duration": "36 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1832730736.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -244,7 +255,7 @@
    "duration": "46 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1802544187.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -266,7 +277,7 @@
    "duration": "35 min",
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970504072.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -300,17 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1955339620.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone.imgix.net/podcasts/49c0779c-dc67-11f1-a854-ebe8fea5e4ef/image/5722754969d6b068ba1a4dcbfdfc9df8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
-   "published": "2026-11-09T10:47:00+00:00",
-   "published_uk": "Mon 09 Nov 2026, 10:47 GMT",
-   "duration": "47 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7639191875.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone.imgix.net/podcasts/ffe2f118-dc2a-11f1-ae51-57cf9f724485/image/a43bdc41bfc4454120b6b2c537b32e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
