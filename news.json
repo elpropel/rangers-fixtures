@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "21 Nov 2026 13:42 GMT",
+ "fetched": "21 Nov 2026 15:46 GMT",
  "items": [
+  {
+   "title": "The 'interesting' Rangers selection dilemma that looks set to arise",
+   "link": "https://www.rangersreview.co.uk/news/26750719.interesting-rangers-selection-dilemma-set-arise/",
+   "excerpt": "The 'interesting' Rangers selection dilemma that looks set to arise",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21747395/?type=app&htype=159",
+   "published": "Sat, 21 Nov 2026 14:02:37 +0000",
+   "published_uk": "Sat 21 Nov 2026, 14:02 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "How ex-Rangers boss Michael Beale talked himself out of Zulte Waregem job",
    "link": "https://www.rangersreview.co.uk/news/26750542.michael-beale-talked-zulte-waregem-job/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21722203/?type=app&htype=0",
    "published": "Mon, 16 Nov 2026 11:07:10 +0000",
    "published_uk": "Mon 16 Nov 2026, 11:07 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Mikey Moore reveals early Rangers critics toughened him up for Spurs return",
-   "link": "https://www.rangersreview.co.uk/news/26730582.mikey-moore-reveals-early-rangers-critics-toughened/",
-   "excerpt": "Mikey Moore reckons the criticism he faced early on in his Rangers loan spell helped toughen him up mentally ahead of his return to Tottenham Hotspur.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20313454/?type=app&htype=0",
-   "published": "Sun, 15 Nov 2026 14:50:23 +0000",
-   "published_uk": "Sun 15 Nov 2026, 14:50 GMT",
    "author": "Stewart Wilson"
   }
  ]
