@@ -1,5 +1,5 @@
 {
- "fetched": "21 Nov 2026 11:43 GMT",
+ "fetched": "21 Nov 2026 13:42 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -14,6 +14,13 @@
    "apple": "https://podcasts.apple.com/gb/podcast/rangers-review-podcast/id1576102198",
    "publisher": "The Rangers Review",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
+  },
+  {
+   "name": "Four Lads Had A Dream",
+   "feed": "https://feeds.megaphone.fm/COMG2286814492",
+   "apple": "https://podcasts.apple.com/gb/podcast/four-lads-had-a-dream-rangers-podcast/id1709994185",
+   "publisher": "Fourladshadadream",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
   },
   {
    "name": "This Is Ibrox",
@@ -40,6 +47,17 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4070712579.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/56b8b848-e526-11f1-a7ec-6f88acf7bae7/image/424e1e118e5a32e9875a5a4d0ccd6a4f.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers  Friday night LIVE - The real football is back, Motherwell away",
+   "published": "2026-11-20T20:24:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 20:24 GMT",
+   "duration": "1h 07m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5866248810.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -87,6 +105,17 @@
    "link": null
   },
   {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers podcast Special - Meeting Rebecca Auchterlonie",
+   "published": "2026-11-20T12:02:00+00:00",
+   "published_uk": "Fri 20 Nov 2026, 12:02 GMT",
+   "duration": "41 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7495042699.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Rangers Review Podcast",
    "title": "Do Rangers Need More Winners? The Heated Experience Debate",
    "published": "2026-11-20T11:38:00+00:00",
@@ -106,6 +135,17 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7076975722.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers midweek podcast LIVE",
+   "published": "2026-11-18T19:58:00+00:00",
+   "published_uk": "Wed 18 Nov 2026, 19:58 GMT",
+   "duration": "53 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6810657933.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -131,6 +171,17 @@
    "link": null
   },
   {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-11-17T20:55:00+00:00",
+   "published_uk": "Tue 17 Nov 2026, 20:55 GMT",
+   "duration": "1h 23m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5946541767.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Rangers Review Podcast",
    "title": "The McInnes Rangers DNA — But Is This 4-4-2 Built to Win the League?",
    "published": "2026-11-17T10:24:00+00:00",
@@ -153,6 +204,17 @@
    "link": null
   },
   {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night podcast LIVE",
+   "published": "2026-11-16T19:54:00+00:00",
+   "published_uk": "Mon 16 Nov 2026, 19:54 GMT",
+   "duration": "48 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7460325126.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "Rangers Review Podcast",
    "title": "Which Rangers Fringe Players Should Get a Chance?",
    "published": "2026-11-16T10:39:00+00:00",
@@ -164,6 +226,17 @@
    "link": null
   },
   {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Sunday Show - Player and Goal of the Season..... So far!",
+   "published": "2026-11-15T21:22:00+00:00",
+   "published_uk": "Sun 15 Nov 2026, 21:22 GMT",
+   "duration": "52 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7984254707.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
    "show": "This Is Ibrox",
    "title": "Do We Trust This Rangers Team?",
    "published": "2026-11-15T20:03:00+00:00",
@@ -172,6 +245,28 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9556523002.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/92701e6c-e12f-11f1-a0fc-27db3e5a99b9/image/b976ac6afef6f9009d11c779edde9a98.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "Heart and Health - On Grief and Grieving, with Cammy Bell",
+   "published": "2026-11-14T10:00:00+00:00",
+   "published_uk": "Sat 14 Nov 2026, 10:00 GMT",
+   "duration": "1h 30m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1155878766.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Podcast - Friday Night Live, Der ball v Del Ball",
+   "published": "2026-11-13T21:57:00+00:00",
+   "published_uk": "Fri 13 Nov 2026, 21:57 GMT",
+   "duration": "38 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7118610592.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -208,102 +303,14 @@
    "link": null
   },
   {
-   "show": "Rangers Review Podcast",
-   "title": "Hateley reveals Naderi chat, Kim injury news & which on loan star is impressing at their new club?",
-   "published": "2026-11-11T10:55:00+00:00",
-   "published_uk": "Wed 11 Nov 2026, 10:55 GMT",
-   "duration": "46 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1802544187.mp3",
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Book Show - Formidable - The Willie Woodburn Story",
+   "published": "2026-11-12T00:00:00+00:00",
+   "published_uk": "Thu 12 Nov 2026, 00:00 GMT",
+   "duration": "1h 11m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5368325965.mp3",
    "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "SAILED BY SAINTS! | Club Deck Corner",
-   "published": "2026-11-10T21:02:00+00:00",
-   "published_uk": "Tue 10 Nov 2026, 21:02 GMT",
-   "duration": "57 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3308224240.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/00153464-dd4a-11f1-9fc0-175a3eba1537/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Boyd wants 'ruthless' striker at Ibrox & Key Rangers executive departs: What does it mean?",
-   "published": "2026-11-10T10:44:00+00:00",
-   "published_uk": "Tue 10 Nov 2026, 10:44 GMT",
-   "duration": "35 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9970504072.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand - Successful at Saints",
-   "published": "2026-11-09T19:00:00+00:00",
-   "published_uk": "Mon 09 Nov 2026, 19:00 GMT",
-   "duration": "55 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1955339620.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/49c0779c-dc67-11f1-a854-ebe8fea5e4ef/image/5722754969d6b068ba1a4dcbfdfc9df8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "12 UNBEATEN: Is Ivor Pandur Quietly Becoming Rangers Signing of the Season?",
-   "published": "2026-11-09T10:47:00+00:00",
-   "published_uk": "Mon 09 Nov 2026, 10:47 GMT",
-   "duration": "47 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7639191875.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/ffe2f118-dc2a-11f1-ae51-57cf9f724485/image/a43bdc41bfc4454120b6b2c537b32e29.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Rangers Run Continues, But For How Long?",
-   "published": "2026-11-09T07:00:00+00:00",
-   "published_uk": "Mon 09 Nov 2026, 07:00 GMT",
-   "duration": "39 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2307833959.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/b6c58ccc-dbba-11f1-a0aa-0bf4ce429a79/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "'Moving in the right direction' - St Mirren 0-2 Rangers reaction",
-   "published": "2026-11-08T01:12:00+00:00",
-   "published_uk": "Sun 08 Nov 2026, 01:12 GMT",
-   "duration": "15 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2437247135.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/76ff7020-db11-11f1-ae09-db085b39d7a7/image/0676e48dd0cc9a20260ba6bf6e2cd721.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "St Mirren vs Rangers | Match Reaction | Scottish Premiership",
-   "published": "2026-11-07T22:47:00+00:00",
-   "published_uk": "Sat 07 Nov 2026, 22:47 GMT",
-   "duration": "43 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3908391237.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/35824852-dafd-11f1-8784-a3c293b4a93a/image/d76e9ec5373bb3db3017a45e723d33e3.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Who starts against St Mirren? | Curtis addresses contract situation",
-   "published": "2026-11-06T10:54:00+00:00",
-   "published_uk": "Fri 06 Nov 2026, 10:54 GMT",
-   "duration": "1h 00m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4338438595.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/640589ba-d9d0-11f1-949b-53f8083f61f9/image/4a8f95498f4eae4fd8fa3a852c727996.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
