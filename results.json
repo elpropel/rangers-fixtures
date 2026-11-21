@@ -1,4 +1,54 @@
 {
+ "b4d4c86454d5cd7a@rangers-fixtures": {
+  "date": "2026-11-21",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Motherwell",
+   "score": "1",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "J. Girdwood-Reich",
+     "minute": "21'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Rangers",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "E. Fernandez",
+     "minute": "8'",
+     "type": ""
+    },
+    {
+     "player": "R. Naderi",
+     "minute": "88'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Fir Park",
+  "home_away": "Away",
+  "status": "FT",
+  "kickoff_uk": "20:00",
+  "summary": "Motherwell 1 , Rangers 2 at Full time",
+  "attendance": null,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/c63rgq1rrrnwt",
+  "fetched": "21 Nov 2026 22:09 GMT"
+ },
  "eac0fdae47950f57@rangers-fixtures": {
   "date": "2026-11-07",
   "competition": "Scottish Premiership - 1st Phase",
