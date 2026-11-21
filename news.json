@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "21 Nov 2026 09:41 GMT",
+ "fetched": "21 Nov 2026 11:42 GMT",
  "items": [
+  {
+   "title": "How ex-Rangers boss Michael Beale talked himself out of Zulte Waregem job",
+   "link": "https://www.rangersreview.co.uk/news/26750542.michael-beale-talked-zulte-waregem-job/",
+   "excerpt": "How ex-Rangers boss Michael Beale talked himself out of Zulte Waregem job",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21747064/?type=app&htype=4",
+   "published": "Sat, 21 Nov 2026 11:13:46 +0000",
+   "published_uk": "Sat 21 Nov 2026, 11:13 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "Ex-Rangers defender retires from football and already lands coaching gig",
    "link": "https://www.rangersreview.co.uk/news/26750285.ex-rangers-defender-retires-quickly-lands-coaching-gig/",
@@ -172,15 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/20313454/?type=app&htype=0",
    "published": "Sun, 15 Nov 2026 14:50:23 +0000",
    "published_uk": "Sun 15 Nov 2026, 14:50 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Ally McCoist refuses to rule out return to manager's dugout after Rangers stint",
-   "link": "https://www.rangersreview.co.uk/news/26730425.rangers-icon-ally-mccoist-refuses-rule-management-return/",
-   "excerpt": "Ally McCoist has refused to close the door on management despite enjoying his time in punditry.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21719816/?type=app&htype=0",
-   "published": "Sun, 15 Nov 2026 12:51:55 +0000",
-   "published_uk": "Sun 15 Nov 2026, 12:51 GMT",
    "author": "Stewart Wilson"
   }
  ]
