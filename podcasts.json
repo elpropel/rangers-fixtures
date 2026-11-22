@@ -1,5 +1,5 @@
 {
- "fetched": "21 Nov 2026 15:46 GMT",
+ "fetched": "22 Nov 2026 07:47 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Naderi to the rescue as Rangers leave it late to down Motherwell",
+   "published": "2026-11-21T23:21:00+00:00",
+   "published_uk": "Sat 21 Nov 2026, 23:21 GMT",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4004400011.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/ecd43a06-e601-11f1-9677-b7df21e317b8/image/c63b35300543fb0735f460f3a8ec7d24.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "Motherwell vs Rangers | Match Reaction | Scottish Premiership",
+   "published": "2026-11-21T22:55:00+00:00",
+   "published_uk": "Sat 21 Nov 2026, 22:55 GMT",
+   "duration": "29 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1871369004.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/acadb626-e5fe-11f1-b337-03d35e244fc6/image/d202981ac28d793efea1dc4554755eaf.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Club at 22",
    "title": "MCINNES Q&A | AWAY TO WELL  | Club Live",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5268433505.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "McInnes' key strength, Club 1872 get a rebrand & will James Penrice get Scotland nod?",
-   "published": "2026-11-12T11:18:00+00:00",
-   "published_uk": "Thu 12 Nov 2026, 11:18 GMT",
-   "duration": "36 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1832730736.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Book Show - Formidable - The Willie Woodburn Story",
-   "published": "2026-11-12T00:00:00+00:00",
-   "published_uk": "Thu 12 Nov 2026, 00:00 GMT",
-   "duration": "1h 11m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5368325965.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
