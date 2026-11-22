@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "21 Nov 2026 15:46 GMT",
+ "fetched": "22 Nov 2026 07:47 GMT",
  "items": [
+  {
+   "title": "Motherwell 1-2 Rangers: RECAP as Ryan Naderi earns Fir Park win",
+   "link": "https://www.rangersreview.co.uk/news/26750552.motherwell-1-2-rangers-live-updates-fir-park/",
+   "excerpt": "Join the Rangers Review LIVE from Fir Park as Derek McInnes' side face Motherwell in the Premiership.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21747070/?type=app&htype=0",
+   "published": "Sat, 21 Nov 2026 18:00:00 +0000",
+   "published_uk": "Sat 21 Nov 2026, 18:00 GMT",
+   "author": "Brodie Kerr"
+  },
   {
    "title": "The 'interesting' Rangers selection dilemma that looks set to arise",
    "link": "https://www.rangersreview.co.uk/news/26750719.interesting-rangers-selection-dilemma-set-arise/",
@@ -20,6 +29,15 @@
    "published": "Sat, 21 Nov 2026 11:13:46 +0000",
    "published_uk": "Sat 21 Nov 2026, 11:13 GMT",
    "author": "Mark Walker"
+  },
+  {
+   "title": "Danny Armstrong reacts to Rangers transfer links and talks Derek McInnes admiration",
+   "link": "https://www.rangersreview.co.uk/news/26750532.armstrong-rangers-transfer-links-mcinnes-admiration/",
+   "excerpt": "Danny Armstrong reacts to Rangers transfer links and talks Derek McInnes admiration",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21747056/?type=app&htype=0",
+   "published": "Sat, 21 Nov 2026 11:06:15 +0000",
+   "published_uk": "Sat 21 Nov 2026, 11:06 GMT",
+   "author": "Blair Meikle"
   },
   {
    "title": "Ex-Rangers defender retires from football and already lands coaching gig",
@@ -163,24 +181,6 @@
    "thumb": "https://www.rangersreview.co.uk/resources/images/21726117/?type=app&htype=0",
    "published": "Mon, 16 Nov 2026 18:30:33 +0000",
    "published_uk": "Mon 16 Nov 2026, 18:30 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Mauricio Pochettino targets ex-Rangers star for Manchester United switch",
-   "link": "https://www.rangersreview.co.uk/news/26734464.mauricio-pochettino-targets-ex-rangers-star-manchester-united/",
-   "excerpt": "Manchester United are reportedly considering Fulham defender Calvin Bassey for a January transfer, with Rangers, Brentford and Antonee Robinson also linked.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21725201/?type=app&htype=0",
-   "published": "Mon, 16 Nov 2026 16:22:03 +0000",
-   "published_uk": "Mon 16 Nov 2026, 16:22 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Driven Findlay Curtis makes Rangers and Scotland vow as he targets starting spot",
-   "link": "https://www.rangersreview.co.uk/news/26732269.driven-findlay-curtis-makes-rangers-scotland-vow/",
-   "excerpt": "Driven Findlay Curtis makes Rangers and Scotland vow as he targets starting spot",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21722203/?type=app&htype=0",
-   "published": "Mon, 16 Nov 2026 11:07:10 +0000",
-   "published_uk": "Mon 16 Nov 2026, 11:07 GMT",
    "author": "Stewart Wilson"
   }
  ]
