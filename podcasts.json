@@ -1,5 +1,5 @@
 {
- "fetched": "22 Nov 2026 07:47 GMT",
+ "fetched": "23 Nov 2026 07:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Sunday Show - All’s well that ends well",
+   "published": "2026-11-22T21:46:00+00:00",
+   "published_uk": "Sun 22 Nov 2026, 21:46 GMT",
+   "duration": "1h 10m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2543247684.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "This Is Ibrox",
+   "title": "RANGERS BREAK FIRPARK CURSE WITH LAST GASP WINNER! TII SUNDAY SHOW",
+   "published": "2026-11-22T21:00:00+00:00",
+   "published_uk": "Sun 22 Nov 2026, 21:00 GMT",
+   "duration": "1h 02m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8390783512.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/bff2f084-e6b7-11f1-8d3d-47da03a04433/image/e4f60b9b2f1f0449cd0fd82538d95b6e.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Rangers Review Podcast",
    "title": "Naderi to the rescue as Rangers leave it late to down Motherwell",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7118610592.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Heart and Hand",
-   "title": "Heart and Hand Extra - CEO Questions",
-   "published": "2026-11-13T19:00:00+00:00",
-   "published_uk": "Fri 13 Nov 2026, 19:00 GMT",
-   "duration": "1h 32m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7116515873.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/8bcc81c0-df83-11f1-9563-f381396f8131/image/9d00b5fd4e7349150f17d6641e95165e.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Assessing Rangers' season so far: 10 burning questions assessed",
-   "published": "2026-11-13T12:39:00+00:00",
-   "published_uk": "Fri 13 Nov 2026, 12:39 GMT",
-   "duration": "55 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5268433505.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
