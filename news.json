@@ -1,8 +1,17 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "22 Nov 2026 07:47 GMT",
+ "fetched": "23 Nov 2026 07:45 GMT",
  "items": [
+  {
+   "title": "Andy Halliday hopes Rangers fringe man gets more minutes this season",
+   "link": "https://www.rangersreview.co.uk/news/26752087.andy-halliday-hopes-rangers-fringe-man-gets-minutes-season/",
+   "excerpt": "Andy Halliday says Rangers youngster Findlay Curtis deserves a starting run after limited chances, with Minsu Kim, Djeidi Gassama and Badredine Bouanani ahead.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21749618/?type=app&htype=0",
+   "published": "Sun, 22 Nov 2026 18:00:12 +0000",
+   "published_uk": "Sun 22 Nov 2026, 18:00 GMT",
+   "author": "Stewart Wilson"
+  },
   {
    "title": "Motherwell 1-2 Rangers: RECAP as Ryan Naderi earns Fir Park win",
    "link": "https://www.rangersreview.co.uk/news/26750552.motherwell-1-2-rangers-live-updates-fir-park/",
@@ -22,10 +31,10 @@
    "author": "Blair Meikle"
   },
   {
-   "title": "How ex-Rangers boss Michael Beale talked himself out of Zulte Waregem job",
+   "title": "Michael Beale's Zulte Waregem resignation explained by club official",
    "link": "https://www.rangersreview.co.uk/news/26750542.michael-beale-talked-zulte-waregem-job/",
    "excerpt": "How ex-Rangers boss Michael Beale talked himself out of Zulte Waregem job",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21747064/?type=app&htype=4",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21747064/?type=app&htype=0",
    "published": "Sat, 21 Nov 2026 11:13:46 +0000",
    "published_uk": "Sat 21 Nov 2026, 11:13 GMT",
    "author": "Mark Walker"
@@ -173,15 +182,6 @@
    "published": "Tue, 17 Nov 2026 06:00:00 +0000",
    "published_uk": "Tue 17 Nov 2026, 06:00 GMT",
    "author": "Joshua Barrie"
-  },
-  {
-   "title": "Why Graeme Souness plumped for Frank Lampard in Rangers manager hunt",
-   "link": "https://www.rangersreview.co.uk/news/26735051.graeme-souness-plumped-frank-lampard-rangers-boss-hunt/",
-   "excerpt": "Graeme Souness has revealed the reasons why he plumped for Frank Lampard as Rangers manager back before the club hired Philippe Clement.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21726117/?type=app&htype=0",
-   "published": "Mon, 16 Nov 2026 18:30:33 +0000",
-   "published_uk": "Mon 16 Nov 2026, 18:30 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
