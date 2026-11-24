@@ -1,8 +1,8 @@
 {
  "league": "Scottish Premiership",
  "source_url": "https://www.bbc.co.uk/sport/football/scottish-premiership/table",
- "bbc_updated": "23rd November 2026 at 10:26",
- "fetched": "24 Nov 2026 07:46 GMT",
+ "bbc_updated": "24th November 2026 at 21:54",
+ "fetched": "24 Nov 2026 22:09 GMT",
  "rows": [
   {
    "pos": 1,
@@ -27,19 +27,19 @@
   {
    "pos": 2,
    "team": "Rangers",
-   "p": 13,
-   "w": 9,
+   "p": 14,
+   "w": 10,
    "d": 3,
    "l": 1,
-   "gf": 23,
-   "ga": 10,
-   "gd": 13,
-   "pts": 30,
+   "gf": 26,
+   "ga": 12,
+   "gd": 14,
+   "pts": 33,
    "form": [
-    "W",
     "D",
     "W",
     "D",
+    "W",
     "W",
     "W"
    ]
@@ -127,19 +127,19 @@
   {
    "pos": 7,
    "team": "Dundee",
-   "p": 13,
+   "p": 14,
    "w": 5,
    "d": 2,
-   "l": 6,
-   "gf": 18,
-   "ga": 23,
-   "gd": -5,
+   "l": 7,
+   "gf": 19,
+   "ga": 25,
+   "gd": -6,
    "pts": 17,
    "form": [
-    "W",
     "D",
     "L",
     "W",
+    "L",
     "L",
     "L"
    ]
@@ -147,25 +147,45 @@
   {
    "pos": 8,
    "team": "Aberdeen",
-   "p": 13,
+   "p": 14,
    "w": 4,
    "d": 2,
-   "l": 7,
-   "gf": 16,
-   "ga": 20,
-   "gd": -4,
+   "l": 8,
+   "gf": 18,
+   "ga": 23,
+   "gd": -5,
    "pts": 14,
    "form": [
-    "L",
     "W",
     "L",
     "L",
+    "L",
+    "W",
+    "L"
+   ]
+  },
+  {
+   "pos": 9,
+   "team": "Hibernian",
+   "p": 14,
+   "w": 4,
+   "d": 2,
+   "l": 8,
+   "gf": 17,
+   "ga": 22,
+   "gd": -5,
+   "pts": 14,
+   "form": [
+    "L",
+    "L",
+    "D",
+    "W",
     "L",
     "W"
    ]
   },
   {
-   "pos": 9,
+   "pos": 10,
    "team": "St. Mirren",
    "p": 14,
    "w": 4,
@@ -185,7 +205,7 @@
    ]
   },
   {
-   "pos": 10,
+   "pos": 11,
    "team": "Motherwell",
    "p": 14,
    "w": 3,
@@ -201,26 +221,6 @@
     "D",
     "W",
     "D",
-    "L"
-   ]
-  },
-  {
-   "pos": 11,
-   "team": "Hibernian",
-   "p": 13,
-   "w": 3,
-   "d": 2,
-   "l": 8,
-   "gf": 15,
-   "ga": 21,
-   "gd": -6,
-   "pts": 11,
-   "form": [
-    "L",
-    "L",
-    "L",
-    "D",
-    "W",
     "L"
    ]
   },
