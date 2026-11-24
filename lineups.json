@@ -314,8 +314,75 @@
  },
  "e9db7653348c5aa1@rangers-fixtures": {
   "fixture": "Tue 24 Nov 2026 20:00 Rangers v Aberdeen",
-  "status": "pending",
+  "status": "confirmed",
+  "formation": "4-2-3-1",
+  "absences": [],
+  "source_name": "BBC Sport",
   "source_url": "https://www.bbc.co.uk/sport/football/live/cx053m6nmevdt",
-  "updated": "24 Nov 2026 18:52 GMT"
+  "updated": "24 Nov 2026 19:09 GMT",
+  "starting_xi": [
+   {
+    "name": "Pandur"
+   },
+   {
+    "name": "Godfrey"
+   },
+   {
+    "name": "Fernandez"
+   },
+   {
+    "name": "Makhanya"
+   },
+   {
+    "name": "Penrice"
+   },
+   {
+    "name": "Raskin"
+   },
+   {
+    "name": "Neil"
+   },
+   {
+    "name": "Bouanani"
+   },
+   {
+    "name": "Naderi"
+   },
+   {
+    "name": "Gassama"
+   },
+   {
+    "name": "Kelsy"
+   }
+  ],
+  "subs": [
+   {
+    "name": "T. Chukwuani"
+   },
+   {
+    "name": "F. Curtis"
+   },
+   {
+    "name": "V. Dragojević"
+   },
+   {
+    "name": "D. Sterling"
+   },
+   {
+    "name": "L. Kelly"
+   },
+   {
+    "name": "Kim Min-Su"
+   },
+   {
+    "name": "B. Miovski"
+   },
+   {
+    "name": "K. Nedeljković"
+   },
+   {
+    "name": "T. Rommens"
+   }
+  ]
  }
 }
