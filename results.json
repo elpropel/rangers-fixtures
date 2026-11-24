@@ -1,4 +1,64 @@
 {
+ "e9db7653348c5aa1@rangers-fixtures": {
+  "date": "2026-11-24",
+  "competition": "Scottish Premiership - 1st Phase",
+  "friendly": false,
+  "home": {
+   "team": "Rangers",
+   "score": "3",
+   "ht": "0",
+   "goals": [
+    {
+     "player": "R. Naderi",
+     "minute": "46'",
+     "type": ""
+    },
+    {
+     "player": "D. Gassama",
+     "minute": "47'",
+     "type": ""
+    },
+    {
+     "player": "N. Raskin",
+     "minute": "56'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "away": {
+   "team": "Aberdeen",
+   "score": "2",
+   "ht": "1",
+   "goals": [
+    {
+     "player": "B. Lyons",
+     "minute": "30'",
+     "type": ""
+    },
+    {
+     "player": "F. Marshall",
+     "minute": "57'",
+     "type": ""
+    }
+   ],
+   "reds": [],
+   "et": null,
+   "pens": null,
+   "agg": null
+  },
+  "venue": "Ibrox Stadium",
+  "home_away": "Home",
+  "status": "FT",
+  "kickoff_uk": "20:00",
+  "summary": "Rangers 3 , Aberdeen 2 at Full time",
+  "attendance": 50738,
+  "source_url": "https://www.bbc.co.uk/sport/football/live/cx053m6nmevdt",
+  "fetched": "24 Nov 2026 22:09 GMT"
+ },
  "b4d4c86454d5cd7a@rangers-fixtures": {
   "date": "2026-11-21",
   "competition": "Scottish Premiership - 1st Phase",
