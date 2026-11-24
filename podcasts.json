@@ -1,5 +1,5 @@
 {
- "fetched": "23 Nov 2026 07:46 GMT",
+ "fetched": "24 Nov 2026 07:46 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,50 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Monday night LIVE - Well win, Dons next and McInnes",
+   "published": "2026-11-23T21:25:00+00:00",
+   "published_uk": "Mon 23 Nov 2026, 21:25 GMT",
+   "duration": "1h 03m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6871710242.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "Club Deck Corner (Solo show) | 13 Unbeaten, \"Zero Scots\" & Aberdeen Preview",
+   "published": "2026-11-23T20:42:00+00:00",
+   "published_uk": "Mon 23 Nov 2026, 20:42 GMT",
+   "duration": "23 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1266865649.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/682d4b8e-e77e-11f1-a4f4-1fb7542fc347/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Flagship - Motherwell Done",
+   "published": "2026-11-23T18:00:00+00:00",
+   "published_uk": "Mon 23 Nov 2026, 18:00 GMT",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3022309463.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/32c187dc-e75e-11f1-a79c-03c8acf900b1/image/9d70b4cf8c44ec53e4b85e89f7ca9c60.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Title-Winning Form — But Are Rangers Wasting Too Many Chances? The Big Motherwell Talking Points",
+   "published": "2026-11-23T10:29:00+00:00",
+   "published_uk": "Mon 23 Nov 2026, 10:29 GMT",
+   "duration": "45 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1398156259.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/b76fbff2-e728-11f1-97ae-5b3a9fa632e8/image/e66de2d35dfa3417c76ae55a44e69aa3.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Sunday Show - All’s well that ends well",
@@ -267,50 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3884064292.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/0348e1c6-e1aa-11f1-a877-fb81050b2dcf/image/1957a87c931233f1609f428c4cbc5d28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Sunday Show - Player and Goal of the Season..... So far!",
-   "published": "2026-11-15T21:22:00+00:00",
-   "published_uk": "Sun 15 Nov 2026, 21:22 GMT",
-   "duration": "52 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7984254707.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Do We Trust This Rangers Team?",
-   "published": "2026-11-15T20:03:00+00:00",
-   "published_uk": "Sun 15 Nov 2026, 20:03 GMT",
-   "duration": "27 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9556523002.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/92701e6c-e12f-11f1-a0fc-27db3e5a99b9/image/b976ac6afef6f9009d11c779edde9a98.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "Heart and Health - On Grief and Grieving, with Cammy Bell",
-   "published": "2026-11-14T10:00:00+00:00",
-   "published_uk": "Sat 14 Nov 2026, 10:00 GMT",
-   "duration": "1h 30m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1155878766.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Podcast - Friday Night Live, Der ball v Del Ball",
-   "published": "2026-11-13T21:57:00+00:00",
-   "published_uk": "Fri 13 Nov 2026, 21:57 GMT",
-   "duration": "38 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7118610592.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
