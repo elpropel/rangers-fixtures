@@ -1,5 +1,5 @@
 {
- "fetched": "24 Nov 2026 07:46 GMT",
+ "fetched": "25 Nov 2026 07:42 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,61 @@
   }
  ],
  "episodes": [
+  {
+   "show": "This Is Ibrox",
+   "title": "Rangers vs Aberdeen | Match Reaction | Scottish Premiership",
+   "published": "2026-11-24T23:37:00+00:00",
+   "published_uk": "Tue 24 Nov 2026, 23:37 GMT",
+   "duration": "31 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG2232756624.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/f851ff84-e85f-11f1-8d03-efc0a9905d58/image/d048ab46682a67a2d27dc4921866e0ef.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Post match reaction - Rangers vs Aberdeen",
+   "published": "2026-11-24T23:00:00+00:00",
+   "published_uk": "Tue 24 Nov 2026, 23:00 GMT",
+   "duration": "40 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4596463174.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Rangers 3-2 Aberdeen: McInnes’ Subs Turn a Nightmare Into Three Huge Points!",
+   "published": "2026-11-24T22:55:00+00:00",
+   "published_uk": "Tue 24 Nov 2026, 22:55 GMT",
+   "duration": "39 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1916452525.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/28ee074c-e85a-11f1-a7de-2f8649cf4b10/image/292aa37f78bc9dcd167f1c5c51d72bba.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads This Week in History - LIVE",
+   "published": "2026-11-24T13:20:00+00:00",
+   "published_uk": "Tue 24 Nov 2026, 13:20 GMT",
+   "duration": "1h 36m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6312494257.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Who starts against Aberdeen? McInnes hints at changes",
+   "published": "2026-11-24T10:36:00+00:00",
+   "published_uk": "Tue 24 Nov 2026, 10:36 GMT",
+   "duration": "36 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6689737622.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/fb7192be-e7f2-11f1-b86e-a7029c8a9be6/image/591847654684fee3ea00488578ae3fd7.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers Monday night LIVE - Well win, Dons next and McInnes",
@@ -256,61 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3369413800.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads This Week in History - LIVE",
-   "published": "2026-11-17T20:55:00+00:00",
-   "published_uk": "Tue 17 Nov 2026, 20:55 GMT",
-   "duration": "1h 23m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5946541767.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "The McInnes Rangers DNA — But Is This 4-4-2 Built to Win the League?",
-   "published": "2026-11-17T10:24:00+00:00",
-   "published_uk": "Tue 17 Nov 2026, 10:24 GMT",
-   "duration": "36 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9317425324.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1b529ace-e271-11f1-9f82-87ac44d31b21/image/dc56006a9e43b88b115df11e9b63ac1b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Club at 22",
-   "title": "Members Special: Your Questions Answered | Club at 22",
-   "published": "2026-11-16T20:10:00+00:00",
-   "published_uk": "Mon 16 Nov 2026, 20:10 GMT",
-   "duration": "1h 04m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3107902233.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/d1401e60-e1f9-11f1-a838-5bb0d9ed3650/image/3a758e64f53fa82d645e11adcdf08fee.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers Monday night podcast LIVE",
-   "published": "2026-11-16T19:54:00+00:00",
-   "published_uk": "Mon 16 Nov 2026, 19:54 GMT",
-   "duration": "48 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7460325126.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Which Rangers Fringe Players Should Get a Chance?",
-   "published": "2026-11-16T10:39:00+00:00",
-   "published_uk": "Mon 16 Nov 2026, 10:39 GMT",
-   "duration": "40 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3884064292.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/0348e1c6-e1aa-11f1-a877-fb81050b2dcf/image/1957a87c931233f1609f428c4cbc5d28.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
