@@ -1,8 +1,44 @@
 {
  "source": "The Rangers Review",
  "feed_url": "https://www.rangersreview.co.uk/news/rss/",
- "fetched": "25 Nov 2026 07:42 GMT",
+ "fetched": "26 Nov 2026 07:50 GMT",
  "items": [
+  {
+   "title": "Rangers 'rocket' sparks Ibrox turnaround as McInnes message hits home",
+   "link": "https://www.rangersreview.co.uk/news/26761199.rangers-rocket-sparks-ibrox-turnaround-mcinnes-message-hits-home/",
+   "excerpt": "Rangers were given a blunt half-time message before producing the devastating burst that turned a potentially damaging night against Aberdeen into another crucial victory.",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21762385/?type=app&htype=0",
+   "published": "Wed, 25 Nov 2026 11:15:02 +0000",
+   "published_uk": "Wed 25 Nov 2026, 11:15 GMT",
+   "author": "The Rangers Reviiew"
+  },
+  {
+   "title": "McInnes on how half-time changes helped Rangers turn Aberdeen game in their favour",
+   "link": "https://www.rangersreview.co.uk/news/26760238.mcinnes-rangers-half-time-changes-turned-aberdeen-game-round/",
+   "excerpt": "McInnes on how half-time changes helped Rangers turn Aberdeen game in their favour",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21760944/?type=app&htype=150",
+   "published": "Wed, 25 Nov 2026 08:35:25 +0000",
+   "published_uk": "Wed 25 Nov 2026, 08:35 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "Derek McInnes singles out 'brilliant' Rangers star for his part in Aberdeen win",
+   "link": "https://www.rangersreview.co.uk/news/26760127.mcinnes-singles-brilliant-rangers-star-aberdeen-win/",
+   "excerpt": "Derek McInnes singles out 'brilliant' Rangers star for his part in Aberdeen win",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21760835/?type=app&htype=68",
+   "published": "Wed, 25 Nov 2026 07:45:11 +0000",
+   "published_uk": "Wed 25 Nov 2026, 07:45 GMT",
+   "author": "Blair Meikle"
+  },
+  {
+   "title": "Kris Boyd on where Rangers can still improve despite 14-game unbeaten run",
+   "link": "https://www.rangersreview.co.uk/news/26760096.pundit-rangers-can-still-improve-despite-unbeaten-run/",
+   "excerpt": "Kris Boyd on where Rangers can still improve despite 14-game unbeaten run",
+   "thumb": "https://www.rangersreview.co.uk/resources/images/21760821/?type=app&htype=96",
+   "published": "Wed, 25 Nov 2026 07:19:00 +0000",
+   "published_uk": "Wed 25 Nov 2026, 07:19 GMT",
+   "author": "Blair Meikle"
+  },
   {
    "title": "FT Rangers 3-2 Aberdeen: Gers a point off the top with win",
    "link": "https://www.rangersreview.co.uk/news/26756787.ft-rangers-3-2-aberdeen-gers-point-off-top-win/",
@@ -146,42 +182,6 @@
    "published": "Fri, 20 Nov 2026 22:03:57 +0000",
    "published_uk": "Fri 20 Nov 2026, 22:03 GMT",
    "author": "Blair Meikle"
-  },
-  {
-   "title": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
-   "link": "https://www.rangersreview.co.uk/news/26750251.watch-moore-opens-koln-account-style-goal-bayern/",
-   "excerpt": "Watch as Mikey Moore opens Koln account in style with goal against Bayern Munich",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21746721/?type=app&htype=106",
-   "published": "Fri, 20 Nov 2026 20:12:55 +0000",
-   "published_uk": "Fri 20 Nov 2026, 20:12 GMT",
-   "author": "Blair Meikle"
-  },
-  {
-   "title": "Moment Chermiti knew Rangers injury was serious as striker provides rehab update",
-   "link": "https://www.rangersreview.co.uk/news/26750071.moment-chermiti-knew-injury-serious-provides-update/",
-   "excerpt": "Moment Chermiti knew Rangers injury was serious as striker provides rehab update",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21746452/?type=app&htype=48",
-   "published": "Fri, 20 Nov 2026 17:31:54 +0000",
-   "published_uk": "Fri 20 Nov 2026, 17:31 GMT",
-   "author": "Stewart Wilson"
-  },
-  {
-   "title": "Rangers 'winner' question sparks passionate Derek McInnes tactics debate",
-   "link": "https://www.rangersreview.co.uk/news/26748607.rangers-winner-question-sparks-passionate-mcinnes-tactics-debate/",
-   "excerpt": "A lively Rangers squad debate broke out as Jonny McFarlane argued Derek McInnes still needs more proven winners to strengthen his title challenge.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/21744190/?type=app&htype=0",
-   "published": "Fri, 20 Nov 2026 13:43:30 +0000",
-   "published_uk": "Fri 20 Nov 2026, 13:43 GMT",
-   "author": "The Rangers Review"
-  },
-  {
-   "title": "Oscar Cortes a wanted man as Rangers returnee 'eyed' by ambitious title chasers",
-   "link": "https://www.rangersreview.co.uk/news/26747204.oscar-cortes-wanted-man-rangers-returnee-eyed-title-chasers/",
-   "excerpt": "Rangers returnee Oscar Cortes is a surprise target for Bulgarian side CSKA Sofia.",
-   "thumb": "https://www.rangersreview.co.uk/resources/images/20792979/?type=app&htype=193",
-   "published": "Fri, 20 Nov 2026 09:35:06 +0000",
-   "published_uk": "Fri 20 Nov 2026, 09:35 GMT",
-   "author": "Stewart Wilson"
   }
  ]
 }
