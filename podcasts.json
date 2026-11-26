@@ -1,5 +1,5 @@
 {
- "fetched": "25 Nov 2026 07:42 GMT",
+ "fetched": "26 Nov 2026 07:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,39 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers midweek podcast LIVE - Gers cast aside Dons in Title chasing form",
+   "published": "2026-11-25T20:05:00+00:00",
+   "published_uk": "Wed 25 Nov 2026, 20:05 GMT",
+   "duration": "1h 00m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1600699722.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Heart and Hand",
+   "title": "Heart and Hand Extra - Twists and Tweaks",
+   "published": "2026-11-25T19:00:00+00:00",
+   "published_uk": "Wed 25 Nov 2026, 19:00 GMT",
+   "duration": "1h 03m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5180328410.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/a0847d0e-e8eb-11f1-b34a-dfde0a71499d/image/f188366f0910c2cbf411a8f9c039ec19.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "McInnes bemoans naivety as Rangers cut the gap - the big Aberdeen talking points",
+   "published": "2026-11-25T10:29:00+00:00",
+   "published_uk": "Wed 25 Nov 2026, 10:29 GMT",
+   "duration": "42 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8336491163.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/161b6ffe-e8bb-11f1-a8b3-73ce4bcfdf1a/image/24e7da10ac366743ac0a7be97f4ed3d8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "This Is Ibrox",
    "title": "Rangers vs Aberdeen | Match Reaction | Scottish Premiership",
@@ -278,39 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7076975722.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers midweek podcast LIVE",
-   "published": "2026-11-18T19:58:00+00:00",
-   "published_uk": "Wed 18 Nov 2026, 19:58 GMT",
-   "duration": "53 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6810657933.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Danny Armstrong Linked! Is Rangers Reunion on the Cards?",
-   "published": "2026-11-18T16:08:00+00:00",
-   "published_uk": "Wed 18 Nov 2026, 16:08 GMT",
-   "duration": "37 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8864664335.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers Face January Dilemma: Who Could Leave? | Ibrox Legend Passes Away",
-   "published": "2026-11-18T10:54:00+00:00",
-   "published_uk": "Wed 18 Nov 2026, 10:54 GMT",
-   "duration": "1h 00m",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3369413800.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/81644588-e33e-11f1-9ccc-9b7289d2d29d/image/dda193b64f1489aa8377b0110bdd97e1.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
