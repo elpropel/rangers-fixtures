@@ -1,5 +1,5 @@
 {
- "fetched": "26 Nov 2026 07:50 GMT",
+ "fetched": "27 Nov 2026 07:44 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -38,6 +38,28 @@
   }
  ],
  "episodes": [
+  {
+   "show": "Four Lads Had A Dream",
+   "title": "Ep9 The Rangers Years - Meeting Mark Walters",
+   "published": "2026-11-26T19:00:00+00:00",
+   "published_uk": "Thu 26 Nov 2026, 19:00 GMT",
+   "duration": "49 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8493809979.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Penrice on Minsu importance | Who impressed in Rangers Euro youth clash?",
+   "published": "2026-11-26T11:13:00+00:00",
+   "published_uk": "Thu 26 Nov 2026, 11:13 GMT",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6619041983.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
   {
    "show": "Four Lads Had A Dream",
    "title": "4Lads Rangers midweek podcast LIVE - Gers cast aside Dons in Title chasing form",
@@ -289,28 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7495042699.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Do Rangers Need More Winners? The Heated Experience Debate",
-   "published": "2026-11-20T11:38:00+00:00",
-   "published_uk": "Fri 20 Nov 2026, 11:38 GMT",
-   "duration": "56 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG5713540877.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/dd269472-e4d6-11f1-a8dc-afec4c8e977d/image/e90ab235a9aca76120fda68f62ec8c8b.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Rangers International Report Card | The One Change McInnes Might Make at Motherwell",
-   "published": "2026-11-19T10:22:00+00:00",
-   "published_uk": "Thu 19 Nov 2026, 10:22 GMT",
-   "duration": "37 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7076975722.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/14a8ed34-e403-11f1-b217-87eec9d1f9dc/image/9eb6c28d6bf8cb36898bbf9b2d0348d6.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
