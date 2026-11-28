@@ -1,5 +1,5 @@
 {
- "fetched": "27 Nov 2026 07:44 GMT",
+ "fetched": "28 Nov 2026 07:50 GMT",
  "shows": [
   {
    "name": "Heart and Hand",
@@ -40,6 +40,50 @@
  "episodes": [
   {
    "show": "Four Lads Had A Dream",
+   "title": "4Lads Rangers Friday night podcast - Falkirk next for Dels Gers Machine",
+   "published": "2026-11-27T21:48:00+00:00",
+   "published_uk": "Fri 27 Nov 2026, 21:48 GMT",
+   "duration": "57 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG3343854400.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Club at 22",
+   "title": "Keep the Momentum Rolling! | Club Live",
+   "published": "2026-11-27T21:03:00+00:00",
+   "published_uk": "Fri 27 Nov 2026, 21:03 GMT",
+   "duration": "1h 00m",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6168770776.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/0c1236ea-eaa6-11f1-bb0b-3b60fea9a0e6/image/77c6466fbd5e4dfce81c44af21505c82.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "Penrice on Minsu importance | Who impressed in Rangers Euro youth clash?",
+   "published": "2026-11-27T11:07:00+00:00",
+   "published_uk": "Fri 27 Nov 2026, 11:07 GMT",
+   "duration": "54 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6619041983.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/602773fc-e98a-11f1-8a6f-2f673ba71684/image/0d053ce8c74f6c887e8b3d9e099cfea9.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Rangers Review Podcast",
+   "title": "“This is a MOMENTOUS game!” - Is this the Rangers team to beat Falkirk?",
+   "published": "2026-11-27T11:06:00+00:00",
+   "published_uk": "Fri 27 Nov 2026, 11:06 GMT",
+   "duration": "56 min",
+   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG9842701890.mp3",
+   "type": "audio/mpeg",
+   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/a233ee6a-ea52-11f1-acd0-17b55ffb6159/image/58e47bf677b094a230715f5f8b58804c.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+   "link": null
+  },
+  {
+   "show": "Four Lads Had A Dream",
    "title": "Ep9 The Rangers Years - Meeting Mark Walters",
    "published": "2026-11-26T19:00:00+00:00",
    "published_uk": "Thu 26 Nov 2026, 19:00 GMT",
@@ -47,17 +91,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG8493809979.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Rangers Review Podcast",
-   "title": "Penrice on Minsu importance | Who impressed in Rangers Euro youth clash?",
-   "published": "2026-11-26T11:13:00+00:00",
-   "published_uk": "Thu 26 Nov 2026, 11:13 GMT",
-   "duration": "54 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG6619041983.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/509f50e4-0902-11f1-8ec4-7385d53bddcc/image/0ad3a1ad60a0330e84a21b42e16522da.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   },
   {
@@ -278,39 +311,6 @@
    "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG1423768712.mp3",
    "type": "audio/mpeg",
    "artwork": "https://megaphone-images.spotifycdn.com/podcasts/d348e2e2-e419-11f1-99d8-1347f8e59215/image/4d80f8ee3a3f33fc05ff4287c500f2c8.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "PART 2: Can Rangers Go On A Winning Run?",
-   "published": "2026-11-20T12:39:00+00:00",
-   "published_uk": "Fri 20 Nov 2026, 12:39 GMT",
-   "duration": "19 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG4454858150.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/6427a834-ca4c-11ed-ad5b-dff52ac938bb/image/PP.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "This Is Ibrox",
-   "title": "Can Rangers Go On A Winning Run?",
-   "published": "2026-11-20T12:39:00+00:00",
-   "published_uk": "Fri 20 Nov 2026, 12:39 GMT",
-   "duration": "10 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7521832234.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/5e17e8b2-e4df-11f1-9f46-370ceea9f5fc/image/f2a8cfd504de5e5fb59a09b05dd8839a.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-   "link": null
-  },
-  {
-   "show": "Four Lads Had A Dream",
-   "title": "4Lads Rangers podcast Special - Meeting Rebecca Auchterlonie",
-   "published": "2026-11-20T12:02:00+00:00",
-   "published_uk": "Fri 20 Nov 2026, 12:02 GMT",
-   "duration": "41 min",
-   "audio": "https://pscrb.fm/rss/p/traffic.megaphone.fm/COMG7495042699.mp3",
-   "type": "audio/mpeg",
-   "artwork": "https://megaphone-images.spotifycdn.com/podcasts/1a311270-ab89-11f1-8fc4-1b2a53e4e8db/image/9fe5c02b7b396adc15a8ab2b4b3b9038.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
    "link": null
   }
  ]
